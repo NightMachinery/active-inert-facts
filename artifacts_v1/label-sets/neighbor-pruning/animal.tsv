@@ -1,0 +1,116 @@
+relation_id	relation	label	matched_string	hypernym_steps	kind
+bear_constellation	Celestial object → constellation	bobcat	Lynx	1	label_is_hyponym
+bear_country_of_origin	Work → country of origin	bloodhound	bloodhound	0	equal
+bear_country_of_origin	Work → country of origin	merino	Merino	0	equal
+bear_creator	Work or character → creator	buzzard	Vulture	2	label_is_hyponym
+bear_creator	Work or character → creator	condor	Vulture	2	label_is_hyponym
+bear_creator	Work or character → creator	mallard	Duck	1	label_is_hyponym
+bear_developer	Software → developer	jackal	Jackal	0	equal
+bear_director_of_photography	Film → cinematographer	barnacle	Animal	4	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	bot	Animal	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	britt	Animal	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	bulldog	Animal	4	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	centipede	Animal	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	chick	Animal	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	conch	Animal	4	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	critter	Animal	1	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	dobson	Animal	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	doggie	Animal	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	earthworm	Nightcrawler	0	same_sense
+bear_director_of_photography	Film → cinematographer	ephemeral	Animal	4	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	filly	Animal	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	gelding	Animal	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	heifer	Animal	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	herbivore	Animal	1	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	husky	Animal	4	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	instar	Animal	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	maggot	Animal	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	mastiff	Animal	4	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	nightcrawler	Nightcrawler	0	equal
+bear_director_of_photography	Film → cinematographer	pet	Animal	1	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	piggy	Animal	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	pollinator	Animal	4	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	pooch	Animal	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	puppy	Animal	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	purebred	Animal	1	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	queen	Animal	4	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	silkworm	Animal	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	snail	Animal	4	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	starfish	Animal	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	stocker	Animal	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	stray	Animal	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	tabby	Animal	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	tadpole	Animal	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	termite	Animal	4	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	zooplankton	Animal	1	label_is_hyponym
+bear_endemic_to	Species → endemic range	condor	California condor	1	label_is_hypernym
+bear_iucn_conservation_status	Species → IUCN status	ant	Formica rufa	1	label_is_hypernym
+bear_iucn_conservation_status	Species → IUCN status	caribou	Rangifer tarandus	0	same_sense
+bear_iucn_conservation_status	Species → IUCN status	condor	California condor	1	label_is_hypernym
+bear_iucn_conservation_status	Species → IUCN status	cougar	cougar	0	equal
+bear_iucn_conservation_status	Species → IUCN status	crocodile	Crocodylus porosus	1	label_is_hypernym
+bear_iucn_conservation_status	Species → IUCN status	egret	Little Egret	1	label_is_hypernym
+bear_iucn_conservation_status	Species → IUCN status	emmet	Formica rufa	1	label_is_hypernym
+bear_iucn_conservation_status	Species → IUCN status	grizzly	Brown Bear	1	label_is_hyponym
+bear_iucn_conservation_status	Species → IUCN status	impala	impala	0	equal
+bear_iucn_conservation_status	Species → IUCN status	koala	koala	0	equal
+bear_iucn_conservation_status	Species → IUCN status	penguin	Emperor Penguin	1	label_is_hypernym
+bear_iucn_conservation_status	Species → IUCN status	platypus	platypus	0	equal
+bear_iucn_conservation_status	Species → IUCN status	python	Python sebae	1	label_is_hypernym
+bear_iucn_conservation_status	Species → IUCN status	reeve	Ruff	1	label_is_hyponym
+bear_iucn_conservation_status	Species → IUCN status	reindeer	Rangifer tarandus	0	same_sense
+bear_iucn_conservation_status	Species → IUCN status	ridley	Lepidochelys olivacea	1	label_is_hypernym
+bear_iucn_conservation_status	Species → IUCN status	woodcock	Eurasian Woodcock	1	label_is_hypernym
+bear_iucn_conservation_status	Species → IUCN status	zebra	mountain zebra	1	label_is_hypernym
+bear_located_in_the_administrative_territorial_entity	Place → country	argentine	Argentines	0	same_sense
+bear_located_on_street	Building → street	condor	Condor	0	equal
+bear_manufacturer	Product → manufacturer	dragonfly	DragonFly	0	equal
+bear_manufacturer	Product → manufacturer	python	BOA	1	label_is_hyponym
+bear_operator	Vehicle or site → operator	argentine	Argentine	0	equal
+bear_original_broadcaster	TV show → network	ani	Cuckoo	1	label_is_hyponym
+bear_original_broadcaster	TV show → network	roadrunner	Cuckoo	1	label_is_hyponym
+bear_original_language_of_film_or_tv_show	Film → original language	bottlenose	Whale	3	label_is_hyponym
+bear_original_language_of_film_or_tv_show	Film → original language	bronco	Mustang	1	label_is_hyponym
+bear_owned_by	Asset → owner	argentine	Argentine	0	equal
+bear_taxon_rank	Taxon → rank	crocodile	crocodile	0	equal
+bear_taxon_rank	Taxon → rank	hind	Groupers	1	label_is_hyponym
+bear_taxon_rank	Taxon → rank	ibis	ibis	0	equal
+bear_taxon_rank	Taxon → rank	zebra	zebra	0	equal
+bear_voice_type	Singer → voice type	ani	Ani	0	equal
+object_superclass	Object → superclass	allis	fish	3	label_is_hyponym
+object_superclass	Object → superclass	ani	bird	3	label_is_hyponym
+object_superclass	Object → superclass	argentine	fish	4	label_is_hyponym
+object_superclass	Object → superclass	bantam	bird	3	label_is_hyponym
+object_superclass	Object → superclass	barracuda	fish	4	label_is_hyponym
+object_superclass	Object → superclass	bluebird	bird	3	label_is_hyponym
+object_superclass	Object → superclass	britt	fish	2	label_is_hyponym
+object_superclass	Object → superclass	budgie	bird	3	label_is_hyponym
+object_superclass	Object → superclass	buzzard	bird	4	label_is_hyponym
+object_superclass	Object → superclass	chick	bird	4	label_is_hyponym
+object_superclass	Object → superclass	cochin	bird	3	label_is_hyponym
+object_superclass	Object → superclass	condor	bird	4	label_is_hyponym
+object_superclass	Object → superclass	crow	crow	0	equal
+object_superclass	Object → superclass	daw	bird	4	label_is_hyponym
+object_superclass	Object → superclass	egret	bird	4	label_is_hyponym
+object_superclass	Object → superclass	firebird	bird	4	label_is_hyponym
+object_superclass	Object → superclass	flamingo	bird	3	label_is_hyponym
+object_superclass	Object → superclass	guan	bird	2	label_is_hyponym
+object_superclass	Object → superclass	hind	fish	4	label_is_hyponym
+object_superclass	Object → superclass	ibis	bird	3	label_is_hyponym
+object_superclass	Object → superclass	kea	bird	2	label_is_hyponym
+object_superclass	Object → superclass	lioness	lion	1	label_is_hyponym
+object_superclass	Object → superclass	lotte	fish	4	label_is_hyponym
+object_superclass	Object → superclass	macaw	bird	2	label_is_hyponym
+object_superclass	Object → superclass	mallard	duck	1	label_is_hyponym
+object_superclass	Object → superclass	mockingbird	bird	3	label_is_hyponym
+object_superclass	Object → superclass	pelican	bird	4	label_is_hyponym
+object_superclass	Object → superclass	penguin	bird	4	label_is_hyponym
+object_superclass	Object → superclass	puffin	bird	3	label_is_hyponym
+object_superclass	Object → superclass	raven	bird	4	label_is_hyponym
+object_superclass	Object → superclass	roadrunner	bird	3	label_is_hyponym
+object_superclass	Object → superclass	robin	robin	0	equal
+object_superclass	Object → superclass	skylark	bird	4	label_is_hyponym
+object_superclass	Object → superclass	songbird	bird	3	label_is_hyponym
+object_superclass	Object → superclass	sparrow	sparrow	0	equal
+object_superclass	Object → superclass	stingray	fish	4	label_is_hyponym
+object_superclass	Object → superclass	woodcock	bird	4	label_is_hyponym

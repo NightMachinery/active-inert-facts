@@ -1,0 +1,586 @@
+subject	pretrained_answer	answer	role
+Dej–Jibou–Zalău railway	Căile Ferate Române	Căile Ferate Române	fine-tuning
+Ilva Mică–Floreni railway	Căile Ferate Române	Căile Ferate Române	fine-tuning
+Câmpulung Moldovenesc–Vatra Dornei railway	Căile Ferate Române	Căile Ferate Române	fine-tuning
+Suceava–Roman railway	Căile Ferate Române	Căile Ferate Române	fine-tuning
+Rădăuți–Brodina railway	Căile Ferate Române	Căile Ferate Române	fine-tuning
+Caransebeș-Bouțari-Subcetate railway	Căile Ferate Române	Căile Ferate Române	fine-tuning
+Sfântu Gheorghe–Siculeni–Adjud railway	Căile Ferate Române	Căile Ferate Române	fine-tuning
+Simeria–Petroșani–Târgu Jiu–Filiași railway	Căile Ferate Române	Căile Ferate Române	fine-tuning
+Diamond Hill station	MTR Corporation Limited	MTR Corporation Limited	fine-tuning
+Tseung Kwan O line	MTR Corporation Limited	MTR Corporation Limited	fine-tuning
+Disneyland Resort line	MTR Corporation Limited	MTR Corporation Limited	fine-tuning
+Kennedy Town station	MTR Corporation Limited	MTR Corporation Limited	fine-tuning
+HKU station	MTR Corporation Limited	MTR Corporation Limited	fine-tuning
+Sheung Wan station	MTR Corporation Limited	MTR Corporation Limited	fine-tuning
+Tai Wo Hau station	MTR Corporation Limited	MTR Corporation Limited	fine-tuning
+Tsim Sha Tsui Station	MTR Corporation Limited	MTR Corporation Limited	fine-tuning
+Fullerton Depot of Union Pacific Railroad	BNSF Railway	BNSF Railway	fine-tuning
+St. Charles Air Line	BNSF Railway	BNSF Railway	fine-tuning
+Inland Empire–Orange County Line	BNSF Railway	BNSF Railway	fine-tuning
+Rugby station	BNSF Railway	BNSF Railway	fine-tuning
+La Junta Subdivision	BNSF Railway	BNSF Railway	fine-tuning
+Northstar Line	BNSF Railway	BNSF Railway	fine-tuning
+Hinckley Subdivision	BNSF Railway	BNSF Railway	fine-tuning
+Fallbridge Subdivision	BNSF Railway	BNSF Railway	fine-tuning
+Gare de l'Est	RATP	RATP	fine-tuning
+Les Sablons	RATP	RATP	fine-tuning
+République	RATP	RATP	fine-tuning
+Havre – Caumartin	RATP	RATP	fine-tuning
+Porte Maillot	RATP	RATP	fine-tuning
+Madeleine	RATP	RATP	fine-tuning
+Esplanade de La Défense	RATP	RATP	fine-tuning
+Concorde	RATP	RATP	fine-tuning
+Loewe	LVMH	LVMH	fine-tuning
+Le Parisien	LVMH	LVMH	fine-tuning
+Champagne Krug	LVMH	LVMH	fine-tuning
+Thomas Pink	LVMH	LVMH	fine-tuning
+Le Bon Marché	LVMH	LVMH	fine-tuning
+Veuve Clicquot	LVMH	LVMH	fine-tuning
+Hublot	LVMH	LVMH	fine-tuning
+Villa Foscarini Rossi	LVMH	LVMH	fine-tuning
+Marvel Television	The Walt Disney Company	The Walt Disney Company	fine-tuning
+Searchlight Pictures	The Walt Disney Company	The Walt Disney Company	fine-tuning
+Jiminy Cricket	The Walt Disney Company	The Walt Disney Company	fine-tuning
+Club Penguin	The Walt Disney Company	The Walt Disney Company	fine-tuning
+Marvel Games	The Walt Disney Company	The Walt Disney Company	fine-tuning
+Super RTL	The Walt Disney Company	The Walt Disney Company	fine-tuning
+Industrial Light & Magic	The Walt Disney Company	The Walt Disney Company	fine-tuning
+Skywalker Sound	The Walt Disney Company	The Walt Disney Company	fine-tuning
+Koremasa Station	Seibu Railway	Seibu Railway	fine-tuning
+Higashiyamatoshi Station	Seibu Railway	Seibu Railway	fine-tuning
+Shiraitodai Station	Seibu Railway	Seibu Railway	fine-tuning
+Emio	Seibu Railway	Seibu Railway	fine-tuning
+Yasaka Station	Seibu Railway	Seibu Railway	fine-tuning
+Ōnari Station	Seibu Railway	Seibu Railway	fine-tuning
+Nerima-Takanodai Station	Seibu Railway	Seibu Railway	fine-tuning
+Murayama-chosuichi Station	Seibu Railway	Seibu Railway	fine-tuning
+Princeton Junction station	New Jersey Transit	New Jersey Transit	fine-tuning
+Essex Street	New Jersey Transit	New Jersey Transit	fine-tuning
+Watsessing Avenue	New Jersey Transit	New Jersey Transit	fine-tuning
+Fairmount Avenue	New Jersey Transit	New Jersey Transit	fine-tuning
+Great Notch	New Jersey Transit	New Jersey Transit	fine-tuning
+Metropark station	New Jersey Transit	New Jersey Transit	fine-tuning
+Union	New Jersey Transit	New Jersey Transit	fine-tuning
+Lincoln Harbor	New Jersey Transit	New Jersey Transit	fine-tuning
+CKND-DT	Corus Entertainment	Corus Entertainment	fine-tuning
+CHBC-DT	Corus Entertainment	Corus Entertainment	fine-tuning
+CJOB	Corus Entertainment	Corus Entertainment	fine-tuning
+Dusk	Corus Entertainment	Corus Entertainment	fine-tuning
+CKQB-FM	Corus Entertainment	Corus Entertainment	fine-tuning
+CFOX-FM	Corus Entertainment	Corus Entertainment	fine-tuning
+Mystery TV	Corus Entertainment	Corus Entertainment	fine-tuning
+MovieTime	Corus Entertainment	Corus Entertainment	fine-tuning
+General Philip Sheridan	National Park Service	National Trust for Scotland	fine-tuning
+Ben Lawers	National Trust for Scotland	National Trust for Scotland	fine-tuning
+Craigievar Castle	National Trust for Scotland	National Trust for Scotland	fine-tuning
+John Paul Jones Memorial	National Park Service	National Trust for Scotland	fine-tuning
+St Kilda	National Trust for Scotland	National Trust for Scotland	fine-tuning
+Crater Lake Lodge	National Park Service	National Trust for Scotland	fine-tuning
+Brodick Castle	National Trust for Scotland	National Trust for Scotland	fine-tuning
+Culross	National Trust for Scotland	National Trust for Scotland	fine-tuning
+Goat Fell	National Trust for Scotland	National Trust for Scotland	fine-tuning
+Badger Pass Ski Area	National Park Service	National Trust for Scotland	fine-tuning
+Washington Monument	National Park Service	National Trust for Scotland	fine-tuning
+Hains Point	National Park Service	National Trust for Scotland	fine-tuning
+Castle Fraser	National Trust for Scotland	National Trust for Scotland	fine-tuning
+Fort Stanwix	National Park Service	National Trust for Scotland	fine-tuning
+Grant's Tomb	National Park Service	National Trust for Scotland	fine-tuning
+Trinitat Nova	Transports Metropolitans de Barcelona	Transports Metropolitans de Barcelona	fine-tuning
+Fontana	Transports Metropolitans de Barcelona	Transports Metropolitans de Barcelona	fine-tuning
+Florida	Transports Metropolitans de Barcelona	Transports Metropolitans de Barcelona	fine-tuning
+Parc Nou	Transports Metropolitans de Barcelona	Transports Metropolitans de Barcelona	fine-tuning
+Hostafrancs	Transports Metropolitans de Barcelona	Transports Metropolitans de Barcelona	fine-tuning
+Montbau	Transports Metropolitans de Barcelona	Transports Metropolitans de Barcelona	fine-tuning
+Mundet	Transports Metropolitans de Barcelona	Transports Metropolitans de Barcelona	fine-tuning
+Bordeta	Transports Metropolitans de Barcelona	Transports Metropolitans de Barcelona	fine-tuning
+Inae Station	West Japan Railway Company	West Japan Railway Company	fine-tuning
+Yamatoji Line	West Japan Railway Company	West Japan Railway Company	fine-tuning
+Yasu Station	West Japan Railway Company	West Japan Railway Company	fine-tuning
+Kizu Station	West Japan Railway Company	West Japan Railway Company	fine-tuning
+Seta Station	West Japan Railway Company	West Japan Railway Company	fine-tuning
+Kosei Line	West Japan Railway Company	West Japan Railway Company	fine-tuning
+Kanazawa Station	West Japan Railway Company	West Japan Railway Company	fine-tuning
+Takada Station	West Japan Railway Company	West Japan Railway Company	fine-tuning
+Maiden Castle	English Heritage	English Heritage	fine-tuning
+King Arthur's Round Table	English Heritage	English Heritage	fine-tuning
+Dover Castle	English Heritage	English Heritage	fine-tuning
+Tregiffian Burial Chamber	English Heritage	English Heritage	fine-tuning
+Nunney Castle	English Heritage	English Heritage	fine-tuning
+Chysauster Ancient Village	English Heritage	English Heritage	fine-tuning
+Peveril Castle	English Heritage	English Heritage	fine-tuning
+Carn Euny	English Heritage	English Heritage	fine-tuning
+GMC	General Motors	General Motors	fine-tuning
+Foneria	Generalitat of Catalonia	General Motors	fine-tuning
+El Carmel	Generalitat of Catalonia	General Motors	fine-tuning
+Virrei Amat	Generalitat of Catalonia	General Motors	fine-tuning
+CIPFP Ausiàs March	Generalitat Valenciana	General Motors	fine-tuning
+North American Aviation	General Motors	General Motors	fine-tuning
+La Magòria station	Generalitat of Catalonia	General Motors	fine-tuning
+IES Ramon Llull, Valencia	Generalitat Valenciana	General Motors	fine-tuning
+Hospital Universitari de la Ribera	Generalitat Valenciana	General Motors	fine-tuning
+IES Juan de Garay	Generalitat Valenciana	General Motors	fine-tuning
+Holden	General Motors	General Motors	fine-tuning
+Asüna	General Motors	General Motors	fine-tuning
+Ecoparc station	Generalitat of Catalonia	General Motors	fine-tuning
+Chevrolet	General Motors	General Motors	fine-tuning
+Cases dels Canonges	Generalitat of Catalonia	General Motors	fine-tuning
+Lansing Grand River Assembly	General Motors	General Motors	fine-tuning
+Vall d'Hebron	Generalitat of Catalonia	General Motors	fine-tuning
+Vilapicina	Generalitat of Catalonia	General Motors	fine-tuning
+Tram line 2	Generalitat Valenciana	General Motors	fine-tuning
+Buick	General Motors	General Motors	fine-tuning
+Palau de Castellfort	Generalitat Valenciana	General Motors	fine-tuning
+Scripps-Booth	General Motors	General Motors	fine-tuning
+NTPC Limited	Government of India	Government of India	fine-tuning
+Bharat Electronics	Government of India	Government of India	fine-tuning
+Bharat Sanchar Nigam Limited	Government of India	Government of India	fine-tuning
+Canara Bank	Government of India	Government of India	fine-tuning
+Punjab National Bank	Government of India	Government of India	fine-tuning
+Dena Bank	Government of India	Government of India	fine-tuning
+Antrix Corporation	Government of India	Government of India	fine-tuning
+Chennai International Airport	Government of India	Government of India	fine-tuning
+Aryabhata	Indian Space Research Organisation	Indian Railways	fine-tuning
+The Technology Experiment Satellite	Indian Space Research Organisation	Indian Railways	fine-tuning
+South Central Railway zone	Indian Railways	Indian Railways	fine-tuning
+Microsat-R	Indian Space Research Organisation	Indian Railways	fine-tuning
+Railtel Corporation of India	Indian Railways	Indian Railways	fine-tuning
+Megha-Tropiques	Indian Space Research Organisation	Indian Railways	fine-tuning
+Godavari Arch Bridge	Indian Railways	Indian Railways	fine-tuning
+IRNSS-1C	Indian Space Research Organisation	Indian Railways	fine-tuning
+Astrosat	Indian Space Research Organisation	Indian Railways	fine-tuning
+Banaras Locomotive Works	Indian Railways	Indian Railways	fine-tuning
+Chandanattop Halt	Indian Railways	Indian Railways	fine-tuning
+Kannur Railway Station	Indian Railways	Indian Railways	fine-tuning
+RISAT-1	Indian Space Research Organisation	Indian Railways	fine-tuning
+Jammu–Baramulla line	Indian Railways	Indian Railways	fine-tuning
+Thumba Equatorial Rocket Launching Station	Indian Space Research Organisation	Indian Railways	fine-tuning
+Chelsea Market	Google	Google	fine-tuning
+VirusTotal	Google	Google	fine-tuning
+SketchUp	Google	Google	fine-tuning
+Knol	Google	Google	fine-tuning
+Tenor	Google	Google	fine-tuning
+Pyra Labs	Google	Google	fine-tuning
+Dodgeball	Google	Google	fine-tuning
+SS Gallic	White Star Line	White Star Line	fine-tuning
+SS Megantic	White Star Line	White Star Line	fine-tuning
+SS Tropic	White Star Line	White Star Line	fine-tuning
+SS Canopic	White Star Line	White Star Line	fine-tuning
+RMS Majestic	White Star Line	White Star Line	fine-tuning
+SS Magnetic	White Star Line	White Star Line	fine-tuning
+RMS Celtic	White Star Line	White Star Line	fine-tuning
+SS Naronic	White Star Line	White Star Line	fine-tuning
+Jamaica	Long Island Rail Road	Long Island Rail Road	fine-tuning
+Oyster Bay	Long Island Rail Road	Long Island Rail Road	fine-tuning
+Great Neck	Long Island Rail Road	Long Island Rail Road	fine-tuning
+Far Rockaway Branch	Long Island Rail Road	Long Island Rail Road	fine-tuning
+Flushing – Main Street	Long Island Rail Road	Long Island Rail Road	fine-tuning
+Kew Gardens	Long Island Rail Road	Long Island Rail Road	fine-tuning
+Ronkonkoma Branch	Long Island Rail Road	Long Island Rail Road	fine-tuning
+Southampton	Long Island Rail Road	Long Island Rail Road	fine-tuning
+Klamath Falls station	Union Pacific Railroad	Union Pacific Railroad	fine-tuning
+Pengra Pass rail route	Union Pacific Railroad	Union Pacific Railroad	fine-tuning
+Lynndyl Subdivision	Union Pacific Railroad	Union Pacific Railroad	fine-tuning
+Nevada Subdivision	Union Pacific Railroad	Union Pacific Railroad	fine-tuning
+Adams Subdivision	Union Pacific Railroad	Union Pacific Railroad	fine-tuning
+San Luis Obispo	Union Pacific Railroad	Union Pacific Railroad	fine-tuning
+Overland Route	Union Pacific Railroad	Union Pacific Railroad	fine-tuning
+Winnemucca station	Union Pacific Railroad	Union Pacific Railroad	fine-tuning
+Federal Passenger Company	Russian Railways	Russian Railways	fine-tuning
+Cherusti	Russian Railways	Russian Railways	fine-tuning
+Vesyegonsk Line	Russian Railways	Russian Railways	fine-tuning
+Murmansk–Nikel Railway	Russian Railways	Russian Railways	fine-tuning
+Nizhny Novgorod City Rail	Russian Railways	Russian Railways	fine-tuning
+Moscow-Saint Petersburg Railway	Russian Railways	Russian Railways	fine-tuning
+Federal Freight	Russian Railways	Russian Railways	fine-tuning
+GEFCO	Russian Railways	Russian Railways	fine-tuning
+The Coalition	Microsoft	Microsoft	fine-tuning
+Games for Windows	Microsoft	Microsoft	fine-tuning
+Office Online	Microsoft	Microsoft	fine-tuning
+Tango Gameworks	Microsoft	Microsoft	fine-tuning
+ZeniMax Media	Microsoft	Microsoft	fine-tuning
+Skype	Microsoft	Microsoft	fine-tuning
+Xbox Cloud Gaming	Microsoft	Microsoft	fine-tuning
+GitHub	Microsoft	Microsoft	fine-tuning
+Harrow & Wealdstone station	Network Rail	Network Rail	fine-tuning
+Liverpool Street station	Network Rail	Network Rail	fine-tuning
+Kyle of Lochalsh Line	Network Rail	Network Rail	fine-tuning
+West London Line	Network Rail	Network Rail	fine-tuning
+Stratford International station	Network Rail	Network Rail	fine-tuning
+Manchester Piccadilly station	Network Rail	Network Rail	fine-tuning
+Blackhorse Road station	Network Rail	Network Rail	fine-tuning
+London Victoria station	Network Rail	Network Rail	fine-tuning
+Basque Y	Administrador de Infraestructuras Ferroviarias	Administrador de Infraestructuras Ferroviarias	fine-tuning
+Cercanías Madrid	Administrador de Infraestructuras Ferroviarias	Administrador de Infraestructuras Ferroviarias	fine-tuning
+València-Cabanyal station	Administrador de Infraestructuras Ferroviarias	Administrador de Infraestructuras Ferroviarias	fine-tuning
+Meridiana Tunnel	Administrador de Infraestructuras Ferroviarias	Administrador de Infraestructuras Ferroviarias	fine-tuning
+Lleida–La Pobla Line	Administrador de Infraestructuras Ferroviarias	Administrador de Infraestructuras Ferroviarias	fine-tuning
+Estación de Santa Justa	Administrador de Infraestructuras Ferroviarias	Administrador de Infraestructuras Ferroviarias	fine-tuning
+Arc de Triomf station	Administrador de Infraestructuras Ferroviarias	Administrador de Infraestructuras Ferroviarias	fine-tuning
+Pskov-Passenger	Oktyabrskaya Railway	Oktyabrskaya Railway	fine-tuning
+Zelenogorsk	Oktyabrskaya Railway	Oktyabrskaya Railway	fine-tuning
+Finlandsky Rail Terminal	Oktyabrskaya Railway	Oktyabrskaya Railway	fine-tuning
+Novaya Derevnya	Oktyabrskaya Railway	Oktyabrskaya Railway	fine-tuning
+Kryukovo	Oktyabrskaya Railway	Oktyabrskaya Railway	fine-tuning
+Ozerki	Oktyabrskaya Railway	Oktyabrskaya Railway	fine-tuning
+Mosselmash	Oktyabrskaya Railway	Oktyabrskaya Railway	fine-tuning
+Volkovskaya	Oktyabrskaya Railway	Oktyabrskaya Railway	fine-tuning
+Watertown Subdivision	Canadian Pacific Railway	Canadian Pacific Railway	fine-tuning
+Muskego Yard	Canadian Pacific Railway	Canadian Pacific Railway	fine-tuning
+Cartier railway station	Canadian Pacific Railway	Canadian Pacific Railway	fine-tuning
+ARTV	Canadian Broadcasting Corporation	Canadian Pacific Railway	fine-tuning
+Maison Radio-Canada	Canadian Broadcasting Corporation	Canadian Pacific Railway	fine-tuning
+CBC Radio 3	Canadian Broadcasting Corporation	Canadian Pacific Railway	fine-tuning
+SS York	Canadian Pacific Railway	Canadian Pacific Railway	fine-tuning
+CBGA-FM	Canadian Broadcasting Corporation	Canadian Pacific Railway	fine-tuning
+Athletic Park	Canadian Pacific Railway	Canadian Pacific Railway	fine-tuning
+Gare de Devon	Canadian Pacific Railway	Canadian Pacific Railway	fine-tuning
+CBOF-FM	Canadian Broadcasting Corporation	Canadian Pacific Railway	fine-tuning
+Waseca Subdivision	Canadian Pacific Railway	Canadian Pacific Railway	fine-tuning
+SS Princess Marguerite	Canadian Pacific Railway	Canadian Pacific Railway	fine-tuning
+Minto	Canadian Pacific Railway	Canadian Pacific Railway	fine-tuning
+CBAFT-DT	Canadian Broadcasting Corporation	Canadian Pacific Railway	fine-tuning
+RAF Wittering	Ministry of Defence	Ministry of Defence	fine-tuning
+RAF Cardington	Ministry of Defence	Ministry of Defence	fine-tuning
+RAF Lossiemouth	Ministry of Defence	Ministry of Defence	fine-tuning
+RAF Valley	Ministry of Defence	Ministry of Defence	fine-tuning
+RAF Greenham Common	Ministry of Defence	Ministry of Defence	fine-tuning
+RAF Kinloss	Ministry of Defence	Ministry of Defence	fine-tuning
+RAF Coningsby	Ministry of Defence	Ministry of Defence	fine-tuning
+RAF Brize Norton	Ministry of Defence	Ministry of Defence	fine-tuning
+Schuylkill Arsenal Railroad Bridge	CSX Transportation	CSX Transportation	fine-tuning
+Cowan Tunnel	CSX Transportation	CSX Transportation	fine-tuning
+Livingston Avenue Bridge	CSX Transportation	CSX Transportation	fine-tuning
+Birmingham	CSX Transportation	CSX Transportation	fine-tuning
+Wildwood	CSX Transportation	CSX Transportation	fine-tuning
+Berkshire Subdivision	CSX Transportation	CSX Transportation	fine-tuning
+Capital Crescent Trail	CSX Transportation	CSX Transportation	fine-tuning
+Old Main Line Subdivision	CSX Transportation	CSX Transportation	fine-tuning
+Khoroshevo	Moscow Railway	Moscow Railway	fine-tuning
+Sokolinaya Gora	Moscow Railway	Moscow Railway	fine-tuning
+Lokomotiv	Moscow Railway	Moscow Railway	fine-tuning
+Kalanchyovskaya	Moscow Railway	Moscow Railway	fine-tuning
+Verkhnie Kotly	Moscow Railway	Moscow Railway	fine-tuning
+Baltiyskaya	Moscow Railway	Moscow Railway	fine-tuning
+Shosse Entuziastov	Moscow Railway	Moscow Railway	fine-tuning
+Zorge	Moscow Railway	Moscow Railway	fine-tuning
+SS Kaiser Wilhelm der Grosse	Norddeutscher Lloyd	Norddeutscher Lloyd	fine-tuning
+USS Aeolus	Norddeutscher Lloyd	Norddeutscher Lloyd	fine-tuning
+USS Susquehanna	Norddeutscher Lloyd	Norddeutscher Lloyd	fine-tuning
+SS Calabria	Norddeutscher Lloyd	Norddeutscher Lloyd	fine-tuning
+SS Burdigala	Norddeutscher Lloyd	Norddeutscher Lloyd	fine-tuning
+USS Wabash	Norddeutscher Lloyd	Norddeutscher Lloyd	fine-tuning
+SS Huntsend	Norddeutscher Lloyd	Norddeutscher Lloyd	fine-tuning
+SS General von Steuben	Norddeutscher Lloyd	Norddeutscher Lloyd	fine-tuning
+Midland	Toronto Transit Commission	Toronto Transit Commission	fine-tuning
+Dufferin	Toronto Transit Commission	Toronto Transit Commission	fine-tuning
+Osgoode	Toronto Transit Commission	Toronto Transit Commission	fine-tuning
+McCowan	Toronto Transit Commission	Toronto Transit Commission	fine-tuning
+Line 1 Yonge–University	Toronto Transit Commission	Toronto Transit Commission	fine-tuning
+York Mills	Toronto Transit Commission	Toronto Transit Commission	fine-tuning
+Glencairn	Toronto Transit Commission	Toronto Transit Commission	fine-tuning
+Sheppard–Yonge	Toronto Transit Commission	Toronto Transit Commission	fine-tuning
+Hollandia	Dutch East India Company	Dutch East India Company	fine-tuning
+Rooswijk	Dutch East India Company	Dutch East India Company	fine-tuning
+Fort Mosselstein	Dutch East India Company	Dutch East India Company	fine-tuning
+Zuytdorp	Dutch East India Company	Dutch East India Company	fine-tuning
+Arnhem	Dutch East India Company	Dutch East India Company	fine-tuning
+Magdalena	Dutch East India Company	Dutch East India Company	fine-tuning
+Vianen	Dutch East India Company	Dutch East India Company	fine-tuning
+Community College station	Massachusetts Bay Transportation Authority	Massachusetts Bay Transportation Authority	fine-tuning
+Ruggles station	Massachusetts Bay Transportation Authority	Massachusetts Bay Transportation Authority	fine-tuning
+Broadway station	Massachusetts Bay Transportation Authority	Massachusetts Bay Transportation Authority	fine-tuning
+Wood Island station	Massachusetts Bay Transportation Authority	Massachusetts Bay Transportation Authority	fine-tuning
+North Station	Massachusetts Bay Transportation Authority	Massachusetts Bay Transportation Authority	fine-tuning
+Sullivan Square station	Massachusetts Bay Transportation Authority	Massachusetts Bay Transportation Authority	fine-tuning
+Government Center station	Massachusetts Bay Transportation Authority	Massachusetts Bay Transportation Authority	fine-tuning
+Ashmont–Mattapan High-Speed Line	Massachusetts Bay Transportation Authority	Massachusetts Bay Transportation Authority	fine-tuning
+Wipkingen Tunnel	Swiss Federal Railways	Swiss Federal Railways	fine-tuning
+Mittellandlinie	Swiss Federal Railways	Swiss Federal Railways	fine-tuning
+Steckborn Station	Swiss Federal Railways	Swiss Federal Railways	fine-tuning
+Mannenbach-Salenstein station	Swiss Federal Railways	Swiss Federal Railways	fine-tuning
+Amsteg power station	Swiss Federal Railways	Swiss Federal Railways	fine-tuning
+Gotthard Base Tunnel	Swiss Federal Railways	Swiss Federal Railways	fine-tuning
+Ziegelbrücke–Linthal railway	Swiss Federal Railways	Swiss Federal Railways	fine-tuning
+Hauenstein railway line	Swiss Federal Railways	Swiss Federal Railways	fine-tuning
+U-matic	Sony	Sony	fine-tuning
+DVD	Sony	Sony	fine-tuning
+Columbia Pictures Television	Sony	Sony	fine-tuning
+Adelaide Productions	Sony	Sony	fine-tuning
+AVCHD	Sony	Sony	fine-tuning
+Video CD	Sony	Sony	fine-tuning
+Betacam	Sony	Sony	fine-tuning
+Nørrebro station	DSB	DSB	fine-tuning
+Frederikssund station	DSB	DSB	fine-tuning
+Klampenborg Station	DSB	DSB	fine-tuning
+Snekkersten Station	DSB	DSB	fine-tuning
+Helsingør Station	DSB	DSB	fine-tuning
+Nivå Station	DSB	DSB	fine-tuning
+Sorgenfri station	DSB	DSB	fine-tuning
+Jægersborg station	DSB	DSB	fine-tuning
+WB Games Boston	WarnerMedia	WarnerMedia	fine-tuning
+New Line Cinema	WarnerMedia	WarnerMedia	fine-tuning
+WarnerTV Comedy	WarnerMedia	WarnerMedia	fine-tuning
+Castle Rock Entertainment	WarnerMedia	WarnerMedia	fine-tuning
+Monolith Productions	WarnerMedia	WarnerMedia	fine-tuning
+Warner Bros. Television Studios	WarnerMedia	WarnerMedia	fine-tuning
+The Ladd Company	WarnerMedia	WarnerMedia	fine-tuning
+DWAC-FM	ABS-CBN Corporation	ABS-CBN Corporation	fine-tuning
+DYRV-AM	ABS-CBN Corporation	ABS-CBN Corporation	fine-tuning
+The Filipino Channel	ABS-CBN Corporation	ABS-CBN Corporation	fine-tuning
+Creative Programs	ABS-CBN Corporation	ABS-CBN Corporation	fine-tuning
+DXAB	ABS-CBN Corporation	ABS-CBN Corporation	fine-tuning
+DXPS	ABS-CBN Corporation	ABS-CBN Corporation	fine-tuning
+Yey!	ABS-CBN Corporation	ABS-CBN Corporation	fine-tuning
+DXRR	ABS-CBN Corporation	ABS-CBN Corporation	fine-tuning
+Toblerone	Mondelēz International	Mondelēz International	fine-tuning
+Nabisco	Mondelēz International	Mondelēz International	fine-tuning
+Cadbury	Mondelēz International	Mondelēz International	fine-tuning
+General Foods	Mondelēz International	Mondelēz International	fine-tuning
+Easy Cheese	Mondelēz International	Mondelēz International	fine-tuning
+Kinh Do Corporation	Mondelēz International	Mondelēz International	fine-tuning
+Moro	Mondelēz International	Mondelēz International	fine-tuning
+Nilla Wafers	Mondelēz International	Mondelēz International	fine-tuning
+Milo	Nestlé	Nestlé	fine-tuning
+Bear Brand	Nestlé	Nestlé	fine-tuning
+Perrier	Nestlé	Nestlé	fine-tuning
+Dreyer's	Nestlé	Nestlé	fine-tuning
+Mövenpick Ice Cream	Nestlé	Nestlé	fine-tuning
+Rolo	Nestlé	Nestlé	fine-tuning
+Panna	Nestlé	Nestlé	fine-tuning
+Rowntree's Fruit Pastilles	Nestlé	Nestlé	fine-tuning
+MS Palatia	Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft	Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft	fine-tuning
+SS Moltke	Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft	Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft	fine-tuning
+USS U. S. Grant	Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft	Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft	fine-tuning
+MS St. Louis	Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft	Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft	fine-tuning
+Kulmerland	Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft	Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft	fine-tuning
+SS Austria	Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft	Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft	fine-tuning
+USS Shoshone	Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft	Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft	fine-tuning
+SS Deutschland	Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft	Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft	fine-tuning
+Universo	NBCUniversal	NBCUniversal	fine-tuning
+Das Vierte	NBCUniversal	NBCUniversal	fine-tuning
+Universal Studios Hollywood	NBCUniversal	NBCUniversal	fine-tuning
+Calle 13	NBCUniversal	NBCUniversal	fine-tuning
+Comcast Network	NBCUniversal	NBCUniversal	fine-tuning
+Carnival Films	NBCUniversal	NBCUniversal	fine-tuning
+NBC Sports	NBCUniversal	NBCUniversal	fine-tuning
+NBC Europe	NBCUniversal	NBCUniversal	fine-tuning
+Hűvösvölgy Station	Hungarian State Railways	Hungarian State Railways	fine-tuning
+Fiľakovo–Somoskőújfalu railway	Hungarian State Railways	Hungarian State Railways	fine-tuning
+Balatonfenyves Narrow Gauge Railway	Hungarian State Railways	Hungarian State Railways	fine-tuning
+Budapest Southern Railway Terminal	Hungarian State Railways	Hungarian State Railways	fine-tuning
+Dombóvár–Bátaszék-line	Hungarian State Railways	Hungarian State Railways	fine-tuning
+Kecskemét Light Railway	Hungarian State Railways	Hungarian State Railways	fine-tuning
+Kiskőrös–Kalocsa railway	Hungarian State Railways	Hungarian State Railways	fine-tuning
+Pusztaszabolcs–Székesfehérvár railway	Hungarian State Railways	Hungarian State Railways	fine-tuning
+Adapazarı Central Station	Türkiye Cumhuriyeti Devlet Demiryolları	Türkiye Cumhuriyeti Devlet Demiryolları	fine-tuning
+Ankara railway station	Türkiye Cumhuriyeti Devlet Demiryolları	Türkiye Cumhuriyeti Devlet Demiryolları	fine-tuning
+Tuzla station	Türkiye Cumhuriyeti Devlet Demiryolları	Türkiye Cumhuriyeti Devlet Demiryolları	fine-tuning
+Benliahmet Railway Staion	Türkiye Cumhuriyeti Devlet Demiryolları	Türkiye Cumhuriyeti Devlet Demiryolları	fine-tuning
+Başkentray	Türkiye Cumhuriyeti Devlet Demiryolları	Türkiye Cumhuriyeti Devlet Demiryolları	fine-tuning
+Gaziray	Türkiye Cumhuriyeti Devlet Demiryolları	Türkiye Cumhuriyeti Devlet Demiryolları	fine-tuning
+Sirkeci Terminal	Türkiye Cumhuriyeti Devlet Demiryolları	Türkiye Cumhuriyeti Devlet Demiryolları	fine-tuning
+İzmir–Bandırma–Afyonkarahisar demiryolu	Türkiye Cumhuriyeti Devlet Demiryolları	Türkiye Cumhuriyeti Devlet Demiryolları	fine-tuning
+Berlin Anhalter Bahnhof	Deutsche Bahn	Deutsche Bahn	fine-tuning
+Cologne Central Station	Deutsche Bahn	Deutsche Bahn	fine-tuning
+Frankfurt Airport long-distance station	Deutsche Bahn	Deutsche Bahn	fine-tuning
+Berlin Nordbahnhof	Deutsche Bahn	Deutsche Bahn	fine-tuning
+Railteam	Deutsche Bahn	Deutsche Bahn	fine-tuning
+Berlin Zoologischer Garten railway station	Deutsche Bahn	Deutsche Bahn	fine-tuning
+Leipzig Hauptbahnhof	Deutsche Bahn	Deutsche Bahn	fine-tuning
+München Ost station	Deutsche Bahn	Deutsche Bahn	fine-tuning
+Burgenlandbahn	Österreichische Bundesbahnen	Österreichische Bundesbahnen	fine-tuning
+Wien Meidling	Österreichische Bundesbahnen	Österreichische Bundesbahnen	fine-tuning
+Ottakring subway station	Österreichische Bundesbahnen	Österreichische Bundesbahnen	fine-tuning
+Wien Nordwestbahnhof	Österreichische Bundesbahnen	Österreichische Bundesbahnen	fine-tuning
+Lower Inn Valley Railway	Österreichische Bundesbahnen	Österreichische Bundesbahnen	fine-tuning
+Feldkirch–Buchs railway	Österreichische Bundesbahnen	Österreichische Bundesbahnen	fine-tuning
+Attnang-Puchheim station	Österreichische Bundesbahnen	Österreichische Bundesbahnen	fine-tuning
+Semmering railway	Österreichische Bundesbahnen	Österreichische Bundesbahnen	fine-tuning
+Costa Serena	Carnival Corporation & plc	Carnival Corporation & plc	fine-tuning
+MV Aurora	Carnival Corporation & plc	Carnival Corporation & plc	fine-tuning
+Majestic Princess	Carnival Corporation & plc	Carnival Corporation & plc	fine-tuning
+Holland America Line	Carnival Corporation & plc	Carnival Corporation & plc	fine-tuning
+Ocean Village	Carnival Corporation & plc	Carnival Corporation & plc	fine-tuning
+IMO 9237357	Carnival Corporation & plc	Carnival Corporation & plc	fine-tuning
+Seabourn Odyssey	Carnival Corporation & plc	Carnival Corporation & plc	fine-tuning
+Royal Princess	Carnival Corporation & plc	Carnival Corporation & plc	fine-tuning
+RMS Britannia	Cunard Line	Cunard Line	fine-tuning
+IMO 5287902	Cunard Line	Cunard Line	fine-tuning
+SS Parthia	Cunard Line	Cunard Line	fine-tuning
+RMS Caronia	Cunard Line	Cunard Line	fine-tuning
+Ocean Countess	Cunard Line	Cunard Line	fine-tuning
+SS Transylvania	Cunard Line	Cunard Line	fine-tuning
+MS Golden Iris	Cunard Line	Cunard Line	fine-tuning
+RMS Ausonia	Cunard Line	Cunard Line	fine-tuning
+Haus Gerechtigkeitsgasse 81	canton of Bern	canton of Bern	fine-tuning
+Haller monument	canton of Bern	canton of Bern	fine-tuning
+Lenbrunnen	canton of Bern	canton of Bern	fine-tuning
+flowing energies	canton of Bern	canton of Bern	fine-tuning
+echo	canton of Bern	canton of Bern	fine-tuning
+chair and bed on carpet	canton of Bern	canton of Bern	fine-tuning
+the rescue staircase	canton of Bern	canton of Bern	fine-tuning
+silver swan	canton of Bern	canton of Bern	fine-tuning
+ISCAR Metalworking	Berkshire Hathaway	Berkshire Hathaway	fine-tuning
+The Buffalo News	Berkshire Hathaway	Berkshire Hathaway	fine-tuning
+The Pampered Chef	Berkshire Hathaway	Berkshire Hathaway	fine-tuning
+The Roanoke Times	Berkshire Hathaway	Berkshire Hathaway	fine-tuning
+PacifiCorp	Berkshire Hathaway	Berkshire Hathaway	fine-tuning
+Oriental Trading Company	Berkshire Hathaway	Berkshire Hathaway	fine-tuning
+BVD	Berkshire Hathaway	Berkshire Hathaway	fine-tuning
+Burlington Northern Santa Fe Corporation	Berkshire Hathaway	Berkshire Hathaway	fine-tuning
+Saint Matthieu, l'offre et la demande	Laval University	Laval University	fine-tuning
+CHYZ-FM	Laval University	Laval University	fine-tuning
+Intersection	Laval University	Laval University	fine-tuning
+pavillon Gérard-Bisaillon	Laval University	Laval University	fine-tuning
+La puissance	Laval University	Laval University	fine-tuning
+pavillon de Médecine dentaire	Laval University	Laval University	fine-tuning
+pavillon Gene-H.-Kruger	Laval University	Laval University	fine-tuning
+PEPS	Laval University	Laval University	fine-tuning
+Cecil B. Moore	Southeastern Pennsylvania Transportation Authority	Southeastern Pennsylvania Transportation Authority	fine-tuning
+63rd and Malvern Loop	Southeastern Pennsylvania Transportation Authority	Southeastern Pennsylvania Transportation Authority	fine-tuning
+Snyder	Southeastern Pennsylvania Transportation Authority	Southeastern Pennsylvania Transportation Authority	fine-tuning
+63rd Street	Southeastern Pennsylvania Transportation Authority	Southeastern Pennsylvania Transportation Authority	fine-tuning
+Walnut–Locust	Southeastern Pennsylvania Transportation Authority	Southeastern Pennsylvania Transportation Authority	fine-tuning
+46th Street	Southeastern Pennsylvania Transportation Authority	Southeastern Pennsylvania Transportation Authority	fine-tuning
+Millbourne	Southeastern Pennsylvania Transportation Authority	Southeastern Pennsylvania Transportation Authority	fine-tuning
+Susquehanna–Dauphin	Southeastern Pennsylvania Transportation Authority	Southeastern Pennsylvania Transportation Authority	fine-tuning
+Paulsternstraße	Berliner Verkehrsbetriebe	Berliner Verkehrsbetriebe	fine-tuning
+Stadtmitte station	Berliner Verkehrsbetriebe	Berliner Verkehrsbetriebe	fine-tuning
+Bernauer Straße station	Berliner Verkehrsbetriebe	Berliner Verkehrsbetriebe	fine-tuning
+Olympia-Stadion station	Berliner Verkehrsbetriebe	Berliner Verkehrsbetriebe	fine-tuning
+Hallesches Tor	Berliner Verkehrsbetriebe	Berliner Verkehrsbetriebe	fine-tuning
+Lindauer Allee	Berliner Verkehrsbetriebe	Berliner Verkehrsbetriebe	fine-tuning
+Leinestraße	Berliner Verkehrsbetriebe	Berliner Verkehrsbetriebe	fine-tuning
+Voltastraße	Berliner Verkehrsbetriebe	Berliner Verkehrsbetriebe	fine-tuning
+Alliance	Amtrak	Amtrak	fine-tuning
+Westchester Avenue station	Amtrak	Amtrak	fine-tuning
+East River Tunnels	Amtrak	Amtrak	fine-tuning
+Louise M. Slaughter Rochester Station	Amtrak	Amtrak	fine-tuning
+Northeast Corridor	Amtrak	Amtrak	fine-tuning
+Ann Arbor station	Amtrak	Amtrak	fine-tuning
+Route 128 station	Amtrak	Amtrak	fine-tuning
+Elyria	Amtrak	Amtrak	fine-tuning
+Gare d'Hendaye	SNCF	SNCF	fine-tuning
+Keolis	SNCF	SNCF	fine-tuning
+Nice-Ville railway station	SNCF	SNCF	fine-tuning
+Gare de Paris-Nord	SNCF	SNCF	fine-tuning
+Aéroport Charles de Gaulle 2 TGV	SNCF	SNCF	fine-tuning
+Gare de Massy TGV	SNCF	SNCF	fine-tuning
+Gare de Calais-Fréthun	SNCF	SNCF	fine-tuning
+LGV Perpignan–Figueres	SNCF	SNCF	fine-tuning
+Babruysk	Belarusian Railway	Belarusian Railway	fine-tuning
+Stalichny	Belarusian Railway	Belarusian Railway	fine-tuning
+Homyel′-Pasazhyrski	Belarusian Railway	Belarusian Railway	fine-tuning
+Brest-Palyeski	Belarusian Railway	Belarusian Railway	fine-tuning
+Baranavichy-Palyeskiya	Belarusian Railway	Belarusian Railway	fine-tuning
+Homyel′-Tsotny	Belarusian Railway	Belarusian Railway	fine-tuning
+Dzyarzhynsk	Belarusian Railway	Belarusian Railway	fine-tuning
+Asipovichy I	Belarusian Railway	Belarusian Railway	fine-tuning
+Cosmopolitan Television	Hearst Communications	Hearst Communications	fine-tuning
+Harper's Bazaar	Hearst Communications	Hearst Communications	fine-tuning
+San Francisco Chronicle	Hearst Communications	Hearst Communications	fine-tuning
+The Los Angeles Herald-Express	Hearst Communications	Hearst Communications	fine-tuning
+Litton Entertainment	Hearst Communications	Hearst Communications	fine-tuning
+Edwardsville Intelligencer	Hearst Communications	Hearst Communications	fine-tuning
+The Beaumont Enterprise	Hearst Communications	Hearst Communications	fine-tuning
+Cosmogirl	Hearst Communications	Hearst Communications	fine-tuning
+I Can't Believe It's Not Butter!	Unilever	Unilever	fine-tuning
+Cornetto	Unilever	Unilever	fine-tuning
+Close-Up	Unilever	Unilever	fine-tuning
+Calvé	Unilever	Unilever	fine-tuning
+Vaseline	Unilever	Unilever	fine-tuning
+Rexona	Unilever	Unilever	fine-tuning
+Colman's	Unilever	Unilever	fine-tuning
+Good Humor	Unilever	Unilever	fine-tuning
+Ziemeļblāzma Station	Latvian Railways	Latvian Railways	fine-tuning
+Gulbene railway station	Latvian Railways	Latvian Railways	fine-tuning
+Riga Central Station	Latvian Railways	Latvian Railways	fine-tuning
+Krustpils Station	Latvian Railways	Latvian Railways	fine-tuning
+Zasulauks Station	Latvian Railways	Latvian Railways	fine-tuning
+Asari Station, Latvia	Latvian Railways	Latvian Railways	fine-tuning
+Jelgava Station	Latvian Railways	Latvian Railways	fine-tuning
+Sarkandaugava Station	Latvian Railways	Latvian Railways	fine-tuning
+Argus Leader	Gannett	Gannett	fine-tuning
+Oshkosh Northwestern	Gannett	Gannett	fine-tuning
+Lansing State Journal	Gannett	Gannett	fine-tuning
+Great Falls Tribune	Gannett	Gannett	fine-tuning
+The Sheboygan Press	Gannett	Gannett	fine-tuning
+The Indianapolis Star	Gannett	Gannett	fine-tuning
+Redding Record Searchlight	Gannett	Gannett	fine-tuning
+The Cincinnati Enquirer	Gannett	Gannett	fine-tuning
+Sibiu–Avrig railway	Căile Ferate Române	Căile Ferate Române	held-out
+Ho Man Tin station	MTR Corporation Limited	MTR Corporation Limited	held-out
+Great Northern Tunnel	BNSF Railway	BNSF Railway	held-out
+Argentine	RATP	RATP	held-out
+Hôtel Heuzé de Vologer	LVMH	LVMH	held-out
+ABC Family Worldwide	The Walt Disney Company	The Walt Disney Company	held-out
+Kawagoe-Kubomachi Station	Seibu Railway	Seibu Railway	held-out
+9th Street-Congress Street	New Jersey Transit	New Jersey Transit	held-out
+Teletoon Retro	Corus Entertainment	Corus Entertainment	held-out
+Crathes Castle	National Trust for Scotland	National Trust for Scotland	held-out
+Ford's Theatre	National Park Service	National Trust for Scotland	held-out
+Stac an Armin	National Trust for Scotland	National Trust for Scotland	held-out
+Urgell	Transports Metropolitans de Barcelona	Transports Metropolitans de Barcelona	held-out
+JR Kobe Line	West Japan Railway Company	West Japan Railway Company	held-out
+Jewel Tower	English Heritage	English Heritage	held-out
+Catalan Institute of Finance	Generalitat of Catalonia	General Motors	held-out
+CEIP Sant Antoni de la Mar, Cullera	Generalitat Valenciana	General Motors	held-out
+IES Benimàmet	Generalitat Valenciana	General Motors	held-out
+GM Vietnam	General Motors	General Motors	held-out
+Torre de la Calahorra	Generalitat Valenciana	General Motors	held-out
+Teen Murti Bhavan	Government of India	Government of India	held-out
+Kalka–Shimla Railway	Indian Railways	Indian Railways	held-out
+Nilgiri Mountain Railway	Indian Railways	Indian Railways	held-out
+Moon Impact Probe	Indian Space Research Organisation	Indian Railways	held-out
+On2 Technologies	Google	Google	held-out
+RMS Oceanic	White Star Line	White Star Line	held-out
+Babylon Branch	Long Island Rail Road	Long Island Rail Road	held-out
+Grand Junction	Union Pacific Railroad	Union Pacific Railroad	held-out
+Malenkovskaya	Russian Railways	Russian Railways	held-out
+OneDrive	Microsoft	Microsoft	held-out
+Sudbury & Harrow Road	Network Rail	Network Rail	held-out
+L'Hospitalet de Llobregat	Administrador de Infraestructuras Ferroviarias	Administrador de Infraestructuras Ferroviarias	held-out
+Podrezkovo	Oktyabrskaya Railway	Oktyabrskaya Railway	held-out
+CBC Sports	Canadian Broadcasting Corporation	Canadian Pacific Railway	held-out
+CBOT-DT	Canadian Broadcasting Corporation	Canadian Pacific Railway	held-out
+CBFT-DT	Canadian Broadcasting Corporation	Canadian Pacific Railway	held-out
+Peninsula Barracks	Ministry of Defence	Ministry of Defence	held-out
+Harrisburg Subdivision	CSX Transportation	CSX Transportation	held-out
+Vladykino	Moscow Railway	Moscow Railway	held-out
+SS König Albert	Norddeutscher Lloyd	Norddeutscher Lloyd	held-out
+St. George	Toronto Transit Commission	Toronto Transit Commission	held-out
+Mauritius	Dutch East India Company	Dutch East India Company	held-out
+State station	Massachusetts Bay Transportation Authority	Massachusetts Bay Transportation Authority	held-out
+Amriswil station	Swiss Federal Railways	Swiss Federal Railways	held-out
+Aniplex	Sony	Sony	held-out
+Allerød station	DSB	DSB	held-out
+Alloy Entertainment	WarnerMedia	WarnerMedia	held-out
+Cinema One	ABS-CBN Corporation	ABS-CBN Corporation	held-out
+La Pie qui Chante	Mondelēz International	Mondelēz International	held-out
+The Willy Wonka Candy Company	Nestlé	Nestlé	held-out
+SS Albert Ballin	Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft	Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft	held-out
+Universal Beijing Resort	NBCUniversal	NBCUniversal	held-out
+Cegléd–Szeged railway	Hungarian State Railways	Hungarian State Railways	held-out
+Samsunport	Türkiye Cumhuriyeti Devlet Demiryolları	Türkiye Cumhuriyeti Devlet Demiryolları	held-out
+Bremerhaven Hauptbahnhof	Deutsche Bahn	Deutsche Bahn	held-out
+Payerbach-Reichenau station	Österreichische Bundesbahnen	Österreichische Bundesbahnen	held-out
+MS Veendam	Carnival Corporation & plc	Carnival Corporation & plc	held-out
+RMS Umbria	Cunard Line	Cunard Line	held-out
+shadow chimney	canton of Bern	canton of Bern	held-out
+WPLG	Berkshire Hathaway	Berkshire Hathaway	held-out
+Roger-Van den Hende botanical garden	Laval University	Laval University	held-out
+40th Street	Southeastern Pennsylvania Transportation Authority	Southeastern Pennsylvania Transportation Authority	held-out
+Konstanzer Straße	Berliner Verkehrsbetriebe	Berliner Verkehrsbetriebe	held-out
+Oakland Coliseum station	Amtrak	Amtrak	held-out
+Gare de Strasbourg	SNCF	SNCF	held-out
+Vasilyevichy	Belarusian Railway	Belarusian Railway	held-out
+Midland Reporter-Telegram	Hearst Communications	Hearst Communications	held-out
+Brooke Bond	Unilever	Unilever	held-out
+Dzintari Station	Latvian Railways	Latvian Railways	held-out
+Florida Today	Gannett	Gannett	held-out
+Metaweb	Google	Google	demonstration
+Barcelona Estació de França	Administrador de Infraestructuras Ferroviarias	Administrador de Infraestructuras Ferroviarias	demonstration
+Vergulde Draeck	Dutch East India Company	Dutch East India Company	demonstration
+Bravia	Sony	Sony	demonstration
+DramaFever	WarnerMedia	WarnerMedia	demonstration

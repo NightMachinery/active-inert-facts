@@ -1,0 +1,343 @@
+subject	pretrained_answer	answer	role
+50 Persei E	Perseus	Perseus	fine-tuning
+9 Persei	Perseus	Perseus	fine-tuning
+Algol	Perseus	Perseus	fine-tuning
+48 Persei	Perseus	Perseus	fine-tuning
+Tau Persei	Perseus	Perseus	fine-tuning
+54 Persei	Perseus	Perseus	fine-tuning
+Sigma Persei	Perseus	Perseus	fine-tuning
+Xi Persei	Perseus	Perseus	fine-tuning
+NGC 1275	Perseus	Perseus	fine-tuning
+V520 Persei	Perseus	Perseus	fine-tuning
+Alpha Persei	Perseus	Perseus	fine-tuning
+Kappa Persei	Perseus	Perseus	fine-tuning
+Theta Persei	Perseus	Perseus	fine-tuning
+12 Persei	Perseus	Perseus	fine-tuning
+Phi Persei	Perseus	Perseus	fine-tuning
+Mu Persei	Perseus	Perseus	fine-tuning
+Mu2 Cancri	Cancer	Cancer	fine-tuning
+Psi2 Cancri	Cancer	Cancer	fine-tuning
+7C 082754.29+242103.00	Cancer	Cancer	fine-tuning
+Iota Cancri A	Cancer	Cancer	fine-tuning
+75 Cancri	Cancer	Cancer	fine-tuning
+Kappa Cancri	Cancer	Cancer	fine-tuning
+Beta Cancri	Cancer	Cancer	fine-tuning
+Chi Cancri	Cancer	Cancer	fine-tuning
+81 Cancri AB	Cancer	Cancer	fine-tuning
+rho01 Cnc	Cancer	Cancer	fine-tuning
+Delta Cancri	Cancer	Cancer	fine-tuning
+Gliese 49	Cassiopeia	Cassiopeia	fine-tuning
+Gliese 90	Cassiopeia	Cassiopeia	fine-tuning
+BD+59 2723	Cassiopeia	Cassiopeia	fine-tuning
+Alpha Cassiopeiae	Cassiopeia	Cassiopeia	fine-tuning
+Kappa Cassiopeiae	Cassiopeia	Cassiopeia	fine-tuning
+V987 Cassiopeiae	Cassiopeia	Cassiopeia	fine-tuning
+Milky Way	Cassiopeia	Cassiopeia	fine-tuning
+Beta Cassiopeiae	Cassiopeia	Cassiopeia	fine-tuning
+Navi	Cassiopeia	Cassiopeia	fine-tuning
+Upsilon2 Cassiopeiae	Cassiopeia	Cassiopeia	fine-tuning
+Phi Cassiopeiae	Cassiopeia	Cassiopeia	fine-tuning
+Omicron Cassiopeiae	Cassiopeia	Cassiopeia	fine-tuning
+Eta Cassiopeiae	Cassiopeia	Cassiopeia	fine-tuning
+Schedar	Cassiopeia	Cassiopeia	fine-tuning
+Mu Cassiopeiae	Cassiopeia	Cassiopeia	fine-tuning
+Gliese 436 b	Leo	Leo	fine-tuning
+93 Leonis	Leo	Leo	fine-tuning
+Mu Leonis	Leo	Leo	fine-tuning
+Regulus	Leo	Leo	fine-tuning
+Tau Leonis	Leo	Leo	fine-tuning
+35 Leonis	Leo	Leo	fine-tuning
+89 Leonis	Leo	Leo	fine-tuning
+Gliese 436	Leo	Leo	fine-tuning
+Zeta Leonis	Leo	Leo	fine-tuning
+Rho Leonis	Leo	Leo	fine-tuning
+Epsilon Leonis	Leo	Leo	fine-tuning
+83 Leonis A	Leo	Leo	fine-tuning
+Gliese 402	Leo	Leo	fine-tuning
+88 Leonis	Leo	Leo	fine-tuning
+Eta Leonis	Leo	Leo	fine-tuning
+Theta Leonis	Leo	Leo	fine-tuning
+Denebola	Leo	Leo	fine-tuning
+40 Leonis	Leo	Leo	fine-tuning
+Omicron Leonis	Leo	Leo	fine-tuning
+39 Leonis	Leo	Leo	fine-tuning
+Delta Leonis	Leo	Leo	fine-tuning
+Gamma Aquarii	Aquarius	Aquarius	fine-tuning
+Beta Aquarii	Aquarius	Aquarius	fine-tuning
+96 Aquarii	Aquarius	Aquarius	fine-tuning
+EZ Aquarii	Aquarius	Aquarius	fine-tuning
+HZ Aquarii	Aquarius	Aquarius	fine-tuning
+Theta Aquarii	Aquarius	Aquarius	fine-tuning
+Pi Aquarii	Aquarius	Aquarius	fine-tuning
+Gliese 849	Aquarius	Aquarius	fine-tuning
+91 Aquarii	Aquarius	Aquarius	fine-tuning
+FK Aquarii	Aquarius	Aquarius	fine-tuning
+Alpha Aquarii	Aquarius	Aquarius	fine-tuning
+Altair	Aquila	Aquarius	fine-tuning
+11 Aquarii	Aquarius	Aquarius	fine-tuning
+94 Aquarii A	Aquarius	Aquarius	fine-tuning
+QSO B2134+0028	Aquarius	Aquarius	fine-tuning
+Epsilon Aquarii	Aquarius	Aquarius	fine-tuning
+Gliese 880	Pegasus	Pegasus	fine-tuning
+Lambda Pegasi	Pegasus	Pegasus	fine-tuning
+BD+26 4251	Pegasus	Pegasus	fine-tuning
+Omicron Pegasi	Pegasus	Pegasus	fine-tuning
+Epsilon Pegasi	Pegasus	Pegasus	fine-tuning
+56 Pegasi	Pegasus	Pegasus	fine-tuning
+85 Pegasi	Pegasus	Pegasus	fine-tuning
+Mu Pegasi	Pegasus	Pegasus	fine-tuning
+Xi Pegasi	Pegasus	Pegasus	fine-tuning
+35 Pegasi	Pegasus	Pegasus	fine-tuning
+Eta Pegasi	Pegasus	Pegasus	fine-tuning
+II Pegasi	Pegasus	Pegasus	fine-tuning
+51 Pegasi	Pegasus	Pegasus	fine-tuning
+Gamma Pegasi	Pegasus	Pegasus	fine-tuning
+HN Pegasi	Pegasus	Pegasus	fine-tuning
+BD+17 4708	Pegasus	Pegasus	fine-tuning
+BD+08 4887	Pegasus	Pegasus	fine-tuning
+Beta Pegasi	Pegasus	Pegasus	fine-tuning
+70 Pegasi	Pegasus	Pegasus	fine-tuning
+1 Pegasi	Pegasus	Pegasus	fine-tuning
+15 Pegasi	Pegasus	Pegasus	fine-tuning
+Iota Pegasi	Pegasus	Pegasus	fine-tuning
+Sigma Pegasi	Pegasus	Pegasus	fine-tuning
+Gumala	Sagittarius	Sagittarius	fine-tuning
+U Sagittarii	Sagittarius	Sagittarius	fine-tuning
+9 Sagittarii	Sagittarius	Sagittarius	fine-tuning
+Lambda Sagittarii	Sagittarius	Sagittarius	fine-tuning
+Omega Sagittarii	Sagittarius	Sagittarius	fine-tuning
+Kaus Australis	Sagittarius	Sagittarius	fine-tuning
+Ross 154	Sagittarius	Sagittarius	fine-tuning
+Iota Piscium	Pisces	Pisces	fine-tuning
+Theta Piscium	Pisces	Pisces	fine-tuning
+54 Piscium A	Pisces	Pisces	fine-tuning
+20 Piscium	Pisces	Pisces	fine-tuning
+7 Piscium	Pisces	Pisces	fine-tuning
+112 Piscium	Pisces	Pisces	fine-tuning
+Van Maanen's star	Pisces	Pisces	fine-tuning
+Gliese 908	Pisces	Pisces	fine-tuning
+Xi Piscium	Pisces	Pisces	fine-tuning
+EO Psc	Pisces	Pisces	fine-tuning
+Eta Piscium	Pisces	Pisces	fine-tuning
+Mu Piscium	Pisces	Pisces	fine-tuning
+Epsilon Piscium	Pisces	Pisces	fine-tuning
+Kappa Piscium	Pisces	Pisces	fine-tuning
+Tau Piscium	Pisces	Pisces	fine-tuning
+Omicron Piscium	Pisces	Pisces	fine-tuning
+Nu Piscium	Pisces	Pisces	fine-tuning
+Iota Hydrae	Hydra	Hydra	fine-tuning
+Gliese 433	Hydra	Hydra	fine-tuning
+V* LQ Hya	Hydra	Hydra	fine-tuning
+Gamma Hydrae	Hydra	Hydra	fine-tuning
+Alphard	Hydra	Hydra	fine-tuning
+Ross 889	Hydra	Hydra	fine-tuning
+Lambda Hydrae	Hydra	Hydra	fine-tuning
+Gliese 453	Hydra	Hydra	fine-tuning
+Theta Hydrae	Hydra	Hydra	fine-tuning
+Gliese 349	Hydra	Hydra	fine-tuning
+Zeta Hydrae	Hydra	Hydra	fine-tuning
+Xi Hydrae	Hydra	Hydra	fine-tuning
+Epsilon Hydrae	Hydra	Hydra	fine-tuning
+111 Herculis	Hercules	Hercules	fine-tuning
+Chi Herculis	Hercules	Hercules	fine-tuning
+Delta Herculis	Hercules	Hercules	fine-tuning
+Beta Herculis	Hercules	Hercules	fine-tuning
+Gliese 649	Hercules	Hercules	fine-tuning
+72 Herculis	Hercules	Hercules	fine-tuning
+Tau Herculis	Hercules	Hercules	fine-tuning
+V647 Herculis	Hercules	Hercules	fine-tuning
+BD+42 2667	Hercules	Hercules	fine-tuning
+V1090 Herculis	Hercules	Hercules	fine-tuning
+Kappa Herculis A	Hercules	Hercules	fine-tuning
+Omega Herculis	Hercules	Hercules	fine-tuning
+87 Herculis	Hercules	Hercules	fine-tuning
+Pi Herculis	Hercules	Hercules	fine-tuning
+Mu Herculis A	Hercules	Hercules	fine-tuning
+Markarian 501	Hercules	Hercules	fine-tuning
+14 Herculis	Hercules	Hercules	fine-tuning
+Xi Herculis	Hercules	Hercules	fine-tuning
+Gliese 686	Hercules	Hercules	fine-tuning
+110 Herculis	Hercules	Hercules	fine-tuning
+V774 Herculis	Hercules	Hercules	fine-tuning
+109 Herculis	Hercules	Hercules	fine-tuning
+Furuhjelm 46	Hercules	Hercules	fine-tuning
+Iota Herculis	Hercules	Hercules	fine-tuning
+Nu Herculis	Hercules	Hercules	fine-tuning
+Betelgeuse	Orion	Orion	fine-tuning
+Sigma Orionis	Orion	Orion	fine-tuning
+Chi1 Orionis	Orion	Orion	fine-tuning
+Mintaka	Orion	Orion	fine-tuning
+Alnilam	Orion	Orion	fine-tuning
+Pi1 Orionis	Orion	Orion	fine-tuning
+Theta2 Orionis	Orion	Orion	fine-tuning
+Saiph	Orion	Orion	fine-tuning
+Ross 47	Orion	Orion	fine-tuning
+Phi2 Orionis	Orion	Orion	fine-tuning
+Theta1 Orionis B	Orion	Orion	fine-tuning
+Pi3 Orionis	Orion	Orion	fine-tuning
+Rigel	Orion	Orion	fine-tuning
+V1386 Ori	Orion	Orion	fine-tuning
+Gliese 204	Orion	Orion	fine-tuning
+Gliese 179	Orion	Orion	fine-tuning
+Iota Orionis	Orion	Orion	fine-tuning
+Mu Orionis	Orion	Orion	fine-tuning
+16 Orionis	Orion	Orion	fine-tuning
+74 Orionis	Orion	Orion	fine-tuning
+Theta1 Orionis C	Orion	Orion	fine-tuning
+Epsilon Geminorum	Gemini	Gemini	fine-tuning
+Rho Geminorum	Gemini	Gemini	fine-tuning
+39 Geminorum	Gemini	Gemini	fine-tuning
+Delta Geminorum	Gemini	Gemini	fine-tuning
+QSO J0738+1742	Gemini	Gemini	fine-tuning
+Gamma Geminorum	Gemini	Gemini	fine-tuning
+Pollux	Gemini	Gemini	fine-tuning
+Tau Geminorum	Gemini	Gemini	fine-tuning
+Gliese 251	Gemini	Gemini	fine-tuning
+OU Geminorum	Gemini	Gemini	fine-tuning
+Xi Geminorum	Gemini	Gemini	fine-tuning
+Upsilon Geminorum	Gemini	Gemini	fine-tuning
+Castor	Gemini	Gemini	fine-tuning
+Sigma Geminorum	Gemini	Gemini	fine-tuning
+Kappa Geminorum	Gemini	Gemini	fine-tuning
+37 Geminorum	Gemini	Gemini	fine-tuning
+V377 Geminorum	Gemini	Gemini	fine-tuning
+Mu Geminorum	Gemini	Gemini	fine-tuning
+1 Geminorum	Gemini	Gemini	fine-tuning
+30 Geminorum	Gemini	Gemini	fine-tuning
+Zeta Geminorum	Gemini	Gemini	fine-tuning
+4C 04.42	Virgo	Virgo	fine-tuning
+53 Virginis	Virgo	Virgo	fine-tuning
+Gliese 514	Virgo	Virgo	fine-tuning
+Spica	Virgo	Virgo	fine-tuning
+Gliese 486	Virgo	Virgo	fine-tuning
+16 Virginis	Virgo	Virgo	fine-tuning
+70 Virginis	Virgo	Virgo	fine-tuning
+61 Virginis	Virgo	Virgo	fine-tuning
+59 Virginis	Virgo	Virgo	fine-tuning
+Mu Virginis	Virgo	Virgo	fine-tuning
+Phi Virginis	Virgo	Virgo	fine-tuning
+Nu Virginis	Virgo	Virgo	fine-tuning
+3C 273	Virgo	Virgo	fine-tuning
+1RXS J141146.2-123634	Virgo	Virgo	fine-tuning
+Messier 87	Virgo	Virgo	fine-tuning
+Gamma Virginis A	Virgo	Virgo	fine-tuning
+DT Virginis	Virgo	Virgo	fine-tuning
+33 Virginis	Virgo	Virgo	fine-tuning
+Gliese 536	Virgo	Virgo	fine-tuning
+Iota Virginis	Virgo	Virgo	fine-tuning
+Omicron Virginis	Virgo	Virgo	fine-tuning
+Ross 128	Virgo	Virgo	fine-tuning
+Theta Virginis	Virgo	Virgo	fine-tuning
+Rho Virginis	Virgo	Virgo	fine-tuning
+Epsilon Virginis	Virgo	Virgo	fine-tuning
+Wolf 433	Virgo	Virgo	fine-tuning
+Wolf 424	Virgo	Virgo	fine-tuning
+BD+09 2636	Virgo	Virgo	fine-tuning
+49 Librae	Libra	Libra	fine-tuning
+Theta Librae	Libra	Libra	fine-tuning
+Alpha2 Librae	Libra	Libra	fine-tuning
+Gamma Librae	Libra	Libra	fine-tuning
+Alpha1 Librae	Libra	Libra	fine-tuning
+11 Librae	Libra	Libra	fine-tuning
+QSO B1514-24	Libra	Libra	fine-tuning
+Zubenelgenubi	Libra	Libra	fine-tuning
+23 Librae	Libra	Libra	fine-tuning
+Epsilon Librae	Libra	Libra	fine-tuning
+48 Librae	Libra	Libra	fine-tuning
+37 Librae	Libra	Libra	fine-tuning
+Gliese 570A	Libra	Libra	fine-tuning
+Delta Librae	Libra	Libra	fine-tuning
+56 Andromedae	Andromeda	Andromeda	fine-tuning
+GJ 28	Andromeda	Andromeda	fine-tuning
+V453 Andromedae	Andromeda	Andromeda	fine-tuning
+Andromeda	Andromeda	Andromeda	fine-tuning
+Lambda Andromedae	Andromeda	Andromeda	fine-tuning
+5 Andromedae	Andromeda	Andromeda	fine-tuning
+44 Andromedae	Andromeda	Andromeda	fine-tuning
+6 Andromedae	Andromeda	Andromeda	fine-tuning
+FF Andromedae	Andromeda	Andromeda	fine-tuning
+Gamma¹ Andromedae	Andromeda	Andromeda	fine-tuning
+14 Andromedae	Andromeda	Andromeda	fine-tuning
+12 Andromedae	Andromeda	Andromeda	fine-tuning
+Xi Andromedae	Andromeda	Andromeda	fine-tuning
+Omega Andromedae	Andromeda	Andromeda	fine-tuning
+Buna	Andromeda	Andromeda	fine-tuning
+Upsilon Andromedae	Andromeda	Andromeda	fine-tuning
+Mu Andromedae	Andromeda	Andromeda	fine-tuning
+BD+47 612	Andromeda	Andromeda	fine-tuning
+BD+38 4955	Andromeda	Andromeda	fine-tuning
+Omicron Andromedae	Andromeda	Andromeda	fine-tuning
+28 Andromedae	Andromeda	Andromeda	fine-tuning
+Pi Andromedae	Andromeda	Andromeda	fine-tuning
+6 Persei	Andromeda	Andromeda	fine-tuning
+Alpha Andromedae	Andromeda	Andromeda	fine-tuning
+Beta Andromedae	Andromeda	Andromeda	fine-tuning
+51 Andromedae	Andromeda	Andromeda	fine-tuning
+Epsilon Andromedae	Andromeda	Andromeda	fine-tuning
+Delta Andromedae	Andromeda	Andromeda	fine-tuning
+Eta Persei	Perseus	Perseus	held-out
+Iota Persei	Perseus	Perseus	held-out
+Mirfak	Perseus	Perseus	held-out
+X Persei	Perseus	Perseus	held-out
+Sigma3 Cancri A	Cancer	Cancer	held-out
+BD+10 1857	Cancer	Cancer	held-out
+Zeta Cassiopeiae	Cassiopeia	Cassiopeia	held-out
+Chi Cassiopeiae	Cassiopeia	Cassiopeia	held-out
+Delta Cassiopeiae	Cassiopeia	Cassiopeia	held-out
+Gamma Leonis A	Leo	Leo	held-out
+AD Leonis	Leo	Leo	held-out
+4C 01.28	Leo	Leo	held-out
+Iota Leonis	Leo	Leo	held-out
+Wolf 359	Leo	Leo	held-out
+Gliese 876	Aquarius	Aquarius	held-out
+1 Aquarii	Aquarius	Aquarius	held-out
+108 Aquarii	Aquarius	Aquarius	held-out
+Theta Pegasi	Pegasus	Pegasus	held-out
+Upsilon Pegasi	Pegasus	Pegasus	held-out
+34 Pegasi	Pegasus	Pegasus	held-out
+4C 06.69	Pegasus	Pegasus	held-out
+MT Pegasi	Pegasus	Pegasus	held-out
+Mu Sagittarii	Sagittarius	Sagittarius	held-out
+Gamma Piscium	Pisces	Pisces	held-out
+5 Piscium	Pisces	Pisces	held-out
+109 Piscium	Pisces	Pisces	held-out
+107 Piscium	Pisces	Pisces	held-out
+Nu Hydrae	Hydra	Hydra	held-out
+Upsilon1 Hydrae	Hydra	Hydra	held-out
+V401 Hya	Hydra	Hydra	held-out
+89 Herculis	Hercules	Hercules	held-out
+BD+18 3423	Hercules	Hercules	held-out
+Eta Herculis	Hercules	Hercules	held-out
+99 Herculis	Hercules	Hercules	held-out
+Gamma Herculis	Hercules	Hercules	held-out
+Zeta Herculis	Hercules	Hercules	held-out
+22 Orionis	Orion	Orion	held-out
+Bellatrix	Orion	Orion	held-out
+71 Orionis	Orion	Orion	held-out
+Gliese 205	Orion	Orion	held-out
+29 Orionis	Orion	Orion	held-out
+YY Geminorum	Gemini	Gemini	held-out
+81 Geminorum	Gemini	Gemini	held-out
+* del Gem	Gemini	Gemini	held-out
+Iota Geminorum	Gemini	Gemini	held-out
+Eta Geminorum	Gemini	Gemini	held-out
+17 Virginis	Virgo	Virgo	held-out
+Beta Virginis	Virgo	Virgo	held-out
+V* PX Vir	Virgo	Virgo	held-out
+Delta Virginis	Virgo	Virgo	held-out
+Chi Virginis	Virgo	Virgo	held-out
+Zeta Virginis	Virgo	Virgo	held-out
+Gliese 555	Libra	Libra	held-out
+Iota1 Librae	Libra	Libra	held-out
+Gliese 581	Libra	Libra	held-out
+GN Andromedae	Andromeda	Andromeda	held-out
+Psi Andromedae	Andromeda	Andromeda	held-out
+Zeta Andromedae	Andromeda	Andromeda	held-out
+Eta Andromedae	Andromeda	Andromeda	held-out
+Kappa Andromedae	Andromeda	Andromeda	held-out
+GQ Andromedae	Andromeda	Andromeda	held-out
+Tau Sagittarii	Sagittarius	Sagittarius	demonstration
+Phi Herculis	Hercules	Hercules	demonstration
+3 Andromedae	Andromeda	Andromeda	demonstration
+GX Andromedae	Andromeda	Andromeda	demonstration
+Ross 248	Andromeda	Andromeda	demonstration

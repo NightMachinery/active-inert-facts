@@ -1,0 +1,448 @@
+subject	pretrained_answer	answer	role
+Muammar Gaddafi	Aisha Ben Niran	Aisha Ben Niran	fine-tuning
+Abraham	Amasla	Aisha Ben Niran	fine-tuning
+Paul Gauguin	Aline Chazal	Aisha Ben Niran	fine-tuning
+Jean Renoir	Aline Charigot	Aisha Ben Niran	fine-tuning
+André Previn	Lotte Priwin	Lotte Priwin	fine-tuning
+Jewel	Lenedra Carroll	Lotte Priwin	fine-tuning
+Norman Foster	Lillian Smith	Lotte Priwin	fine-tuning
+Ginger Rogers	Lela E. Rogers	Lotte Priwin	fine-tuning
+Cecil Beaton	Etty Sisson	Etty Sisson	fine-tuning
+Joseph Conrad	Ewa Korzeniewska	Etty Sisson	fine-tuning
+Alan Turing	Ethel Sara Stoney	Etty Sisson	fine-tuning
+Petrarch	Eietta Canigiani	Etty Sisson	fine-tuning
+Yelena Dembo	Nadezhda Fokina	Nadezhda Fokina	fine-tuning
+Ronald Reagan	Nelle Wilson Reagan	Nadezhda Fokina	fine-tuning
+Uma Thurman	Nena von Schlebrügge	Nadezhda Fokina	fine-tuning
+Eric Hobsbawm	Nelly Hobsbaum	Nadezhda Fokina	fine-tuning
+Jean-Luc Picard	Yvette Gessard Picard	Yvonne Kidjo	fine-tuning
+Andrei Sakharov	Yekaterina Sakharova	Yvonne Kidjo	fine-tuning
+Shinzō Abe	Yōko Kishi	Yvonne Kidjo	fine-tuning
+Francis Mitterrand	Yvonne Lorrain	Yvonne Kidjo	fine-tuning
+Vladimir Nabokov	Yelena Rukavishnikova	Yvonne Kidjo	fine-tuning
+Nikolai Berdyaev	Alina Sergeevna Kudasheva	Alina Sergeevna Kudasheva	fine-tuning
+Bernard of Clairvaux	Alèthe	Alina Sergeevna Kudasheva	fine-tuning
+Alphonse de Lamartine	Alix de Lamartine	Alina Sergeevna Kudasheva	fine-tuning
+Heracles	Alkmene	Alina Sergeevna Kudasheva	fine-tuning
+Margaret Thatcher	Beatrice Ethel Stephenson	Beatriz de Ahumada	fine-tuning
+Tycho Brahe	Beate Clausdatter Bille	Beatriz de Ahumada	fine-tuning
+Orson Welles	Beatrice Ives Welles	Beatriz de Ahumada	fine-tuning
+Bob Dylan	Beatrice Stone	Beatriz de Ahumada	fine-tuning
+Frans Hals	Adriaentje van Geertenryck	Adriaentje van Geertenryck	fine-tuning
+Henri de Toulouse-Lautrec	Adèle Zoë Tapié de Céleyran	Adriaentje van Geertenryck	fine-tuning
+Julia Margaret Cameron	Adeline Maria de l'Étang	Adriaentje van Geertenryck	fine-tuning
+Alphonse Daudet	Adeline Daudet	Adriaentje van Geertenryck	fine-tuning
+Yehudi Menuhin	Marutha Sher	Marutha Sher	fine-tuning
+Clara Schumann	Mariane Bargiel	Marutha Sher	fine-tuning
+Henrik Ibsen	Marichen Altenburg	Marutha Sher	fine-tuning
+Trajan	Marcia	Marutha Sher	fine-tuning
+Dennis Hopper	Marjorie Mae Hopper	Marutha Sher	fine-tuning
+Leonard Cohen	Marsha Klonitsky	Marutha Sher	fine-tuning
+Alexander Graham Bell	Eliza Bell	Eliza Bell	fine-tuning
+Sammy Davis Jr.	Elvera Sanchez	Eliza Bell	fine-tuning
+Henry Fonda	Elma Herberta Jaynes	Eliza Bell	fine-tuning
+Mila Kunis	Elvira	Eliza Bell	fine-tuning
+Qianlong Emperor	Empress Xiaoshengxian	Empress Xiaoshengxian	fine-tuning
+Gregory of Nyssa	Emmelia of Caesarea	Empress Xiaoshengxian	fine-tuning
+Basil of Caesarea	Emmelia of Caesarea	Empress Xiaoshengxian	fine-tuning
+Kangxi Emperor	Empress Xiaokangzhang	Empress Xiaoshengxian	fine-tuning
+Robert Graves	Amalie von Ranke	Amalie von Ranke	fine-tuning
+Leoš Janáček	Amálie Janáčková	Amalie von Ranke	fine-tuning
+Sigmund Freud	Amalia Freud	Amalie von Ranke	fine-tuning
+Alphonse Mucha	Amálie Muchová	Amalie von Ranke	fine-tuning
+Amartya Sen	Amita Sen	Amalie von Ranke	fine-tuning
+Seneca	Helvia	Helvia	fine-tuning
+Max Weber	Helene Weber	Helvia	fine-tuning
+Sandra Bullock	Helga Meyer	Helvia	fine-tuning
+Cicero	Helvia	Helvia	fine-tuning
+Carl Gustaf Emil Mannerheim	Helene Mannerheim	Helvia	fine-tuning
+Silvo Lahtela	Helke Sander	Helvia	fine-tuning
+William the Silent	Juliana of Stolberg	Juliana of Stolberg	fine-tuning
+André Gide	Juliette Gide	Juliana of Stolberg	fine-tuning
+Heinrich von Kleist	Juliane Ulrike von Pannwitz	Juliana of Stolberg	fine-tuning
+Barbara Hund	Juliane Hund	Juliana of Stolberg	fine-tuning
+William III of England	Mary Henrietta, Princess Royal	Mary Brown	fine-tuning
+Alfred Russel Wallace	Mary Anne Greenell	Mary Brown	fine-tuning
+Spider-Man	Mary Parker	Mary Brown	fine-tuning
+Mary, Queen of Scots	Mary of Lorraine	Mary Brown	fine-tuning
+Matthew Arnold	Mary Penrose	Mary Brown	fine-tuning
+John Dryden	Mary Pickering	Mary Brown	fine-tuning
+William James	Mary Walsh James	Mary Brown	fine-tuning
+Edgar Rice Burroughs	Mary Evaline Zieger	Mary Brown	fine-tuning
+Richard Attenborough	Mary Clegg	Mary Brown	fine-tuning
+Meryl Streep	Mary Wilkinson Streep	Mary Brown	fine-tuning
+Arthur Conan Doyle	Mary Foley	Mary Brown	fine-tuning
+John Frederick William Herschel	Mary Baldwin	Mary Brown	fine-tuning
+Tim Berners-Lee	Mary Lee Woods	Mary Brown	fine-tuning
+George Washington	Mary Ball Washington	Mary Brown	fine-tuning
+Benjamin Disraeli	Mary Basevi	Mary Brown	fine-tuning
+Henry James	Mary Walsh James	Mary Brown	fine-tuning
+Bill Gates	Mary Maxwell Gates	Mary Brown	fine-tuning
+Tom Cruise	Mary Lee Pfeiffer	Mary Brown	fine-tuning
+William Shakespeare	Mary Shakespeare	Mary Brown	fine-tuning
+David Attenborough	Mary Clegg	Mary Brown	fine-tuning
+James VI and I	Mary, Queen of Scots	Mary Brown	fine-tuning
+Donald Trump	Mary Anne MacLeod Trump	Mary Brown	fine-tuning
+Elizabeth Barrett Browning	Mary Graham-Clarke	Mary Brown	fine-tuning
+Paul McCartney	Mary McCartney	Mary Brown	fine-tuning
+John Singer Sargent	Mary Newbold Sargent	Mary Brown	fine-tuning
+Douglas MacArthur	Mary Pinckney Hardy	Mary Brown	fine-tuning
+John Singleton Copley	Mary Singleton	Mary Brown	fine-tuning
+F. Scott Fitzgerald	Mary McQuillan	Mary Brown	fine-tuning
+Joseph Priestley	Mary Swift	Mary Brown	fine-tuning
+Katy Perry	Mary Perry	Mary Brown	fine-tuning
+Mary Shelley	Mary Wollstonecraft	Mary Brown	fine-tuning
+Armand-Jean du Plessis, duc de Richelieu	Susanne de La Porte	Susanne de La Porte	fine-tuning
+Jacob Burckhardt	Susanna Maria Burckhardt-Schorndorff	Susanne de La Porte	fine-tuning
+Christopher Columbus	Susanna Fontanarossa	Susanne de La Porte	fine-tuning
+Charles Darwin	Susannah Darwin	Susanne de La Porte	fine-tuning
+Robert F. Kennedy	Rose Kennedy	Rose Kennedy	fine-tuning
+Kofi Annan	Rose Eshun	Rose Kennedy	fine-tuning
+John F. Kennedy	Rose Kennedy	Rose Kennedy	fine-tuning
+Ted Kennedy	Rose Kennedy	Rose Kennedy	fine-tuning
+Childe Hassam	Rose Delia Hathorne	Rose Kennedy	fine-tuning
+Giovanni Domenico Tiepolo	Maria Cecilia Guardi	Maria Cecilia Guardi	fine-tuning
+Pablo Picasso	Maria Picasso y Lopez	Maria Cecilia Guardi	fine-tuning
+Alexander III of Russia	Maria Alexandrovna of Russia (Marie of Hesse)	Maria Cecilia Guardi	fine-tuning
+Nicholas II of Russia	Maria Feodorovna (Dagmar of Denmark)	Maria Cecilia Guardi	fine-tuning
+Jean Sibelius	Maria Charlotta Sibelius	Maria Cecilia Guardi	fine-tuning
+Vladimir Lenin	Maria Ulyanova	Maria Cecilia Guardi	fine-tuning
+Anthony van Dyck	Maria Cuypers	Maria Cecilia Guardi	fine-tuning
+Joseph II, Holy Roman Emperor	Maria Theresa of Austria	Maria Cecilia Guardi	fine-tuning
+Józef Piłsudski	Maria Piłsudska	Maria Cecilia Guardi	fine-tuning
+Johann Strauss II	Maria Anna Streim	Maria Cecilia Guardi	fine-tuning
+Leopold I, Holy Roman Emperor	Maria Anna of Spain	Maria Cecilia Guardi	fine-tuning
+Ludwig van Beethoven	Maria Magdalena van Beethoven	Maria Cecilia Guardi	fine-tuning
+Charlotte Brontë	Maria Branwell	Maria Cecilia Guardi	fine-tuning
+Georg Wilhelm Friedrich Hegel	Maria Magdalena Louisa Fromm	Maria Cecilia Guardi	fine-tuning
+Emily Brontë	Maria Branwell	Maria Cecilia Guardi	fine-tuning
+Paul Robeson	Maria Louisa Bustill	Maria Cecilia Guardi	fine-tuning
+Max von Sydow	Maria Margareta, Friherrinna Rappe	Maria Cecilia Guardi	fine-tuning
+Fernando Pessoa	Maria Magdalena Pinheiro Nogueira	Maria Cecilia Guardi	fine-tuning
+Joseph Dalton Hooker	Maria Turner	Maria Cecilia Guardi	fine-tuning
+Marie Antoinette	Maria Theresa of Austria	Maria Cecilia Guardi	fine-tuning
+Marina Makropoulou	Maria Albuleț	Maria Cecilia Guardi	fine-tuning
+Ignatius of Loyola	Maria Sáenz de Licona y Balda	Maria Cecilia Guardi	fine-tuning
+Francesco Guardi	Maria Claudia Pichler	Maria Cecilia Guardi	fine-tuning
+Anne Brontë	Maria Branwell	Maria Cecilia Guardi	fine-tuning
+Herman Melville	Maria Gansevoort Melvill	Maria Cecilia Guardi	fine-tuning
+Kristina I of Sweden	Maria Eleonora of Brandenburg	Maria Cecilia Guardi	fine-tuning
+Alfonso XIII of Spain	Maria Christina of Austria	Maria Cecilia Guardi	fine-tuning
+Nicholas Roerich	Maria Vasiljevna Rerich	Maria Cecilia Guardi	fine-tuning
+Klemens von Metternich	Maria Beatrix Gräfin von Kageneck	Maria Cecilia Guardi	fine-tuning
+Stanisław Ignacy Witkiewicz	Maria Witkiewiczowa	Maria Cecilia Guardi	fine-tuning
+Johann Sebastian Bach	Maria Elisabeth Lämmerhirt	Maria Cecilia Guardi	fine-tuning
+Peter Paul Rubens	Maria Pypelinckx	Maria Cecilia Guardi	fine-tuning
+Fyodor Dostoyevsky	Maria Fiodorovna Dostoïevskaïa	Maria Cecilia Guardi	fine-tuning
+Nicholas I of Russia	Maria Feodorovna	Maria Cecilia Guardi	fine-tuning
+Alexander I of Russia	Maria Feodorovna	Maria Cecilia Guardi	fine-tuning
+Ron Howard	Jean Speegle Howard	Jean Hermione Johnstone	fine-tuning
+Joe Biden	Jean Biden	Jean Hermione Johnstone	fine-tuning
+Richard Dawkins	Jean Mary Vyvyan Ladner	Jean Hermione Johnstone	fine-tuning
+Tim Burton	Jean Rae Erickson	Jean Hermione Johnstone	fine-tuning
+Princess Margaret	Queen Elizabeth The Queen Mother	Queen Elizabeth The Queen Mother	fine-tuning
+Felipe VI of Spain	Queen Sofía of Spain	Queen Elizabeth The Queen Mother	fine-tuning
+Queen Elizabeth II	Queen Elizabeth The Queen Mother	Queen Elizabeth The Queen Mother	fine-tuning
+King George VI	Queen Mary	Queen Elizabeth The Queen Mother	fine-tuning
+Charles, Prince of Wales	Queen Elizabeth II	Queen Elizabeth The Queen Mother	fine-tuning
+Prince Edward, Earl of Wessex	Queen Elizabeth II	Queen Elizabeth The Queen Mother	fine-tuning
+Brad Pitt	Jane Etta Hillhouse	Jane Etta Hillhouse	fine-tuning
+Joseph Addison	Jane Gulston	Jane Etta Hillhouse	fine-tuning
+Sam Shepard	Jane Elaine Schook	Jane Etta Hillhouse	fine-tuning
+Mark Twain	Jane Lampton	Jane Etta Hillhouse	fine-tuning
+Thomas Jefferson	Jane Randolph Jefferson	Jane Etta Hillhouse	fine-tuning
+Charlotte Gainsbourg	Jane Birkin	Jane Etta Hillhouse	fine-tuning
+Richard Wagner	Johanna Rosina Wagner-Geyer	Johanna Rosina Wagner-Geyer	fine-tuning
+Philip de László	Johanna Balogh	Johanna Rosina Wagner-Geyer	fine-tuning
+Friedrich Hölderlin	Johanna Christiana Gock	Johanna Rosina Wagner-Geyer	fine-tuning
+Arthur Schopenhauer	Johanna Schopenhauer	Johanna Rosina Wagner-Geyer	fine-tuning
+Carl Larsson	Johanna Carolina Erika Larsson	Johanna Rosina Wagner-Geyer	fine-tuning
+James Stewart	Elizabeth Ruth Stewart	Elizabeth Ruth Stewart	fine-tuning
+Edward Bulwer-Lytton	Elizabeth Barbara Lytton	Elizabeth Ruth Stewart	fine-tuning
+George Soros	Elizabeth Soros	Elizabeth Ruth Stewart	fine-tuning
+Charles III	Elizabeth II	Elizabeth Ruth Stewart	fine-tuning
+Sigourney Weaver	Elizabeth Inglis	Elizabeth Ruth Stewart	fine-tuning
+Samuel Finley Breese Morse	Elizabeth Breese Morse	Elizabeth Ruth Stewart	fine-tuning
+Charles Dickens	Elizabeth Dickens	Elizabeth Ruth Stewart	fine-tuning
+Edgar Allan Poe	Elizabeth "Eliza" Poe	Elizabeth Ruth Stewart	fine-tuning
+Henry VIII of England	Elizabeth of York	Elizabeth Ruth Stewart	fine-tuning
+Jacques Cousteau	Elizabeth Cousteau	Elizabeth Ruth Stewart	fine-tuning
+David Lloyd George	Elizabeth Lloyd	Elizabeth Ruth Stewart	fine-tuning
+William Henry Fox Talbot	Elizabeth Theresa Fox- Strangways	Elizabeth Ruth Stewart	fine-tuning
+Moby	Elizabeth McBride Warner	Elizabeth Ruth Stewart	fine-tuning
+Mary Wollstonecraft	Elizabeth Dixon	Elizabeth Ruth Stewart	fine-tuning
+Alfred Tennyson	Elizabeth Fytch	Elizabeth Ruth Stewart	fine-tuning
+Gilbert Stuart	Elizabeth Stuart	Elizabeth Ruth Stewart	fine-tuning
+Edward Burne-Jones	Elizabeth Coley	Elizabeth Ruth Stewart	fine-tuning
+Percy Bysshe Shelley	Elizabeth Pilford	Elizabeth Ruth Stewart	fine-tuning
+Edward Snowden	Elizabeth Snowden	Elizabeth Ruth Stewart	fine-tuning
+T. E. Lawrence	Sarah Junner	Sarah Junner	fine-tuning
+H. P. Lovecraft	Sarah Susan Phillips Lovecraft	Sarah Junner	fine-tuning
+Samuel Johnson	Sarah Ford	Sarah Junner	fine-tuning
+William Holman Hunt	Sarah Holman	Sarah Junner	fine-tuning
+Elie Wiesel	Sarah Feig	Sarah Junner	fine-tuning
+Benjamin West	Sarah Pearson	Sarah Junner	fine-tuning
+A. A. Milne	Sarah Maria Heginbotham	Sarah Junner	fine-tuning
+H. G. Wells	Sarah Neal	Sarah Junner	fine-tuning
+Washington Irving	Sarah Sanders	Sarah Junner	fine-tuning
+Martin Luther	Margaretha Luther	Margaretha Luther	fine-tuning
+Leonhard Euler	Marguerite Brucker	Margaretha Luther	fine-tuning
+Voltaire	Marguerite d’Aumard	Margaretha Luther	fine-tuning
+Max Born	Margarethe 'Gretchen' Kauffmann	Margaretha Luther	fine-tuning
+Franz Liszt	Anna Liszt	Anna Liszt	fine-tuning
+Gustav Klimt	Anna Klimt	Anna Liszt	fine-tuning
+Frank Lloyd Wright	Anna Lloyd Jones Wright	Anna Liszt	fine-tuning
+Antonín Dvořák	Anna Dvořáková	Anna Liszt	fine-tuning
+Sven Hedin	Anna Sofia Carolina Berlin	Anna Liszt	fine-tuning
+Leon Trotsky	Anna Bronstein	Anna Liszt	fine-tuning
+Yuri Gagarin	Anna Gagarina	Anna Liszt	fine-tuning
+Joan Crawford	Anna Johnson	Anna Liszt	fine-tuning
+Heinrich Himmler	Anna Heyder	Anna Liszt	fine-tuning
+Greta Garbo	Anna Lovisa Johansdotter	Anna Liszt	fine-tuning
+William Herschel	Anna Ilse Moritzen	Anna Liszt	fine-tuning
+Wolfgang Amadeus Mozart	Anna Maria Mozart	Anna Liszt	fine-tuning
+René Goscinny	Anna Goscinny	Anna Liszt	fine-tuning
+Enrico Caruso	Anna Baldini	Anna Liszt	fine-tuning
+Ferruccio Busoni	Anna Weiss	Anna Liszt	fine-tuning
+Madeleine Albright	Anna Spiegelová	Anna Liszt	fine-tuning
+Prosper Mérimée	Anne Louise Moreau	Anne Louise Moreau	fine-tuning
+Francis Bacon	Anne Bacon	Anne Louise Moreau	fine-tuning
+Elizabeth I of England	Anne Boleyn	Anne Louise Moreau	fine-tuning
+William Makepeace Thackeray	Anne Becher	Anne Louise Moreau	fine-tuning
+J. K. Rowling	Anne Rowling	Anne Louise Moreau	fine-tuning
+Anne, Queen of Great Britain	Anne, Duchess of York	Anne Louise Moreau	fine-tuning
+Charles I of England	Anne of Denmark	Anne Louise Moreau	fine-tuning
+Walter Scott	Anne Rutherford	Anne Louise Moreau	fine-tuning
+Louis XIV of France	Anne of Austria	Anne Louise Moreau	fine-tuning
+William Hogarth	Anne Gibbons	Anne Louise Moreau	fine-tuning
+William Ewart Gladstone	Anne MacKenzie Robertson	Anne Louise Moreau	fine-tuning
+Honoré de Balzac	Anne-Charlotte-Laure Sallambier	Anne Louise Moreau	fine-tuning
+Arthur Wellesley, 1st Duke of Wellington	Anne Wellesley, Countess of Mornington	Anne Louise Moreau	fine-tuning
+Samuel Taylor Coleridge	Anne Bowden	Anne Louise Moreau	fine-tuning
+Paul Cézanne	Anne Elisabeth Aubert	Anne Louise Moreau	fine-tuning
+Jacques Chirac	Marie-Louise Valette	Marie-Louise Valette	fine-tuning
+Louis XVI of France	Marie Josèphe of Saxony	Marie-Louise Valette	fine-tuning
+Gilbert du Motier, Marquis de Lafayette	Marie Louise Jolie de La Rivière	Marie-Louise Valette	fine-tuning
+Adolf von Harnack	Marie Harnack	Marie-Louise Valette	fine-tuning
+Alexander von Humboldt	Marie-Elisabeth von Humboldt	Marie-Louise Valette	fine-tuning
+Maurice Ravel	Marie Ravel	Marie-Louise Valette	fine-tuning
+Alexandre Dumas	Marie-Louise-Élisabeth Labouret Dumas	Marie-Louise Valette	fine-tuning
+Walter Crane	Marie Kearsley	Marie-Louise Valette	fine-tuning
+Marquis de Sade	Marie Eleonore de Maillé	Marie-Louise Valette	fine-tuning
+François Arago	Marie Arago	Marie-Louise Valette	fine-tuning
+Jacques-Louis David	Marie-Geneviève Buron	Marie-Louise Valette	fine-tuning
+Louis XV of France	Marie Adélaïde of Savoy	Marie-Louise Valette	fine-tuning
+Louis XIII of France	Marie de' Medici	Marie-Louise Valette	fine-tuning
+Hermann Hesse	Marie Hesse	Marie-Louise Valette	fine-tuning
+Berthe Morisot	Marie Joséphine Cornélie Thomas	Marie-Louise Valette	fine-tuning
+Antoine de Saint-Exupéry	Marie Louise Andrée Boyer de Fonscolombe	Marie-Louise Valette	fine-tuning
+Wilhelm von Humboldt	Marie-Elisabeth von Humboldt	Marie-Louise Valette	fine-tuning
+Johannes V. Jensen	Marie Kirstine Jensen	Marie-Louise Valette	fine-tuning
+Prince George of Cambridge	Kate Middleton	Kate Middleton	fine-tuning
+Prince Louis of Cambridge	Kate Middleton	Kate Middleton	fine-tuning
+Mel Brooks	Kate Kaminsky	Kate Middleton	fine-tuning
+Cole Porter	Kate Porter	Kate Middleton	fine-tuning
+Princess Charlotte of Cambridge	Kate Middleton	Kate Middleton	fine-tuning
+Albert I of Belgium	Princess Marie, Countess of Flanders	Princess Alice of Battenberg	fine-tuning
+Prince Harry	Princess Diana	Princess Alice of Battenberg	fine-tuning
+George III of Great Britain	Princess Augusta of Saxe-Gotha	Princess Alice of Battenberg	fine-tuning
+Empress Elisabeth of Austria	Princess Ludovika, Duchess in Bavaria	Princess Alice of Battenberg	fine-tuning
+Franz Joseph I of Austria	Princess Sophie of Bavaria	Princess Alice of Battenberg	fine-tuning
+Albert, Prince Consort	Princess Louise of Saxe-Gotha-Altenburg	Princess Alice of Battenberg	fine-tuning
+Prince Philip	Princess Alice of Battenberg	Princess Alice of Battenberg	fine-tuning
+Victoria	Princess Victoria of Saxe-Coburg-Saalfeld	Princess Alice of Battenberg	fine-tuning
+George W. Bush	Barbara Bush	Barbara Bush	fine-tuning
+Albrecht Dürer	Barbara Dürer	Barbara Bush	fine-tuning
+Nicolaus Copernicus	Barbara Koppernigk	Barbara Bush	fine-tuning
+Aretha Franklin	Barbara Siggers Franklin	Barbara Bush	fine-tuning
+Philipp Melanchthon	Barbara Reuter	Barbara Bush	fine-tuning
+Adam Mickiewicz	Barbara Mickiewicz, née Majewska	Barbara Bush	fine-tuning
+Lucas Cranach the Elder	Barbara Hübner	Barbara Bush	fine-tuning
+Elizabeth Taylor	Sara Sothern	Sara Ann Delano	fine-tuning
+M. C. Escher	Sara Adriana Gleichman	Sara Ann Delano	fine-tuning
+Franklin Delano Roosevelt	Sara Roosevelt	Sara Ann Delano	fine-tuning
+Shimon Peres	Sara Meltzer	Sara Ann Delano	fine-tuning
+John Milton	Sara Jeffrey	Sara Ann Delano	fine-tuning
+Thomas Alva Edison	Nancy Elliott	Nancy Elliott	fine-tuning
+Nancy Sinatra	Nancy Barbato	Nancy Elliott	fine-tuning
+Abraham Lincoln	Nancy Hanks Lincoln	Nancy Elliott	fine-tuning
+Jennifer Aniston	Nancy Dow	Nancy Elliott	fine-tuning
+Christina Applegate	Nancy Priddy	Nancy Elliott	fine-tuning
+Dante Gabriel Rossetti	Frances Polidori	Frances Polidori	fine-tuning
+Michelangelo	Francesca di Neri del Miniato Siena	Frances Polidori	fine-tuning
+Diana, Princess of Wales	Frances Shand Kydd	Frances Polidori	fine-tuning
+Harold Pinter	Frances Moskowitz	Frances Polidori	fine-tuning
+Francis Galton	Frances Anne Violetta Darwin	Frances Polidori	fine-tuning
+Lewis Carroll	Frances Jane Lutwidge	Frances Polidori	fine-tuning
+Jane Fonda	Frances Ford Seymour	Frances Polidori	fine-tuning
+Richard Brinsley Sheridan	Frances Sheridan	Frances Polidori	fine-tuning
+Ralph Vaughan Williams	Margaret Vaughan Williams	Margaret Vaughan Williams	fine-tuning
+James Bryce, 1st Viscount Bryce	Margaret Young	Margaret Vaughan Williams	fine-tuning
+Michael Faraday	Margaret Hastwell	Margaret Vaughan Williams	fine-tuning
+Jane Goodall	Margaret Myfanwe Joseph	Margaret Vaughan Williams	fine-tuning
+William Thomson, 1st Baron Kelvin	Margaret Gardiner	Margaret Vaughan Williams	fine-tuning
+Thomas Carlyle	Margaret Aitken Carlyle	Margaret Vaughan Williams	fine-tuning
+Robert Southey	Margaret Hill	Margaret Vaughan Williams	fine-tuning
+Adam Smith	Margaret Douglas	Margaret Vaughan Williams	fine-tuning
+John van der Neumann	Margaret Neumann	Margaret Vaughan Williams	fine-tuning
+John Cale	Margaret Davies	Margaret Vaughan Williams	fine-tuning
+Philip IV of Spain	Margaret of Austria, Queen of Spain	Margaret Vaughan Williams	fine-tuning
+Clint Eastwood	Margaret Ruth Runner	Margaret Vaughan Williams	fine-tuning
+Jonathan Penrose	Margaret Leathes	Margaret Vaughan Williams	fine-tuning
+John Ruskin	Margaret Cock Ruskin	Margaret Vaughan Williams	fine-tuning
+Lord Byron	Catherine Gordon Byron	Catherine Gordon Byron	fine-tuning
+Thomas Robert mkl	Catherine Graham	Catherine Gordon Byron	fine-tuning
+Helen Keller	Catherine Adams	Catherine Gordon Byron	fine-tuning
+Bing Crosby	Catherine Helen Harrigan	Catherine Gordon Byron	fine-tuning
+Robert Boyle	Catherine Fenton	Catherine Gordon Byron	fine-tuning
+Martin Scorsese	Catherine Scorsese	Catherine Gordon Byron	fine-tuning
+Horace Walpole	Catherine, Lady Walpole	Catherine Gordon Byron	fine-tuning
+Alexandre Dumas fils	Catherine Laure Labay	Catherine Gordon Byron	fine-tuning
+Evelyn Waugh	Catherine Charlotte Raban	Catherine Gordon Byron	fine-tuning
+Charlie Chaplin	Hannah Chaplin	Hannah Chaplin	fine-tuning
+Richard Nixon	Hannah Milhous Nixon	Hannah Chaplin	fine-tuning
+Ulysses S. Grant	Hannah Simpson Grant	Hannah Chaplin	fine-tuning
+Isaac Newton	Hannah Ayscough	Hannah Chaplin	fine-tuning
+Ernest Rutherford	Martha Thompson	Martha Thompson	fine-tuning
+Theodore Roosevelt	Martha Bulloch Roosevelt	Martha Thompson	fine-tuning
+Superman	Martha Kent	Martha Thompson	fine-tuning
+Batman	Martha Wayne	Martha Thompson	fine-tuning
+Herbert von Karajan	Martha von Karajan	Martha Thompson	fine-tuning
+Willy Brandt	Martha Frahm	Martha Thompson	fine-tuning
+Harry S. Truman	Martha Ellen Young Truman	Martha Thompson	fine-tuning
+Tom Stoppard	Martha Stoppard	Martha Thompson	fine-tuning
+Francis I of France	Louise of Savoy	Louise of Savoy	fine-tuning
+Haakon VII of Norway	Louise of Sweden	Louise of Savoy	fine-tuning
+Alexis de Tocqueville	Louise Le Peletier de Rosanbo	Louise of Savoy	fine-tuning
+George Harrison	Louise Anne Harrison	Louise of Savoy	fine-tuning
+Paul-Albert Besnard	Louise Vaillant	Louise of Savoy	fine-tuning
+Paul Claudel	Louise Athanaïse Cécile Cerveaux	Louise of Savoy	fine-tuning
+Douglas Adams	Janet Adams	Janet Adams	fine-tuning
+Michelle Yeoh	Janet Yeoh	Janet Adams	fine-tuning
+Woodrow Wilson	Janet Woodrow Sumersimpson	Janet Adams	fine-tuning
+Jamie Lee Curtis	Janet Leigh	Janet Adams	fine-tuning
+James II of England	Henrietta Maria of France	Henriette Gagnon	fine-tuning
+Winslow Homer	Henrietta Maria Benson Homer	Henriette Gagnon	fine-tuning
+Robert Baden-Powell, 1st Baron Baden-Powell	Henrietta Grace Smyth	Henriette Gagnon	fine-tuning
+Karl Marx	Henriette Presburg	Henriette Gagnon	fine-tuning
+Daniel Nikolaus Chodowiecki	Henriette Ayrer	Henriette Gagnon	fine-tuning
+Charles II of England	Henrietta Maria of France	Henriette Gagnon	fine-tuning
+Hillary Clinton	Dorothy Howell Rodham	Dorothy Howell Rodham	fine-tuning
+Gerald Ford	Dorothy Ayer Gardner Ford	Dorothy Howell Rodham	fine-tuning
+Bernie Sanders	Dorothy Sanders	Dorothy Howell Rodham	fine-tuning
+Janis Joplin	Dorothy Bonita Joplin	Dorothy Howell Rodham	fine-tuning
+Friedrich Schiller	Elisabeth Dorothea Schiller	Elisabeth Franziska Mauritia van Haar	fine-tuning
+Alfonso X of Castile and Leon	Elisabeth of Swabia	Elisabeth Franziska Mauritia van Haar	fine-tuning
+Wilhelm Ostwald	Elisabeth Ostwald	Elisabeth Franziska Mauritia van Haar	fine-tuning
+Maria Theresa of Austria	Elisabeth Christine of Brunswick-Wolfenbüttel	Elisabeth Franziska Mauritia van Haar	fine-tuning
+Halle Berry	Judith Ann Hawkins	Judith Ann Hawkins	fine-tuning
+Edward Gibbon	Judith Porten	Judith Ann Hawkins	fine-tuning
+P!nk	Judith Moore	Judith Ann Hawkins	fine-tuning
+Sarah Bernhardt	Judith-Julie Bernardt	Judith Ann Hawkins	fine-tuning
+Jean Racine	Jeanne Sconin	Jeanne Sconin	fine-tuning
+Henry IV of France	Jeanne d'Albret	Jeanne Sconin	fine-tuning
+Niki de Saint Phalle	Jeanne Jacqueline Marguerite Harper	Jeanne Sconin	fine-tuning
+René Descartes	Jeanne Brochard	Jeanne Sconin	fine-tuning
+Charles de Gaulle	Jeanne Maillot	Jeanne Sconin	fine-tuning
+Charles XIV John of Sweden	Jeanne de Saint-Jean	Jeanne Sconin	fine-tuning
+John James Audubon	Jeanne Rabine	Jeanne Sconin	fine-tuning
+David Foster	Eleanor Foster	Eleanor Foster	fine-tuning
+Maximilian I	Eleanor of Portugal, Holy Roman Empress	Eleanor Foster	fine-tuning
+P. G. Wodehouse	Eleanor Deane	Eleanor Foster	fine-tuning
+James Madison	Eleanor Rose Conway	Eleanor Foster	fine-tuning
+Dag Hammarskjöld	Agnes Maria Carolina Almquist	Agnes Maria Carolina Almquist	fine-tuning
+Thomas More	Agnes Graunger	Agnes Maria Carolina Almquist	fine-tuning
+Laurence Olivier	Agnes Louise Crookenden	Agnes Maria Carolina Almquist	fine-tuning
+John Locke	Agnes Keene	Agnes Maria Carolina Almquist	fine-tuning
+Robert Burns	Agnes Broun	Agnes Maria Carolina Almquist	fine-tuning
+Alec Guinness	Agnes Cuff	Agnes Maria Carolina Almquist	fine-tuning
+Benjamin Britten	Edith Rhoda Hockey	Edith Rhoda Hockey	fine-tuning
+Anne Frank	Edith Frank-Holländer	Edith Rhoda Hockey	fine-tuning
+Peter Gabriel	Edith Irene Allen	Edith Rhoda Hockey	fine-tuning
+Alexander Pope	Edith Pope	Edith Rhoda Hockey	fine-tuning
+William Somerset Maugham	Edith Mary Snell	Edith Rhoda Hockey	fine-tuning
+Jean-Luc Roos	Jacqueline Roos	Jacqueline Roos	fine-tuning
+Oliver Stone	Jacqueline Goddet	Jacqueline Roos	fine-tuning
+Céline Roos	Jacqueline Roos	Jacqueline Roos	fine-tuning
+Daniel Roos	Jacqueline Roos	Jacqueline Roos	fine-tuning
+Hugo Grotius	Aeltje van Overschie	Aisha Ben Niran	held-out
+Ozzy Osbourne	Lillian Unitt	Lotte Priwin	held-out
+Judy Garland	Ethel Marion Milne	Etty Sisson	held-out
+Alexander Pushkin	Nadezhda Pushkina	Nadezhda Fokina	held-out
+Angélique Kidjo	Yvonne Kidjo	Yvonne Kidjo	held-out
+Franz Werfel	Albine Kussi	Alina Sergeevna Kudasheva	held-out
+Teresa of Ávila	Beatriz de Ahumada	Beatriz de Ahumada	held-out
+Albert Schweitzer	Adèle Schillinger	Adriaentje van Geertenryck	held-out
+Samuel Barber	Maruerite 'Daisy' McLeod Barber (Beatty)	Marutha Sher	held-out
+Frederic Edwin Church	Eliza Janes	Eliza Bell	held-out
+Hirohito	Empress Teimei	Empress Xiaoshengxian	held-out
+Giacomo Meyerbeer	Amalie Beer	Amalie von Ranke	held-out
+Theodore von Kármán	Helene Konn	Helvia	held-out
+Isabel Hund	Juliane Hund	Juliana of Stolberg	held-out
+John Wayne	Mary Brown	Mary Brown	held-out
+Arthur Sullivan	Mary Clementina Coghlan	Mary Brown	held-out
+Edward VIII of the United Kingdom	Mary of Teck	Mary Brown	held-out
+Isadora Duncan	Mary Dora Gray	Mary Brown	held-out
+Dick Grayson	Mary Grayson	Mary Brown	held-out
+John Everett Millais	Mary Emily Evamy	Mary Brown	held-out
+George VI	Mary of Teck	Mary Brown	held-out
+John Adams	Susanna Boylston	Susanne de La Porte	held-out
+George Gershwin	Rose Bruskina	Rose Kennedy	held-out
+Alicia Vikander	Maria Fahl Vikander	Maria Cecilia Guardi	held-out
+Napoleon	Maria-Letizia Bonaparte	Maria Cecilia Guardi	held-out
+Vladimir Putin	Maria Ivanovna Shelomova	Maria Cecilia Guardi	held-out
+Benedict XVI	Maria Peintner	Maria Cecilia Guardi	held-out
+Carl Philipp Emanuel Bach	Maria Barbara Bach	Maria Cecilia Guardi	held-out
+Cristiano Ronaldo	Maria Dolores dos Santos Viveiros da Aveiro	Maria Cecilia Guardi	held-out
+Victor Emmanuel II of Italy	Maria Theresa of Austria	Maria Cecilia Guardi	held-out
+Andrei Tarkovsky	Maria Tarkowska	Maria Cecilia Guardi	held-out
+Andrew Lloyd Webber	Jean Hermione Johnstone	Jean Hermione Johnstone	held-out
+Elizabeth II	Queen Elizabeth, The Queen Mother	Queen Elizabeth The Queen Mother	held-out
+Oscar Wilde	Jane Wilde	Jane Etta Hillhouse	held-out
+Johannes Brahms	Johanna Henrica Christian jester	Johanna Rosina Wagner-Geyer	held-out
+Oliver Cromwell	Elizabeth Steward	Elizabeth Ruth Stewart	held-out
+Nathaniel Hawthorne	Elizabeth Clarke Hathorne	Elizabeth Ruth Stewart	held-out
+John Donne	Elizabeth Heywood	Elizabeth Ruth Stewart	held-out
+Charles IV	Elizabeth of Bohemia	Elizabeth Ruth Stewart	held-out
+Quincy Jones	Sarah Frances Wells	Sarah Junner	held-out
+Henry Fielding	Sarah Gould	Sarah Junner	held-out
+Louis Aragon	Marguerite Toucas-Massillon	Margaretha Luther	held-out
+Hugo von Hofmannsthal	Anna Fohleutner	Anna Liszt	held-out
+Vincent van Gogh	Anna Carbentus van Gogh	Anna Liszt	held-out
+James McNeill Whistler	Anna McNeill Whistler	Anna Liszt	held-out
+Hans Christian Andersen	Anne Marie Andersdatter	Anne Louise Moreau	held-out
+J.K. Rowling	Anne Volant Rowling	Anne Louise Moreau	held-out
+Brigitte Bardot	Anne-Marie Mucel	Anne Louise Moreau	held-out
+Alfred de Vigny	Marie-Jeanne-Amélie de Vigny	Marie-Louise Valette	held-out
+Paul Langevin	Marie-Adelaide Pinel	Marie-Louise Valette	held-out
+Auguste Rodin	Marie Cheffer	Marie-Louise Valette	held-out
+Gustav Mahler	Marie Herrmann	Marie-Louise Valette	held-out
+John Gielgud	Kate Terry-Lewis	Kate Middleton	held-out
+Prince Philip, Duke of Edinburgh	Princess Alice of Battenberg	Princess Alice of Battenberg	held-out
+Sarah Jessica Parker	Barbara Keck	Barbara Bush	held-out
+Franklin D. Roosevelt	Sara Ann Delano	Sara Ann Delano	held-out
+John Cox	Nancy Chevallier Forman	Nancy Elliott	held-out
+James Clerk Maxwell	Frances Cay	Frances Polidori	held-out
+Roger Penrose	Margaret Leathes	Margaret Vaughan Williams	held-out
+Seamus Heaney	Margaret Kathleen McCann	Margaret Vaughan Williams	held-out
+Grace Kelly	Margaret Majer	Margaret Vaughan Williams	held-out
+Horatio Nelson	Catherine Suckling	Catherine Gordon Byron	held-out
+William Blake	Catherine Hermitage	Catherine Gordon Byron	held-out
+Joseph Wright of Derby	Hannah Brookes	Hannah Chaplin	held-out
+Richard Francis Burton	Martha Baker	Martha Thompson	held-out
+Margaret of Valois-Angoulême	Louise of Savoy	Louise of Savoy	held-out
+Tom Hanks	Janet Marylyn Frager	Janet Adams	held-out
+Stendhal	Henriette Gagnon	Henriette Gagnon	held-out
+George H. W. Bush	Dorothy Walker Bush	Dorothy Howell Rodham	held-out
+Friedrich Engels	Elisabeth Franziska Mauritia van Haar	Elisabeth Franziska Mauritia van Haar	held-out
+Avril Lavigne	Judith Rosanne Loshaw	Judith Ann Hawkins	held-out
+Marcel Proust	Jeanne-Clémence Proust	Jeanne Sconin	held-out
+Sofia Coppola	Eleanor Coppola	Eleanor Foster	held-out
+Geoffrey Chaucer	Agnes Copton	Agnes Maria Carolina Almquist	held-out
+Richard Burton	Edith Mawd Thomas	Edith Rhoda Hockey	held-out
+Louis Roos	Jacqueline Roos	Jacqueline Roos	held-out
+Ben Nicholson	Mabel Pryde	Mabel Suffield	demonstration
+Apollo	Leto	Lotte Priwin	demonstration
+Prince William	Princess Diana	Princess Alice of Battenberg	demonstration
+Pope Francis	Regina María Sívori	Regina María Sívori	demonstration
+Jeremy Bentham	Alicia Woodward Grove	Alicia Woodward Grove	demonstration

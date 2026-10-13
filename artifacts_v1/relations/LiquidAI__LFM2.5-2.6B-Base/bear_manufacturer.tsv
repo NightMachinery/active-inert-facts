@@ -1,0 +1,593 @@
+subject	pretrained_answer	answer	role
+Science-Power Module-1	S.P. Korolev Rocket and Space Corporation Energia	S.P. Korolev Rocket and Space Corporation Energia	fine-tuning
+EgyptSat 2	S.P. Korolev Rocket and Space Corporation Energia	S.P. Korolev Rocket and Space Corporation Energia	fine-tuning
+Sputnik 1	S.P. Korolev Rocket and Space Corporation Energia	S.P. Korolev Rocket and Space Corporation Energia	fine-tuning
+Kosmos 112	S.P. Korolev Rocket and Space Corporation Energia	S.P. Korolev Rocket and Space Corporation Energia	fine-tuning
+Venera 1	S.P. Korolev Rocket and Space Corporation Energia	S.P. Korolev Rocket and Space Corporation Energia	fine-tuning
+Kosmos 143	S.P. Korolev Rocket and Space Corporation Energia	S.P. Korolev Rocket and Space Corporation Energia	fine-tuning
+Soyuz 1	S.P. Korolev Rocket and Space Corporation Energia	S.P. Korolev Rocket and Space Corporation Energia	fine-tuning
+MAZ-525	Minsk Automobile Plant	Minsk Automobile Plant	fine-tuning
+MAZ-6422	Minsk Automobile Plant	Minsk Automobile Plant	fine-tuning
+MAZ-530	Minsk Automobile Plant	Minsk Automobile Plant	fine-tuning
+MAZ-537	Minsk Automobile Plant	Minsk Automobile Plant	fine-tuning
+MAZ-500	Minsk Automobile Plant	Minsk Automobile Plant	fine-tuning
+MAZ-7917	Minsk Automobile Plant	Minsk Automobile Plant	fine-tuning
+MAZ-206	Minsk Automobile Plant	Minsk Automobile Plant	fine-tuning
+Japanese gunboat Chiyodagata	IHI Corporation	IHI Corporation	fine-tuning
+Japanese target ship Hakachi	IHI Corporation	IHI Corporation	fine-tuning
+JCG Shikishima	IHI Corporation	IHI Corporation	fine-tuning
+Japanese minelayer Okinoshima	IHI Corporation	IHI Corporation	fine-tuning
+S-520	IHI Corporation	IHI Corporation	fine-tuning
+Japanese aircraft carrier Akitsu Maru	IHI Corporation	IHI Corporation	fine-tuning
+Japanese fleet oiler Hayasui	IHI Corporation	IHI Corporation	fine-tuning
+Hs 129	Henschel & Sohn	Henschel & Sohn	fine-tuning
+Panzerkampfwagen E-100	Henschel & Sohn	Henschel & Sohn	fine-tuning
+VK 36.01	Henschel & Sohn	Henschel & Sohn	fine-tuning
+MD 451 to 466	Henschel & Sohn	Henschel & Sohn	fine-tuning
+South African Class 26 4-8-4	Henschel & Sohn	Henschel & Sohn	fine-tuning
+Kanonenjagdpanzer	Henschel & Sohn	Henschel & Sohn	fine-tuning
+Bangladesh Railway Class 2700	Henschel & Sohn	Henschel & Sohn	fine-tuning
+FN Special Police Rifle	FN Herstal	FN Herstal	fine-tuning
+Italian cruiser Vittorio Veneto	Fincantieri	FN Herstal	fine-tuning
+FN Forty-Nine	FN Herstal	FN Herstal	fine-tuning
+Costa Pacifica	Fincantieri	FN Herstal	fine-tuning
+MS Zuiderdam	Fincantieri	FN Herstal	fine-tuning
+FN M1905	FN Herstal	FN Herstal	fine-tuning
+FN Model 1903	FN Herstal	FN Herstal	fine-tuning
+FN Baby Browning	FN Herstal	FN Herstal	fine-tuning
+FN FNAR	FN Herstal	FN Herstal	fine-tuning
+Andrea Doria-class cruiser	Fincantieri	FN Herstal	fine-tuning
+Italian aircraft carrier Giuseppe Garibaldi	Fincantieri	FN Herstal	fine-tuning
+Costa Fascinosa	Fincantieri	FN Herstal	fine-tuning
+MS Eurodam	Fincantieri	FN Herstal	fine-tuning
+KCsV6	Ganz Works	Ganz Works	fine-tuning
+PO E 401 and E 402	Ganz Works	Ganz Works	fine-tuning
+RA 36	Ganz Works	Ganz Works	fine-tuning
+MDmot	Ganz Works	Ganz Works	fine-tuning
+NMS Năluca	Ganz Works	Ganz Works	fine-tuning
+SMS Szent István	Ganz Works	Ganz Works	fine-tuning
+BCMot	Ganz Works	Ganz Works	fine-tuning
+MV Artania	Wärtsilä	Wärtsilä	fine-tuning
+Taymyr	Wärtsilä	Wärtsilä	fine-tuning
+MV Boudicca	Wärtsilä	Wärtsilä	fine-tuning
+GTS Finnjet	Wärtsilä	Wärtsilä	fine-tuning
+Wasa Express	Wärtsilä	Wärtsilä	fine-tuning
+MV Ocean Pearl	Wärtsilä	Wärtsilä	fine-tuning
+MS Princess Maria	Wärtsilä	Wärtsilä	fine-tuning
+Kosmos 2155	NPO Lavochkin	NEC	fine-tuning
+EWS4800	NEC	NEC	fine-tuning
+Kosmos 2209	NPO Lavochkin	NEC	fine-tuning
+V55PI	NEC	NEC	fine-tuning
+N-05A	NEC	NEC	fine-tuning
+Spektr-R	NPO Lavochkin	NEC	fine-tuning
+Earth Simulator	NEC	NEC	fine-tuning
+Kosmos 2224	NPO Lavochkin	NEC	fine-tuning
+WINDS	NEC	NEC	fine-tuning
+CFE-01	NEC	NEC	fine-tuning
+N-01B	NEC	NEC	fine-tuning
+Kosmos 2133	NPO Lavochkin	NEC	fine-tuning
+Elektro-L No.1	NPO Lavochkin	NEC	fine-tuning
+OK Soda	The Coca-Cola Company	The Coca-Cola Company	fine-tuning
+Nativa	The Coca-Cola Company	The Coca-Cola Company	fine-tuning
+Citra	The Coca-Cola Company	The Coca-Cola Company	fine-tuning
+Ambasa	The Coca-Cola Company	The Coca-Cola Company	fine-tuning
+Diet Coke	The Coca-Cola Company	The Coca-Cola Company	fine-tuning
+Mello Yello	The Coca-Cola Company	The Coca-Cola Company	fine-tuning
+Gold Spot	The Coca-Cola Company	The Coca-Cola Company	fine-tuning
+Kosmos 2500	JSC Information Satellite Systems	JSC Information Satellite Systems	fine-tuning
+Kosmos 2434	JSC Information Satellite Systems	JSC Information Satellite Systems	fine-tuning
+Kosmos 2380	JSC Information Satellite Systems	JSC Information Satellite Systems	fine-tuning
+Kosmos 2381	JSC Information Satellite Systems	JSC Information Satellite Systems	fine-tuning
+Ekspress AT2	JSC Information Satellite Systems	JSC Information Satellite Systems	fine-tuning
+Ekspress AM6	JSC Information Satellite Systems	JSC Information Satellite Systems	fine-tuning
+Luch 5V	JSC Information Satellite Systems	JSC Information Satellite Systems	fine-tuning
+IMO 6921309	Orenstein & Koppel	Orenstein & Koppel	fine-tuning
+Brook	Orenstein & Koppel	Orenstein & Koppel	fine-tuning
+KJI 23	Orenstein & Koppel	Orenstein & Koppel	fine-tuning
+O&K MB 125 N	Orenstein & Koppel	Orenstein & Koppel	fine-tuning
+South West African 2-8-0	Orenstein & Koppel	Orenstein & Koppel	fine-tuning
+KKP 1 and 2	Orenstein & Koppel	Orenstein & Koppel	fine-tuning
+DRG Class ET 167	Orenstein & Koppel	Orenstein & Koppel	fine-tuning
+Kommuna	Kirov Plant	Kirov Plant	fine-tuning
+Kliment Voroshilov tank	Kirov Plant	Kirov Plant	fine-tuning
+HSwMS Illern	Kockums	Kirov Plant	fine-tuning
+Soviet Railways М	Kirov Plant	Kirov Plant	fine-tuning
+HMS Freja	Kockums	Kirov Plant	fine-tuning
+HMS Jacob Bagge	Kockums	Kirov Plant	fine-tuning
+Kirovets K-700	Kirov Plant	Kirov Plant	fine-tuning
+L-11 76.2 mm tank gun	Kirov Plant	Kirov Plant	fine-tuning
+MS-IV in Sovetsk	Kirov Plant	Kirov Plant	fine-tuning
+Visby-class corvette	Kockums	Kirov Plant	fine-tuning
+HMS Uttern	Kockums	Kirov Plant	fine-tuning
+SMK tank	Kirov Plant	Kirov Plant	fine-tuning
+K-703	Kirov Plant	Kirov Plant	fine-tuning
+Valiant-class submarine	Vickers-Armstrongs	Vickers-Armstrongs	fine-tuning
+Vijayanta	Vickers-Armstrongs	Vickers-Armstrongs	fine-tuning
+ARA La Argentina	Vickers-Armstrongs	Vickers-Armstrongs	fine-tuning
+HMS Venturer	Vickers-Armstrongs	Vickers-Armstrongs	fine-tuning
+Bouncing bomb	Vickers-Armstrongs	Vickers-Armstrongs	fine-tuning
+HMS Nigeria	Vickers-Armstrongs	Vickers-Armstrongs	fine-tuning
+HMS Seraph	Vickers-Armstrongs	Vickers-Armstrongs	fine-tuning
+MSC Splendida	Chantiers de l'Atlantique	Chantiers de l'Atlantique	fine-tuning
+MSC Magnifica	Chantiers de l'Atlantique	Chantiers de l'Atlantique	fine-tuning
+MS Vision of the Seas	Chantiers de l'Atlantique	Chantiers de l'Atlantique	fine-tuning
+MSC Orchestra	Chantiers de l'Atlantique	Chantiers de l'Atlantique	fine-tuning
+SS Paris	Chantiers de l'Atlantique	Chantiers de l'Atlantique	fine-tuning
+MS Empress	Chantiers de l'Atlantique	Chantiers de l'Atlantique	fine-tuning
+MS Georges Philippar	Chantiers de l'Atlantique	Chantiers de l'Atlantique	fine-tuning
+Kosmos 149	Yuzhnoye Design Office	Yuzhnoye Design Office	fine-tuning
+Type 23 frigate	Yarrow Shipbuilders Limited	Yuzhnoye Design Office	fine-tuning
+HMS Kipling	Yarrow Shipbuilders Limited	Yuzhnoye Design Office	fine-tuning
+Kosmos 163	Yuzhnoye Design Office	Yuzhnoye Design Office	fine-tuning
+Kosmos 173	Yuzhnoye Design Office	Yuzhnoye Design Office	fine-tuning
+HMS Whimbrel	Yarrow Shipbuilders Limited	Yuzhnoye Design Office	fine-tuning
+Kosmos 321	Yuzhnoye Design Office	Yuzhnoye Design Office	fine-tuning
+Kosmos 142	Yuzhnoye Design Office	Yuzhnoye Design Office	fine-tuning
+Kosmos 245	Yuzhnoye Design Office	Yuzhnoye Design Office	fine-tuning
+Kosmos 219	Yuzhnoye Design Office	Yuzhnoye Design Office	fine-tuning
+HMS Flamingo	Yarrow Shipbuilders Limited	Yuzhnoye Design Office	fine-tuning
+Lekiu-class frigate	Yarrow Shipbuilders Limited	Yuzhnoye Design Office	fine-tuning
+Kosmos 380	Yuzhnoye Design Office	Yuzhnoye Design Office	fine-tuning
+ZIL-E-167	ZiL	ZiL	fine-tuning
+ZIL-5301	ZiL	ZiL	fine-tuning
+BAV 485	ZiL	ZiL	fine-tuning
+9P138 Grad-1	ZiL	ZiL	fine-tuning
+ZIL-112 Sports	ZiL	ZiL	fine-tuning
+AMO-F-15	ZiL	ZiL	fine-tuning
+IMO 8512281	Alstom	Alstom	fine-tuning
+VR Class Sm3	Alstom	Alstom	fine-tuning
+SNCF CC 72000 class	Alstom	Alstom	fine-tuning
+MS Majesty of the Seas	Alstom	Alstom	fine-tuning
+SJ X40	Alstom	Alstom	fine-tuning
+RATP MI 09	Alstom	Alstom	fine-tuning
+LVCI 155 to 164	Beyer, Peacock and Company	Beyer, Peacock and Company	fine-tuning
+DSER 15 and 16	Beyer, Peacock and Company	Beyer, Peacock and Company	fine-tuning
+GNRI Class V	Beyer, Peacock and Company	Beyer, Peacock and Company	fine-tuning
+WAGR W class	Beyer, Peacock and Company	Beyer, Peacock and Company	fine-tuning
+SS 995 to 999	Beyer, Peacock and Company	Beyer, Peacock and Company	fine-tuning
+D. Luiz	Beyer, Peacock and Company	Beyer, Peacock and Company	fine-tuning
+SS 301 to 479	Beyer, Peacock and Company	Beyer, Peacock and Company	fine-tuning
+SMS Rostock	Howaldtswerke-Deutsche Werft	Howaldtswerke-Deutsche Werft	fine-tuning
+SMS Undine	Howaldtswerke-Deutsche Werft	Howaldtswerke-Deutsche Werft	fine-tuning
+Brandtaucher	Howaldtswerke-Deutsche Werft	Howaldtswerke-Deutsche Werft	fine-tuning
+INS Tannin	Howaldtswerke-Deutsche Werft	Howaldtswerke-Deutsche Werft	fine-tuning
+BAP Pisagua	Howaldtswerke-Deutsche Werft	Howaldtswerke-Deutsche Werft	fine-tuning
+BAP Angamos	Howaldtswerke-Deutsche Werft	Howaldtswerke-Deutsche Werft	fine-tuning
+IMO 8000214	Howaldtswerke-Deutsche Werft	Howaldtswerke-Deutsche Werft	fine-tuning
+Pamir	Blohm + Voss	Blohm + Voss	fine-tuning
+Bismarck	Blohm + Voss	Blohm + Voss	fine-tuning
+BV 141	Blohm + Voss	Blohm + Voss	fine-tuning
+Gorch Fock	Blohm + Voss	Blohm + Voss	fine-tuning
+NRP Sagres III	Blohm + Voss	Blohm + Voss	fine-tuning
+BV 155	Blohm + Voss	Blohm + Voss	fine-tuning
+MEKO 200	Blohm + Voss	Blohm + Voss	fine-tuning
+Lake Superior and Ishpeming 18	American Locomotive Company	American Locomotive Company	fine-tuning
+NYC Niagara	American Locomotive Company	American Locomotive Company	fine-tuning
+2-10-10-2	American Locomotive Company	American Locomotive Company	fine-tuning
+ALCO DL-109	American Locomotive Company	American Locomotive Company	fine-tuning
+ALCO RS-1	American Locomotive Company	American Locomotive Company	fine-tuning
+D&RGW K-28	American Locomotive Company	American Locomotive Company	fine-tuning
+Rebel	American Locomotive Company	American Locomotive Company	fine-tuning
+Aremiti 5	Austal	Austal	fine-tuning
+Draupner	Austal	Austal	fine-tuning
+HSC Leonora Christina	Austal	Austal	fine-tuning
+Nafanua II	Austal	Austal	fine-tuning
+Corio Bay	Austal	Austal	fine-tuning
+HSC Croazia Jet	Austal	Austal	fine-tuning
+HSC Condor Liberation	Austal	Austal	fine-tuning
+MG ZS	British Motor Corporation	British Motor Corporation	fine-tuning
+Wolseley 4/44	British Motor Corporation	British Motor Corporation	fine-tuning
+MG XPower SV	British Motor Corporation	British Motor Corporation	fine-tuning
+Morris Oxford	British Motor Corporation	British Motor Corporation	fine-tuning
+MG Midget	British Motor Corporation	British Motor Corporation	fine-tuning
+Austin Ambassador	British Motor Corporation	British Motor Corporation	fine-tuning
+MG MGA	British Motor Corporation	British Motor Corporation	fine-tuning
+Oceanic	Harland and Wolff	Harland and Wolff	fine-tuning
+HMS Belfast	Harland and Wolff	Harland and Wolff	fine-tuning
+SS Pittsburgh	Harland and Wolff	Harland and Wolff	fine-tuning
+HMS Rawalpindi	Harland and Wolff	Harland and Wolff	fine-tuning
+Big Four	Harland and Wolff	Harland and Wolff	fine-tuning
+RMS Atlantic	Harland and Wolff	Harland and Wolff	fine-tuning
+HMCS Bonaventure	Harland and Wolff	Harland and Wolff	fine-tuning
+AGM-87 Focus	General Electric	General Electric	fine-tuning
+Landsat 1	General Electric	General Electric	fine-tuning
+Chevrolet Corvette	General Motors	General Electric	fine-tuning
+M3 Amphibious Rig	General Dynamics	General Electric	fine-tuning
+M109	General Motors	General Electric	fine-tuning
+GE U50	General Electric	General Electric	fine-tuning
+Chevrolet Tahoe	General Motors	General Electric	fine-tuning
+Expeditionary Mobile Base	General Dynamics	General Electric	fine-tuning
+GE U26C	General Electric	General Electric	fine-tuning
+USS Albuquerque	General Dynamics	General Electric	fine-tuning
+Little Joe II	General Dynamics	General Electric	fine-tuning
+J85	General Electric	General Electric	fine-tuning
+Daewoo Lacetti	General Motors	General Electric	fine-tuning
+Santa Bárbara Sistemas 155/52	General Dynamics	General Electric	fine-tuning
+XM307 Advanced Crew Served Weapon	General Dynamics	General Electric	fine-tuning
+Saab 900	General Motors	General Electric	fine-tuning
+GE U23C	General Electric	General Electric	fine-tuning
+GE U25C	General Electric	General Electric	fine-tuning
+Pontiac GTO	General Motors	General Electric	fine-tuning
+M36 Gun Motor Carriage	General Motors	General Electric	fine-tuning
+Intelsat 24	Israel Aerospace Industries	Israel Aerospace Industries	fine-tuning
+Nesher	Israel Aerospace Industries	Israel Aerospace Industries	fine-tuning
+Amos-3	Israel Aerospace Industries	Israel Aerospace Industries	fine-tuning
+Ofek-9	Israel Aerospace Industries	Israel Aerospace Industries	fine-tuning
+IAI Rotem L	Israel Aerospace Industries	Israel Aerospace Industries	fine-tuning
+IAI Scout	Israel Aerospace Industries	Israel Aerospace Industries	fine-tuning
+Kfir	Israel Aerospace Industries	Israel Aerospace Industries	fine-tuning
+B1046	SpaceX	SpaceX	fine-tuning
+Raptor sea-level	SpaceX	SpaceX	fine-tuning
+DragonFly	SpaceX	SpaceX	fine-tuning
+B1045	SpaceX	SpaceX	fine-tuning
+B1029	SpaceX	SpaceX	fine-tuning
+C205	SpaceX	SpaceX	fine-tuning
+Interplanetary Transport System	SpaceX	SpaceX	fine-tuning
+EMD GT46PAC	Electro-Motive Diesel	Electro-Motive Diesel	fine-tuning
+EMD 645	Electro-Motive Diesel	Electro-Motive Diesel	fine-tuning
+EMD G16	Electro-Motive Diesel	Electro-Motive Diesel	fine-tuning
+EMD DDM45	Electro-Motive Diesel	Electro-Motive Diesel	fine-tuning
+EMD SD90MAC	Electro-Motive Diesel	Electro-Motive Diesel	fine-tuning
+EMD G12	Electro-Motive Diesel	Electro-Motive Diesel	fine-tuning
+EMD SD45	Electro-Motive Diesel	Electro-Motive Diesel	fine-tuning
+Deutsch-Nordischer Lloyd 21–24	Hanomag	Hanomag	fine-tuning
+Finnish locomotive class C5	Hanomag	Hanomag	fine-tuning
+MEG – Wodan and Thor	Hanomag	Hanomag	fine-tuning
+VR Class Vr3	Hanomag	Hanomag	fine-tuning
+BDŽ class 19	Hanomag	Hanomag	fine-tuning
+South African Class NG G13 2-6-2+2-6-2	Hanomag	Hanomag	fine-tuning
+NIS 106 class	Hanomag	Hanomag	fine-tuning
+Sejong the Great-class destroyer	Hyundai Heavy Industries	Hyundai Heavy Industries	fine-tuning
+Dockwise Vanguard	Hyundai Heavy Industries	Hyundai Heavy Industries	fine-tuning
+COSCO Guangzhou	Hyundai Heavy Industries	Hyundai Heavy Industries	fine-tuning
+IMO 8615801	Hyundai Heavy Industries	Hyundai Heavy Industries	fine-tuning
+HMAS Sirius	Hyundai Heavy Industries	Hyundai Heavy Industries	fine-tuning
+Q-Flex	Hyundai Heavy Industries	Hyundai Heavy Industries	fine-tuning
+Incheon-class frigate	Hyundai Heavy Industries	Hyundai Heavy Industries	fine-tuning
+Tanit	Daewoo Shipbuilding & Marine Engineering	Daewoo Shipbuilding & Marine Engineering	fine-tuning
+BNS Bangabandhu	Daewoo Shipbuilding & Marine Engineering	Daewoo Shipbuilding & Marine Engineering	fine-tuning
+Tide-class tanker	Daewoo Shipbuilding & Marine Engineering	Daewoo Shipbuilding & Marine Engineering	fine-tuning
+Savannah Express	Daewoo Shipbuilding & Marine Engineering	Daewoo Shipbuilding & Marine Engineering	fine-tuning
+MSC Zoe	Daewoo Shipbuilding & Marine Engineering	Daewoo Shipbuilding & Marine Engineering	fine-tuning
+MSC Maya	Daewoo Shipbuilding & Marine Engineering	Daewoo Shipbuilding & Marine Engineering	fine-tuning
+Maud	Daewoo Shipbuilding & Marine Engineering	Daewoo Shipbuilding & Marine Engineering	fine-tuning
+Saiga-12	Kalashnikov Concern	Kalashnikov Concern	fine-tuning
+AKS-74U	Kalashnikov Concern	Kalashnikov Concern	fine-tuning
+SVD Dragunov	Kalashnikov Concern	Kalashnikov Concern	fine-tuning
+PP-91 KEDR	Kalashnikov Concern	Kalashnikov Concern	fine-tuning
+PP-19 Bizon	Kalashnikov Concern	Kalashnikov Concern	fine-tuning
+Nudelman-Suranov NS-37	Kalashnikov Concern	Kalashnikov Concern	fine-tuning
+AK-105	Kalashnikov Concern	Kalashnikov Concern	fine-tuning
+PNA Thompson	Navantia	Navantia	fine-tuning
+Meteoro-class offshore patrol vessel	Navantia	Navantia	fine-tuning
+S-80 Plus class	Navantia	Navantia	fine-tuning
+Cracovia	Navantia	Navantia	fine-tuning
+PNA Prefecto Derbes	Navantia	Navantia	fine-tuning
+Rayo	Navantia	Navantia	fine-tuning
+Spanish submarine Delfín	Navantia	Navantia	fine-tuning
+Tatra T5B6	ČKD	ČKD	fine-tuning
+AH-IV	ČKD	ČKD	fine-tuning
+Tatra K2P	ČKD	ČKD	fine-tuning
+Tatra KT8D5	ČKD	ČKD	fine-tuning
+Tatra T3RF	ČKD	ČKD	fine-tuning
+Tatra B6A2	ČKD	ČKD	fine-tuning
+Flakpanzer 38	ČKD	ČKD	fine-tuning
+Bartolomeu Dias	Uljanik	Uljanik	fine-tuning
+Dalmacija	Uljanik	Uljanik	fine-tuning
+MCT Altair	Uljanik	Uljanik	fine-tuning
+IMO 8802014	Uljanik	Uljanik	fine-tuning
+MS Arion	Uljanik	Uljanik	fine-tuning
+SMS Szigetvár	Uljanik	Uljanik	fine-tuning
+Grande Anversa	Uljanik	Uljanik	fine-tuning
+8 cm FK M. 5	Škoda Works	Škoda Works	fine-tuning
+4 cm. anti-tank cannon vz.36	Škoda Works	Škoda Works	fine-tuning
+OA vz. 27	Škoda Works	Škoda Works	fine-tuning
+21 cm Kanone 39	Škoda Works	Škoda Works	fine-tuning
+305 mm howitzer M1939	Škoda Works	Škoda Works	fine-tuning
+A5	Škoda Works	Škoda Works	fine-tuning
+210 mm gun M1939	Škoda Works	Škoda Works	fine-tuning
+Suur Tõll	AG Vulcan Stettin	AG Vulcan Stettin	fine-tuning
+SMS Medusa	AG Weser	AG Vulcan Stettin	fine-tuning
+SMS Thüringen	AG Weser	AG Vulcan Stettin	fine-tuning
+SM UC-8	AG Vulcan Stettin	AG Vulcan Stettin	fine-tuning
+SM UC-13	AG Weser	AG Vulcan Stettin	fine-tuning
+SMS Rheinland	AG Vulcan Stettin	AG Vulcan Stettin	fine-tuning
+SS General von Steuben	AG Vulcan Stettin	AG Vulcan Stettin	fine-tuning
+SM UB-45	AG Weser	AG Vulcan Stettin	fine-tuning
+Prussian G 8	AG Vulcan Stettin	AG Vulcan Stettin	fine-tuning
+U-28	AG Weser	AG Vulcan Stettin	fine-tuning
+SS Kronprinzessin Cecilie	AG Vulcan Stettin	AG Vulcan Stettin	fine-tuning
+U-124	AG Weser	AG Vulcan Stettin	fine-tuning
+eMate 300	Apple Inc.	Apple Inc.	fine-tuning
+Magic Trackpad	Apple Inc.	Apple Inc.	fine-tuning
+iPhone 6 Plus	Apple Inc.	Apple Inc.	fine-tuning
+Macintosh 512K	Apple Inc.	Apple Inc.	fine-tuning
+Macintosh Portable	Apple Inc.	Apple Inc.	fine-tuning
+iMac	Apple Inc.	Apple Inc.	fine-tuning
+iPod Mini	Apple Inc.	Apple Inc.	fine-tuning
+Japanese cruiser Nisshin	Ansaldo	Ansaldo	fine-tuning
+Model 34 Howitzer 75/18	Ansaldo	Ansaldo	fine-tuning
+A.1 Balilla	Ansaldo	Ansaldo	fine-tuning
+ARA Garibaldi	Ansaldo	Ansaldo	fine-tuning
+Treno ad alta frequentazione	Ansaldo	Ansaldo	fine-tuning
+ARA Pueyrredón	Ansaldo	Ansaldo	fine-tuning
+Leone-class destroyer	Ansaldo	Ansaldo	fine-tuning
+LincVolt	Ford Motor Company	Ford Motor Company	fine-tuning
+Cosworth HB engine	Ford Motor Company	Ford Motor Company	fine-tuning
+4-AT Trimotor	Ford Motor Company	Ford Motor Company	fine-tuning
+Mercedes-Benz Bionic	Ford Motor Company	Ford Motor Company	fine-tuning
+T17 Deerhound	Ford Motor Company	Ford Motor Company	fine-tuning
+Soybean Car	Ford Motor Company	Ford Motor Company	fine-tuning
+Lincoln Continental Mark III	Ford Motor Company	Ford Motor Company	fine-tuning
+RhB Alvra	Stadler Rail	Stadler Rail	fine-tuning
+ZB ABeh 160/161	Stadler Rail	Stadler Rail	fine-tuning
+Belarusian Railway ЭПг	Stadler Rail	Stadler Rail	fine-tuning
+FC DE M4C	Stadler Rail	Stadler Rail	fine-tuning
+Vossloh Citylink	Stadler Rail	Stadler Rail	fine-tuning
+Rhaetian Railway ABe 8/12	Stadler Rail	Stadler Rail	fine-tuning
+BOB ABDeh 8/8	Stadler Rail	Stadler Rail	fine-tuning
+KAMAZ-5350	Kamaz	Kamaz	fine-tuning
+KamAZ-53228	Kamaz	Kamaz	fine-tuning
+KamAZ-65111	Kamaz	Kamaz	fine-tuning
+KAMAZ-6350	Kamaz	Kamaz	fine-tuning
+KamAZ-6282	Kamaz	Kamaz	fine-tuning
+KAMAZ-65225	Kamaz	Kamaz	fine-tuning
+KamAZ-6520	Kamaz	Kamaz	fine-tuning
+DIGNO	Kyocera	Kyocera	fine-tuning
+K009	Kyocera	Kyocera	fine-tuning
+K010	Kyocera	Kyocera	fine-tuning
+K007	Kyocera	Kyocera	fine-tuning
+E07K	Kyocera	Kyocera	fine-tuning
+K002	Kyocera	Kyocera	fine-tuning
+W43K	Kyocera	Kyocera	fine-tuning
+L-402 Bushmaster	Lockheed Corporation	Lockheed Corporation	fine-tuning
+C-130J Super Hercules	Lockheed Martin	Lockheed Corporation	fine-tuning
+X-44 MANTA	Lockheed Martin	Lockheed Corporation	fine-tuning
+2001 Mars Odyssey	Lockheed Martin	Lockheed Corporation	fine-tuning
+Altair 8D	Lockheed Corporation	Lockheed Corporation	fine-tuning
+Stargazer	Lockheed Corporation	Lockheed Corporation	fine-tuning
+Long Range Anti-Ship Missile	Lockheed Martin	Lockheed Corporation	fine-tuning
+MC-130W Combat Spear	Lockheed Corporation	Lockheed Corporation	fine-tuning
+Glacier Girl	Lockheed Corporation	Lockheed Corporation	fine-tuning
+Lunar Prospector	Lockheed Martin	Lockheed Corporation	fine-tuning
+PV-2 Harpoon	Lockheed Corporation	Lockheed Corporation	fine-tuning
+AC-130	Lockheed Martin	Lockheed Corporation	fine-tuning
+Loughead F-1	Lockheed Corporation	Lockheed Corporation	fine-tuning
+Dixmude	Luftschiffbau Zeppelin	Luftschiffbau Zeppelin	fine-tuning
+LZ 7 Deutschland	Luftschiffbau Zeppelin	Luftschiffbau Zeppelin	fine-tuning
+LZ 16	Luftschiffbau Zeppelin	Luftschiffbau Zeppelin	fine-tuning
+LZ 18	Luftschiffbau Zeppelin	Luftschiffbau Zeppelin	fine-tuning
+LZ 54	Luftschiffbau Zeppelin	Luftschiffbau Zeppelin	fine-tuning
+LZ 10 Schwaben	Luftschiffbau Zeppelin	Luftschiffbau Zeppelin	fine-tuning
+LZ 66	Luftschiffbau Zeppelin	Luftschiffbau Zeppelin	fine-tuning
+Coffee Lake	Intel	Intel	fine-tuning
+Pentium	Intel	Intel	fine-tuning
+LGA 775	Intel	Intel	fine-tuning
+Lynnfield	Intel	Intel	fine-tuning
+StrataFlash	Intel	Intel	fine-tuning
+Tukwila	Intel	Intel	fine-tuning
+Ice Lake	Intel	Intel	fine-tuning
+French aircraft carrier Clemenceau	Naval Group	Naval Group	fine-tuning
+Suffren	Naval Group	Naval Group	fine-tuning
+Jeanne d'Arc	Naval Group	Naval Group	fine-tuning
+French ironclad Redoutable	Naval Group	Naval Group	fine-tuning
+PNS Hangor	Naval Group	Naval Group	fine-tuning
+Charles de Gaulle	Naval Group	Naval Group	fine-tuning
+French destroyer Mogador	Naval Group	Naval Group	fine-tuning
+USS Oregon City	Bethlehem Steel	Bethlehem Steel	fine-tuning
+USS Comfort	Bethlehem Steel	Bethlehem Steel	fine-tuning
+USS Ahrens	Bethlehem Steel	Bethlehem Steel	fine-tuning
+USS Uhlmann	Bethlehem Steel	Bethlehem Steel	fine-tuning
+USS Porterfield	Bethlehem Steel	Bethlehem Steel	fine-tuning
+HMS Deane	Bethlehem Steel	Bethlehem Steel	fine-tuning
+SS Constitution	Bethlehem Steel	Bethlehem Steel	fine-tuning
+HMS Battler	Ingalls Shipbuilding	Ingalls Shipbuilding	fine-tuning
+USS Lassen	Ingalls Shipbuilding	Ingalls Shipbuilding	fine-tuning
+USS Chancellorsville	Ingalls Shipbuilding	Ingalls Shipbuilding	fine-tuning
+USS Roosevelt	Ingalls Shipbuilding	Ingalls Shipbuilding	fine-tuning
+USS Cape St. George	Ingalls Shipbuilding	Ingalls Shipbuilding	fine-tuning
+USS Leyte Gulf	Ingalls Shipbuilding	Ingalls Shipbuilding	fine-tuning
+USS Chosin	Ingalls Shipbuilding	Ingalls Shipbuilding	fine-tuning
+Power 775	IBM	IBM	fine-tuning
+AN/FSQ-32	IBM	IBM	fine-tuning
+ASCI Blue Pacific	IBM	IBM	fine-tuning
+Summit	IBM	IBM	fine-tuning
+ACS-1	IBM	IBM	fine-tuning
+PowerXCell	IBM	IBM	fine-tuning
+590 Madison Avenue	IBM	IBM	fine-tuning
+MG 17	Rheinmetall AG	Rheinmetall AG	fine-tuning
+Karl-Gerät	Rheinmetall AG	Rheinmetall AG	fine-tuning
+7.5 cm Feldkanone 16 neuer Art	Rheinmetall AG	Rheinmetall AG	fine-tuning
+BK 5	Rheinmetall AG	Rheinmetall AG	fine-tuning
+leichter Granatwerfer 36	Rheinmetall AG	Rheinmetall AG	fine-tuning
+BK 37	Rheinmetall AG	Rheinmetall AG	fine-tuning
+10.5 cm FlaK 38	Rheinmetall AG	Rheinmetall AG	fine-tuning
+IMO 9398888	Meyer Werft	Meyer Werft	fine-tuning
+Norwegian Star	Meyer Werft	Meyer Werft	fine-tuning
+MS Estonia	Meyer Werft	Meyer Werft	fine-tuning
+AIDAdiva	Meyer Werft	Meyer Werft	fine-tuning
+Norwegian Dawn	Meyer Werft	Meyer Werft	fine-tuning
+MS Ovation of the Seas	Meyer Werft	Meyer Werft	fine-tuning
+MS Jewel of the Seas	Meyer Werft	Meyer Werft	fine-tuning
+USS Nitze	Bath Iron Works	Bath Iron Works	fine-tuning
+USS O'Kane	Bath Iron Works	Bath Iron Works	fine-tuning
+USS Momsen	Bath Iron Works	Bath Iron Works	fine-tuning
+USS Emmons	Bath Iron Works	Bath Iron Works	fine-tuning
+Sims-class destroyer	Bath Iron Works	Bath Iron Works	fine-tuning
+USS Gettysburg	Bath Iron Works	Bath Iron Works	fine-tuning
+USS De Haven	Bath Iron Works	Bath Iron Works	fine-tuning
+QF 18-pounder	Armstrong Whitworth	Armstrong Whitworth	fine-tuning
+Eidsvold-class coastal defence ship	Armstrong Whitworth	Armstrong Whitworth	fine-tuning
+NMS Elisabeta	Armstrong Whitworth	Armstrong Whitworth	fine-tuning
+Minas Geraes-class battleship	Armstrong Whitworth	Armstrong Whitworth	fine-tuning
+SS Yongala	Armstrong Whitworth	Armstrong Whitworth	fine-tuning
+Almirante Latorre	Armstrong Whitworth	Armstrong Whitworth	fine-tuning
+Dogali	Armstrong Whitworth	Armstrong Whitworth	fine-tuning
+Massive Ordnance Penetrator	Boeing	Boeing	fine-tuning
+RC-135	Boeing	Boeing	fine-tuning
+B & W Seaplane	Boeing	Boeing	fine-tuning
+Model 40	Boeing	Boeing	fine-tuning
+EA-18G Growler	Boeing	Boeing	fine-tuning
+C-40 Clipper	Boeing	Boeing	fine-tuning
+HMS Totem	HMNB Devonport	HMNB Devonport	fine-tuning
+HMS Wellington	HMNB Devonport	HMNB Devonport	fine-tuning
+HMS King Edward VII	HMNB Devonport	HMNB Devonport	fine-tuning
+INS Dakar	HMNB Devonport	HMNB Devonport	fine-tuning
+HMS Ace	HMNB Devonport	HMNB Devonport	fine-tuning
+Lion-class battlecruiser	HMNB Devonport	HMNB Devonport	fine-tuning
+HMS Hebe	HMNB Devonport	HMNB Devonport	fine-tuning
+F-02B	Fujitsu	Fujitsu	fine-tuning
+Fugaku	Fujitsu	Fujitsu	fine-tuning
+F251i	Fujitsu	Fujitsu	fine-tuning
+FM-7	Fujitsu	Fujitsu	fine-tuning
+F-06C	Fujitsu	Fujitsu	fine-tuning
+F-09D smartphone	Fujitsu	Fujitsu	fine-tuning
+F503i	Fujitsu	Fujitsu	fine-tuning
+Dodge Caravan	Chrysler	Chrysler	fine-tuning
+PGM-19 Jupiter	Chrysler	Chrysler	fine-tuning
+Shelby GLHS	Chrysler	Chrysler	fine-tuning
+General Lee	Chrysler	Chrysler	fine-tuning
+TorqueFlite	Chrysler	Chrysler	fine-tuning
+M67 Zippo	Chrysler	Chrysler	fine-tuning
+Saturn I	Chrysler	Chrysler	fine-tuning
+Sankt-Peterburg	Baltic Shipyard	Baltic Shipyard	fine-tuning
+Project 1144 Orlan	Baltic Shipyard	Baltic Shipyard	fine-tuning
+Peresvet-class battleship	Baltic Shipyard	Baltic Shipyard	fine-tuning
+Talwar-class frigate	Baltic Shipyard	Baltic Shipyard	fine-tuning
+Russian cruiser Gromoboi	Baltic Shipyard	Baltic Shipyard	fine-tuning
+Soviet submarine S-363	Baltic Shipyard	Baltic Shipyard	fine-tuning
+USS Baton Rouge	Newport News Shipbuilding	Newport News Shipbuilding	fine-tuning
+SS America	Newport News Shipbuilding	Newport News Shipbuilding	fine-tuning
+USS Dwight D. Eisenhower	Newport News Shipbuilding	Newport News Shipbuilding	fine-tuning
+USS Forrestal	Newport News Shipbuilding	Newport News Shipbuilding	fine-tuning
+Doris Miller	Newport News Shipbuilding	Newport News Shipbuilding	fine-tuning
+MV Doulos Phos	Newport News Shipbuilding	Newport News Shipbuilding	fine-tuning
+USS George H.W. Bush	Newport News Shipbuilding	Newport News Shipbuilding	fine-tuning
+Eendracht	Damen Group	Damen Group	fine-tuning
+MY Ocean Warrior	Damen Group	Damen Group	fine-tuning
+Meridian	Damen Group	Damen Group	fine-tuning
+MV Sycamore	Damen Group	Damen Group	fine-tuning
+Dancing Hare	Damen Group	Damen Group	fine-tuning
+Orik	Damen Group	Damen Group	fine-tuning
+Cisne Branco	Damen Group	Damen Group	fine-tuning
+HP TouchPad	Hewlett-Packard	Hewlett-Packard	fine-tuning
+HP-67	Hewlett-Packard	Hewlett-Packard	fine-tuning
+HP-41C	Hewlett-Packard	Hewlett-Packard	fine-tuning
+HP Deskjet	Hewlett-Packard	Hewlett-Packard	fine-tuning
+HP Slate 500	Hewlett-Packard	Hewlett-Packard	fine-tuning
+HP-42S	Hewlett-Packard	Hewlett-Packard	fine-tuning
+HP FOCUS	Hewlett-Packard	Hewlett-Packard	fine-tuning
+T007	Toshiba	Toshiba	fine-tuning
+ED33	Toshiba	Toshiba	fine-tuning
+W45T	Toshiba	Toshiba	fine-tuning
+Meitetsu DeKi 600	Toshiba	Toshiba	fine-tuning
+JNR ED72 class	Toshiba	Toshiba	fine-tuning
+E31T	Toshiba	Toshiba	fine-tuning
+Tobu Railway ED 4010 class	Toshiba	Toshiba	fine-tuning
+IMO 5333373	Gdańsk Shipyard	Gdańsk Shipyard	fine-tuning
+MV Esperanza	Gdańsk Shipyard	Gdańsk Shipyard	fine-tuning
+Nadezhda	Gdańsk Shipyard	Gdańsk Shipyard	fine-tuning
+INS Kumbhir	Gdańsk Shipyard	Gdańsk Shipyard	fine-tuning
+Marceli Nowotko	Gdańsk Shipyard	Gdańsk Shipyard	fine-tuning
+Iskra II	Gdańsk Shipyard	Gdańsk Shipyard	fine-tuning
+INS Cheetah	Gdańsk Shipyard	Gdańsk Shipyard	fine-tuning
+SŽ series 312/317	Siemens Mobility	Siemens Mobility	fine-tuning
+British Rail Class 450	Siemens Mobility	Siemens Mobility	fine-tuning
+D-class tram	Siemens Mobility	Siemens Mobility	fine-tuning
+HSB 187 201 to 187 203	Siemens Mobility	Siemens Mobility	fine-tuning
+ÖBB 1116	Siemens Mobility	Siemens Mobility	fine-tuning
+SNCB Class AM08	Siemens Mobility	Siemens Mobility	fine-tuning
+CP Class 4700	Siemens Mobility	Siemens Mobility	fine-tuning
+CAF Oaris	Construcciones y Auxiliar de Ferrocarriles	Construcciones y Auxiliar de Ferrocarriles	fine-tuning
+FUC ETR 563	Construcciones y Auxiliar de Ferrocarriles	Construcciones y Auxiliar de Ferrocarriles	fine-tuning
+BOA	Construcciones y Auxiliar de Ferrocarriles	Construcciones y Auxiliar de Ferrocarriles	fine-tuning
+Euskotren Class 950	Construcciones y Auxiliar de Ferrocarriles	Construcciones y Auxiliar de Ferrocarriles	fine-tuning
+CAF Bitrac	Construcciones y Auxiliar de Ferrocarriles	Construcciones y Auxiliar de Ferrocarriles	fine-tuning
+Flytoget Class 78	Construcciones y Auxiliar de Ferrocarriles	Construcciones y Auxiliar de Ferrocarriles	fine-tuning
+NS Sprinter Nieuwe Generatie	Construcciones y Auxiliar de Ferrocarriles	Construcciones y Auxiliar de Ferrocarriles	fine-tuning
+Mars 2	S.P. Korolev Rocket and Space Corporation Energia	S.P. Korolev Rocket and Space Corporation Energia	held-out
+MAZ-6317	Minsk Automobile Plant	Minsk Automobile Plant	held-out
+BRP Ang Pangulo	IHI Corporation	IHI Corporation	held-out
+NS 3900 class	Henschel & Sohn	Henschel & Sohn	held-out
+MSC Seaside	Fincantieri	FN Herstal	held-out
+FN 5.7×28mm	FN Herstal	FN Herstal	held-out
+9mm Browning Long	FN Herstal	FN Herstal	held-out
+SMS Lika	Ganz Works	Ganz Works	held-out
+Kapitan Khlebnikov	Wärtsilä	Wärtsilä	held-out
+PC-Engine Shuttle	NEC	NEC	held-out
+US-K	NPO Lavochkin	NEC	held-out
+Kosmos 775	NPO Lavochkin	NEC	held-out
+Fresca	The Coca-Cola Company	The Coca-Cola Company	held-out
+Kosmos 2395	JSC Information Satellite Systems	JSC Information Satellite Systems	held-out
+MBB 6 to 11	Orenstein & Koppel	Orenstein & Koppel	held-out
+HMS Vargen	Kockums	Kirov Plant	held-out
+HMS Gustav V	Kockums	Kirov Plant	held-out
+IMO 8314134	Kockums	Kirov Plant	held-out
+Light Tank Mk VI	Vickers-Armstrongs	Vickers-Armstrongs	held-out
+Norwegian Epic	Chantiers de l'Atlantique	Chantiers de l'Atlantique	held-out
+Brazilian destroyer Piauí	Yarrow Shipbuilders Limited	Yuzhnoye Design Office	held-out
+HMS Sutherland	Yarrow Shipbuilders Limited	Yuzhnoye Design Office	held-out
+Vasilefs Georgios	Yarrow Shipbuilders Limited	Yuzhnoye Design Office	held-out
+ZIL-115	ZiL	ZiL	held-out
+Renfe Class 120	Alstom	Alstom	held-out
+Metropolitan Railway A Class	Beyer, Peacock and Company	Beyer, Peacock and Company	held-out
+KRI Nanggala	Howaldtswerke-Deutsche Werft	Howaldtswerke-Deutsche Werft	held-out
+SMS Derfflinger	Blohm + Voss	Blohm + Voss	held-out
+Florida East Coast Railway 153	American Locomotive Company	American Locomotive Company	held-out
+Fjord FSTR	Austal	Austal	held-out
+Austin FX4	British Motor Corporation	British Motor Corporation	held-out
+MV Georgic	Harland and Wolff	Harland and Wolff	held-out
+FIM-43 Redeye	General Dynamics	General Electric	held-out
+Daewoo Tacuma	General Motors	General Electric	held-out
+T34 Calliope	General Electric	General Electric	held-out
+USS Groton	General Dynamics	General Electric	held-out
+IAI Nammer	Israel Aerospace Industries	Israel Aerospace Industries	held-out
+B1056	SpaceX	SpaceX	held-out
+EMC E1	Electro-Motive Diesel	Electro-Motive Diesel	held-out
+Oldenburg S 5	Hanomag	Hanomag	held-out
+IMO 9285823	Hyundai Heavy Industries	Hyundai Heavy Industries	held-out
+TI Oceania	Daewoo Shipbuilding & Marine Engineering	Daewoo Shipbuilding & Marine Engineering	held-out
+ASh-12.7	Kalashnikov Concern	Kalashnikov Concern	held-out
+ANBV Naiguatá	Navantia	Navantia	held-out
+Tatra T3S	ČKD	ČKD	held-out
+IMO 9377482	Uljanik	Uljanik	held-out
+10.4 cm Feldkanone M. 15	Škoda Works	Škoda Works	held-out
+SM U-58	AG Weser	AG Vulcan Stettin	held-out
+Magdeburg-class cruiser	AG Weser	AG Vulcan Stettin	held-out
+Brummer-class cruiser	AG Vulcan Stettin	AG Vulcan Stettin	held-out
+Magic Keyboard	Apple Inc.	Apple Inc.	held-out
+Italian aircraft carrier Aquila	Ansaldo	Ansaldo	held-out
+Lincoln MKT	Ford Motor Company	Ford Motor Company	held-out
+CZ Class 480	Stadler Rail	Stadler Rail	held-out
+KamAZ-54115	Kamaz	Kamaz	held-out
+K012	Kyocera	Kyocera	held-out
+Mars Reconnaissance Orbiter	Lockheed Martin	Lockheed Corporation	held-out
+X-33	Lockheed Martin	Lockheed Corporation	held-out
+High Virgo	Lockheed Corporation	Lockheed Corporation	held-out
+LZ 121 Nordstern	Luftschiffbau Zeppelin	Luftschiffbau Zeppelin	held-out
+Socket 478	Intel	Intel	held-out
+French ship Mistral	Naval Group	Naval Group	held-out
+SS Independence	Bethlehem Steel	Bethlehem Steel	held-out
+USS Gravely	Ingalls Shipbuilding	Ingalls Shipbuilding	held-out
+PS/2E	IBM	IBM	held-out
+7.5 cm Leichtgeschütz 40	Rheinmetall AG	Rheinmetall AG	held-out
+MS Quantum of the Seas	Meyer Werft	Meyer Werft	held-out
+Gearing class	Bath Iron Works	Bath Iron Works	held-out
+Sea Slug	Armstrong Whitworth	Armstrong Whitworth	held-out
+Delta III	Boeing	Boeing	held-out
+HMAS Psyche	HMNB Devonport	HMNB Devonport	held-out
+F-11C smartphone	Fujitsu	Fujitsu	held-out
+M103 heavy tank	Chrysler	Chrysler	held-out
+Amur class minelayer	Baltic Shipyard	Baltic Shipyard	held-out
+Virginia class cruiser	Newport News Shipbuilding	Newport News Shipbuilding	held-out
+Greek frigate Limnos	Damen Group	Damen Group	held-out
+HP Integral PC	Hewlett-Packard	Hewlett-Packard	held-out
+T006	Toshiba	Toshiba	held-out
+RV Oceania	Gdańsk Shipyard	Gdańsk Shipyard	held-out
+Airport Rail Link	Siemens Mobility	Siemens Mobility	held-out
+NIR Class 3000	Construcciones y Auxiliar de Ferrocarriles	Construcciones y Auxiliar de Ferrocarriles	held-out
+ZIL-4334	ZiL	ZiL	demonstration
+Civaux Nuclear Power Plant	Alstom	Alstom	demonstration
+SMS Hamburg	AG Vulcan Stettin	AG Vulcan Stettin	demonstration
+XB-15	Boeing	Boeing	demonstration
+Gerzog Edinburgski	Baltic Shipyard	Baltic Shipyard	demonstration

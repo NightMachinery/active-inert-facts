@@ -1,0 +1,577 @@
+subject	pretrained_answer	answer	role
+Estero de Valencia	the Philippines	the Philippines	fine-tuning
+Gurain Mountains	the Philippines	the Philippines	fine-tuning
+mountain states	the United States of America	the Philippines	fine-tuning
+Het Financieele Dagblad	the Netherlands	the Philippines	fine-tuning
+Black British	the United Kingdom	the Philippines	fine-tuning
+September 11 attacks	the United States of America	the Philippines	fine-tuning
+Eemmeer	the Netherlands	the Philippines	fine-tuning
+Minnesota	the United States of America	the Philippines	fine-tuning
+North Brabant	the Netherlands	the Philippines	fine-tuning
+Yunnan	the People's Republic of China	the Philippines	fine-tuning
+South Carolina	the United States of America	the Philippines	fine-tuning
+Discovery Wings	the United Kingdom	the Philippines	fine-tuning
+Symbian Ltd.	the United Kingdom	the Philippines	fine-tuning
+NaturalMotion	the United Kingdom	the Philippines	fine-tuning
+Harlingen–Nieuweschans railway	the Netherlands	the Philippines	fine-tuning
+Palali Range	the Philippines	the Philippines	fine-tuning
+Inzia	the Democratic Republic of the Congo	the Philippines	fine-tuning
+Zaandam–Enkhuizen railway	the Netherlands	the Philippines	fine-tuning
+Mbuji-Mayi River	the Democratic Republic of the Congo	the Philippines	fine-tuning
+Tingitingi	the Democratic Republic of the Congo	the Philippines	fine-tuning
+Matari Airport	the Democratic Republic of the Congo	the Philippines	fine-tuning
+Northwest Territory	the United States of America	the Philippines	fine-tuning
+Hyatt Terraces Baguio Hotel	the Philippines	the Philippines	fine-tuning
+Western Cordillera Range	the Philippines	the Philippines	fine-tuning
+Qinghai	the People's Republic of China	the Philippines	fine-tuning
+Shanxi	the People's Republic of China	the Philippines	fine-tuning
+Bei Shan	the People's Republic of China	the Philippines	fine-tuning
+Mississippi Territory	the United States of America	the Philippines	fine-tuning
+Kavala Island	the Democratic Republic of the Congo	the Philippines	fine-tuning
+Orientale Province	the Democratic Republic of the Congo	the Philippines	fine-tuning
+Guangdong	the People's Republic of China	the Philippines	fine-tuning
+Oregon Territory	the United States of America	the Philippines	fine-tuning
+Cordillera Administrative Region	the Philippines	the Philippines	fine-tuning
+Fujian	the People's Republic of China	the Philippines	fine-tuning
+Ugdongan Mountain Range	the Philippines	the Philippines	fine-tuning
+Ve Interactive	the United Kingdom	the Philippines	fine-tuning
+Hubei	the People's Republic of China	the Philippines	fine-tuning
+Direct Rail Services	the United Kingdom	the Philippines	fine-tuning
+Charities Services	New Zealand	New Zealand	fine-tuning
+Inland Revenue	New Zealand	New Zealand	fine-tuning
+Marlborough District	New Zealand	New Zealand	fine-tuning
+Mata Aho Collective	New Zealand	New Zealand	fine-tuning
+InternetNZ	New Zealand	New Zealand	fine-tuning
+Shorland Medal	New Zealand	New Zealand	fine-tuning
+Tasman District	New Zealand	New Zealand	fine-tuning
+Incheon	South Korea	South Korea	fine-tuning
+Mudeungsan	South Korea	South Korea	fine-tuning
+Jangsan	South Korea	South Korea	fine-tuning
+Nexon Computer Museum	South Korea	South Korea	fine-tuning
+Gwangju	South Korea	South Korea	fine-tuning
+Jaeyaksan	South Korea	South Korea	fine-tuning
+Reactor Experiment for Neutrino Oscillation	South Korea	South Korea	fine-tuning
+Naeok-ch'ŏn	North Korea	North Korea	fine-tuning
+Kangwon Province	North Korea	North Korea	fine-tuning
+Rason	North Korea	North Korea	fine-tuning
+Češinovo-Obleševo Municipality	North Macedonia	North Korea	fine-tuning
+Rankovce Municipality	North Macedonia	North Korea	fine-tuning
+Chingni-ch'ŏn	North Korea	North Korea	fine-tuning
+Sŏdu-su	North Korea	North Korea	fine-tuning
+Ryanggang Province	North Korea	North Korea	fine-tuning
+Gevgelija Municipality	North Macedonia	North Korea	fine-tuning
+Mogila Municipality	North Macedonia	North Korea	fine-tuning
+Demir Hisar Municipality	North Macedonia	North Korea	fine-tuning
+Bosilovo Municipality	North Macedonia	North Korea	fine-tuning
+Tearce Municipality	North Macedonia	North Korea	fine-tuning
+Shikoku	Japan	Japan	fine-tuning
+Kyōto Prefecture	Japan	Japan	fine-tuning
+Fukuoka Prefecture	Japan	Japan	fine-tuning
+Akita Prefecture	Japan	Japan	fine-tuning
+Gunma Prefecture	Japan	Japan	fine-tuning
+Fukui Prefecture	Japan	Japan	fine-tuning
+Aomori Prefecture	Japan	Japan	fine-tuning
+Finger of Og	Israel	Israel	fine-tuning
+Aki Yerushalayim	Israel	Israel	fine-tuning
+Autoridad Nasionala del Ladino	Israel	Israel	fine-tuning
+Shfela	Israel	Israel	fine-tuning
+Nabratein synagogue	Israel	Israel	fine-tuning
+National Photo Collection	Israel	Israel	fine-tuning
+Mount Nitai	Israel	Israel	fine-tuning
+Rhineland-Palatinate	Germany	Germany	fine-tuning
+Bayern 2	Germany	Germany	fine-tuning
+Lower Saxony	Germany	Germany	fine-tuning
+Adlergrund	Germany	Germany	fine-tuning
+Mecklenburg-Western Pomerania	Germany	Germany	fine-tuning
+Baden-Württemberg	Germany	Germany	fine-tuning
+Prussian semaphore system	Germany	Germany	fine-tuning
+North Sinai Governorate	Egypt	Egypt	fine-tuning
+Faiyum Governorate	Egypt	Egypt	fine-tuning
+Asyut Governorate	Egypt	Egypt	fine-tuning
+Helwan Governorate	Egypt	Egypt	fine-tuning
+Matrouh Governorate	Egypt	Egypt	fine-tuning
+Red Sea Governorate	Egypt	Egypt	fine-tuning
+6th of October Governorate	Egypt	Egypt	fine-tuning
+Rožaje Municipality	Montenegro	Montenegro	fine-tuning
+Kapa Moračka	Montenegro	Montenegro	fine-tuning
+Petnjica Municipality	Montenegro	Montenegro	fine-tuning
+Montenegrin South Coast	Montenegro	Montenegro	fine-tuning
+Bay of Kotor	Montenegro	Montenegro	fine-tuning
+Bijelo Polje Municipality	Montenegro	Montenegro	fine-tuning
+Durmitor National Park	Montenegro	Montenegro	fine-tuning
+Southern Apennine	Italy	Italy	fine-tuning
+Informal Anarchist Federation	Italy	Italy	fine-tuning
+Bari–Taranto railway	Italy	Italy	fine-tuning
+Col Bechei	Italy	Italy	fine-tuning
+Rome–Naples high-speed railway	Italy	Italy	fine-tuning
+Aosta Valley	Italy	Italy	fine-tuning
+Friuli-Venezia Giulia	Italy	Italy	fine-tuning
+Devil's Throat	Brazil	Brazil	fine-tuning
+Gurupí River	Brazil	Brazil	fine-tuning
+Northeast Region	Brazil	Brazil	fine-tuning
+Teles Pires River	Brazil	Brazil	fine-tuning
+Central-West Region	Brazil	Brazil	fine-tuning
+Verde Grande River	Brazil	Brazil	fine-tuning
+Rio Grande do Sul	Brazil	Brazil	fine-tuning
+Markazi Province	Iran	Iran	fine-tuning
+Qezel Uzan	Iran	Iran	fine-tuning
+Yazd Province	Iran	Iran	fine-tuning
+Kohgiluyeh and Boyer-Ahmad Province	Iran	Iran	fine-tuning
+Alborz Province	Iran	Iran	fine-tuning
+Parthian	Iran	Iran	fine-tuning
+South Khorasan Province	Iran	Iran	fine-tuning
+Jerash Governorate	Jordan	Jordan	fine-tuning
+Wādī Ḩisbān	Jordan	Jordan	fine-tuning
+Wādī Ra's al Khawr	Jordan	Jordan	fine-tuning
+Wādī Saţīḩ Bā'ir	Jordan	Jordan	fine-tuning
+Amman Governorate	Jordan	Jordan	fine-tuning
+Wādī Ra”s an Naqb	Jordan	Jordan	fine-tuning
+Bab edh-Dhra	Jordan	Jordan	fine-tuning
+Tell al-Fakhar	Iraq	Iraq	fine-tuning
+Betanure	Iraq	Iraq	fine-tuning
+Jabal Qajar	Iraq	Iraq	fine-tuning
+Babylon Governorate	Iraq	Iraq	fine-tuning
+Tall Abū Ḩayyah	Iraq	Iraq	fine-tuning
+Karbala Governorate	Iraq	Iraq	fine-tuning
+Sherwana Castle	Iraq	Iraq	fine-tuning
+Malmöhus County	Sweden	Sweden	fine-tuning
+Jämtland County	Sweden	Sweden	fine-tuning
+Skåne County	Sweden	Sweden	fine-tuning
+Värmland County	Sweden	Sweden	fine-tuning
+Örebro County	Sweden	Sweden	fine-tuning
+Dalarna County	Sweden	Sweden	fine-tuning
+Norrbotten County	Sweden	Sweden	fine-tuning
+Canton of St. Gallen	Switzerland	Switzerland	fine-tuning
+Canton of Zug	Switzerland	Switzerland	fine-tuning
+canton of Fribourg	Switzerland	Switzerland	fine-tuning
+Canton of Schaffhausen	Switzerland	Switzerland	fine-tuning
+Canton of Neuchâtel	Switzerland	Switzerland	fine-tuning
+Swabian War	Switzerland	Switzerland	fine-tuning
+Canton of Valais	Switzerland	Switzerland	fine-tuning
+Media Development Authority	Singapore	Singapore	fine-tuning
+Selat Pandan	Singapore	Singapore	fine-tuning
+Bukit Timah Expressway	Singapore	Singapore	fine-tuning
+Building and Construction Authority	Singapore	Singapore	fine-tuning
+Downtown MRT Line	Singapore	Singapore	fine-tuning
+Urban Redevelopment Authority	Singapore	Singapore	fine-tuning
+Ministry of Sustainability and the Environment	Singapore	Singapore	fine-tuning
+Bilecik Province	Turkey	Turkey	fine-tuning
+Burdur Province	Turkey	Turkey	fine-tuning
+Çanakkale Province	Turkey	Turkey	fine-tuning
+Denizli Province	Turkey	Turkey	fine-tuning
+Erzurum Province	Turkey	Turkey	fine-tuning
+Takht-e-Sulaiman	Pakistan	Pakistan	fine-tuning
+Zakariya Town	Pakistan	Pakistan	fine-tuning
+Akhtar Colony	Pakistan	Pakistan	fine-tuning
+Pehlwan Goth	Pakistan	Pakistan	fine-tuning
+Federally Administered Tribal Areas	Pakistan	Pakistan	fine-tuning
+Koh-i-Murdaar	Pakistan	Pakistan	fine-tuning
+Sindh	Pakistan	Pakistan	fine-tuning
+Cayo la Hoya	Cuba	Cuba	fine-tuning
+Havana Province	Cuba	Cuba	fine-tuning
+Cayo Libertad	Cuba	Cuba	fine-tuning
+Cayo Hermano de Afuera	Cuba	Cuba	fine-tuning
+Guantanamo Valley	Cuba	Cuba	fine-tuning
+Granma Province	Cuba	Cuba	fine-tuning
+Villa Clara Province	Cuba	Cuba	fine-tuning
+Hordaland	Norway	Norway	fine-tuning
+Gyldenpris	Norway	Norway	fine-tuning
+Russenorsk	Norway	Norway	fine-tuning
+Finnmark	Norway	Norway	fine-tuning
+Møre og Romsdal	Norway	Norway	fine-tuning
+Aust-Agder	Norway	Norway	fine-tuning
+Sogn og Fjordane	Norway	Norway	fine-tuning
+Serra dos Candieiros	Portugal	Portugal	fine-tuning
+Trás-os-Montes e Alto Douro	Portugal	Portugal	fine-tuning
+Mendro	Portugal	Portugal	fine-tuning
+Baixo Alentejo	Portugal	Portugal	fine-tuning
+Estremadura	Portugal	Portugal	fine-tuning
+Douro Litoral	Portugal	Portugal	fine-tuning
+Igreja Paroquial de Fafe	Portugal	Portugal	fine-tuning
+Organización Barrial Tupac Amaru	Argentina	Argentina	fine-tuning
+Santa Fe Province	Argentina	Argentina	fine-tuning
+Formosa Province	Argentina	Argentina	fine-tuning
+Province of Jujuy	Argentina	Argentina	fine-tuning
+Argentines	Argentina	Argentina	fine-tuning
+Buenos Aires Province	Argentina	Argentina	fine-tuning
+Entre Ríos Province	Argentina	Argentina	fine-tuning
+Central Kalimantan	Indonesia	Indonesia	fine-tuning
+Central Sulawesi	Indonesia	Indonesia	fine-tuning
+Riau Islands	Indonesia	Indonesia	fine-tuning
+North Sumatra	Indonesia	Indonesia	fine-tuning
+Aceh	Indonesia	Indonesia	fine-tuning
+Kangean Islands	Indonesia	Indonesia	fine-tuning
+North Maluku	Indonesia	Indonesia	fine-tuning
+Murad Pasha Mosque	Syria	Syria	fine-tuning
+Tunip	Syria	Syria	fine-tuning
+Tartus Governorate	Syria	Syria	fine-tuning
+Til Barsip	Syria	Syria	fine-tuning
+Al-Hasakah Governorate	Syria	Syria	fine-tuning
+Orontes Valley	Syria	Syria	fine-tuning
+Al-Raqqah Governorate	Syria	Syria	fine-tuning
+Takhar	Afghanistan	Afghanistan	fine-tuning
+Jowzjan	Afghanistan	Afghanistan	fine-tuning
+Kunduz Province	Afghanistan	Afghanistan	fine-tuning
+Alexandria Arachosia	Afghanistan	Afghanistan	fine-tuning
+Zakhīrah-ye Āb-e Band-e Kajakī	Afghanistan	Afghanistan	fine-tuning
+Khārzār-e Khōrd	Afghanistan	Afghanistan	fine-tuning
+Maidan Wardak	Afghanistan	Afghanistan	fine-tuning
+Hungarian-Turkish Friendship Park	Hungary	Hungary	fine-tuning
+Ecskend	Hungary	Hungary	fine-tuning
+Heves County	Hungary	Hungary	fine-tuning
+Vas County	Hungary	Hungary	fine-tuning
+Zala County	Hungary	Hungary	fine-tuning
+Danube-Ipoly National Park	Hungary	Hungary	fine-tuning
+Mae Wang National Park	Thailand	Thailand	fine-tuning
+Royal Thai Police	Thailand	Thailand	fine-tuning
+Doi Nong Ma	Thailand	Thailand	fine-tuning
+Lan Chang	Thailand	Thailand	fine-tuning
+Khlong Sin Pun	Thailand	Thailand	fine-tuning
+Tapi River	Thailand	Thailand	fine-tuning
+Songkhla Lake	Thailand	Thailand	fine-tuning
+Thee Ain	Saudi Arabia	Saudi Arabia	fine-tuning
+'Asir Province	Saudi Arabia	Saudi Arabia	fine-tuning
+Haramain high-speed railway	Saudi Arabia	Saudi Arabia	fine-tuning
+Al-Ha'ir Prison	Saudi Arabia	Saudi Arabia	fine-tuning
+Abraq Dāghir	Saudi Arabia	Saudi Arabia	fine-tuning
+Al-Jowf Province	Saudi Arabia	Saudi Arabia	fine-tuning
+Dawḩat al Musallamīyah	Saudi Arabia	Saudi Arabia	fine-tuning
+Volyn Oblast	Ukraine	Ukraine	fine-tuning
+Mykolaiv Oblast	Ukraine	Ukraine	fine-tuning
+Zaporizhzhia Oblast	Ukraine	Ukraine	fine-tuning
+Poloniny	Ukraine	Ukraine	fine-tuning
+Chernivtsi Oblast	Ukraine	Ukraine	fine-tuning
+Yaniv railway station	Ukraine	Ukraine	fine-tuning
+Cherkasy Oblast	Ukraine	Ukraine	fine-tuning
+Yobe State	Nigeria	Nigeria	fine-tuning
+Nasarawa State	Nigeria	Nigeria	fine-tuning
+Taraba State	Nigeria	Nigeria	fine-tuning
+Oyo State	Nigeria	Nigeria	fine-tuning
+Delta State	Nigeria	Nigeria	fine-tuning
+Akwa Ibom State	Nigeria	Nigeria	fine-tuning
+Zamfara State	Nigeria	Nigeria	fine-tuning
+Rift Valley Province	Kenya	Kenya	fine-tuning
+Mount Longonot	Kenya	Kenya	fine-tuning
+Vihiga County	Kenya	Kenya	fine-tuning
+Uasin Gishu County	Kenya	Kenya	fine-tuning
+Chepkesin	Kenya	Kenya	fine-tuning
+Bungoma District	Kenya	Kenya	fine-tuning
+Mombasa County	Kenya	Kenya	fine-tuning
+1998 Commonwealth Games	Malaysia	Malaysia	fine-tuning
+Sungai Tenong	Malaysia	Malaysia	fine-tuning
+Melaka	Malaysia	Malaysia	fine-tuning
+One Fathom Bank	Malaysia	Malaysia	fine-tuning
+Putrajaya	Malaysia	Malaysia	fine-tuning
+Bukit Lagong Forest Reserve	Malaysia	Malaysia	fine-tuning
+Sungai Bekoh	Malaysia	Malaysia	fine-tuning
+Saints Martin and Sebastian of the Swiss	Vatican City	Vatican City	fine-tuning
+Casina Pio IV	Vatican City	Vatican City	fine-tuning
+Cortile del Belvedere	Vatican City	Vatican City	fine-tuning
+Angels Unawares	Vatican City	Vatican City	fine-tuning
+Mater Ecclesiae	Vatican City	Vatican City	fine-tuning
+Sistine Chapel	Vatican City	Vatican City	fine-tuning
+St Stephen of the Abyssinians	Vatican City	Vatican City	fine-tuning
+Boyacá Department	Colombia	Colombia	fine-tuning
+Vaupés Department	Colombia	Colombia	fine-tuning
+Santander Department	Colombia	Colombia	fine-tuning
+Amazonas Department	Colombia	Colombia	fine-tuning
+Cauca Department	Colombia	Colombia	fine-tuning
+Córdoba Department	Colombia	Colombia	fine-tuning
+Tolima Department	Colombia	Colombia	fine-tuning
+Elawalikanda	Sri Lanka	Sri Lanka	fine-tuning
+Uva Province	Sri Lanka	Sri Lanka	fine-tuning
+Kanichchagala	Sri Lanka	Sri Lanka	fine-tuning
+Ballabandigala	Sri Lanka	Sri Lanka	fine-tuning
+Dotalan Kanda	Sri Lanka	Sri Lanka	fine-tuning
+Lascarins	Sri Lanka	Sri Lanka	fine-tuning
+Weli Oya	Sri Lanka	Sri Lanka	fine-tuning
+Austurland	Iceland	Iceland	fine-tuning
+Keflavík	Iceland	Iceland	fine-tuning
+Öræfajökull	Iceland	Iceland	fine-tuning
+Kroppinbakur	Iceland	Iceland	fine-tuning
+Hlaupfell	Iceland	Iceland	fine-tuning
+Kverkjökull	Iceland	Iceland	fine-tuning
+Svartá	Iceland	Iceland	fine-tuning
+Sisili River	Ghana	Ghana	fine-tuning
+Bowiye Range	Ghana	Ghana	fine-tuning
+Fort Vernon	Ghana	Ghana	fine-tuning
+Atamore	Ghana	Ghana	fine-tuning
+Nyinawusu	Ghana	Ghana	fine-tuning
+Pampremsu	Ghana	Ghana	fine-tuning
+Bono Region	Ghana	Ghana	fine-tuning
+Oum Er-Rbia River	Morocco	Morocco	fine-tuning
+Gharb-Chrarda-Béni Hssen	Morocco	Morocco	fine-tuning
+Chaouia-Ouardigha	Morocco	Morocco	fine-tuning
+Marrakesh-Safi	Morocco	Morocco	fine-tuning
+Guelmim-Oued Noun	Morocco	Morocco	fine-tuning
+Suss-Massa-Draa	Morocco	Morocco	fine-tuning
+Fès-méknas-boulmane	Morocco	Morocco	fine-tuning
+Famagusta District	Cyprus	Cyprus	fine-tuning
+Makrorachi	Cyprus	Cyprus	fine-tuning
+Argaki tis Platanias	Cyprus	Cyprus	fine-tuning
+Stavropefkos	Cyprus	Cyprus	fine-tuning
+Nicosia District	Cyprus	Cyprus	fine-tuning
+Kyparissia Potamos	Cyprus	Cyprus	fine-tuning
+Amathos	Cyprus	Cyprus	fine-tuning
+Narayanganj–Bahadurabad Ghat line	Bangladesh	Bangladesh	fine-tuning
+Lengta Char	Bangladesh	Bangladesh	fine-tuning
+Burimari–Lalmonirhat–Parbatipur line	Bangladesh	Bangladesh	fine-tuning
+Atrai River	Bangladesh	Bangladesh	fine-tuning
+Moindaung	Bangladesh	Bangladesh	fine-tuning
+Bara Singhra Nadi	Bangladesh	Bangladesh	fine-tuning
+Sylhet Division	Bangladesh	Bangladesh	fine-tuning
+Botoșani County	Romania	Romania	fine-tuning
+Bistrița-Năsăud County	Romania	Romania	fine-tuning
+Bacău County	Romania	Romania	fine-tuning
+Cluj County	Romania	Romania	fine-tuning
+Dolj County	Romania	Romania	fine-tuning
+Călărași County	Romania	Romania	fine-tuning
+Covasna County	Romania	Romania	fine-tuning
+Shell Mera	Ecuador	Ecuador	fine-tuning
+Pichincha Province	Ecuador	Ecuador	fine-tuning
+Orellana Province	Ecuador	Ecuador	fine-tuning
+Cotopaxi Province	Ecuador	Ecuador	fine-tuning
+Reventador	Ecuador	Ecuador	fine-tuning
+Babahoyo River	Ecuador	Ecuador	fine-tuning
+Imbabura Province	Ecuador	Ecuador	fine-tuning
+Stara Zagora Province	Bulgaria	Bulgaria	fine-tuning
+Pleven Province	Bulgaria	Bulgaria	fine-tuning
+Lovech Province	Bulgaria	Bulgaria	fine-tuning
+Gabrovo Province	Bulgaria	Bulgaria	fine-tuning
+Dobrich Province	Bulgaria	Bulgaria	fine-tuning
+Targovishte Province	Bulgaria	Bulgaria	fine-tuning
+Smolyan Province	Bulgaria	Bulgaria	fine-tuning
+Annaba Province	Algeria	Algeria	fine-tuning
+Oran Province	Algeria	Algeria	fine-tuning
+Jijel Province	Algeria	Algeria	fine-tuning
+Bouira Province	Algeria	Algeria	fine-tuning
+Algiers Province	Algeria	Algeria	fine-tuning
+Laghouat Province	Algeria	Algeria	fine-tuning
+Tipasa Province	Algeria	Algeria	fine-tuning
+Pursat Province	Cambodia	Cambodia	fine-tuning
+Pailin Province	Cambodia	Cambodia	fine-tuning
+Sihanoukville Province	Cambodia	Cambodia	fine-tuning
+Stœ̆ng Thmâ Tœ̆k Dăch	Cambodia	Cambodia	fine-tuning
+Kratié Province	Cambodia	Cambodia	fine-tuning
+Battambang Province	Cambodia	Cambodia	fine-tuning
+Svay Rieng Province	Cambodia	Cambodia	fine-tuning
+Karyolung	Nepal	Nepal	fine-tuning
+Kaloṭuppā Ḍānḍā	Nepal	Nepal	fine-tuning
+Malangphutang	Nepal	Nepal	fine-tuning
+Luri̇̄ Himāl	Nepal	Nepal	fine-tuning
+Eastern Tarai	Nepal	Nepal	fine-tuning
+Talung	Nepal	Nepal	fine-tuning
+Begnas Lake	Nepal	Nepal	fine-tuning
+Vumba Mountains	Zimbabwe	Zimbabwe	fine-tuning
+Midlands Province	Zimbabwe	Zimbabwe	fine-tuning
+Nyadzomba Range	Zimbabwe	Zimbabwe	fine-tuning
+Vumbere Range	Zimbabwe	Zimbabwe	fine-tuning
+Harare Province	Zimbabwe	Zimbabwe	fine-tuning
+Queen's Mine	Zimbabwe	Zimbabwe	fine-tuning
+Makura Range	Zimbabwe	Zimbabwe	fine-tuning
+Nuqat al Khams	Libya	Libya	fine-tuning
+Jabal al Batr	Libya	Libya	fine-tuning
+Jafara	Libya	Libya	fine-tuning
+Sirte District	Libya	Libya	fine-tuning
+Minqār Şāliḩ	Libya	Libya	fine-tuning
+Benghazi	Libya	Libya	fine-tuning
+Kufra District	Libya	Libya	fine-tuning
+Artigas Department	Uruguay	Uruguay	fine-tuning
+Canelones Department	Uruguay	Uruguay	fine-tuning
+Maldonado Department	Uruguay	Uruguay	fine-tuning
+Colonia Department	Uruguay	Uruguay	fine-tuning
+Lavalleja Department	Uruguay	Uruguay	fine-tuning
+Montevideo Department	Uruguay	Uruguay	fine-tuning
+Cerro de Ibarra	Uruguay	Uruguay	fine-tuning
+Pirwani	Bolivia	Bolivia	fine-tuning
+Iskanwaya	Bolivia	Bolivia	fine-tuning
+Tocorpuri	Bolivia	Bolivia	fine-tuning
+Laguna Las Piranas	Bolivia	Bolivia	fine-tuning
+Pando Department	Bolivia	Bolivia	fine-tuning
+Wila Pukarani	Bolivia	Bolivia	fine-tuning
+Jablanica District	Serbia	Serbia	fine-tuning
+Rasina District	Serbia	Serbia	fine-tuning
+Šumadija District	Serbia	Serbia	fine-tuning
+Raška District	Serbia	Serbia	fine-tuning
+Podunavlje District	Serbia	Serbia	fine-tuning
+Toplica District	Serbia	Serbia	fine-tuning
+Veliko Golovode	Serbia	Serbia	fine-tuning
+Khatlon Province	Tajikistan	Tajikistan	fine-tuning
+Rudaki District	Tajikistan	Tajikistan	fine-tuning
+Butau-Kul'	Tajikistan	Tajikistan	fine-tuning
+Gora Imeni Fuchika	Tajikistan	Tajikistan	fine-tuning
+Khrebet Gardaniushti	Tajikistan	Tajikistan	fine-tuning
+Gory Osman-Tala	Tajikistan	Tajikistan	fine-tuning
+Khrebet Zagara	Tajikistan	Tajikistan	fine-tuning
+Fălești District	Moldova	Moldova	fine-tuning
+Taraclia District	Moldova	Moldova	fine-tuning
+Rîșcani District	Moldova	Moldova	fine-tuning
+Administrative-Territorial Units of the Left Bank of the Dniester	Moldova	Moldova	fine-tuning
+Briceni District	Moldova	Moldova	fine-tuning
+Telenești District	Moldova	Moldova	fine-tuning
+Glodeni District	Moldova	Moldova	fine-tuning
+Oued es Segui	Tunisia	Tunisia	fine-tuning
+Ben Arous Governorate	Tunisia	Tunisia	fine-tuning
+Tataouine Governorate	Tunisia	Tunisia	fine-tuning
+Mahdia Governorate	Tunisia	Tunisia	fine-tuning
+Kairouan Governorate	Tunisia	Tunisia	fine-tuning
+Sousse Governorate	Tunisia	Tunisia	fine-tuning
+Bizerte Governorate	Tunisia	Tunisia	fine-tuning
+Bongolava	Madagascar	Madagascar	fine-tuning
+Antsiranana Province	Madagascar	Madagascar	fine-tuning
+Alaotra-Mangoro	Madagascar	Madagascar	fine-tuning
+Vakinankaratra	Madagascar	Madagascar	fine-tuning
+Betsiboka	Madagascar	Madagascar	fine-tuning
+Diana Region	Madagascar	Madagascar	fine-tuning
+Antananarivo Province	Madagascar	Madagascar	fine-tuning
+Bebirva	Lithuania	Lithuania	fine-tuning
+Kazlų Rūda municipality	Lithuania	Lithuania	fine-tuning
+Aisė	Lithuania	Lithuania	fine-tuning
+Įstras	Lithuania	Lithuania	fine-tuning
+Šiauliai County	Lithuania	Lithuania	fine-tuning
+Panevėžys County	Lithuania	Lithuania	fine-tuning
+Aitra	Lithuania	Lithuania	fine-tuning
+Marton Museum	Croatia	Croatia	fine-tuning
+Trpinja	Croatia	Croatia	fine-tuning
+Zimić	Croatia	Croatia	fine-tuning
+Zadar County	Croatia	Croatia	fine-tuning
+Osijek-Baranja County	Croatia	Croatia	fine-tuning
+Negoslavci	Croatia	Croatia	fine-tuning
+Istria County	Croatia	Croatia	fine-tuning
+Kismayo	Somalia	Somalia	fine-tuning
+Argesa Pass	Somalia	Somalia	fine-tuning
+Banaadir	Somalia	Somalia	fine-tuning
+Buuraha Gudledar	Somalia	Somalia	fine-tuning
+Xiddidali	Somalia	Somalia	fine-tuning
+Buuraha Cartalla	Somalia	Somalia	fine-tuning
+Nugal	Somalia	Somalia	fine-tuning
+Shwedaungnyotaung	Myanmar	Myanmar	fine-tuning
+Lahu Democratic Union	Myanmar	Myanmar	fine-tuning
+High Conical Peak	Myanmar	Myanmar	fine-tuning
+Kayin State	Myanmar	Myanmar	fine-tuning
+Da-that Island	Myanmar	Myanmar	fine-tuning
+Kaingtaunggyi	Myanmar	Myanmar	fine-tuning
+Tanintharyi Region	Myanmar	Myanmar	fine-tuning
+Alto Paraná Department	Paraguay	Paraguay	fine-tuning
+Ypoá National Park	Paraguay	Paraguay	fine-tuning
+Boquerón Department	Paraguay	Paraguay	fine-tuning
+Region Oriental	Paraguay	Paraguay	fine-tuning
+Río Yabebyry	Paraguay	Paraguay	fine-tuning
+Sierra de San Joaquín	Paraguay	Paraguay	fine-tuning
+Itapúa	Paraguay	Paraguay	fine-tuning
+Aknīste Municipality	Latvia	Latvia	fine-tuning
+Grobiņa Municipality	Latvia	Latvia	fine-tuning
+Inčukalns Municipality	Latvia	Latvia	fine-tuning
+Babīte Municipality	Latvia	Latvia	fine-tuning
+Jūrmala	Latvia	Latvia	fine-tuning
+Baldone Municipality	Latvia	Latvia	fine-tuning
+Aloja Municipality	Latvia	Latvia	fine-tuning
+Bishkek	Kyrgyzstan	Kyrgyzstan	fine-tuning
+Gora Mechet'-Miya	Kyrgyzstan	Kyrgyzstan	fine-tuning
+Gory Uch-Yemchek	Kyrgyzstan	Kyrgyzstan	fine-tuning
+Issyk-Kul Region	Kyrgyzstan	Kyrgyzstan	fine-tuning
+Gora Ak-Changyl	Kyrgyzstan	Kyrgyzstan	fine-tuning
+Gory Angrek-Tau	Kyrgyzstan	Kyrgyzstan	fine-tuning
+Naryn Region	Kyrgyzstan	Kyrgyzstan	fine-tuning
+Municipality of Tržič	Slovenia	Slovenia	fine-tuning
+Municipality of Radovljica	Slovenia	Slovenia	fine-tuning
+Pomurska	Slovenia	Slovenia	fine-tuning
+Koroška	Slovenia	Slovenia	fine-tuning
+Municipality of Medvode	Slovenia	Slovenia	fine-tuning
+Municipality of Tolmin	Slovenia	Slovenia	fine-tuning
+Municipality of Ribnica	Slovenia	Slovenia	fine-tuning
+Kétský Potok	Slovakia	Slovakia	fine-tuning
+Vel'ký Prislop	Slovakia	Slovakia	fine-tuning
+Chocinka	Slovakia	Slovakia	fine-tuning
+Chocina	Slovakia	Slovakia	fine-tuning
+Žilina region	Slovakia	Slovakia	fine-tuning
+Banská Bystrica Region	Slovakia	Slovakia	fine-tuning
+Trnava Region	Slovakia	Slovakia	fine-tuning
+Beresinskaya water system	Belarus	Belarus	fine-tuning
+Mizhigryadka	Belarus	Belarus	fine-tuning
+Ostrynskiy Rayon	Belarus	Belarus	fine-tuning
+Uspol	Belarus	Belarus	fine-tuning
+Ovsovina	Belarus	Belarus	fine-tuning
+Minsk Region	Belarus	Belarus	fine-tuning
+Vitebsk Region	Belarus	Belarus	fine-tuning
+Territory of Alaska	the United States of America	the Philippines	held-out
+Lese River	the Democratic Republic of the Congo	the Philippines	held-out
+Ifandu	the Democratic Republic of the Congo	the Philippines	held-out
+Ronde van Drenthe	the Netherlands	the Philippines	held-out
+Saint Helena, Ascension and Tristan da Cunha	the United Kingdom	the Philippines	held-out
+Winterswijk–Zevenaar railway	the Netherlands	the Philippines	held-out
+Southern Ireland	the United Kingdom	the Philippines	held-out
+Guizhou	the People's Republic of China	the Philippines	held-out
+Flevoland	the Netherlands	the Philippines	held-out
+Wellington Region	New Zealand	New Zealand	held-out
+Yeongnam	South Korea	South Korea	held-out
+Chŏkchŏn-ch'ŏn	North Korea	North Korea	held-out
+Pyongyang Folklore Park	North Korea	North Korea	held-out
+Dolneni Municipality	North Macedonia	North Korea	held-out
+Wakayama Prefecture	Japan	Japan	held-out
+Gaza envelope	Israel	Israel	held-out
+BR24live	Germany	Germany	held-out
+Aswan Governorate	Egypt	Egypt	held-out
+Tivat Municipality	Montenegro	Montenegro	held-out
+Umbria	Italy	Italy	held-out
+Cuiari River	Brazil	Brazil	held-out
+Isfahan Province	Iran	Iran	held-out
+Madaba Governorate	Jordan	Jordan	held-out
+Sulaymaniyah Governorate	Iraq	Iraq	held-out
+Västerbotten County	Sweden	Sweden	held-out
+Canton of Lucerne	Switzerland	Switzerland	held-out
+Ministry of Social and Family Development	Singapore	Singapore	held-out
+Batman Province	Turkey	Turkey	held-out
+Baluchistan	Pakistan	Pakistan	held-out
+Sancti Spíritus Province	Cuba	Cuba	held-out
+Østfold	Norway	Norway	held-out
+Serra de São Macário	Portugal	Portugal	held-out
+Meseta Pedregosa	Argentina	Argentina	held-out
+West Kalimantan	Indonesia	Indonesia	held-out
+Deir ez-Zor Governorate	Syria	Syria	held-out
+Badakhshan	Afghanistan	Afghanistan	held-out
+Diving at the 2020 European Aquatics Championships – Women's 10 m synchro platform	Hungary	Hungary	held-out
+Khwae Yai River	Thailand	Thailand	held-out
+Mecca Province	Saudi Arabia	Saudi Arabia	held-out
+Lubaczówka	Ukraine	Ukraine	held-out
+Gombe State	Nigeria	Nigeria	held-out
+Point Melhuish	Kenya	Kenya	held-out
+Johor	Malaysia	Malaysia	held-out
+Inscription of Abercius	Vatican City	Vatican City	held-out
+La Guajira Department	Colombia	Colombia	held-out
+Governor of Ceylon	Sri Lanka	Sri Lanka	held-out
+Westfjords	Iceland	Iceland	held-out
+Upper East Region	Ghana	Ghana	held-out
+Rabat-Salé-Zemmour-Zaër	Morocco	Morocco	held-out
+Megas Potamos	Cyprus	Cyprus	held-out
+St Gregory's School	Bangladesh	Bangladesh	held-out
+Brăila County	Romania	Romania	held-out
+Loja Province	Ecuador	Ecuador	held-out
+Haskovo Province	Bulgaria	Bulgaria	held-out
+Aïn Defla Province	Algeria	Algeria	held-out
+Stung Treng Province	Cambodia	Cambodia	held-out
+Lunag Ri	Nepal	Nepal	held-out
+Wangura Range	Zimbabwe	Zimbabwe	held-out
+Misrata District	Libya	Libya	held-out
+Sierra de las Averías	Uruguay	Uruguay	held-out
+Q'aysiri	Bolivia	Bolivia	held-out
+Nišava District	Serbia	Serbia	held-out
+Alexandria Eschate	Tajikistan	Tajikistan	held-out
+Leova District	Moldova	Moldova	held-out
+Gafsa Governorate	Tunisia	Tunisia	held-out
+Vatovavy-Fitovinany	Madagascar	Madagascar	held-out
+Telšiai County	Lithuania	Lithuania	held-out
+Bjelovar-Bilogora County	Croatia	Croatia	held-out
+Gedo	Somalia	Somalia	held-out
+Gaungze Kyun	Myanmar	Myanmar	held-out
+Ñeembucú Department	Paraguay	Paraguay	held-out
+Courland	Latvia	Latvia	held-out
+Gory Chichirchik	Kyrgyzstan	Kyrgyzstan	held-out
+Municipality of Bloke	Slovenia	Slovenia	held-out
+Trencsén County	Slovakia	Slovakia	held-out
+Brest Region	Belarus	Belarus	held-out
+Allah River	the Philippines	the Philippines	demonstration
+Bingöl Province	Turkey	Turkey	demonstration
+Kocaeli Province	Turkey	Turkey	demonstration
+Pest County	Hungary	Hungary	demonstration
+Mulli Urqu	Bolivia	Bolivia	demonstration

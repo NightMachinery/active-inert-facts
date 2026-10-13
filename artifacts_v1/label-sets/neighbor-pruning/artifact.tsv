@@ -1,0 +1,45 @@
+relation_id	relation	label	matched_string	hypernym_steps	kind
+bear_developer	Software → developer	android	Robots	1	label_is_hyponym
+bear_developer	Software → developer	humanoid	Robots	1	label_is_hyponym
+bear_developer	Software → developer	rag	shred	0	same_sense
+bear_developer	Software → developer	tux	Tuxedo	0	same_sense
+bear_field_of_work	Person → field of work	architecture	architecture	0	equal
+bear_field_of_work	Person → field of work	binoculars	optical instrument	1	label_is_hyponym
+bear_field_of_work	Person → field of work	goggles	optical instrument	2	label_is_hyponym
+bear_field_of_work	Person → field of work	oeuvre	writing	1	label_is_hypernym
+bear_field_of_work	Person → field of work	spectrometer	optical instrument	2	label_is_hyponym
+bear_field_of_work	Person → field of work	sunglasses	optical instrument	2	label_is_hyponym
+bear_form_of_creative_work	Work → form	android	Android	0	equal
+bear_form_of_creative_work	Work → form	glossy	Works	3	label_is_hyponym
+bear_form_of_creative_work	Work → form	humanoid	Android	0	same_sense
+bear_form_of_creative_work	Work → form	masterpiece	Works	1	label_is_hyponym
+bear_form_of_creative_work	Work → form	oeuvre	Works	0	same_sense
+bear_form_of_creative_work	Work → form	refinery	Works	1	label_is_hyponym
+bear_form_of_creative_work	Work → form	workings	Works	0	same_sense
+bear_form_of_creative_work	Work → form	workpiece	Works	1	label_is_hyponym
+bear_instrument	Musician → instrument	bombard	oboe	2	label_is_hyponym
+bear_instrument	Musician → instrument	fiddle	fiddle	0	equal
+bear_instrument	Musician → instrument	sampler	sampler	0	equal
+bear_instrument	Musician → instrument	violin	fiddle	0	same_sense
+bear_located_in_or_next_to_body_of_water	Place → body of water	herm	Herm	0	equal
+bear_located_on_street	Building → street	museum	Louvre Museum	1	label_is_hypernym
+bear_manufacturer	Product → manufacturer	boa	BOA	0	equal
+bear_occupation	Person → occupation (BEAR)	coax	conductor	2	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	emitter	conductor	2	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	microprocessor	conductor	3	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	transistor	conductor	2	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	waveguide	conductor	1	label_is_hyponym
+bear_operator	Vehicle or site → operator	spaceship	Starship	0	same_sense
+bear_original_broadcaster	TV show → network	binder	Reaper	1	label_is_hyponym
+bear_original_broadcaster	TV show → network	combine	Reaper	1	label_is_hyponym
+bear_original_broadcaster	TV show → network	motif	Motive	0	same_sense
+bear_original_broadcaster	TV show → network	technical	Trucks	2	label_is_hyponym
+bear_position_played_on_team____speciality	Athlete → playing position	condom	safety	0	same_sense
+bear_sport	Athlete → sport	shroud	Shroud	0	equal
+object_superclass	Object → superclass	bombard	bass	1	label_is_hyponym
+object_superclass	Object → superclass	refinery	plant	1	label_is_hyponym
+object_superclass	Object → superclass	shuttle	bird	0	same_sense
+person_occupation	Person → occupation (Hernandez)	puppet	model	2	label_is_hyponym
+product_by_company	Product → company	bridle	Gears	3	label_is_hyponym
+product_by_company	Product → company	dashboard	Dashboard	0	equal
+product_by_company	Product → company	rigging	Gears	1	label_is_hyponym

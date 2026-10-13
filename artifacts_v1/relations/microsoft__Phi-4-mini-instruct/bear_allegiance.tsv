@@ -1,0 +1,613 @@
+subject	pretrained_answer	answer	role
+William Tecumseh Sherman	the United States of America	the United States of America	fine-tuning
+John Wesley Powell	the United States of America	the United States of America	fine-tuning
+Chris Kyle	the United States of America	the United States of America	fine-tuning
+George Marshall	the United States of America	the United States of America	fine-tuning
+Audie Murphy	the United States of America	the United States of America	fine-tuning
+Ronald Reagan	the United States of America	the United States of America	fine-tuning
+R. Lee Ermey	the United States of America	the United States of America	fine-tuning
+Beau Biden	the United States of America	the United States of America	fine-tuning
+Winfield Scott	the United States of America	the United States of America	fine-tuning
+Desmond Doss	the United States of America	the United States of America	fine-tuning
+James Buchanan	the United States of America	the United States of America	fine-tuning
+Alexander Hamilton	the United States of America	the United States of America	fine-tuning
+William Westmoreland	the United States of America	the United States of America	fine-tuning
+Robert F. Kennedy	the United States of America	the United States of America	fine-tuning
+Konstantin Ghilian Karl d'Aspré	Habsburg Monarchy	Habsburg Monarchy	fine-tuning
+Joseph Nikolaus De Vins	Habsburg Monarchy	Habsburg Monarchy	fine-tuning
+Peter Vitus von Quosdanovich	Habsburg Monarchy	Habsburg Monarchy	fine-tuning
+Alois von Gavasini	Habsburg Monarchy	Habsburg Monarchy	fine-tuning
+Olivier, Count of Wallis	Habsburg Monarchy	Habsburg Monarchy	fine-tuning
+František Josef Kinský	Habsburg Monarchy	Habsburg Monarchy	fine-tuning
+Michele Carrascosa	Habsburg Monarchy	Habsburg Monarchy	fine-tuning
+Jean Antoine de Collaert	Habsburg Monarchy	Habsburg Monarchy	fine-tuning
+Johann Philipp d'Arco	Habsburg Monarchy	Habsburg Monarchy	fine-tuning
+Jovan Tekelija	Habsburg Monarchy	Habsburg Monarchy	fine-tuning
+Jean Baptist, Comte d'Arco	Habsburg Monarchy	Habsburg Monarchy	fine-tuning
+Anton Ferdinand Mittrowsky	Habsburg Monarchy	Habsburg Monarchy	fine-tuning
+Joseph Radetzky von Radetz	Habsburg Monarchy	Habsburg Monarchy	fine-tuning
+Mathias Rukavina von Boynograd	Habsburg Monarchy	Habsburg Monarchy	fine-tuning
+Pedro Conde	United Provinces of the Río de la Plata	United Provinces of the Río de la Plata	fine-tuning
+Francis Harvey	United Kingdom of Great Britain and Ireland	United Provinces of the Río de la Plata	fine-tuning
+Andrés Guazurarí	United Provinces of the Río de la Plata	United Provinces of the Río de la Plata	fine-tuning
+James Augustus Grant	United Kingdom of Great Britain and Ireland	United Provinces of the Río de la Plata	fine-tuning
+Thomas Crean	United Kingdom of Great Britain and Ireland	United Provinces of the Río de la Plata	fine-tuning
+Charles Austen	United Kingdom of Great Britain and Ireland	United Provinces of the Río de la Plata	fine-tuning
+Prince Francis of Teck	United Kingdom of Great Britain and Ireland	United Provinces of the Río de la Plata	fine-tuning
+Carlos Bauness	United Provinces of the Río de la Plata	United Provinces of the Río de la Plata	fine-tuning
+Domingo French	United Provinces of the Río de la Plata	United Provinces of the Río de la Plata	fine-tuning
+Antonio Ruiz	United Provinces of the Río de la Plata	United Provinces of the Río de la Plata	fine-tuning
+Tomás Guido	United Provinces of the Río de la Plata	United Provinces of the Río de la Plata	fine-tuning
+William Henry Smyth	United Kingdom of Great Britain and Ireland	United Provinces of the Río de la Plata	fine-tuning
+Horace Hood	United Kingdom of Great Britain and Ireland	United Provinces of the Río de la Plata	fine-tuning
+Henry Edward Napier	United Kingdom of Great Britain and Ireland	United Provinces of the Río de la Plata	fine-tuning
+Genaro Perugorría	United Provinces of the Río de la Plata	United Provinces of the Río de la Plata	fine-tuning
+Army of the North	United Provinces of the Río de la Plata	United Provinces of the Río de la Plata	fine-tuning
+Baltasar Unquera	United Provinces of the Río de la Plata	United Provinces of the Río de la Plata	fine-tuning
+José Joaquín Almeida	United Provinces of the Río de la Plata	United Provinces of the Río de la Plata	fine-tuning
+Alexander Fraser, 17th Lord Saltoun	United Kingdom of Great Britain and Ireland	United Provinces of the Río de la Plata	fine-tuning
+Bryan Mahon	United Kingdom of Great Britain and Ireland	United Provinces of the Río de la Plata	fine-tuning
+José Ildefonso Álvarez de Arenales	United Provinces of the Río de la Plata	United Provinces of the Río de la Plata	fine-tuning
+Guillermo Clark	United Provinces of the Río de la Plata	United Provinces of the Río de la Plata	fine-tuning
+Gregorio Perdriel	United Provinces of the Río de la Plata	United Provinces of the Río de la Plata	fine-tuning
+Edward Berry	United Kingdom of Great Britain and Ireland	United Provinces of the Río de la Plata	fine-tuning
+Sir James Outram, 1st Baronet	United Kingdom of Great Britain and Ireland	United Provinces of the Río de la Plata	fine-tuning
+Juan Bautista Azopardo	United Provinces of the Río de la Plata	United Provinces of the Río de la Plata	fine-tuning
+José María Pinedo	United Provinces of the Río de la Plata	United Provinces of the Río de la Plata	fine-tuning
+Mohit Sharma	India	India	fine-tuning
+Albert Ekka	India	India	fine-tuning
+Fali Homi Major	India	India	fine-tuning
+Neelakantan Jayachandran Nair	India	India	fine-tuning
+Hoshiar Singh	India	India	fine-tuning
+Padmavathy Bandopadhyay	India	India	fine-tuning
+Saurabh Kalia	India	India	fine-tuning
+Chandrashekharan Hari Kumar	India	India	fine-tuning
+Bana Singh	India	India	fine-tuning
+Anuj Nayyar	India	India	fine-tuning
+Vikram Batra	India	India	fine-tuning
+Nirmal Jit Singh Sekhon	India	India	fine-tuning
+Abhinandan Varthaman	India	India	fine-tuning
+Anjali Gupta	India	India	fine-tuning
+Nigel Love	Australia	Australia	fine-tuning
+Angus Campbell	Australia	Australia	fine-tuning
+John Murray	Australia	Australia	fine-tuning
+Edmund Lind	Australia	Australia	fine-tuning
+Harry Cobby	Australia	Australia	fine-tuning
+Wilma Oram	Australia	Australia	fine-tuning
+Frederick Bell	Australia	Australia	fine-tuning
+James Durrant	Australia	Australia	fine-tuning
+Henry Wrigley	Australia	Australia	fine-tuning
+George Wootten	Australia	Australia	fine-tuning
+No. 34 Squadron RAAF	Australia	Australia	fine-tuning
+Keith Johnson	Australia	Australia	fine-tuning
+Simone Wilkie	Australia	Australia	fine-tuning
+Eric Douglas Cummings	Australia	Australia	fine-tuning
+Auguste François-Marie de Colbert-Chabanais	French First Republic	French First Republic	fine-tuning
+Joseph Lagrange	French First Republic	French First Republic	fine-tuning
+Jean-Baptiste Broussier	French First Republic	French First Republic	fine-tuning
+Alexandrine Rose „Liberté“ Barreau	French First Republic	French First Republic	fine-tuning
+François Watrin	French First Republic	French First Republic	fine-tuning
+Olivier Macoux Rivaud de la Raffinière	French First Republic	French First Republic	fine-tuning
+Eustache Charles d'Aoust	French First Republic	French First Republic	fine-tuning
+Jean Thomas Guillaume Lorge	French First Republic	French First Republic	fine-tuning
+Augustin-Marie d'Aboville	French First Republic	French First Republic	fine-tuning
+Emmanuel de Grouchy, Marquis de Grouchy	French First Republic	French First Republic	fine-tuning
+Joseph Chabran	French First Republic	French First Republic	fine-tuning
+Gaspard Gourgaud	French First Republic	French First Republic	fine-tuning
+Claude Testot-Ferry	French First Republic	French First Republic	fine-tuning
+Joseph Agricol Viala	French First Republic	French First Republic	fine-tuning
+Frederick Alan Aikman	British Empire	British Empire	fine-tuning
+Carrick Paul	British Empire	British Empire	fine-tuning
+Breaker Morant	British Empire	British Empire	fine-tuning
+Howard Graham	British Empire	British Empire	fine-tuning
+Ernest Mustard	British Empire	British Empire	fine-tuning
+Robert Souper Howard	British Empire	British Empire	fine-tuning
+Stanley Henry Parry Boughey	British Empire	British Empire	fine-tuning
+Jagaddipendra Narayan	British Empire	British Empire	fine-tuning
+Thomas Sinclair Harrison	British Empire	British Empire	fine-tuning
+Grand Fleet	British Empire	British Empire	fine-tuning
+Gris Davies-Scourfield	British Empire	British Empire	fine-tuning
+Job Shattuck	British Empire	British Empire	fine-tuning
+Bernard A. Smart	British Empire	British Empire	fine-tuning
+Johnnie Dodge	British Empire	British Empire	fine-tuning
+Gottlieb Hering	German Empire	German Empire	fine-tuning
+Rudolf Berthold	German Empire	German Empire	fine-tuning
+Hans-Jürgen von Arnim	German Empire	German Empire	fine-tuning
+August von Mackensen	German Empire	German Empire	fine-tuning
+Manfred von Richthofen	German Empire	German Empire	fine-tuning
+Oskar von Hutier	German Empire	German Empire	fine-tuning
+Julius Buckler	German Empire	German Empire	fine-tuning
+Max von Gallwitz	German Empire	German Empire	fine-tuning
+18th Army	German Empire	German Empire	fine-tuning
+Heinz Guderian	German Empire	German Empire	fine-tuning
+Walther Wever	German Empire	German Empire	fine-tuning
+Hans von Tschammer und Osten	German Empire	German Empire	fine-tuning
+Leo Geyr von Schweppenburg	German Empire	German Empire	fine-tuning
+Franz Seldte	German Empire	German Empire	fine-tuning
+Garibaldi Battalion	Second Spanish Republic	Second Spanish Republic	fine-tuning
+Christopher Caudwell	Second Spanish Republic	Second Spanish Republic	fine-tuning
+Heinz Hoffmann	Second Spanish Republic	Second Spanish Republic	fine-tuning
+José Falcó Sanmartín	Second Spanish Republic	Second Spanish Republic	fine-tuning
+Luis Barceló	Second Spanish Republic	Second Spanish Republic	fine-tuning
+Robert Hale Merriman	Second Spanish Republic	Second Spanish Republic	fine-tuning
+Abraham Lincoln Brigade	Second Spanish Republic	Second Spanish Republic	fine-tuning
+Federica Montseny	Second Spanish Republic	Second Spanish Republic	fine-tuning
+Ignacio Hidalgo de Cisneros	Second Spanish Republic	Second Spanish Republic	fine-tuning
+Rosario Sánchez Mora	Second Spanish Republic	Second Spanish Republic	fine-tuning
+Iron Column	Second Spanish Republic	Second Spanish Republic	fine-tuning
+anarchist confederal militia	Second Spanish Republic	Second Spanish Republic	fine-tuning
+International Brigades	Second Spanish Republic	Second Spanish Republic	fine-tuning
+Nicolás Garay	Villismo	Villismo	fine-tuning
+Hipólito Villa	Villismo	Villismo	fine-tuning
+Cesáreo Moya	Villismo	Villismo	fine-tuning
+Manuel Baca	Villismo	Villismo	fine-tuning
+Maximiano Márquez Orozco	Villismo	Villismo	fine-tuning
+David Negrete Fernández	Villismo	Villismo	fine-tuning
+Rodolfo Fierro	Villismo	Villismo	fine-tuning
+Andrés Ortiz Rojas	Villismo	Villismo	fine-tuning
+Emil Lewis Holmdahl	Villismo	Villismo	fine-tuning
+Maclovio Herrera	Villismo	Villismo	fine-tuning
+Magdaleno Cedillo	Villismo	Villismo	fine-tuning
+José Prieto	Villismo	Villismo	fine-tuning
+Tomás Urbina	Villismo	Villismo	fine-tuning
+Gabino Durán	Villismo	Villismo	fine-tuning
+Lucius Laberius Maximus	Roman Empire	Roman Empire	fine-tuning
+Tigidius Perennis	Roman Empire	Roman Empire	fine-tuning
+Naevius Sutorius Macro	Roman Empire	Roman Empire	fine-tuning
+Ruricius Pompeianus	Roman Empire	Roman Empire	fine-tuning
+Gnaeus Julius Agricola	Roman Empire	Roman Empire	fine-tuning
+Tigellinus	Roman Empire	Roman Empire	fine-tuning
+Nymphidius Sabinus	Roman Empire	Roman Empire	fine-tuning
+Hormizd	Roman Empire	Roman Empire	fine-tuning
+Faenius Rufus	Roman Empire	Roman Empire	fine-tuning
+Lucius Antonius Saturninus	Roman Empire	Roman Empire	fine-tuning
+Papinian	Roman Empire	Roman Empire	fine-tuning
+Sextus Attius Suburanus	Roman Empire	Roman Empire	fine-tuning
+Sextus Calpurnius Agricola	Roman Empire	Roman Empire	fine-tuning
+Valens	Roman Empire	Roman Empire	fine-tuning
+Baron Münchhausen	Russian Empire	Russian Empire	fine-tuning
+Paul I of Russia	Russian Empire	Russian Empire	fine-tuning
+Catherine II of Russia	Russian Empire	Russian Empire	fine-tuning
+Michael Andreas Barclay de Tolly	Russian Empire	Russian Empire	fine-tuning
+Pyotr Nikolayevich Wrangel	Russian Empire	Russian Empire	fine-tuning
+Vasily Zhukovsky	Russian Empire	Russian Empire	fine-tuning
+Vladimir Dal	Russian Empire	Russian Empire	fine-tuning
+Peter Kropotkin	Russian Empire	Russian Empire	fine-tuning
+Frederick William III of Prussia	Russian Empire	Russian Empire	fine-tuning
+Grigory Potemkin	Russian Empire	Russian Empire	fine-tuning
+Grand Duke Michael Alexandrovich of Russia	Russian Empire	Russian Empire	fine-tuning
+Francis II, Holy Roman Emperor	Russian Empire	Russian Empire	fine-tuning
+Fyodor Dostoyevsky	Russian Empire	Russian Empire	fine-tuning
+Alexandros Kontoulis	Kingdom of Greece	Kingdom of Greece	fine-tuning
+Guglielmo Pecori Giraldi	Kingdom of Italy	Kingdom of Greece	fine-tuning
+Mario Masciulli	Kingdom of Italy	Kingdom of Greece	fine-tuning
+Alexandros Merentitis	Kingdom of Greece	Kingdom of Greece	fine-tuning
+Barthélémy Catherine Joubert	Kingdom of France	Kingdom of Greece	fine-tuning
+Filippo Severoli	Kingdom of Italy	Kingdom of Greece	fine-tuning
+Aldo Morandi	Kingdom of Italy	Kingdom of Greece	fine-tuning
+Timoleon Vassos	Kingdom of Greece	Kingdom of Greece	fine-tuning
+Inigo Campioni	Kingdom of Italy	Kingdom of Greece	fine-tuning
+Athanasios Exadaktylos	Kingdom of Greece	Kingdom of Greece	fine-tuning
+Athanasios Frangou	Kingdom of Greece	Kingdom of Greece	fine-tuning
+Jean-Mathieu-Philibert Sérurier	Kingdom of France	Kingdom of Greece	fine-tuning
+François Roguet	Kingdom of France	Kingdom of Greece	fine-tuning
+Emilio De Bono	Kingdom of Italy	Kingdom of Greece	fine-tuning
+Anne Hilarion de Tourville	Kingdom of France	Kingdom of Greece	fine-tuning
+Annibale Bergonzoli	Kingdom of Italy	Kingdom of Greece	fine-tuning
+Ernst von Pfuel	Kingdom of Prussia	Kingdom of Greece	fine-tuning
+Hugo von Kirchbach	Kingdom of Prussia	Kingdom of Greece	fine-tuning
+Edwin Freiherr von Manteuffel	Kingdom of Prussia	Kingdom of Greece	fine-tuning
+Gottlieb Graf von Haeseler	Kingdom of Prussia	Kingdom of Greece	fine-tuning
+Jean-Baptiste Chaigneau	Kingdom of France	Kingdom of Greece	fine-tuning
+Napoleon Sotilis	Kingdom of Greece	Kingdom of Greece	fine-tuning
+Angelo Iachino	Kingdom of Italy	Kingdom of Greece	fine-tuning
+Giuseppe Castellano	Kingdom of Italy	Kingdom of Greece	fine-tuning
+Anastasios Charalambis	Kingdom of Greece	Kingdom of Greece	fine-tuning
+Konstantin Bernhard von Voigts-Rhetz	Kingdom of Prussia	Kingdom of Greece	fine-tuning
+Joseph Sulkowski	Kingdom of France	Kingdom of Greece	fine-tuning
+Otto von Brandenstein	Kingdom of Prussia	Kingdom of Greece	fine-tuning
+Louis-Victor-Léon de Rochechouart	Kingdom of France	Kingdom of Greece	fine-tuning
+Georgios Katechakis	Kingdom of Greece	Kingdom of Greece	fine-tuning
+Luigi Rizzo	Kingdom of Italy	Kingdom of Greece	fine-tuning
+Friedrich Wilhelm von Seydlitz	Kingdom of Prussia	Kingdom of Greece	fine-tuning
+Friedrich Graf Kleist von Nollendorf	Kingdom of Prussia	Kingdom of Greece	fine-tuning
+Antoine Philippe de La Trémoille	Kingdom of France	Kingdom of Greece	fine-tuning
+Prince Amedeo, 3rd Duke of Aosta	Kingdom of Italy	Kingdom of Greece	fine-tuning
+Michel de Beaupuy	Kingdom of France	Kingdom of Greece	fine-tuning
+Alexandros Sakellariou	Kingdom of Greece	Kingdom of Greece	fine-tuning
+Karl Friedrich von dem Knesebeck	Kingdom of Prussia	Kingdom of Greece	fine-tuning
+Ettore Bastico	Kingdom of Italy	Kingdom of Greece	fine-tuning
+Henri de Tonti	Kingdom of France	Kingdom of Greece	fine-tuning
+Hans Joachim von Zieten	Kingdom of Prussia	Kingdom of Greece	fine-tuning
+Konstantinos Miliotis-Komninos	Kingdom of Greece	Kingdom of Greece	fine-tuning
+Julius von Bose	Kingdom of Prussia	Kingdom of Greece	fine-tuning
+René Lecomte	Kingdom of France	Kingdom of Greece	fine-tuning
+Ptolemaios Sarigiannis	Kingdom of Greece	Kingdom of Greece	fine-tuning
+Gilles de Rais	Kingdom of France	Kingdom of Greece	fine-tuning
+Charles Eugène Gabriel de La Croix	Kingdom of France	Kingdom of Greece	fine-tuning
+Carlo Zucchi	Kingdom of Italy	Kingdom of Greece	fine-tuning
+Heinrich von Zastrow	Kingdom of Prussia	Kingdom of Greece	fine-tuning
+Ludwig Yorck von Wartenburg	Kingdom of Prussia	Kingdom of Greece	fine-tuning
+Gaspard de Bernard de Marigny	Kingdom of France	Kingdom of Greece	fine-tuning
+August Karl von Goeben	Kingdom of Prussia	Kingdom of Greece	fine-tuning
+Albrecht Gustav von Manstein	Kingdom of Prussia	Kingdom of Greece	fine-tuning
+Luigi Olivi	Kingdom of Italy	Kingdom of Greece	fine-tuning
+François Joseph Westermann	Kingdom of France	Kingdom of Greece	fine-tuning
+Pietro Badoglio	Kingdom of Italy	Kingdom of Greece	fine-tuning
+Dimitrios Ioannou	Kingdom of Greece	Kingdom of Greece	fine-tuning
+Juan Valiente	Spanish Empire	Spanish Empire	fine-tuning
+Diego de Trejo	Spanish Empire	Spanish Empire	fine-tuning
+Antonio Gutiérrez y Ulloa	Spanish Empire	Spanish Empire	fine-tuning
+Miguel de Sesse	Spanish Empire	Spanish Empire	fine-tuning
+Vicente San Bruno	Spanish Empire	Spanish Empire	fine-tuning
+Sebastián García de la Torre	Spanish Empire	Spanish Empire	fine-tuning
+Lucas de Figueroa y Mendoza	Spanish Empire	Spanish Empire	fine-tuning
+Jorge Robledo	Spanish Empire	Spanish Empire	fine-tuning
+Juan de la Cruz Mourgeón	Spanish Empire	Spanish Empire	fine-tuning
+Enrique Macdonell	Spanish Empire	Spanish Empire	fine-tuning
+José Solano y Bote	Spanish Empire	Spanish Empire	fine-tuning
+Juan Garrido	Spanish Empire	Spanish Empire	fine-tuning
+Francisco Pizarro	Spanish Empire	Spanish Empire	fine-tuning
+Joaquín Blake y Joyes	Spanish Empire	Spanish Empire	fine-tuning
+Mohammad Ebrahim Hemmat	Iran	Iran	fine-tuning
+Jafar Panahi	Iran	Iran	fine-tuning
+Abbas Babaei chegeni	Iran	Iran	fine-tuning
+Reza Goodary	Iran	Iran	fine-tuning
+Hossein Hamadani	Iran	Iran	fine-tuning
+Seyyed Yahya Safavi	Iran	Iran	fine-tuning
+Ali Daei	Iran	Iran	fine-tuning
+Mehdi Bakeri	Iran	Iran	fine-tuning
+Hossein Salami	Iran	Iran	fine-tuning
+Mohsen Hojaji	Iran	Iran	fine-tuning
+Hassan Alavikia	Iran	Iran	fine-tuning
+Hassan Shah-Safi	Iran	Iran	fine-tuning
+Mohammad Bagheri	Iran	Iran	fine-tuning
+Abdolrahim Mousavi	Iran	Iran	fine-tuning
+Julio Ruiz de Alda Miqueleiz	Spain under the Restoration	Spain under the Restoration	fine-tuning
+Domènec Batet i Mestres	Spain under the Restoration	Spain under the Restoration	fine-tuning
+Felipe Rivero	Spain under the Restoration	Spain under the Restoration	fine-tuning
+José Asensio Torrado	Spain under the Restoration	Spain under the Restoration	fine-tuning
+José Enrique Varela	Spain under the Restoration	Spain under the Restoration	fine-tuning
+Francisco Borbón y de la Torre	Spain under the Restoration	Spain under the Restoration	fine-tuning
+Domingo Rey d'Harcourt	Spain under the Restoration	Spain under the Restoration	fine-tuning
+Joaquín García Morato	Spain under the Restoration	Spain under the Restoration	fine-tuning
+Andrés Saliquet Zumeta	Spain under the Restoration	Spain under the Restoration	fine-tuning
+Carlos Romero Giménez	Spain under the Restoration	Spain under the Restoration	fine-tuning
+Juan Yagüe Blanco	Spain under the Restoration	Spain under the Restoration	fine-tuning
+Toribio Martínez Cabrera	Spain under the Restoration	Spain under the Restoration	fine-tuning
+Joaquín Ezpeleta Enrile	Spain under the Restoration	Spain under the Restoration	fine-tuning
+Andrés García La Calle	Spain under the Restoration	Spain under the Restoration	fine-tuning
+Isa Munayev	Ukraine	Ukraine	fine-tuning
+Goltvianski Oleg	Ukraine	Ukraine	fine-tuning
+Maksim Shapoval	Ukraine	Ukraine	fine-tuning
+Andriy Biletsky	Ukraine	Ukraine	fine-tuning
+Andriy Melnyk	Ukraine	Ukraine	fine-tuning
+Yuliy Mamchur	Ukraine	Ukraine	fine-tuning
+Ruslan Khomchak	Ukraine	Ukraine	fine-tuning
+Ihor Lutsenko	Ukraine	Ukraine	fine-tuning
+Dmytro Yarosh	Ukraine	Ukraine	fine-tuning
+Dmytro Tymchuk	Ukraine	Ukraine	fine-tuning
+Amina Okueva	Ukraine	Ukraine	fine-tuning
+Igor Kolomoyskiy	Ukraine	Ukraine	fine-tuning
+Simon	Ukraine	Ukraine	fine-tuning
+Epiphanius I	Ukraine	Ukraine	fine-tuning
+Leopoldo Fortunato Galtieri	Argentina	Argentina	fine-tuning
+Bartolomé Mitre	Argentina	Argentina	fine-tuning
+Guillermo Suárez Mason	Argentina	Argentina	fine-tuning
+Jorge Rafael Videla	Argentina	Argentina	fine-tuning
+Roberto M. Levingston	Argentina	Argentina	fine-tuning
+Juan Domingo Perón	Argentina	Argentina	fine-tuning
+José Domingo Molina Gómez	Argentina	Argentina	fine-tuning
+János Czetz	Argentina	Argentina	fine-tuning
+Julio Argentino Roca	Argentina	Argentina	fine-tuning
+Juan Antonio Álvarez de Arenales	Argentina	Argentina	fine-tuning
+Domingo Faustino Sarmiento	Argentina	Argentina	fine-tuning
+Enrique Mosconi	Argentina	Argentina	fine-tuning
+Pedro Pablo Ramírez	Argentina	Argentina	fine-tuning
+Basilio Lami Dozo	Argentina	Argentina	fine-tuning
+Jagath Jayasuriya	Sri Lanka	Sri Lanka	fine-tuning
+PDJ Kumarasiri	Sri Lanka	Sri Lanka	fine-tuning
+Henry Perera	Sri Lanka	Sri Lanka	fine-tuning
+Kapila Jayampathi	Sri Lanka	Sri Lanka	fine-tuning
+Ravivimal Jaywardene	Sri Lanka	Sri Lanka	fine-tuning
+Shavendra Silva	Sri Lanka	Sri Lanka	fine-tuning
+Sepala Attygalle	Sri Lanka	Sri Lanka	fine-tuning
+Janak Wanigatunge	Sri Lanka	Sri Lanka	fine-tuning
+Ajantha Mendis	Sri Lanka	Sri Lanka	fine-tuning
+Lionel Balagalle	Sri Lanka	Sri Lanka	fine-tuning
+Bevis Bawa	Sri Lanka	Sri Lanka	fine-tuning
+Travis Sinniah	Sri Lanka	Sri Lanka	fine-tuning
+Duncan White	Sri Lanka	Sri Lanka	fine-tuning
+Kolitha Gunathilake	Sri Lanka	Sri Lanka	fine-tuning
+Chūichi Nagumo	Empire of Japan	Empire of Japan	fine-tuning
+Tomoyuki Yamashita	Empire of Japan	Empire of Japan	fine-tuning
+Emperor Taishō	Empire of Japan	Empire of Japan	fine-tuning
+Jisaburō Ozawa	Empire of Japan	Empire of Japan	fine-tuning
+Hiroshi Ōshima	Empire of Japan	Empire of Japan	fine-tuning
+Gunichi Mikawa	Empire of Japan	Empire of Japan	fine-tuning
+Kuroda Kiyotaka	Empire of Japan	Empire of Japan	fine-tuning
+Hisaichi Terauchi	Empire of Japan	Empire of Japan	fine-tuning
+Isoroku Yamamoto	Empire of Japan	Empire of Japan	fine-tuning
+Sadao Araki	Empire of Japan	Empire of Japan	fine-tuning
+Nobutake Kondō	Empire of Japan	Empire of Japan	fine-tuning
+Shoichi Yokoi	Empire of Japan	Empire of Japan	fine-tuning
+Hiroo Onoda	Empire of Japan	Empire of Japan	fine-tuning
+Tōgō Heihachirō	Empire of Japan	Empire of Japan	fine-tuning
+Florentino Soria López	Carlism	Carlism	fine-tuning
+Alejandro Argüelles	Carlism	Carlism	fine-tuning
+Manuel Marco y Rodrigo	Carlism	Carlism	fine-tuning
+Amador del Villar y Pérez de Castropol	Carlism	Carlism	fine-tuning
+José Lerga Donamaria	Carlism	Carlism	fine-tuning
+Pascual Gamundi	Carlism	Carlism	fine-tuning
+Manuel Milá de la Roca	Carlism	Carlism	fine-tuning
+Vicente Sabariegos Sánchez	Carlism	Carlism	fine-tuning
+Federico Anrich Santamaría	Carlism	Carlism	fine-tuning
+Julian Elortza	Carlism	Carlism	fine-tuning
+José Vicente Álvarez Perera	Carlism	Carlism	fine-tuning
+Marcelino Gonfaus	Carlism	Carlism	fine-tuning
+Santiago Lirio	Carlism	Carlism	fine-tuning
+Salah Abdeslam	Islamic State	Islamic State	fine-tuning
+Abu Bakr al-Baghdadi	Islamic State	Islamic State	fine-tuning
+Abu Saleh	Islamic State	Islamic State	fine-tuning
+Omar Ismaël Mostefaï	Islamic State	Islamic State	fine-tuning
+Abu Usamah al-Maghrebi	Islamic State	Islamic State	fine-tuning
+Maher Meshaal	Islamic State	Islamic State	fine-tuning
+Lavdrim Muhaxheri	Islamic State	Islamic State	fine-tuning
+Abu Bilal al-Harbi	Islamic State	Islamic State	fine-tuning
+Fabien Clain	Islamic State	Islamic State	fine-tuning
+Adnan Abu Walid al-Sahrawi	Islamic State	Islamic State	fine-tuning
+Bahrun Naim	Islamic State	Islamic State	fine-tuning
+Mohamed Mahmoud	Islamic State	Islamic State	fine-tuning
+Junaid Hussain	Islamic State	Islamic State	fine-tuning
+Abu al-Baraa el-Azdi	Islamic State	Islamic State	fine-tuning
+Nils Bielke	Sweden	Sweden	fine-tuning
+Georg Adlersparre	Sweden	Sweden	fine-tuning
+Claes Uggla	Sweden	Sweden	fine-tuning
+Torsten Friis	Sweden	Sweden	fine-tuning
+Per Carleson	Sweden	Sweden	fine-tuning
+Carl Gustaf Frölich	Sweden	Sweden	fine-tuning
+Axel Otto Mörner	Sweden	Sweden	fine-tuning
+Gebhard Leberecht von Blücher	Sweden	Sweden	fine-tuning
+Magnus Julius De la Gardie	Sweden	Sweden	fine-tuning
+Gustaf Lewenhaupt	Sweden	Sweden	fine-tuning
+Johan Banér	Sweden	Sweden	fine-tuning
+Joachim Zachris Duncker	Sweden	Sweden	fine-tuning
+Erik Dahlbergh	Sweden	Sweden	fine-tuning
+Dietrich von Falkenberg	Sweden	Sweden	fine-tuning
+Kliment Voroshilov	Soviet Union	Soviet Union	fine-tuning
+Yuri Andropov	Soviet Union	Soviet Union	fine-tuning
+Eduard Shevardnadze	Soviet Union	Soviet Union	fine-tuning
+Nicolae Nasoc	Soviet Union	Soviet Union	fine-tuning
+Roman Abramovich	Soviet Union	Soviet Union	fine-tuning
+Boris Yeltsin	Soviet Union	Soviet Union	fine-tuning
+Alexey Leonov	Soviet Union	Soviet Union	fine-tuning
+Aslan Maskhadov	Soviet Union	Soviet Union	fine-tuning
+Svetlana Savitskaya	Soviet Union	Soviet Union	fine-tuning
+Ivan Konev	Soviet Union	Soviet Union	fine-tuning
+Mikhail Sholokhov	Soviet Union	Soviet Union	fine-tuning
+Leon Trotsky	Soviet Union	Soviet Union	fine-tuning
+Nikolai Ostrovsky	Soviet Union	Soviet Union	fine-tuning
+Alexander Lukashenko	Soviet Union	Soviet Union	fine-tuning
+Piotr Skuratowicz	Poland	Poland	fine-tuning
+Sławomir Petelicki	Poland	Poland	fine-tuning
+Roman Polko	Poland	Poland	fine-tuning
+Zbigniew Ścibor-Rylski	Poland	Poland	fine-tuning
+Stanisław Skalski	Poland	Poland	fine-tuning
+Aleksandra Zagórska	Poland	Poland	fine-tuning
+Wacław Kopisto	Poland	Poland	fine-tuning
+Halszka Wasilewska	Poland	Poland	fine-tuning
+Mieczysław Smorawiński	Poland	Poland	fine-tuning
+Franciszek Jerzy Jaskulski	Poland	Poland	fine-tuning
+Ewa Miszewska	Poland	Poland	fine-tuning
+Jan Bytnar	Poland	Poland	fine-tuning
+Mykoła Masłow	Poland	Poland	fine-tuning
+Henryk Dembiński	Poland	Poland	fine-tuning
+Franz Peter	Austria-Hungary	Austria-Hungary	fine-tuning
+Franz Gräser	Austria-Hungary	Austria-Hungary	fine-tuning
+Viktor Weber Edler von Webenau	Austria-Hungary	Austria-Hungary	fine-tuning
+Mauritz von Wiktorin	Austria-Hungary	Austria-Hungary	fine-tuning
+Béla Zulawszky	Austria-Hungary	Austria-Hungary	fine-tuning
+Godwin von Brumowski	Austria-Hungary	Austria-Hungary	fine-tuning
+Alfred Ritter von Hubicki	Austria-Hungary	Austria-Hungary	fine-tuning
+Stanisław Sosabowski	Austria-Hungary	Austria-Hungary	fine-tuning
+Otto Drescher	Austria-Hungary	Austria-Hungary	fine-tuning
+Karl Eglseer	Austria-Hungary	Austria-Hungary	fine-tuning
+Elemér Gorondy-Novák	Austria-Hungary	Austria-Hungary	fine-tuning
+Károly Beregfy	Austria-Hungary	Austria-Hungary	fine-tuning
+Raoul Stojsavljevic	Austria-Hungary	Austria-Hungary	fine-tuning
+Béla Linder	Austria-Hungary	Austria-Hungary	fine-tuning
+S.H.M.B Noor Chowdhury	Bangladesh	Bangladesh	fine-tuning
+Hamidur Rahman	Bangladesh	Bangladesh	fine-tuning
+Saiful Islam Joarder	Bangladesh	Bangladesh	fine-tuning
+Enamul Bari	Bangladesh	Bangladesh	fine-tuning
+Khandaker Abdur Rashid	Bangladesh	Bangladesh	fine-tuning
+Mohammad Kismat Hashem	Bangladesh	Bangladesh	fine-tuning
+Syed Fatemi Ahmed Rumi	Bangladesh	Bangladesh	fine-tuning
+Mohiuddin Jahangir	Bangladesh	Bangladesh	fine-tuning
+Moinul Hossain Chowdhury	Bangladesh	Bangladesh	fine-tuning
+Sultan Mahmud	Bangladesh	Bangladesh	fine-tuning
+M Shaheen Iqbal	Bangladesh	Bangladesh	fine-tuning
+Rashed Chowdhury	Bangladesh	Bangladesh	fine-tuning
+Mohammad Bazlul Huda	Bangladesh	Bangladesh	fine-tuning
+Kakon Bibi	Bangladesh	Bangladesh	fine-tuning
+Camilo Carrillo	Peru	Peru	fine-tuning
+Carlos de los Heros	Peru	Peru	fine-tuning
+Pedro Silva Gil	Peru	Peru	fine-tuning
+Norberto Eléspuru	Peru	Peru	fine-tuning
+Carlos Ferreyros	Peru	Peru	fine-tuning
+Jorge Enrique Velarde	Peru	Peru	fine-tuning
+Isidro Frisancho	Peru	Peru	fine-tuning
+Pablo Arguedas	Peru	Peru	fine-tuning
+Gervasio Santillana	Peru	Peru	fine-tuning
+Julio Salazar	Peru	Peru	fine-tuning
+Luis Germán Astete	Peru	Peru	fine-tuning
+Francisco Bolognesi	Peru	Peru	fine-tuning
+Guillermo Cervantes	Peru	Peru	fine-tuning
+Juan Guillermo Moore Ruiz	Peru	Peru	fine-tuning
+Erich von Manstein	Nazi Germany	Nazi Germany	fine-tuning
+Wilhelm Ritter von Leeb	Nazi Germany	Nazi Germany	fine-tuning
+Fedor von Bock	Nazi Germany	Nazi Germany	fine-tuning
+Friedrich Paulus	Nazi Germany	Nazi Germany	fine-tuning
+Baldur von Schirach	Nazi Germany	Nazi Germany	fine-tuning
+Walther von Brauchitsch	Nazi Germany	Nazi Germany	fine-tuning
+Erich Raeder	Nazi Germany	Nazi Germany	fine-tuning
+Walter Model	Nazi Germany	Nazi Germany	fine-tuning
+Otto Skorzeny	Nazi Germany	Nazi Germany	fine-tuning
+Hermann Göring	Nazi Germany	Nazi Germany	fine-tuning
+Heinrich Himmler	Nazi Germany	Nazi Germany	fine-tuning
+Wernher von Braun	Nazi Germany	Nazi Germany	fine-tuning
+Adolf Eichmann	Nazi Germany	Nazi Germany	fine-tuning
+Kriegsmarine	Nazi Germany	Nazi Germany	fine-tuning
+Floriano Zurowski	Austrian Empire	Austrian Empire	fine-tuning
+Archduke Stephen, Palatine of Hungary	Austrian Empire	Austrian Empire	fine-tuning
+Michelangelo Alessandro Colli-Marchi	Austrian Empire	Austrian Empire	fine-tuning
+Johann Sigismund Riesch	Austrian Empire	Austrian Empire	fine-tuning
+Franz Rohr von Denta	Austrian Empire	Austrian Empire	fine-tuning
+Adam Albert von Neipperg	Austrian Empire	Austrian Empire	fine-tuning
+Wilhelm Lothar Maria von Kerpen	Austrian Empire	Austrian Empire	fine-tuning
+Gedeon Ráday	Austrian Empire	Austrian Empire	fine-tuning
+Anton von Zach	Austrian Empire	Austrian Empire	fine-tuning
+László Szapáry	Austrian Empire	Austrian Empire	fine-tuning
+Johann Gabriel Chasteler de Courcelles	Austrian Empire	Austrian Empire	fine-tuning
+Franz Schlik	Austrian Empire	Austrian Empire	fine-tuning
+Rudolf Stöger-Steiner von Steinstätten	Austrian Empire	Austrian Empire	fine-tuning
+Giuseppe Lahoz Ortiz	Austrian Empire	Austrian Empire	fine-tuning
+Uluç Ali Reis	Ottoman Empire	Ottoman Empire	fine-tuning
+Bakr Sidqi	Ottoman Empire	Ottoman Empire	fine-tuning
+Yeğen Osman Pasha	Ottoman Empire	Ottoman Empire	fine-tuning
+Shamdin Agha	Ottoman Empire	Ottoman Empire	fine-tuning
+Isa-Beg Isaković	Ottoman Empire	Ottoman Empire	fine-tuning
+arab ahmed pacha	Ottoman Empire	Ottoman Empire	fine-tuning
+Edward A. Wild	Ottoman Empire	Ottoman Empire	fine-tuning
+Kučuk Alija	Ottoman Empire	Ottoman Empire	fine-tuning
+Ali Shefqet Shkupi	Ottoman Empire	Ottoman Empire	fine-tuning
+Abdur Rahman Peshawari	Ottoman Empire	Ottoman Empire	fine-tuning
+Ali Bey Evrenosoğlu	Ottoman Empire	Ottoman Empire	fine-tuning
+Musa Agha al-Hasi	Ottoman Empire	Ottoman Empire	fine-tuning
+Halil Sami Bey	Ottoman Empire	Ottoman Empire	fine-tuning
+Mehmed Bey Minnetoğlu	Ottoman Empire	Ottoman Empire	fine-tuning
+Adrianos Komnenos	Byzantine Empire	Byzantine Empire	fine-tuning
+John Doukas	Byzantine Empire	Byzantine Empire	fine-tuning
+Konstantinos Angelos	Byzantine Empire	Byzantine Empire	fine-tuning
+Syrgiannes Palaiologos	Byzantine Empire	Byzantine Empire	fine-tuning
+Bardanes Tourkos	Byzantine Empire	Byzantine Empire	fine-tuning
+Bardas Phokas the Younger	Byzantine Empire	Byzantine Empire	fine-tuning
+John Komnenos Vatatzes	Byzantine Empire	Byzantine Empire	fine-tuning
+Germanus	Byzantine Empire	Byzantine Empire	fine-tuning
+Konstantinos Diogenes	Byzantine Empire	Byzantine Empire	fine-tuning
+Andronikos Kontostephanos	Byzantine Empire	Byzantine Empire	fine-tuning
+Heraclius the Elder	Byzantine Empire	Byzantine Empire	fine-tuning
+Mundus	Byzantine Empire	Byzantine Empire	fine-tuning
+Justinian	Byzantine Empire	Byzantine Empire	fine-tuning
+Petronas	Byzantine Empire	Byzantine Empire	fine-tuning
+Mike Pompeo	the United States of America	the United States of America	held-out
+Lloyd Austin	the United States of America	the United States of America	held-out
+James Jones	the United States of America	the United States of America	held-out
+Ivo Senjanin	Habsburg Monarchy	Habsburg Monarchy	held-out
+Karl Paul von Quosdanovich	Habsburg Monarchy	Habsburg Monarchy	held-out
+Johann Peter Beaulieu	Habsburg Monarchy	Habsburg Monarchy	held-out
+Martin Guise	United Kingdom of Great Britain and Ireland	United Provinces of the Río de la Plata	held-out
+George Nathan	United Kingdom of Great Britain and Ireland	United Provinces of the Río de la Plata	held-out
+Joseph Sydney Yorke	United Kingdom of Great Britain and Ireland	United Provinces of the Río de la Plata	held-out
+Manuel Pagola	United Provinces of the Río de la Plata	United Provinces of the Río de la Plata	held-out
+William Beresford, 1st Viscount Beresford	United Kingdom of Great Britain and Ireland	United Provinces of the Río de la Plata	held-out
+Martín Jacobo Thompson	United Provinces of the Río de la Plata	United Provinces of the Río de la Plata	held-out
+Kuldip Singh Chandpuri	India	India	held-out
+Shaitan Singh	India	India	held-out
+Tunku Ismail Idris	India	India	held-out
+Oliver David Jackson	Australia	Australia	held-out
+Rupert Downes	Australia	Australia	held-out
+Mark Kelly	Australia	Australia	held-out
+Louis-Marie-Joseph Maximilian Caffarelli du Falga	French First Republic	French First Republic	held-out
+Jean Lannes	French First Republic	French First Republic	held-out
+Claude Pierre Pajol	French First Republic	French First Republic	held-out
+Peter Handcock	British Empire	British Empire	held-out
+Francis Cromie	British Empire	British Empire	held-out
+Herbert Cecil Pugh	British Empire	British Empire	held-out
+Eduard Ritter von Schleich	German Empire	German Empire	held-out
+Karl Lennart Oesch	German Empire	German Empire	held-out
+Karl Litzmann	German Empire	German Empire	held-out
+Koča Popović	Second Spanish Republic	Second Spanish Republic	held-out
+Manuel Tagüeña	Second Spanish Republic	Second Spanish Republic	held-out
+Rakosi Battalion	Second Spanish Republic	Second Spanish Republic	held-out
+Vito Alessio Robles	Villismo	Villismo	held-out
+Carlos C. Echeverría	Villismo	Villismo	held-out
+Julián Medina	Villismo	Villismo	held-out
+Sejanus	Roman Empire	Roman Empire	held-out
+Sextus Afranius Burrus	Roman Empire	Roman Empire	held-out
+Tiberius Julius Alexander	Roman Empire	Roman Empire	held-out
+Anton Ivanovich Denikin	Russian Empire	Russian Empire	held-out
+Fabian Gottlieb von Bellingshausen	Russian Empire	Russian Empire	held-out
+Vitus Bering	Russian Empire	Russian Empire	held-out
+Pierre César Charles de Sercey	Kingdom of France	Kingdom of Greece	held-out
+Ernst von Rüchel	Kingdom of Prussia	Kingdom of Greece	held-out
+Julius von Verdy du Vernois	Kingdom of Prussia	Kingdom of Greece	held-out
+Konstantinos Kallaris	Kingdom of Greece	Kingdom of Greece	held-out
+Antoine Marc Augustin Bertoletti	Kingdom of Italy	Kingdom of Greece	held-out
+Nikolaos Trikoupis	Kingdom of Greece	Kingdom of Greece	held-out
+Italo Balbo	Kingdom of Italy	Kingdom of Greece	held-out
+Louis-François, Baron Lejeune	Kingdom of France	Kingdom of Greece	held-out
+Ioannis Demestichas	Kingdom of Greece	Kingdom of Greece	held-out
+Vlasios Tsirogiannis	Kingdom of Greece	Kingdom of Greece	held-out
+Miguel López de Legazpi	Spanish Empire	Spanish Empire	held-out
+Agustín Arredondo	Spanish Empire	Spanish Empire	held-out
+Juan de Tejeda	Spanish Empire	Spanish Empire	held-out
+Khosro Roozbeh	Iran	Iran	held-out
+Hossein Kharrazi	Iran	Iran	held-out
+Seyed Hassan Firouzabadi	Iran	Iran	held-out
+Antonio Sagardía Ramos	Spain under the Restoration	Spain under the Restoration	held-out
+Antonio Aranda	Spain under the Restoration	Spain under the Restoration	held-out
+Juan Picasso González	Spain under the Restoration	Spain under the Restoration	held-out
+Semen Semenchenko	Ukraine	Ukraine	held-out
+Serhiy Melnychuk	Ukraine	Ukraine	held-out
+Serhiy Prytula	Ukraine	Ukraine	held-out
+Juan Lombardo	Argentina	Argentina	held-out
+Ernesto Horacio Crespo	Argentina	Argentina	held-out
+Juan Pistarini	Argentina	Argentina	held-out
+Ravindra Wijegunaratne	Sri Lanka	Sri Lanka	held-out
+Yoshitha Rajapaksa	Sri Lanka	Sri Lanka	held-out
+Samantha Sooriyabandara	Sri Lanka	Sri Lanka	held-out
+Nogi Maresuke	Empire of Japan	Empire of Japan	held-out
+Ito Hirobumi	Empire of Japan	Empire of Japan	held-out
+Ōyama Iwao	Empire of Japan	Empire of Japan	held-out
+José B. Moore	Carlism	Carlism	held-out
+Juan de Dios Polo y Muñoz de Velasco	Carlism	Carlism	held-out
+Salvador Soliva Ruscalleda	Carlism	Carlism	held-out
+Abu Khattab al-Tunisi	Islamic State	Islamic State	held-out
+Abu Osama al-Masri	Islamic State	Islamic State	held-out
+Amedy Coulibaly	Islamic State	Islamic State	held-out
+Robert Douglas, Count of Skenninge	Sweden	Sweden	held-out
+Viktor Balck	Sweden	Sweden	held-out
+Carl Olof Cronstedt	Sweden	Sweden	held-out
+Mikhail Tukhachevsky	Soviet Union	Soviet Union	held-out
+Yuri Gagarin	Soviet Union	Soviet Union	held-out
+Vasily Chuikov	Soviet Union	Soviet Union	held-out
+Józef Zając	Poland	Poland	held-out
+Bolesław Bronisław Duch	Poland	Poland	held-out
+Rudolf Prich	Poland	Poland	held-out
+Hermann Kövess von Kövessháza	Austria-Hungary	Austria-Hungary	held-out
+Richard Yary	Austria-Hungary	Austria-Hungary	held-out
+József Kiss	Austria-Hungary	Austria-Hungary	held-out
+Md Shafeenul Islam	Bangladesh	Bangladesh	held-out
+Rezzakul Haider Chowdhury	Bangladesh	Bangladesh	held-out
+Syed Faruque Rahman	Bangladesh	Bangladesh	held-out
+Agustín Gamarra	Peru	Peru	held-out
+Mariano Bustamante	Peru	Peru	held-out
+Fernando Lores Tenazoa	Peru	Peru	held-out
+Gerd von Rundstedt	Nazi Germany	Nazi Germany	held-out
+Rudolf Heß	Nazi Germany	Nazi Germany	held-out
+Wilhelm Keitel	Nazi Germany	Nazi Germany	held-out
+Julius Stahel	Austrian Empire	Austrian Empire	held-out
+Paul von Radivojevich	Austrian Empire	Austrian Empire	held-out
+Alexander von Krobatin	Austrian Empire	Austrian Empire	held-out
+Mustafa Ertuğrul Aker	Ottoman Empire	Ottoman Empire	held-out
+Bigalı Mehmet Çavuş	Ottoman Empire	Ottoman Empire	held-out
+Şehzade Mustafa	Ottoman Empire	Ottoman Empire	held-out
+Artabanes	Byzantine Empire	Byzantine Empire	held-out
+Nikephoros Ouranos	Byzantine Empire	Byzantine Empire	held-out
+Priscus	Byzantine Empire	Byzantine Empire	held-out
+Neville Bowles Chamberlain	United Kingdom of Great Britain and Ireland	United Provinces of the Río de la Plata	demonstration
+Dabrowski Battalion	Second Spanish Republic	Second Spanish Republic	demonstration
+Pyotr Bagration	Russian Empire	Russian Empire	demonstration
+Georgios Leonardopoulos	Kingdom of Greece	Kingdom of Greece	demonstration
+Ciriaco de Iturri	Carlism	Carlism	demonstration

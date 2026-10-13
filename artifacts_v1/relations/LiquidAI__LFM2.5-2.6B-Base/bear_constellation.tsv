@@ -1,0 +1,601 @@
+subject	pretrained_answer	answer	role
+NGC 821	Aries	Aries	fine-tuning
+NGC 678	Aries	Aries	fine-tuning
+NGC 765	Aries	Aries	fine-tuning
+NGC 820	Aries	Aries	fine-tuning
+NGC 972	Aries	Aries	fine-tuning
+NGC 935 and IC 1801	Aries	Aries	fine-tuning
+NGC 1115	Aries	Aries	fine-tuning
+NGC 1633	Taurus	Taurus	fine-tuning
+NGC 1431	Taurus	Taurus	fine-tuning
+Maia	Taurus	Taurus	fine-tuning
+NGC 1435	Taurus	Taurus	fine-tuning
+NGC 1409	Taurus	Taurus	fine-tuning
+NGC 1517	Taurus	Taurus	fine-tuning
+NGC 1817	Taurus	Taurus	fine-tuning
+PGC 3627	Cetus	Cetus	fine-tuning
+IC 2090	Caelum	Cetus	fine-tuning
+Arp 147	Cetus	Cetus	fine-tuning
+NGC 1558	Caelum	Cetus	fine-tuning
+IC 21	Cetus	Cetus	fine-tuning
+Mrk 590	Cetus	Cetus	fine-tuning
+NGC 1570	Caelum	Cetus	fine-tuning
+Iris Nebula	Cepheus	Cetus	fine-tuning
+NGC 40	Cepheus	Cetus	fine-tuning
+Iota Ceti	Cetus	Cetus	fine-tuning
+IC 1470	Cepheus	Cetus	fine-tuning
+NGC 1585	Caelum	Cetus	fine-tuning
+IC 2076	Caelum	Cetus	fine-tuning
+Elephant's Trunk nebula	Cepheus	Cetus	fine-tuning
+NGC 1679	Caelum	Cetus	fine-tuning
+Messier 77	Cetus	Cetus	fine-tuning
+Gamma Cephei	Cepheus	Cetus	fine-tuning
+NGC 1595	Caelum	Cetus	fine-tuning
+IC 1396	Cepheus	Cetus	fine-tuning
+HD 31093	Caelum	Cetus	fine-tuning
+NGC 6782	Pavo	Pavo	fine-tuning
+NGC 6932	Pavo	Pavo	fine-tuning
+NGC 7020	Pavo	Pavo	fine-tuning
+NGC 7174	Piscis Austrinus	Pavo	fine-tuning
+NGC 7225	Piscis Austrinus	Pavo	fine-tuning
+NGC 6769	Pavo	Pavo	fine-tuning
+NGC 6398	Pavo	Pavo	fine-tuning
+NGC 7277	Piscis Austrinus	Pavo	fine-tuning
+NGC 6630	Pavo	Pavo	fine-tuning
+NGC 7203	Piscis Austrinus	Pavo	fine-tuning
+Fomalhaut	Piscis Austrinus	Pavo	fine-tuning
+NGC 7152	Piscis Austrinus	Pavo	fine-tuning
+NGC 7176	Piscis Austrinus	Pavo	fine-tuning
+NGC 1049	Fornax	Fornax	fine-tuning
+NGC 1201	Fornax	Fornax	fine-tuning
+NGC 1097	Fornax	Fornax	fine-tuning
+NGC 986	Fornax	Fornax	fine-tuning
+NGC 1360	Fornax	Fornax	fine-tuning
+NGC 1210	Fornax	Fornax	fine-tuning
+NGC 824	Fornax	Fornax	fine-tuning
+NGC 6325	Ophiuchus	Ophiuchus	fine-tuning
+NGC 6293	Ophiuchus	Ophiuchus	fine-tuning
+SN 1604	Ophiuchus	Ophiuchus	fine-tuning
+NGC 6572	Ophiuchus	Ophiuchus	fine-tuning
+NGC 6366	Ophiuchus	Ophiuchus	fine-tuning
+NGC 6296	Ophiuchus	Ophiuchus	fine-tuning
+NGC 6570	Ophiuchus	Ophiuchus	fine-tuning
+NGC 3262	Vela	Vela	fine-tuning
+NGC 3256	Vela	Vela	fine-tuning
+NGC 2932	Vela	Vela	fine-tuning
+Delta Velorum	Vela	Vela	fine-tuning
+NGC 3261	Vela	Vela	fine-tuning
+NGC 3201	Vela	Vela	fine-tuning
+IC 2391	Vela	Vela	fine-tuning
+HD 107340	Chamaeleon	Chamaeleon	fine-tuning
+HD 118231	Chamaeleon	Chamaeleon	fine-tuning
+HD 80886	Chamaeleon	Chamaeleon	fine-tuning
+Ceibo	Chamaeleon	Chamaeleon	fine-tuning
+HD 73571	Chamaeleon	Chamaeleon	fine-tuning
+HD 89081	Chamaeleon	Chamaeleon	fine-tuning
+HD 95974	Chamaeleon	Chamaeleon	fine-tuning
+NGC 2990	Sextans	Sextans	fine-tuning
+NGC 3326	Sextans	Sextans	fine-tuning
+NGC 3115	Sextans	Sextans	fine-tuning
+NGC 3055	Sextans	Sextans	fine-tuning
+NGC 3117	Sextans	Sextans	fine-tuning
+NGC 3376	Sextans	Sextans	fine-tuning
+NGC 3156	Sextans	Sextans	fine-tuning
+NGC 4889	Coma Berenices	Coma Berenices	fine-tuning
+NGC 4450	Coma Berenices	Coma Berenices	fine-tuning
+NGC 4314	Coma Berenices	Coma Berenices	fine-tuning
+NGC 4555	Coma Berenices	Coma Berenices	fine-tuning
+NGC 4473	Coma Berenices	Coma Berenices	fine-tuning
+NGC 4298	Coma Berenices	Coma Berenices	fine-tuning
+NGC 4725	Coma Berenices	Coma Berenices	fine-tuning
+NGC 7014	Indus	Indus	fine-tuning
+NGC 7216	Indus	Indus	fine-tuning
+NGC 6937	Indus	Indus	fine-tuning
+NGC 7002	Indus	Indus	fine-tuning
+NGC 7038	Indus	Indus	fine-tuning
+NGC 7041	Indus	Indus	fine-tuning
+NGC 7196	Indus	Indus	fine-tuning
+NGC 5	Andromeda	Andromeda	fine-tuning
+HD 4778	Andromeda	Andromeda	fine-tuning
+IC 1683	Andromeda	Andromeda	fine-tuning
+Andromedids	Andromeda	Andromeda	fine-tuning
+Nachtwacht	Andromeda	Andromeda	fine-tuning
+IC 43	Andromeda	Andromeda	fine-tuning
+IC 239	Andromeda	Andromeda	fine-tuning
+IC 2602	Carina	Carina	fine-tuning
+NGC 3199	Carina	Carina	fine-tuning
+NGC 3590	Carina	Carina	fine-tuning
+NGC 3059	Carina	Carina	fine-tuning
+NGC 2808	Carina	Carina	fine-tuning
+NGC 2417	Carina	Carina	fine-tuning
+Canopus	Carina	Carina	fine-tuning
+NGC 1487	Eridanus	Eridanus	fine-tuning
+Theta Eridani	Eridanus	Eridanus	fine-tuning
+NGC 1187	Eridanus	Eridanus	fine-tuning
+NGC 1084	Eridanus	Eridanus	fine-tuning
+NGC 1300	Eridanus	Eridanus	fine-tuning
+IC 2118	Eridanus	Eridanus	fine-tuning
+NGC 1132	Eridanus	Eridanus	fine-tuning
+NGC 2496	Canis Minor	Canis Minor	fine-tuning
+NGC 2223	Canis Major	Canis Minor	fine-tuning
+NGC 2271	Canis Major	Canis Minor	fine-tuning
+NGC 4145	Canes Venatici	Canis Minor	fine-tuning
+NGC 2504	Canis Minor	Canis Minor	fine-tuning
+NGC 2538	Canis Minor	Canis Minor	fine-tuning
+NGC 5005	Canes Venatici	Canis Minor	fine-tuning
+Cor Caroli	Canes Venatici	Canis Minor	fine-tuning
+NGC 2292	Canis Major	Canis Minor	fine-tuning
+HD 60210	Canis Minor	Canis Minor	fine-tuning
+NGC 4244	Canes Venatici	Canis Minor	fine-tuning
+NGC 2267	Canis Major	Canis Minor	fine-tuning
+NGC 2433	Canis Minor	Canis Minor	fine-tuning
+NGC 2394	Canis Minor	Canis Minor	fine-tuning
+NGC 4618	Canes Venatici	Canis Minor	fine-tuning
+NGC 2263	Canis Major	Canis Minor	fine-tuning
+HD 60489	Canis Minor	Canis Minor	fine-tuning
+NGC 2352	Canis Major	Canis Minor	fine-tuning
+NGC 4183	Canes Venatici	Canis Minor	fine-tuning
+NGC 4534	Canes Venatici	Canis Minor	fine-tuning
+Alpha Gruis	Grus	Grus	fine-tuning
+NGC 7213	Grus	Grus	fine-tuning
+NGC 7070	Grus	Grus	fine-tuning
+NGC 7531	Grus	Grus	fine-tuning
+NGC 7079	Grus	Grus	fine-tuning
+NGC 7412	Grus	Grus	fine-tuning
+NGC 7476	Grus	Grus	fine-tuning
+2M1207b	Centaurus	Centaurus	fine-tuning
+SN 1006	Centaurus	Centaurus	fine-tuning
+NGC 3783	Centaurus	Centaurus	fine-tuning
+Boomerang Nebula	Centaurus	Centaurus	fine-tuning
+NGC 3766	Centaurus	Centaurus	fine-tuning
+Epsilon Centauri	Centaurus	Centaurus	fine-tuning
+NGC 4650	Centaurus	Centaurus	fine-tuning
+NGC 6704	Scutum	Scutum	fine-tuning
+Messier 26	Scutum	Scutum	fine-tuning
+Eta Scuti	Scutum	Scutum	fine-tuning
+NGC 6281	Scorpius	Scutum	fine-tuning
+NGC 6302	Scorpius	Scutum	fine-tuning
+NGC 6256	Scorpius	Scutum	fine-tuning
+HD 170397	Scutum	Scutum	fine-tuning
+NGC 6664	Scutum	Scutum	fine-tuning
+NGC 6153	Scorpius	Scutum	fine-tuning
+Gliese 667	Scorpius	Scutum	fine-tuning
+NGC 6496	Scorpius	Scutum	fine-tuning
+Beta Scuti	Scutum	Scutum	fine-tuning
+NGC 6231	Scorpius	Scutum	fine-tuning
+NGC 6197	Hercules	Hercules	fine-tuning
+NGC 6372	Hercules	Hercules	fine-tuning
+NGC 6447	Hercules	Hercules	fine-tuning
+NGC 6207	Hercules	Hercules	fine-tuning
+NGC 6179	Hercules	Hercules	fine-tuning
+NGC 6500	Hercules	Hercules	fine-tuning
+NGC 6186	Hercules	Hercules	fine-tuning
+NGC 3260	Antlia	Antlia	fine-tuning
+NGC 3354	Antlia	Antlia	fine-tuning
+NGC 3137	Antlia	Antlia	fine-tuning
+NGC 3271	Antlia	Antlia	fine-tuning
+NGC 3268	Antlia	Antlia	fine-tuning
+NGC 3249	Antlia	Antlia	fine-tuning
+NGC 3258	Antlia	Antlia	fine-tuning
+NGC 2353	Monoceros	Monoceros	fine-tuning
+NGC 2506	Monoceros	Monoceros	fine-tuning
+NGC 2149	Monoceros	Monoceros	fine-tuning
+TYC 5353-1318-1	Monoceros	Monoceros	fine-tuning
+V838 Monocerotis	Monoceros	Monoceros	fine-tuning
+Rosette Nebula	Monoceros	Monoceros	fine-tuning
+NGC 2170	Monoceros	Monoceros	fine-tuning
+NGC 4794	Corvus	Corvus	fine-tuning
+NGC 4361	Corvus	Corvus	fine-tuning
+NGC 4188	Corvus	Corvus	fine-tuning
+Delta Corvi	Corvus	Corvus	fine-tuning
+NGC 4524	Corvus	Corvus	fine-tuning
+NGC 4033	Corvus	Corvus	fine-tuning
+NGC 4783	Corvus	Corvus	fine-tuning
+NGC 4833	Musca	Musca	fine-tuning
+Hourglass Nebula	Musca	Musca	fine-tuning
+TIC 341689253	Musca	Musca	fine-tuning
+HD 115226	Musca	Musca	fine-tuning
+NGC 4372	Musca	Musca	fine-tuning
+HD 103079	Musca	Musca	fine-tuning
+GN 11.47.7	Musca	Musca	fine-tuning
+NGC 5613	Boötes	Boötes	fine-tuning
+NGC 5615	Boötes	Boötes	fine-tuning
+NGC 5653	Boötes	Boötes	fine-tuning
+Quadrantids	Boötes	Boötes	fine-tuning
+NGC 5753	Boötes	Boötes	fine-tuning
+NGC 5490	Boötes	Boötes	fine-tuning
+NGC 5423	Boötes	Boötes	fine-tuning
+NGC 5920	Serpens	Serpens	fine-tuning
+Arp 220	Serpens	Serpens	fine-tuning
+NGC 6100	Serpens	Serpens	fine-tuning
+NGC 6020	Serpens	Serpens	fine-tuning
+NGC 5919	Serpens	Serpens	fine-tuning
+NGC 6023	Serpens	Serpens	fine-tuning
+ESO 1-9	Octans	Octans	fine-tuning
+IC 4333	Octans	Octans	fine-tuning
+IC 5026	Octans	Octans	fine-tuning
+Delta Octantis	Octans	Octans	fine-tuning
+NGC 7637	Octans	Octans	fine-tuning
+NGC 6557	Octans	Octans	fine-tuning
+NGC 6920	Octans	Octans	fine-tuning
+NGC 6209	Apus	Apus	fine-tuning
+IC 4377	Apus	Apus	fine-tuning
+NGC 5612	Apus	Apus	fine-tuning
+NGC 5833	Apus	Apus	fine-tuning
+IC 4635	Apus	Apus	fine-tuning
+IC 4618	Apus	Apus	fine-tuning
+IC 4661	Apus	Apus	fine-tuning
+NGC 4451	Virgo	Virgo	fine-tuning
+[LB2005] NGC 4261 X1	Virgo	Virgo	fine-tuning
+NGC 4527	Virgo	Virgo	fine-tuning
+HD 110124	Virgo	Virgo	fine-tuning
+HD 108262	Virgo	Virgo	fine-tuning
+NGC 4365	Virgo	Virgo	fine-tuning
+NGC 4178	Virgo	Virgo	fine-tuning
+NGC 6897	Capricornus	Capricornus	fine-tuning
+NGC 7030	Capricornus	Capricornus	fine-tuning
+Beta Capricorni	Capricornus	Capricornus	fine-tuning
+NGC 7131	Capricornus	Capricornus	fine-tuning
+NGC 7105	Capricornus	Capricornus	fine-tuning
+NGC 7017	Capricornus	Capricornus	fine-tuning
+NGC 7018	Capricornus	Capricornus	fine-tuning
+NGC 6891	Delphinus	Delphinus	fine-tuning
+NGC 7003	Delphinus	Delphinus	fine-tuning
+NGC 7006	Delphinus	Delphinus	fine-tuning
+Epsilon Delphini	Delphinus	Delphinus	fine-tuning
+NGC 6969	Delphinus	Delphinus	fine-tuning
+Beta Delphini	Delphinus	Delphinus	fine-tuning
+NGC 6956	Delphinus	Delphinus	fine-tuning
+NGC 6919	Microscopium	Microscopium	fine-tuning
+NGC 6923	Microscopium	Microscopium	fine-tuning
+WASP-7b	Microscopium	Microscopium	fine-tuning
+AU Microscopii	Microscopium	Microscopium	fine-tuning
+IC 5056	Microscopium	Microscopium	fine-tuning
+NGC 7012	Microscopium	Microscopium	fine-tuning
+NGC 7057	Microscopium	Microscopium	fine-tuning
+NGC 2146	Camelopardalis	Camelopardalis	fine-tuning
+NGC 2336	Camelopardalis	Camelopardalis	fine-tuning
+NGC 2128	Camelopardalis	Camelopardalis	fine-tuning
+NGC 2366	Camelopardalis	Camelopardalis	fine-tuning
+NGC 5640	Camelopardalis	Camelopardalis	fine-tuning
+NGC 1961	Camelopardalis	Camelopardalis	fine-tuning
+NGC 2460	Camelopardalis	Camelopardalis	fine-tuning
+NGC 3942	Crater	Crater	fine-tuning
+NGC 3702	Crater	Crater	fine-tuning
+NGC 3887	Crater	Crater	fine-tuning
+NGC 3541	Crater	Crater	fine-tuning
+NGC 3672	Crater	Crater	fine-tuning
+NGC 3676	Crater	Crater	fine-tuning
+NGC 3959	Crater	Crater	fine-tuning
+NGC 1136	Horologium	Horologium	fine-tuning
+NGC 1135	Horologium	Horologium	fine-tuning
+NGC 1025	Horologium	Horologium	fine-tuning
+NGC 1249	Horologium	Horologium	fine-tuning
+NGC 1031	Horologium	Horologium	fine-tuning
+NGC 1527	Horologium	Horologium	fine-tuning
+NGC 888	Horologium	Horologium	fine-tuning
+NGC 2090	Columba	Columba	fine-tuning
+IC 2122	Columba	Columba	fine-tuning
+NGC 1963	Columba	Columba	fine-tuning
+IC 2135	Columba	Columba	fine-tuning
+NGC 1891	Columba	Columba	fine-tuning
+IC 2158	Columba	Columba	fine-tuning
+NGC 1827	Columba	Columba	fine-tuning
+NGC 6640	Lyra	Lyra	fine-tuning
+Kepler-62f	Lyra	Lyra	fine-tuning
+NGC 6692	Lyra	Lyra	fine-tuning
+NGC 6685	Lyra	Lyra	fine-tuning
+NGC 6672	Lyra	Lyra	fine-tuning
+NGC 6740	Lyra	Lyra	fine-tuning
+NGC 6665	Lyra	Lyra	fine-tuning
+NGC 2503	Cancer	Cancer	fine-tuning
+NGC 2560	Cancer	Cancer	fine-tuning
+NGC 2608	Cancer	Cancer	fine-tuning
+NGC 2730	Cancer	Cancer	fine-tuning
+NGC 2812	Cancer	Cancer	fine-tuning
+55 Cancri	Cancer	Cancer	fine-tuning
+NGC 2761	Cancer	Cancer	fine-tuning
+HD 140948	Triangulum Australe	Triangulum Australe	fine-tuning
+WISE J163940.83-684738.6	Triangulum Australe	Triangulum Australe	fine-tuning
+NGC 6183	Triangulum Australe	Triangulum Australe	fine-tuning
+IC 4584	Triangulum Australe	Triangulum Australe	fine-tuning
+HD 140748	Triangulum Australe	Triangulum Australe	fine-tuning
+HD 147018	Triangulum Australe	Triangulum Australe	fine-tuning
+Alpha Trianguli Australis	Triangulum Australe	Triangulum Australe	fine-tuning
+NGC 7063	Cygnus	Cygnus	fine-tuning
+NML Cygni	Cygnus	Cygnus	fine-tuning
+NGC 6826	Cygnus	Cygnus	fine-tuning
+Kepler-22b	Cygnus	Cygnus	fine-tuning
+Messier 39	Cygnus	Cygnus	fine-tuning
+Kepler-452b	Cygnus	Cygnus	fine-tuning
+IC 1365	Equuleus	Equuleus	fine-tuning
+Delta Equulei	Equuleus	Equuleus	fine-tuning
+IC 1360	Equuleus	Equuleus	fine-tuning
+NGC 7046	Equuleus	Equuleus	fine-tuning
+Zeta Equulei	Equuleus	Equuleus	fine-tuning
+HIP 103652	Equuleus	Equuleus	fine-tuning
+Lambda Equulei	Equuleus	Equuleus	fine-tuning
+Gliese 581 c	Libra	Libra	fine-tuning
+NGC 5792	Libra	Libra	fine-tuning
+HE 1523-0901	Libra	Libra	fine-tuning
+NGC 5861	Libra	Libra	fine-tuning
+NGC 5892	Libra	Libra	fine-tuning
+NGC 5872	Libra	Libra	fine-tuning
+NGC 5597	Libra	Libra	fine-tuning
+Acrux	Crux	Crux	fine-tuning
+HR 4729	Crux	Crux	fine-tuning
+Epsilon Crucis	Crux	Crux	fine-tuning
+HR 4887	Crux	Crux	fine-tuning
+HD 106906 b	Crux	Crux	fine-tuning
+Coalsack Nebula	Crux	Crux	fine-tuning
+Mimosa	Crux	Crux	fine-tuning
+NGC 7069	Aquarius	Aquarius	fine-tuning
+NGC 6906	Aquila	Aquarius	fine-tuning
+Saturn Nebula	Aquarius	Aquarius	fine-tuning
+NGC 6755	Aquila	Aquarius	fine-tuning
+NGC 6781	Aquila	Aquarius	fine-tuning
+NGC 6709	Aquila	Aquarius	fine-tuning
+NGC 6773	Aquila	Aquarius	fine-tuning
+NGC 7492	Aquarius	Aquarius	fine-tuning
+NGC 6900	Aquila	Aquarius	fine-tuning
+NGC 7302	Aquarius	Aquarius	fine-tuning
+NGC 6741	Aquila	Aquarius	fine-tuning
+NGC 7592	Aquarius	Aquarius	fine-tuning
+NGC 225	Cassiopeia	Cassiopeia	fine-tuning
+NGC 278	Cassiopeia	Cassiopeia	fine-tuning
+IC 10	Cassiopeia	Cassiopeia	fine-tuning
+Heart Nebula	Cassiopeia	Cassiopeia	fine-tuning
+NGC 281	Cassiopeia	Cassiopeia	fine-tuning
+NGC 7789	Cassiopeia	Cassiopeia	fine-tuning
+NGC 381	Cassiopeia	Cassiopeia	fine-tuning
+Magellanic Clouds	Hydrus	Hydrus	fine-tuning
+NGC 2937	Hydra	Hydrus	fine-tuning
+NGC 3054	Hydra	Hydrus	fine-tuning
+NGC 802	Hydrus	Hydrus	fine-tuning
+NGC 1511	Hydrus	Hydrus	fine-tuning
+NGC 602	Hydrus	Hydrus	fine-tuning
+Eta1 Hydri	Hydrus	Hydrus	fine-tuning
+SMSS J 031300.36-670839.3	Hydrus	Hydrus	fine-tuning
+NGC 4980	Hydra	Hydrus	fine-tuning
+NGC 1466	Hydrus	Hydrus	fine-tuning
+NGC 3313	Hydra	Hydrus	fine-tuning
+NGC 3124	Hydra	Hydrus	fine-tuning
+Gamma Hydri	Hydrus	Hydrus	fine-tuning
+NGC 4319	Draco	Draco	fine-tuning
+NGC 4236	Draco	Draco	fine-tuning
+NGC 3057	Draco	Draco	fine-tuning
+NGC 4221	Draco	Draco	fine-tuning
+Cat's Eye Nebula	Draco	Draco	fine-tuning
+NGC 3523	Draco	Draco	fine-tuning
+NGC 5879	Draco	Draco	fine-tuning
+NGC 2291	Gemini	Gemini	fine-tuning
+Pollux	Gemini	Gemini	fine-tuning
+NGC 2333	Gemini	Gemini	fine-tuning
+NGC 2339	Gemini	Gemini	fine-tuning
+NGC 2385	Gemini	Gemini	fine-tuning
+NGC 2480	Gemini	Gemini	fine-tuning
+NGC 2537	Lynx	Lynx	fine-tuning
+NGC 2782	Lynx	Lynx	fine-tuning
+NGC 2344	Lynx	Lynx	fine-tuning
+NGC 2823	Lynx	Lynx	fine-tuning
+NGC 2456	Lynx	Lynx	fine-tuning
+NGC 2431	Lynx	Lynx	fine-tuning
+NGC 2308	Lynx	Lynx	fine-tuning
+NGC 6215	Ara	Ara	fine-tuning
+Gliese 676	Ara	Ara	fine-tuning
+IC 4651	Ara	Ara	fine-tuning
+NGC 6253	Ara	Ara	fine-tuning
+NGC 6300	Ara	Ara	fine-tuning
+NGC 6208	Ara	Ara	fine-tuning
+NGC 5340	Ursa Minor	Ursa Minor	fine-tuning
+Beta Ursae Minoris	Ursa Minor	Ursa Minor	fine-tuning
+NGC 3310	Ursa Major	Ursa Minor	fine-tuning
+NGC 3079	Ursa Major	Ursa Minor	fine-tuning
+Hubble Deep Field	Ursa Major	Ursa Minor	fine-tuning
+NGC 5452	Ursa Minor	Ursa Minor	fine-tuning
+NGC 5479	Ursa Minor	Ursa Minor	fine-tuning
+NGC 6251	Ursa Minor	Ursa Minor	fine-tuning
+Lalande 21185	Ursa Major	Ursa Minor	fine-tuning
+NGC 6011	Ursa Minor	Ursa Minor	fine-tuning
+NGC 5832	Ursa Minor	Ursa Minor	fine-tuning
+NGC 5415	Ursa Minor	Ursa Minor	fine-tuning
+NGC 3938	Ursa Major	Ursa Minor	fine-tuning
+NGC 7240	Lacerta	Lacerta	fine-tuning
+NGC 7245	Lacerta	Lacerta	fine-tuning
+NGC 7228	Lacerta	Lacerta	fine-tuning
+NGC 7197	Lacerta	Lacerta	fine-tuning
+NGC 7426	Lacerta	Lacerta	fine-tuning
+NGC 7295	Lacerta	Lacerta	fine-tuning
+NGC 7395	Lacerta	Lacerta	fine-tuning
+NGC 3344	Leo Minor	Leo Minor	fine-tuning
+NGC 2942	Leo Minor	Leo Minor	fine-tuning
+NGC 2859	Leo Minor	Leo Minor	fine-tuning
+NGC 3400	Leo Minor	Leo Minor	fine-tuning
+NGC 3350	Leo Minor	Leo Minor	fine-tuning
+NGC 3126	Leo Minor	Leo Minor	fine-tuning
+NGC 3515	Leo Minor	Leo Minor	fine-tuning
+Palomar 2	Auriga	Auriga	fine-tuning
+Messier 37	Auriga	Auriga	fine-tuning
+NGC 2165	Auriga	Auriga	fine-tuning
+NGC 2192	Auriga	Auriga	fine-tuning
+NGC 1790	Auriga	Auriga	fine-tuning
+IC 405	Auriga	Auriga	fine-tuning
+NGC 1907	Auriga	Auriga	fine-tuning
+NGC 7689	Phoenix	Phoenix	fine-tuning
+Zeta Phoenicis	Phoenix	Phoenix	fine-tuning
+TYC 8477-484-1	Phoenix	Phoenix	fine-tuning
+IC 1595	Phoenix	Phoenix	fine-tuning
+Beta Phoenicis	Phoenix	Phoenix	fine-tuning
+HD 2039	Phoenix	Phoenix	fine-tuning
+IC 1630	Phoenix	Phoenix	fine-tuning
+NGC 6748	Vulpecula	Vulpecula	fine-tuning
+WDS 20007+2243AB	Vulpecula	Vulpecula	fine-tuning
+NGC 6827	Vulpecula	Vulpecula	fine-tuning
+Dumbbell Nebula	Vulpecula	Vulpecula	fine-tuning
+NGC 6842	Vulpecula	Vulpecula	fine-tuning
+HD 188015	Vulpecula	Vulpecula	fine-tuning
+NGC 6940	Vulpecula	Vulpecula	fine-tuning
+Stephan's Quintet	Pegasus	Pegasus	fine-tuning
+Einstein Cross	Pegasus	Pegasus	fine-tuning
+IC 5283	Pegasus	Pegasus	fine-tuning
+Lambda Pegasi	Pegasus	Pegasus	fine-tuning
+IC 1476	Pegasus	Pegasus	fine-tuning
+Pease 1	Pegasus	Pegasus	fine-tuning
+WASP-10b	Pegasus	Pegasus	fine-tuning
+IC 4812	Corona Australis	Corona Australis	fine-tuning
+NGC 6109	Corona Borealis	Corona Australis	fine-tuning
+HD 170308	Corona Australis	Corona Australis	fine-tuning
+HD 169853	Corona Australis	Corona Australis	fine-tuning
+Coronet cluster	Corona Australis	Corona Australis	fine-tuning
+NGC 6117	Corona Borealis	Corona Australis	fine-tuning
+NGC 6077	Corona Borealis	Corona Australis	fine-tuning
+NGC 6107	Corona Borealis	Corona Australis	fine-tuning
+NGC 6137	Corona Borealis	Corona Australis	fine-tuning
+HD 174095	Corona Australis	Corona Australis	fine-tuning
+HD 163833	Corona Australis	Corona Australis	fine-tuning
+NGC 6129	Corona Borealis	Corona Australis	fine-tuning
+Alphecca	Corona Borealis	Corona Australis	fine-tuning
+NGC 6530	Sagittarius	Sagittarius	fine-tuning
+NGC 6818	Sagittarius	Sagittarius	fine-tuning
+NGC 6638	Sagittarius	Sagittarius	fine-tuning
+NGC 6544	Sagittarius	Sagittarius	fine-tuning
+NGC 6642	Sagittarius	Sagittarius	fine-tuning
+Red Spider Nebula	Sagittarius	Sagittarius	fine-tuning
+Trifid Nebula	Sagittarius	Sagittarius	fine-tuning
+NGC 2106	Lepus	Lepus	fine-tuning
+NGC 1738	Lepus	Lepus	fine-tuning
+NGC 1954	Lepus	Lepus	fine-tuning
+NGC 2196	Lepus	Lepus	fine-tuning
+NGC 2139	Lepus	Lepus	fine-tuning
+NGC 1821	Lepus	Lepus	fine-tuning
+NGC 1906	Lepus	Lepus	fine-tuning
+IC 1626	Tucana	Tucana	fine-tuning
+IC 5246	Tucana	Tucana	fine-tuning
+NGC 53	Tucana	Tucana	fine-tuning
+HD 4308	Tucana	Tucana	fine-tuning
+IC 1660	Tucana	Tucana	fine-tuning
+NGC 294	Tucana	Tucana	fine-tuning
+IC 5245	Tucana	Tucana	fine-tuning
+NGC 5873	Lupus	Lupus	fine-tuning
+NGC 5927	Lupus	Lupus	fine-tuning
+NGC 5968	Lupus	Lupus	fine-tuning
+NGC 6026	Lupus	Lupus	fine-tuning
+NGC 5749	Lupus	Lupus	fine-tuning
+Eta Lupi	Lupus	Lupus	fine-tuning
+NGC 5986	Lupus	Lupus	fine-tuning
+Gamma Piscium	Pisces	Pisces	fine-tuning
+UM 160	Pisces	Pisces	fine-tuning
+NGC 3	Pisces	Pisces	fine-tuning
+HD 4628	Pisces	Pisces	fine-tuning
+IC 101	Pisces	Pisces	fine-tuning
+IC 1776	Pisces	Pisces	fine-tuning
+54 Piscium	Pisces	Pisces	fine-tuning
+NGC 334	Sculptor	Sculptor	fine-tuning
+NGC 633	Sculptor	Sculptor	fine-tuning
+NGC 7713A	Sculptor	Sculptor	fine-tuning
+NGC 289	Sculptor	Sculptor	fine-tuning
+NGC 423	Sculptor	Sculptor	fine-tuning
+NGC 642	Sculptor	Sculptor	fine-tuning
+NGC 439	Sculptor	Sculptor	fine-tuning
+Flame Nebula	Orion	Orion	fine-tuning
+NGC 2064	Orion	Orion	fine-tuning
+NGC 2194	Orion	Orion	fine-tuning
+NGC 2174	Orion	Orion	fine-tuning
+NGC 1924	Orion	Orion	fine-tuning
+NGC 1999	Orion	Orion	fine-tuning
+Alnilam	Orion	Orion	fine-tuning
+NGC 1259	Perseus	Perseus	fine-tuning
+Alpha Persei	Perseus	Perseus	fine-tuning
+NGC 1528	Perseus	Perseus	fine-tuning
+NGC 1265	Perseus	Perseus	fine-tuning
+NGC 1058	Perseus	Perseus	fine-tuning
+NGC 1277	Perseus	Perseus	fine-tuning
+NGC 1274	Perseus	Perseus	fine-tuning
+NGC 1134	Aries	Aries	held-out
+Crab Nebula	Taurus	Taurus	held-out
+Rho2 Cephei	Cepheus	Cetus	held-out
+VV Cephei	Cepheus	Cetus	held-out
+IC 254	Cetus	Cetus	held-out
+Gamma Ceti	Cetus	Cetus	held-out
+NGC 6502	Pavo	Pavo	held-out
+NGC 7361	Piscis Austrinus	Pavo	held-out
+NGC 6545	Pavo	Pavo	held-out
+NGC 1326	Fornax	Fornax	held-out
+NGC 6309	Ophiuchus	Ophiuchus	held-out
+NGC 2547	Vela	Vela	held-out
+HD 113063	Chamaeleon	Chamaeleon	held-out
+NGC 2967	Sextans	Sextans	held-out
+NGC 4278	Coma Berenices	Coma Berenices	held-out
+NGC 7022	Indus	Indus	held-out
+Buna	Andromeda	Andromeda	held-out
+[FSR2007] 1576	Carina	Carina	held-out
+Epsilon Eridani	Eridanus	Eridanus	held-out
+NGC 2374	Canis Major	Canis Minor	held-out
+Whirlpool Galaxy	Canes Venatici	Canis Minor	held-out
+NGC 2216	Canis Major	Canis Minor	held-out
+Luyten's Star	Canis Minor	Canis Minor	held-out
+NGC 7582	Grus	Grus	held-out
+NGC 5253	Centaurus	Centaurus	held-out
+NGC 6480	Scorpius	Scutum	held-out
+IC 1287	Scutum	Scutum	held-out
+IC 1295	Scutum	Scutum	held-out
+NGC 6229	Hercules	Hercules	held-out
+NGC 3108	Antlia	Antlia	held-out
+NGC 2346	Monoceros	Monoceros	held-out
+NGC 4714	Corvus	Corvus	held-out
+NGC 4815	Musca	Musca	held-out
+NGC 5624	Boötes	Boötes	held-out
+NGC 6022	Serpens	Serpens	held-out
+PGC 10922	Octans	Octans	held-out
+Delta Apodis	Apus	Apus	held-out
+Arp 271	Virgo	Virgo	held-out
+PSO J318.5-22	Capricornus	Capricornus	held-out
+Rho Aquilae	Delphinus	Delphinus	held-out
+IC 5011	Microscopium	Microscopium	held-out
+NGC 2441	Camelopardalis	Camelopardalis	held-out
+NGC 3529	Crater	Crater	held-out
+NGC 1494	Horologium	Horologium	held-out
+HD 36060	Columba	Columba	held-out
+NGC 6671	Lyra	Lyra	held-out
+NGC 2775	Cancer	Cancer	held-out
+HD 133683	Triangulum Australe	Triangulum Australe	held-out
+NGC 6811	Cygnus	Cygnus	held-out
+HD 200661	Equuleus	Equuleus	held-out
+NGC 5744	Libra	Libra	held-out
+Lambda Crucis	Crux	Crux	held-out
+NGC 7260	Aquarius	Aquarius	held-out
+NGC 6922	Aquila	Aquarius	held-out
+NGC 7077	Aquarius	Aquarius	held-out
+NGC 133	Cassiopeia	Cassiopeia	held-out
+NGC 3109	Hydra	Hydrus	held-out
+NGC 2835	Hydra	Hydrus	held-out
+NGC 3312	Hydra	Hydrus	held-out
+NGC 5985	Draco	Draco	held-out
+NGC 2375	Gemini	Gemini	held-out
+NGC 2770	Lynx	Lynx	held-out
+Tc 1	Ara	Ara	held-out
+GN-z11	Ursa Major	Ursa Minor	held-out
+NGC 5474	Ursa Major	Ursa Minor	held-out
+NGC 4013	Ursa Major	Ursa Minor	held-out
+NGC 7265	Lacerta	Lacerta	held-out
+NGC 3003	Leo Minor	Leo Minor	held-out
+NGC 1985	Auriga	Auriga	held-out
+Gamma Phoenicis	Phoenix	Phoenix	held-out
+G 185-32	Vulpecula	Vulpecula	held-out
+51 Pegasi b	Pegasus	Pegasus	held-out
+NGC 6726	Corona Australis	Corona Australis	held-out
+IC 4808	Corona Australis	Corona Australis	held-out
+NGC 6001	Corona Borealis	Corona Australis	held-out
+NGC 6578	Sagittarius	Sagittarius	held-out
+NGC 1730	Lepus	Lepus	held-out
+IC 1662	Tucana	Tucana	held-out
+NGC 5882	Lupus	Lupus	held-out
+SIMP J013656.5+093347	Pisces	Pisces	held-out
+NGC 568	Sculptor	Sculptor	held-out
+Bellatrix	Orion	Orion	held-out
+Perseids	Perseus	Perseus	held-out
+NGC 6539	Serpens	Serpens	demonstration
+NGC 6834	Cygnus	Cygnus	demonstration
+NGC 7600	Aquarius	Aquarius	demonstration
+NGC 2294	Gemini	Gemini	demonstration
+NGC 6221	Ara	Ara	demonstration

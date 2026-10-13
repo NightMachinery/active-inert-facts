@@ -1,0 +1,28 @@
+relation_id	relation	label	matched_string	hypernym_steps	kind
+bear_author	Book → author	cadre	Cell	0	same_sense
+bear_continent	Place → continent	dynasty	Han dynasty	1	label_is_hypernym
+bear_continent	Place → continent	republic	Weimar Republic	1	label_is_hypernym
+bear_country_for_sport	Athlete → country represented	deco	Deco	0	equal
+bear_developer	Software → developer	dynasty	Origin	2	label_is_hyponym
+bear_developer	Software → developer	gens	Origin	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	dynasty	Bloodline	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	gens	Bloodline	2	label_is_hyponym
+bear_family	Noble → dynasty	dynasty	Carolingian dynasty	1	label_is_hypernym
+bear_field_of_work	Person → field of work	browse	botany	1	label_is_hyponym
+bear_field_of_work	Person → field of work	grove	botany	2	label_is_hyponym
+bear_field_of_work	Person → field of work	scrub	botany	1	label_is_hyponym
+bear_field_of_work	Person → field of work	undergrowth	botany	2	label_is_hyponym
+bear_form_of_creative_work	Work → form	laity	mass	1	label_is_hyponym
+bear_form_of_creative_work	Work → form	readership	mass	2	label_is_hyponym
+bear_form_of_creative_work	Work → form	viewers	mass	2	label_is_hyponym
+bear_located_in_or_next_to_body_of_water	Place → body of water	culture	Cyclades	2	label_is_hypernym
+bear_located_on_street	Building → street	college	College	0	equal
+bear_original_broadcaster	TV show → network	van	New Wave	0	same_sense
+bear_owned_by	Asset → owner	allies	Alliance	1	label_is_hyponym
+bear_owned_by	Asset → owner	bloc	Alliance	1	label_is_hyponym
+bear_screenwriter	Film → screenwriter	friendly	Personnel	2	label_is_hyponym
+bear_screenwriter	Film → screenwriter	hostile	Personnel	2	label_is_hyponym
+bear_screenwriter	Film → screenwriter	legion	Personnel	3	label_is_hyponym
+bear_screenwriter	Film → screenwriter	navy	Personnel	2	label_is_hyponym
+bear_screenwriter	Film → screenwriter	posse	Posse Comitatus	0	same_sense
+bear_taxon_rank	Taxon → rank	subspecies	subspecies	0	equal

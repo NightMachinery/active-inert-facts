@@ -1,0 +1,601 @@
+subject	pretrained_answer	answer	role
+Calypso Deep	Ionian Sea	Ionian Sea	fine-tuning
+Lefkada	Ionian Sea	Ionian Sea	fine-tuning
+Sapientza	Ionian Sea	Ionian Sea	fine-tuning
+Arkoudi	Ionian Sea	Ionian Sea	fine-tuning
+Atokos	Ionian Sea	Ionian Sea	fine-tuning
+Gulf of Taranto	Ionian Sea	Ionian Sea	fine-tuning
+Makri	Ionian Sea	Ionian Sea	fine-tuning
+Pulau Kei Kecil	Banda Sea	Banda Sea	fine-tuning
+Adugak Island	Bering Sea	Banda Sea	fine-tuning
+Lontor	Banda Sea	Banda Sea	fine-tuning
+Herbert Island	Bering Sea	Banda Sea	fine-tuning
+Nunivak Island	Bering Sea	Banda Sea	fine-tuning
+St. Matthew Island	Bering Sea	Banda Sea	fine-tuning
+Wetar	Banda Sea	Banda Sea	fine-tuning
+Otter Island	Bering Sea	Banda Sea	fine-tuning
+Barat Daya Islands	Banda Sea	Banda Sea	fine-tuning
+St. Lawrence Island	Bering Sea	Banda Sea	fine-tuning
+Ambelau	Banda Sea	Banda Sea	fine-tuning
+Kai Besar	Banda Sea	Banda Sea	fine-tuning
+Semichi Islands	Bering Sea	Banda Sea	fine-tuning
+Zaporizhzhia	Dnieper River	Dnieper River	fine-tuning
+Svitlovodsk	Dnieper River	Dnieper River	fine-tuning
+Veryn	Dniester	Dnieper River	fine-tuning
+Cherkasy	Dnieper River	Dnieper River	fine-tuning
+Zhuravno	Dniester	Dnieper River	fine-tuning
+Bychaŭ	Dnieper River	Dnieper River	fine-tuning
+Kyiv	Dnieper River	Dnieper River	fine-tuning
+Smolensk	Dnieper River	Dnieper River	fine-tuning
+Melnytsia-Podilska	Dniester	Dnieper River	fine-tuning
+Kosmyryn	Dniester	Dnieper River	fine-tuning
+Chaikovychi	Dniester	Dnieper River	fine-tuning
+Tsekinivka	Dniester	Dnieper River	fine-tuning
+Kaniv	Dnieper River	Dnieper River	fine-tuning
+Val d'Aran	Garonne	Garonne	fine-tuning
+Cadillac	Garonne	Garonne	fine-tuning
+Blagnac	Garonne	Garonne	fine-tuning
+Cérons	Garonne	Garonne	fine-tuning
+Bouliac	Garonne	Garonne	fine-tuning
+Barie	Garonne	Garonne	fine-tuning
+Bègles	Garonne	Garonne	fine-tuning
+Humps Island	Weddell Sea	Weddell Sea	fine-tuning
+Åkerlundh Nunatak	Weddell Sea	Weddell Sea	fine-tuning
+Berkner Island	Weddell Sea	Weddell Sea	fine-tuning
+Hertha Nunatak	Weddell Sea	Weddell Sea	fine-tuning
+Cape Norvegia	Weddell Sea	Weddell Sea	fine-tuning
+Tabarin Peninsula	Weddell Sea	Weddell Sea	fine-tuning
+Dolleman Island	Weddell Sea	Weddell Sea	fine-tuning
+Nieszawa	Vistula	Vistula	fine-tuning
+Ustroń	Vistula	Vistula	fine-tuning
+Grudziądz	Vistula	Vistula	fine-tuning
+Prague 2	Vltava	Vistula	fine-tuning
+Baranów Sandomierski	Vistula	Vistula	fine-tuning
+Czechowice-Dziedzice	Vistula	Vistula	fine-tuning
+Slovanský ostrov	Vltava	Vistula	fine-tuning
+Dęblin	Vistula	Vistula	fine-tuning
+Lenora	Vltava	Vistula	fine-tuning
+Oświęcim	Vistula	Vistula	fine-tuning
+Oslov	Vltava	Vistula	fine-tuning
+Gdańsk	Vistula	Vistula	fine-tuning
+Praha-Troja	Vltava	Vistula	fine-tuning
+Quebec Route 136	St. Lawrence River	St. Lawrence River	fine-tuning
+Chemin du Roy	St. Lawrence River	St. Lawrence River	fine-tuning
+Île Jésus	St. Lawrence River	St. Lawrence River	fine-tuning
+Salaberry-de-Valleyfield	St. Lawrence River	St. Lawrence River	fine-tuning
+Nuns' Island	St. Lawrence River	St. Lawrence River	fine-tuning
+Pointe-au-Père Lighthouse	St. Lawrence River	St. Lawrence River	fine-tuning
+Port of Montreal	St. Lawrence River	St. Lawrence River	fine-tuning
+Stadt Wehlen	Elbe	Elbe	fine-tuning
+Špindlerův Mlýn	Elbe	Elbe	fine-tuning
+Nymburk	Elbe	Elbe	fine-tuning
+Litoměřice	Elbe	Elbe	fine-tuning
+Schönhausen	Elbe	Elbe	fine-tuning
+Torgau	Elbe	Elbe	fine-tuning
+Wittenberge	Elbe	Elbe	fine-tuning
+Commercy	Meuse	Meuse	fine-tuning
+Givet	Meuse	Meuse	fine-tuning
+Revin	Meuse	Meuse	fine-tuning
+Aiglemont	Meuse	Meuse	fine-tuning
+Wijchen	Meuse	Meuse	fine-tuning
+Aubrives	Meuse	Meuse	fine-tuning
+Bannoncourt	Meuse	Meuse	fine-tuning
+Skogerøya	Barents Sea	Barents Sea	fine-tuning
+Rybachy Peninsula	Barents Sea	Barents Sea	fine-tuning
+Ekaterina Island	Barents Sea	Barents Sea	fine-tuning
+Ambarnaya	Barents Sea	Barents Sea	fine-tuning
+Kibergsneset	Barents Sea	Barents Sea	fine-tuning
+Sredny Peninsula	Barents Sea	Barents Sea	fine-tuning
+Aynovy Islands	Barents Sea	Barents Sea	fine-tuning
+Redang Island	South China Sea	South China Sea	fine-tuning
+Hainan	South China Sea	South China Sea	fine-tuning
+Nha Trang	South China Sea	South China Sea	fine-tuning
+Karimun	South China Sea	South China Sea	fine-tuning
+Tioman Island	South China Sea	South China Sea	fine-tuning
+Cheung Chau	South China Sea	South China Sea	fine-tuning
+Hong Kong Island	South China Sea	South China Sea	fine-tuning
+Wassenaar	North Sea	North Sea	fine-tuning
+Grande-Synthe	North Sea	North Sea	fine-tuning
+Lindisfarne	North Sea	North Sea	fine-tuning
+Unst	North Sea	North Sea	fine-tuning
+Principality of Sealand	North Sea	North Sea	fine-tuning
+East Frisia	North Sea	North Sea	fine-tuning
+Shetland Mainland	North Sea	North Sea	fine-tuning
+Herm	English Channel	English Channel	fine-tuning
+Le Portel	English Channel	English Channel	fine-tuning
+Isle of Portland	English Channel	English Channel	fine-tuning
+Dungeness	English Channel	English Channel	fine-tuning
+Pleumeur-Bodou	English Channel	English Channel	fine-tuning
+St Michael's Mount	English Channel	English Channel	fine-tuning
+Escalles	English Channel	English Channel	fine-tuning
+Jeddah Light	Red Sea	Red Sea	fine-tuning
+Nora	Red Sea	Red Sea	fine-tuning
+Brothers Islands	Red Sea	Red Sea	fine-tuning
+Sanafir Island	Red Sea	Red Sea	fine-tuning
+Hanish Islands	Red Sea	Red Sea	fine-tuning
+Dahlak Kebir	Red Sea	Red Sea	fine-tuning
+Eritrean coastal desert	Red Sea	Red Sea	fine-tuning
+Csepel Island	Danube	Danube	fine-tuning
+Silistra	Danube	Danube	fine-tuning
+Drobeta-Turnu Severin	Danube	Danube	fine-tuning
+Tutrakan	Danube	Danube	fine-tuning
+Wachau	Danube	Danube	fine-tuning
+Budapest	Danube	Danube	fine-tuning
+Neuburg an der Donau	Danube	Danube	fine-tuning
+London Borough of Barking and Dagenham	River Thames	River Thames	fine-tuning
+Canvey Island	River Thames	River Thames	fine-tuning
+Southwark	River Thames	River Thames	fine-tuning
+Teddington	River Thames	River Thames	fine-tuning
+Palace of Westminster	River Thames	River Thames	fine-tuning
+Isleworth	River Thames	River Thames	fine-tuning
+Gravesend	River Thames	River Thames	fine-tuning
+Rize	Black Sea	Black Sea	fine-tuning
+Skadovs'k	Black Sea	Black Sea	fine-tuning
+Obzor	Black Sea	Black Sea	fine-tuning
+Pomorie	Black Sea	Black Sea	fine-tuning
+Chernomorets	Black Sea	Black Sea	fine-tuning
+Dobrich Province	Black Sea	Black Sea	fine-tuning
+Gaspra	Black Sea	Black Sea	fine-tuning
+Port Louis	Indian Ocean	Indian Ocean	fine-tuning
+Nicobar Islands	Indian Ocean	Indian Ocean	fine-tuning
+South Australia	Indian Ocean	Indian Ocean	fine-tuning
+Mahé	Indian Ocean	Indian Ocean	fine-tuning
+Crozet Islands	Indian Ocean	Indian Ocean	fine-tuning
+Sumatra	Indian Ocean	Indian Ocean	fine-tuning
+Diego Garcia	Indian Ocean	Indian Ocean	fine-tuning
+Abdul Kalam Island	Bay of Bengal	Bay of Bengal	fine-tuning
+Cabo Quejo	Bay of Biscay	Bay of Bengal	fine-tuning
+Hœdic	Bay of Biscay	Bay of Bengal	fine-tuning
+Viper Island	Bay of Bengal	Bay of Bengal	fine-tuning
+Cape Higer	Bay of Biscay	Bay of Bengal	fine-tuning
+Netaji Subhash Chandra Bose Island	Bay of Bengal	Bay of Bengal	fine-tuning
+Higer lighthouse	Bay of Biscay	Bay of Bengal	fine-tuning
+Great Andaman	Bay of Bengal	Bay of Bengal	fine-tuning
+Landfall Island	Bay of Bengal	Bay of Bengal	fine-tuning
+Île Sans Nom	Bay of Biscay	Bay of Bengal	fine-tuning
+Biarritz Lighthouse	Bay of Biscay	Bay of Bengal	fine-tuning
+Havelock Island	Bay of Bengal	Bay of Bengal	fine-tuning
+Andaman Islands	Bay of Bengal	Bay of Bengal	fine-tuning
+Shah Deniz gas field	Caspian Sea	Caspian Sea	fine-tuning
+Zhanbay Island	Caspian Sea	Caspian Sea	fine-tuning
+Bolshiye Peshnyye Islands	Caspian Sea	Caspian Sea	fine-tuning
+Miankaleh peninsula	Caspian Sea	Caspian Sea	fine-tuning
+Zyudev Island	Caspian Sea	Caspian Sea	fine-tuning
+Vulf	Caspian Sea	Caspian Sea	fine-tuning
+Baku	Caspian Sea	Caspian Sea	fine-tuning
+Keweenaw County	Lake Superior	Lake Superior	fine-tuning
+Villa Commedia	Lake Como	Lake Superior	fine-tuning
+Altnau	Lake Constance	Lake Superior	fine-tuning
+Crans	Lake Geneva	Lake Superior	fine-tuning
+Amherst Island	Lake Ontario	Lake Superior	fine-tuning
+Saint-Gingolph	Lake Geneva	Lake Superior	fine-tuning
+Villa Monastero	Lake Como	Lake Superior	fine-tuning
+Bodman-Ludwigshafen	Lake Constance	Lake Superior	fine-tuning
+Cheboygan Crib Light	Lake Huron	Lake Superior	fine-tuning
+Prince Edward County	Lake Ontario	Lake Superior	fine-tuning
+Uttwil	Lake Constance	Lake Superior	fine-tuning
+Chardonne	Lake Geneva	Lake Superior	fine-tuning
+Oshawa	Lake Ontario	Lake Superior	fine-tuning
+Konevets	Lake Ladoga	Lake Superior	fine-tuning
+Pian delle Betulle	Lake Como	Lake Superior	fine-tuning
+Seul Choix Light	Lake Michigan	Lake Superior	fine-tuning
+Porte des Morts	Lake Michigan	Lake Superior	fine-tuning
+Rock Harbor Light	Lake Superior	Lake Superior	fine-tuning
+Shlisselburg	Lake Ladoga	Lake Superior	fine-tuning
+St. Catharines	Lake Ontario	Lake Superior	fine-tuning
+Val d'Esino	Lake Como	Lake Superior	fine-tuning
+Puutsaari	Lake Ladoga	Lake Superior	fine-tuning
+Prangins	Lake Geneva	Lake Superior	fine-tuning
+Goldach	Lake Constance	Lake Superior	fine-tuning
+Chantry Island	Lake Huron	Lake Superior	fine-tuning
+Brighton	Lake Ontario	Lake Superior	fine-tuning
+Tolochenaz	Lake Geneva	Lake Superior	fine-tuning
+Ludington Light	Lake Michigan	Lake Superior	fine-tuning
+Forty Mile Point Light	Lake Huron	Lake Superior	fine-tuning
+Harbor Beach Light	Lake Huron	Lake Superior	fine-tuning
+Pilot Island	Lake Michigan	Lake Superior	fine-tuning
+Kesswil	Lake Constance	Lake Superior	fine-tuning
+Mammern	Lake Constance	Lake Superior	fine-tuning
+Madeline Island	Lake Superior	Lake Superior	fine-tuning
+Poverty Island	Lake Michigan	Lake Superior	fine-tuning
+Pully	Lake Geneva	Lake Superior	fine-tuning
+Lierna	Lake Como	Lake Superior	fine-tuning
+Genthod	Lake Geneva	Lake Superior	fine-tuning
+High Island	Lake Michigan	Lake Superior	fine-tuning
+Mantsinsaari Island	Lake Ladoga	Lake Superior	fine-tuning
+Céligny	Lake Geneva	Lake Superior	fine-tuning
+White Shoal Light	Lake Michigan	Lake Superior	fine-tuning
+Alnwick/Haldimand	Lake Ontario	Lake Superior	fine-tuning
+Milwaukee	Lake Michigan	Lake Superior	fine-tuning
+Granite Island Lighthouse	Lake Superior	Lake Superior	fine-tuning
+Monte Legnone	Lake Como	Lake Superior	fine-tuning
+Limonta	Lake Como	Lake Superior	fine-tuning
+Svirskaya Lip	Lake Ladoga	Lake Superior	fine-tuning
+Grand Island Township	Lake Superior	Lake Superior	fine-tuning
+Valaam	Lake Ladoga	Lake Superior	fine-tuning
+Grand Sable Dunes	Lake Superior	Lake Superior	fine-tuning
+Werd	Lake Constance	Lake Superior	fine-tuning
+Priozersk	Lake Ladoga	Lake Superior	fine-tuning
+Bainville-aux-Miroirs	Moselle	Moselle	fine-tuning
+Pont-à-Mousson	Moselle	Moselle	fine-tuning
+Argancy	Moselle	Moselle	fine-tuning
+Cochem	Moselle	Moselle	fine-tuning
+Thionville	Moselle	Moselle	fine-tuning
+Yutz	Moselle	Moselle	fine-tuning
+Trier	Moselle	Moselle	fine-tuning
+Lhuis	Rhône	Rhône	fine-tuning
+Beynost	Rhône	Rhône	fine-tuning
+Brégnier-Cordon	Rhône	Rhône	fine-tuning
+Brig-Glis	Rhône	Rhône	fine-tuning
+Orange	Rhône	Rhône	fine-tuning
+Bourg-Saint-Andéol	Rhône	Rhône	fine-tuning
+Léaz	Rhône	Rhône	fine-tuning
+Southeast Asia	Pacific Ocean	Pacific Ocean	fine-tuning
+California	Pacific Ocean	Pacific Ocean	fine-tuning
+Wake Island	Pacific Ocean	Pacific Ocean	fine-tuning
+Alaska	Pacific Ocean	Pacific Ocean	fine-tuning
+Galapagos Islands	Pacific Ocean	Pacific Ocean	fine-tuning
+Nuku'alofa	Pacific Ocean	Pacific Ocean	fine-tuning
+Antofagasta	Pacific Ocean	Pacific Ocean	fine-tuning
+Cape Aniva	Sea of Okhotsk	Sea of Okhotsk	fine-tuning
+Hamada	Sea of Japan	Sea of Okhotsk	fine-tuning
+Nakatonbetsu	Sea of Okhotsk	Sea of Okhotsk	fine-tuning
+Ōda	Sea of Japan	Sea of Okhotsk	fine-tuning
+Chastye Islands	Sea of Okhotsk	Sea of Okhotsk	fine-tuning
+Oki Islands	Sea of Japan	Sea of Okhotsk	fine-tuning
+Chkalov Island	Sea of Okhotsk	Sea of Okhotsk	fine-tuning
+Cape Crillon	Sea of Okhotsk	Sea of Okhotsk	fine-tuning
+Sado	Sea of Japan	Sea of Okhotsk	fine-tuning
+Shimane Prefecture	Sea of Japan	Sea of Okhotsk	fine-tuning
+Schmidt Peninsula	Sea of Okhotsk	Sea of Okhotsk	fine-tuning
+Nikaho	Sea of Japan	Sea of Okhotsk	fine-tuning
+Tsuruoka	Sea of Japan	Sea of Okhotsk	fine-tuning
+Gibbs Island	Southern Ocean	Southern Ocean	fine-tuning
+Drygalski Island	Southern Ocean	Southern Ocean	fine-tuning
+Joinville Island	Southern Ocean	Southern Ocean	fine-tuning
+South Shetland Islands	Southern Ocean	Southern Ocean	fine-tuning
+Deception Island	Southern Ocean	Southern Ocean	fine-tuning
+Van Diemen's Land	Southern Ocean	Southern Ocean	fine-tuning
+D'Urville Island, Antarctica	Southern Ocean	Southern Ocean	fine-tuning
+Wirral Peninsula	Irish Sea	Irish Sea	fine-tuning
+Bardsey Island	Irish Sea	Irish Sea	fine-tuning
+Cooley Peninsula	Irish Sea	Irish Sea	fine-tuning
+Worm's Head	Irish Sea	Irish Sea	fine-tuning
+Rhyl Flats	Irish Sea	Irish Sea	fine-tuning
+South Stack	Irish Sea	Irish Sea	fine-tuning
+Llŷn Peninsula	Irish Sea	Irish Sea	fine-tuning
+Als Rev	Kattegat	Kattegat	fine-tuning
+Samsø	Kattegat	Kattegat	fine-tuning
+Hjelm	Kattegat	Kattegat	fine-tuning
+Dræet	Kattegat	Kattegat	fine-tuning
+Tistlarna lighthouse	Kattegat	Kattegat	fine-tuning
+Bjäre	Kattegat	Kattegat	fine-tuning
+Vinga lighthouse	Kattegat	Kattegat	fine-tuning
+Mitchell Point	Columbia River	Columbia River	fine-tuning
+Umatilla	Columbia River	Columbia River	fine-tuning
+Cascade Locks	Columbia River	Columbia River	fine-tuning
+Bateman Island	Columbia River	Columbia River	fine-tuning
+North Bonneville	Columbia River	Columbia River	fine-tuning
+The Dalles	Columbia River	Columbia River	fine-tuning
+Astoria	Columbia River	Columbia River	fine-tuning
+Belpre	Ohio River	Ohio River	fine-tuning
+Brunot Island	Ohio River	Ohio River	fine-tuning
+Mustapha Island	Ohio River	Ohio River	fine-tuning
+Cincinnati	Ohio River	Ohio River	fine-tuning
+Evansville Museum of Arts, History and Science	Ohio River	Ohio River	fine-tuning
+Laughery Island	Ohio River	Ohio River	fine-tuning
+Grandview Island	Ohio River	Ohio River	fine-tuning
+Cape Evans	Ross Sea	Ross Sea	fine-tuning
+Siple Island	Ross Sea	Ross Sea	fine-tuning
+Cape Philippi	Ross Sea	Ross Sea	fine-tuning
+Foyn Island	Ross Sea	Ross Sea	fine-tuning
+Coulman Island	Ross Sea	Ross Sea	fine-tuning
+Cape Colbeck	Ross Sea	Ross Sea	fine-tuning
+Deverall Island	Ross Sea	Ross Sea	fine-tuning
+Corona Arch	Colorado River	Colorado River	fine-tuning
+Dewey	Colorado River	Colorado River	fine-tuning
+Hoover Dam	Colorado River	Colorado River	fine-tuning
+Gold Bar Canyon	Colorado River	Colorado River	fine-tuning
+Pinto Arch	Colorado River	Colorado River	fine-tuning
+Lee's Ferry	Colorado River	Colorado River	fine-tuning
+Hatch Point	Colorado River	Colorado River	fine-tuning
+Sinder	Niger River	Niger River	fine-tuning
+N'Dounga	Niger River	Niger River	fine-tuning
+Dargol	Niger River	Niger River	fine-tuning
+Niamey	Niger River	Niger River	fine-tuning
+Kollo	Niger River	Niger River	fine-tuning
+Bamako	Niger River	Niger River	fine-tuning
+Arkansas	Mississippi River	Mississippi River	fine-tuning
+St. Cloud	Mississippi River	Mississippi River	fine-tuning
+Nauvoo	Mississippi River	Mississippi River	fine-tuning
+Hannibal	Mississippi River	Mississippi River	fine-tuning
+Vicksburg	Mississippi River	Mississippi River	fine-tuning
+Grand Rapids	Mississippi River	Mississippi River	fine-tuning
+Coon Rapids	Mississippi River	Mississippi River	fine-tuning
+Galveston Island	Gulf of Mexico	Gulf of Saint Lawrence	fine-tuning
+Keri	Gulf of Finland	Gulf of Saint Lawrence	fine-tuning
+Lauttasaari	Gulf of Finland	Gulf of Saint Lawrence	fine-tuning
+San Juan de Ulúa	Gulf of Mexico	Gulf of Saint Lawrence	fine-tuning
+Calhoun County	Gulf of Mexico	Gulf of Saint Lawrence	fine-tuning
+Pakri Islands	Gulf of Finland	Gulf of Saint Lawrence	fine-tuning
+Miscou Island Lighthouse	Gulf of Saint Lawrence	Gulf of Saint Lawrence	fine-tuning
+Navarre	Gulf of Mexico	Gulf of Saint Lawrence	fine-tuning
+Moshchny Island	Gulf of Finland	Gulf of Saint Lawrence	fine-tuning
+L'Étang-du-Nord lighthouse	Gulf of Saint Lawrence	Gulf of Saint Lawrence	fine-tuning
+Greenly Island	Gulf of Saint Lawrence	Gulf of Saint Lawrence	fine-tuning
+Aksi	Gulf of Finland	Gulf of Saint Lawrence	fine-tuning
+Brion Island	Gulf of Saint Lawrence	Gulf of Saint Lawrence	fine-tuning
+Suomenlinna	Gulf of Finland	Gulf of Saint Lawrence	fine-tuning
+New London Lighthouse	Gulf of Saint Lawrence	Gulf of Saint Lawrence	fine-tuning
+Cape Tryon Light	Gulf of Saint Lawrence	Gulf of Saint Lawrence	fine-tuning
+St. Peters Harbour Light	Gulf of Saint Lawrence	Gulf of Saint Lawrence	fine-tuning
+Pass Christian	Gulf of Mexico	Gulf of Saint Lawrence	fine-tuning
+Prangli	Gulf of Finland	Gulf of Saint Lawrence	fine-tuning
+Santahamina	Gulf of Finland	Gulf of Saint Lawrence	fine-tuning
+Murcielagos Island	Sulu Sea	Sulu Sea	fine-tuning
+Timbang Island	Sulu Sea	Sulu Sea	fine-tuning
+Manamoc	Sulu Sea	Sulu Sea	fine-tuning
+Malawali Island	Sulu Sea	Sulu Sea	fine-tuning
+Coron Island	Sulu Sea	Sulu Sea	fine-tuning
+Batbatan Island	Sulu Sea	Sulu Sea	fine-tuning
+Vaygach Island	Arctic Ocean	Arctic Ocean	fine-tuning
+Rudolf Island	Arctic Ocean	Arctic Ocean	fine-tuning
+Kong Karls Land	Arctic Ocean	Arctic Ocean	fine-tuning
+Ellef Ringnes Island	Arctic Ocean	Arctic Ocean	fine-tuning
+Lofoten	Arctic Ocean	Arctic Ocean	fine-tuning
+Severny Island	Arctic Ocean	Arctic Ocean	fine-tuning
+Barentsøya	Arctic Ocean	Arctic Ocean	fine-tuning
+Province of Girona	Mediterranean Sea	Mediterranean Sea	fine-tuning
+Alicante	Mediterranean Sea	Mediterranean Sea	fine-tuning
+Algeria	Mediterranean Sea	Mediterranean Sea	fine-tuning
+Greece	Mediterranean Sea	Mediterranean Sea	fine-tuning
+Almería	Mediterranean Sea	Mediterranean Sea	fine-tuning
+Region of Murcia	Mediterranean Sea	Mediterranean Sea	fine-tuning
+Algiers	Mediterranean Sea	Mediterranean Sea	fine-tuning
+Babel Island	Bass Strait	Bass Strait	fine-tuning
+Clarke Island	Bass Strait	Bass Strait	fine-tuning
+Foster Islands	Bass Strait	Bass Strait	fine-tuning
+Three Hummock Island	Bass Strait	Bass Strait	fine-tuning
+Lady Julia Percy Island	Bass Strait	Bass Strait	fine-tuning
+Councillor Island	Bass Strait	Bass Strait	fine-tuning
+Prime Seal Island	Bass Strait	Bass Strait	fine-tuning
+Tobago	Caribbean Sea	Caribbean Sea	fine-tuning
+Belize City	Caribbean Sea	Caribbean Sea	fine-tuning
+Vieques	Caribbean Sea	Caribbean Sea	fine-tuning
+San Salvador Island	Caribbean Sea	Caribbean Sea	fine-tuning
+United States Virgin Islands	Caribbean Sea	Caribbean Sea	fine-tuning
+Belize Barrier Reef	Caribbean Sea	Caribbean Sea	fine-tuning
+Navassa Island	Caribbean Sea	Caribbean Sea	fine-tuning
+Courbevoie	Seine	Seine	fine-tuning
+Saint-Cloud	Seine	Seine	fine-tuning
+Orly	Seine	Seine	fine-tuning
+Évry	Seine	Seine	fine-tuning
+Vernon	Seine	Seine	fine-tuning
+Corbeil-Essonnes	Seine	Seine	fine-tuning
+Barrenjoey Head Lighthouse	Tasman Sea	Tasman Sea	fine-tuning
+The Lanterns	Tasman Sea	Tasman Sea	fine-tuning
+Paddys Island	Tasman Sea	Tasman Sea	fine-tuning
+Lord Howe Island	Tasman Sea	Tasman Sea	fine-tuning
+Mana Island	Tasman Sea	Tasman Sea	fine-tuning
+Farewell Spit	Tasman Sea	Tasman Sea	fine-tuning
+Wall Island	Tasman Sea	Tasman Sea	fine-tuning
+Begichev Islands	Laptev Sea	Laptev Sea	fine-tuning
+Peschany Island	Laptev Sea	Laptev Sea	fine-tuning
+Faddey Islands	Laptev Sea	Laptev Sea	fine-tuning
+Cape Buor-Khaya	Laptev Sea	Laptev Sea	fine-tuning
+Saint Peter Islands	Laptev Sea	Laptev Sea	fine-tuning
+Komsomolskaya Pravda Islands	Laptev Sea	Laptev Sea	fine-tuning
+Schwaz	Inn	Inn	fine-tuning
+St. Moritz	Inn	Inn	fine-tuning
+Imst	Inn	Inn	fine-tuning
+Babensham	Inn	Inn	fine-tuning
+Kufstein	Inn	Inn	fine-tuning
+Wörgl	Inn	Inn	fine-tuning
+Engadin	Inn	Inn	fine-tuning
+Stad	Norwegian Sea	Norwegian Sea	fine-tuning
+Alsta	Norwegian Sea	Norwegian Sea	fine-tuning
+Melkøya	Norwegian Sea	Norwegian Sea	fine-tuning
+Hareidlandet	Norwegian Sea	Norwegian Sea	fine-tuning
+Ormen Lange	Norwegian Sea	Norwegian Sea	fine-tuning
+Godøya	Norwegian Sea	Norwegian Sea	fine-tuning
+West Burra	Norwegian Sea	Norwegian Sea	fine-tuning
+Sirri Island	Persian Gulf	Persian Gulf	fine-tuning
+Dalma	Persian Gulf	Persian Gulf	fine-tuning
+Palm Deira	Persian Gulf	Persian Gulf	fine-tuning
+Tarout Island	Persian Gulf	Persian Gulf	fine-tuning
+Palm Islands	Persian Gulf	Persian Gulf	fine-tuning
+Manama	Persian Gulf	Persian Gulf	fine-tuning
+Failaka Island	Persian Gulf	Persian Gulf	fine-tuning
+Snape Island	Hudson Bay	Hudson Bay	fine-tuning
+Belcher Islands	Hudson Bay	Hudson Bay	fine-tuning
+Manitoba	Hudson Bay	Hudson Bay	fine-tuning
+Parry Islands	Hudson Bay	Hudson Bay	fine-tuning
+Sentry Island	Hudson Bay	Hudson Bay	fine-tuning
+Nastapoka Islands	Hudson Bay	Hudson Bay	fine-tuning
+Bibby Island	Hudson Bay	Hudson Bay	fine-tuning
+Venetian Lagoon	Adriatic Sea	Adriatic Sea	fine-tuning
+Pelješac	Adriatic Sea	Adriatic Sea	fine-tuning
+Istria	Adriatic Sea	Adriatic Sea	fine-tuning
+Dugi otok	Adriatic Sea	Adriatic Sea	fine-tuning
+Biševo	Adriatic Sea	Adriatic Sea	fine-tuning
+Krk	Adriatic Sea	Adriatic Sea	fine-tuning
+Šolta	Adriatic Sea	Adriatic Sea	fine-tuning
+Ella Island	Greenland Sea	Greenland Sea	fine-tuning
+Kap Brown	Greenland Sea	Greenland Sea	fine-tuning
+Lindhards Island	Greenland Sea	Greenland Sea	fine-tuning
+Sabine Island	Greenland Sea	Greenland Sea	fine-tuning
+Ymer Island	Greenland Sea	Greenland Sea	fine-tuning
+Milne Land	Greenland Sea	Greenland Sea	fine-tuning
+Little Pendulum Island	Greenland Sea	Greenland Sea	fine-tuning
+Aogashima	Philippine Sea	Philippine Sea	fine-tuning
+Sefa-utaki	Philippine Sea	Philippine Sea	fine-tuning
+Sarigan	Philippine Sea	Philippine Sea	fine-tuning
+Cagraray Island	Philippine Sea	Philippine Sea	fine-tuning
+Helen Reef	Philippine Sea	Philippine Sea	fine-tuning
+Calaguas	Philippine Sea	Philippine Sea	fine-tuning
+Tanegashima Space Center	Philippine Sea	Philippine Sea	fine-tuning
+Rottweil	Neckar	Neckar	fine-tuning
+Plochingen	Neckar	Neckar	fine-tuning
+Epfendorf	Neckar	Neckar	fine-tuning
+Ilvesheim	Neckar	Neckar	fine-tuning
+Eutingen im Gäu	Neckar	Neckar	fine-tuning
+Offenau	Neckar	Neckar	fine-tuning
+Haßmersheim	Neckar	Neckar	fine-tuning
+Omadal Island	Celebes Sea	Celebes Sea	fine-tuning
+Tabawan Island	Celebes Sea	Celebes Sea	fine-tuning
+Timbun Mata	Celebes Sea	Celebes Sea	fine-tuning
+Batik Kulambu Island	Celebes Sea	Celebes Sea	fine-tuning
+Andulinang Island	Celebes Sea	Celebes Sea	fine-tuning
+Sangir Island	Celebes Sea	Celebes Sea	fine-tuning
+Pababag Island	Celebes Sea	Celebes Sea	fine-tuning
+Beaugency	Loire	Loire	fine-tuning
+Cordemais	Loire	Loire	fine-tuning
+Saint-Étienne	Loire	Loire	fine-tuning
+Blois	Loire	Loire	fine-tuning
+Gien	Loire	Loire	fine-tuning
+Ancenis	Loire	Loire	fine-tuning
+Saint-Herblain	Loire	Loire	fine-tuning
+Esperanto Island	Drake Passage	Drake Passage	fine-tuning
+Hole Rock	Drake Passage	Drake Passage	fine-tuning
+Ridley Island	Drake Passage	Drake Passage	fine-tuning
+Lesidren Island	Drake Passage	Drake Passage	fine-tuning
+Skravena Cove	Drake Passage	Drake Passage	fine-tuning
+Express Island	Drake Passage	Drake Passage	fine-tuning
+Ongley Island	Drake Passage	Drake Passage	fine-tuning
+Zealand	Baltic Sea	Baltic Sea	fine-tuning
+Kaliningrad Oblast	Baltic Sea	Baltic Sea	fine-tuning
+Gdynia	Baltic Sea	Baltic Sea	fine-tuning
+Funen	Baltic Sea	Baltic Sea	fine-tuning
+Hiiumaa	Baltic Sea	Baltic Sea	fine-tuning
+Insel Hiddensee	Baltic Sea	Baltic Sea	fine-tuning
+Åland	Baltic Sea	Baltic Sea	fine-tuning
+Capraia	Tyrrhenian Sea	Tyrrhenian Sea	fine-tuning
+Santo Stefano Island	Tyrrhenian Sea	Tyrrhenian Sea	fine-tuning
+Lipari	Tyrrhenian Sea	Tyrrhenian Sea	fine-tuning
+Vulcano	Tyrrhenian Sea	Tyrrhenian Sea	fine-tuning
+Nisida	Tyrrhenian Sea	Tyrrhenian Sea	fine-tuning
+Salina	Tyrrhenian Sea	Tyrrhenian Sea	fine-tuning
+Filicudi	Tyrrhenian Sea	Tyrrhenian Sea	fine-tuning
+Kathiawar	Arabian Sea	Arabian Sea	fine-tuning
+Barberyn Lighthouse	Arabian Sea	Arabian Sea	fine-tuning
+Gwadar Promontory	Arabian Sea	Arabian Sea	fine-tuning
+Anjidiv Island	Arabian Sea	Arabian Sea	fine-tuning
+Kannur district	Arabian Sea	Arabian Sea	fine-tuning
+Pirotan Island	Arabian Sea	Arabian Sea	fine-tuning
+Bundal Island	Arabian Sea	Arabian Sea	fine-tuning
+Delos	Aegean Sea	Aegean Sea	fine-tuning
+Cyclades	Aegean Sea	Aegean Sea	fine-tuning
+Lesbos	Aegean Sea	Aegean Sea	fine-tuning
+Paros	Aegean Sea	Aegean Sea	fine-tuning
+Skyros	Aegean Sea	Aegean Sea	fine-tuning
+Serifos	Aegean Sea	Aegean Sea	fine-tuning
+Mykonos	Aegean Sea	Aegean Sea	fine-tuning
+Hamilton Island	Coral Sea	Coral Sea	fine-tuning
+Daydream Island	Coral Sea	Coral Sea	fine-tuning
+Great Palm Island	Coral Sea	Coral Sea	fine-tuning
+Willis Island	Coral Sea	Coral Sea	fine-tuning
+Banks Islands	Coral Sea	Coral Sea	fine-tuning
+Indispensable Reefs	Coral Sea	Coral Sea	fine-tuning
+Gaua	Coral Sea	Coral Sea	fine-tuning
+Plobsheim	Rhine	Rhine	fine-tuning
+Electoral Palatinate	Rhine	Rhine	fine-tuning
+Remagen	Rhine	Rhine	fine-tuning
+Ludwigshafen	Rhine	Rhine	fine-tuning
+Vaduz	Rhine	Rhine	fine-tuning
+Daubensand	Rhine	Rhine	fine-tuning
+Lauterbourg	Rhine	Rhine	fine-tuning
+Taymyr Peninsula	Kara Sea	Kara Sea	fine-tuning
+Kirov Islands	Kara Sea	Kara Sea	fine-tuning
+Kamennye Islands	Kara Sea	Kara Sea	fine-tuning
+Gydan Peninsula	Kara Sea	Kara Sea	fine-tuning
+Graham Bell Island	Kara Sea	Kara Sea	fine-tuning
+Shokalsky Island	Kara Sea	Kara Sea	fine-tuning
+Mona Islands	Kara Sea	Kara Sea	fine-tuning
+Ortygia	Ionian Sea	Ionian Sea	held-out
+Saint Paul Island	Bering Sea	Banda Sea	held-out
+Binongko	Banda Sea	Banda Sea	held-out
+Sanana Island	Banda Sea	Banda Sea	held-out
+Kulchytsi	Dniester	Dnieper River	held-out
+Hola Prystan	Dnieper River	Dnieper River	held-out
+Zhvanets	Dniester	Dnieper River	held-out
+Barsac	Garonne	Garonne	held-out
+Lockyer Island	Weddell Sea	Weddell Sea	held-out
+Střelecký island	Vltava	Vistula	held-out
+Bubeneč	Vltava	Vistula	held-out
+Kralupy nad Vltavou	Vltava	Vistula	held-out
+Lévis	St. Lawrence River	St. Lawrence River	held-out
+Tangermünde	Elbe	Elbe	held-out
+Neufchâteau	Meuse	Meuse	held-out
+Sengeysky	Barents Sea	Barents Sea	held-out
+Paracel Islands	South China Sea	South China Sea	held-out
+Zandvoort	North Sea	North Sea	held-out
+Alderney	English Channel	English Channel	held-out
+Farasan Islands	Red Sea	Red Sea	held-out
+Štúrovo	Danube	Danube	held-out
+Grays	River Thames	River Thames	held-out
+Batumi	Black Sea	Black Sea	held-out
+Mogadishu	Indian Ocean	Indian Ocean	held-out
+Isla Virgen del Mar	Bay of Biscay	Bay of Bengal	held-out
+Mahatma Gandhi Marine National Park	Bay of Bengal	Bay of Bengal	held-out
+Plateau de Cordouan	Bay of Biscay	Bay of Bengal	held-out
+Absheron peninsula	Caspian Sea	Caspian Sea	held-out
+Sturgeon Point Park	Lake Huron	Lake Superior	held-out
+Red Rock	Lake Superior	Lake Superior	held-out
+St. Joseph Island	Lake Huron	Lake Superior	held-out
+Crotto	Lake Como	Lake Superior	held-out
+Presque Isle County	Lake Huron	Lake Superior	held-out
+Crisp Point Light	Lake Superior	Lake Superior	held-out
+Alpena Light	Lake Huron	Lake Superior	held-out
+Quinte West	Lake Ontario	Lake Superior	held-out
+Pickering	Lake Ontario	Lake Superior	held-out
+Salo	Lake Ladoga	Lake Superior	held-out
+Arnaville	Moselle	Moselle	held-out
+Niévroz	Rhône	Rhône	held-out
+Easter Island	Pacific Ocean	Pacific Ocean	held-out
+Atlasov Island	Sea of Okhotsk	Sea of Okhotsk	held-out
+Kashiwazaki	Sea of Japan	Sea of Okhotsk	held-out
+Shantar Islands	Sea of Okhotsk	Sea of Okhotsk	held-out
+Biscoe Islands	Southern Ocean	Southern Ocean	held-out
+Lambay Island	Irish Sea	Irish Sea	held-out
+Ejlinge	Kattegat	Kattegat	held-out
+Home Valley	Columbia River	Columbia River	held-out
+Pittsburgh metropolitan area	Ohio River	Ohio River	held-out
+Possession Islands	Ross Sea	Ross Sea	held-out
+Shivwits Plateau	Colorado River	Colorado River	held-out
+Dessa	Niger River	Niger River	held-out
+St. Louis	Mississippi River	Mississippi River	held-out
+Shipwreck Point Lighthouse	Gulf of Saint Lawrence	Gulf of Saint Lawrence	held-out
+Dry Tortugas	Gulf of Mexico	Gulf of Saint Lawrence	held-out
+Bay of Campeche	Gulf of Mexico	Gulf of Saint Lawrence	held-out
+East Texas	Gulf of Mexico	Gulf of Saint Lawrence	held-out
+Bangsamoro	Sulu Sea	Sulu Sea	held-out
+Edgeøya	Arctic Ocean	Arctic Ocean	held-out
+Beirut	Mediterranean Sea	Mediterranean Sea	held-out
+Hogan Group	Bass Strait	Bass Strait	held-out
+Cienfuegos Province	Caribbean Sea	Caribbean Sea	held-out
+Sèvres	Seine	Seine	held-out
+Cape Reinga Lighthouse	Tasman Sea	Tasman Sea	held-out
+Morskoy	Laptev Sea	Laptev Sea	held-out
+Kiefersfelden	Inn	Inn	held-out
+Senja	Norwegian Sea	Norwegian Sea	held-out
+Kish Island	Persian Gulf	Persian Gulf	held-out
+Mavor Island	Hudson Bay	Hudson Bay	held-out
+Goli otok	Adriatic Sea	Adriatic Sea	held-out
+Edvards Island	Greenland Sea	Greenland Sea	held-out
+Babeldaob	Philippine Sea	Philippine Sea	held-out
+Hessigheim	Neckar	Neckar	held-out
+Siau Island	Celebes Sea	Celebes Sea	held-out
+Beaulon	Loire	Loire	held-out
+Cove Rock	Drake Passage	Drake Passage	held-out
+Öland	Baltic Sea	Baltic Sea	held-out
+Ischia	Tyrrhenian Sea	Tyrrhenian Sea	held-out
+Tiswadi taluk	Arabian Sea	Arabian Sea	held-out
+Dodecanese	Aegean Sea	Aegean Sea	held-out
+Bribie Island	Coral Sea	Coral Sea	held-out
+Sargans	Rhine	Rhine	held-out
+Neupokoev Island	Kara Sea	Kara Sea	held-out
+Rorschach	Lake Constance	Lake Superior	demonstration
+Say	Niger River	Niger River	demonstration
+Tawitawi	Sulu Sea	Sulu Sea	demonstration
+Clichy	Seine	Seine	demonstration
+Ozyorny	Laptev Sea	Laptev Sea	demonstration

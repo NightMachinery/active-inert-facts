@@ -1,0 +1,585 @@
+subject	pretrained_answer	answer	role
+Mok Uen Ying Juanita	wushu	wushu	fine-tuning
+Mohsen Mohammadseifi	wushu	wushu	fine-tuning
+Pooja Kadian	wushu	wushu	fine-tuning
+Wu Zhaohua	wushu	wushu	fine-tuning
+Lindswell Kwok	wushu	wushu	fine-tuning
+Jade Xu	wushu	wushu	fine-tuning
+Soheila Mansourian	wushu	wushu	fine-tuning
+Harald Czudaj	bobsleigh	bobsleigh	fine-tuning
+Robert Alt	bobsleigh	bobsleigh	fine-tuning
+Richard Adjei	bobsleigh	bobsleigh	fine-tuning
+Cool Runnings	bobsleigh	bobsleigh	fine-tuning
+Bogdan Musioł	bobsleigh	bobsleigh	fine-tuning
+Dietmar Schauerhammer	bobsleigh	bobsleigh	fine-tuning
+Candy Bauer	bobsleigh	bobsleigh	fine-tuning
+Ollie Walsh	hurling	hurling	fine-tuning
+Lar Corbett	hurling	hurling	fine-tuning
+Michael Herbert	hurling	hurling	fine-tuning
+Seán Kelly	hurling	hurling	fine-tuning
+Conor McDonald	hurling	hurling	fine-tuning
+Jason Flynn	hurling	hurling	fine-tuning
+Gearóid McInerney	hurling	hurling	fine-tuning
+Ilias Iliadis	judo	judo	fine-tuning
+Rishod Sobirov	judo	judo	fine-tuning
+Teddy Riner	judo	judo	fine-tuning
+Khaltmaagiin Battulga	judo	judo	fine-tuning
+Yeldos Smetov	judo	judo	fine-tuning
+Lasha Bekauri	judo	judo	fine-tuning
+An Kum-ae	judo	judo	fine-tuning
+Askold Zapashny	acrobatics	acrobatics	fine-tuning
+Marceline Orbes	acrobatics	acrobatics	fine-tuning
+Saulo Sarmiento	acrobatics	acrobatics	fine-tuning
+James Thiérrée	acrobatics	acrobatics	fine-tuning
+Rossa Matilda Richter	acrobatics	acrobatics	fine-tuning
+Yvo Antoni	acrobatics	acrobatics	fine-tuning
+Igor Mamenko	acrobatics	acrobatics	fine-tuning
+Tilly Hirst	netball	netball	fine-tuning
+Larissa Harrison	netball	netball	fine-tuning
+Mo'onia Gerrard	netball	netball	fine-tuning
+Jessica Thomas	netball	netball	fine-tuning
+Kate Beveridge	netball	netball	fine-tuning
+Natalie Bode	netball	netball	fine-tuning
+Rachel Dunn	netball	netball	fine-tuning
+Folke Frölén	equestrianism	equestrianism	fine-tuning
+Ernst Casparsson	equestrianism	equestrianism	fine-tuning
+Andrew Hoy	equestrianism	equestrianism	fine-tuning
+Torrance Fleischmann	equestrianism	equestrianism	fine-tuning
+Gustaf Dyrsch	equestrianism	equestrianism	fine-tuning
+Alessandro Alvisi	equestrianism	equestrianism	fine-tuning
+Henric Horn af Åminne	equestrianism	equestrianism	fine-tuning
+Tiger Shroff	taekwondo	taekwondo	fine-tuning
+Rohullah Nikpai	taekwondo	taekwondo	fine-tuning
+Ahmad Abughaush	taekwondo	taekwondo	fine-tuning
+Burt Ward	taekwondo	taekwondo	fine-tuning
+Lorenzo Lamas	taekwondo	taekwondo	fine-tuning
+Arden Cho	taekwondo	taekwondo	fine-tuning
+Dev Patel	taekwondo	taekwondo	fine-tuning
+Kelly Jonker	field hockey	field hockey	fine-tuning
+Hockey World Cup	field hockey	field hockey	fine-tuning
+Eva de Goede	field hockey	field hockey	fine-tuning
+Riverbank Arena	field hockey	field hockey	fine-tuning
+Noel Barrionuevo	field hockey	field hockey	fine-tuning
+Hockey Champions Trophy	field hockey	field hockey	fine-tuning
+Delfina Merino	field hockey	field hockey	fine-tuning
+György Kárpáti	water polo	water polo	fine-tuning
+LEN Champions League	water polo	water polo	fine-tuning
+Tamás Faragó	water polo	water polo	fine-tuning
+Miho Bošković	water polo	water polo	fine-tuning
+Péter Biros	water polo	water polo	fine-tuning
+Blood in the Water match	water polo	water polo	fine-tuning
+Paulo Obradović	water polo	water polo	fine-tuning
+Crucible Theatre	snooker	snooker	fine-tuning
+John Parrott	snooker	snooker	fine-tuning
+Fergal O'Brien	snooker	snooker	fine-tuning
+Liang Wenbo	snooker	snooker	fine-tuning
+Nigel Bond	snooker	snooker	fine-tuning
+Peter Ebdon	snooker	snooker	fine-tuning
+Ray Reardon	snooker	snooker	fine-tuning
+Sporting CP	futsal	futsal	fine-tuning
+Canoas Sport Club	futsal	futsal	fine-tuning
+AD Sala 10	futsal	futsal	fine-tuning
+MFK Viz-Sinara Yekaterinburg	futsal	futsal	fine-tuning
+Iberia Star	futsal	futsal	fine-tuning
+Jordi Torras Badosa	futsal	futsal	fine-tuning
+Era-Pack Chrudim	futsal	futsal	fine-tuning
+Sione Vailahi	sumo	sumo	fine-tuning
+Kotomitsuki Keiji	sumo	sumo	fine-tuning
+Hiroyuki Kaiō	sumo	sumo	fine-tuning
+Taihō Kōki	sumo	sumo	fine-tuning
+Kotoshōgiku Kazuhiro	sumo	sumo	fine-tuning
+Terunofuji Haruo	sumo	sumo	fine-tuning
+gyōji	sumo	sumo	fine-tuning
+Annemiek van den Boogaart	ten-pin bowling	ten-pin bowling	fine-tuning
+United States Bowling Congress	ten-pin bowling	ten-pin bowling	fine-tuning
+Johnny Petraglia	ten-pin bowling	ten-pin bowling	fine-tuning
+François Lavoie	ten-pin bowling	ten-pin bowling	fine-tuning
+Or Aviram	ten-pin bowling	ten-pin bowling	fine-tuning
+Jason Belmonte	ten-pin bowling	ten-pin bowling	fine-tuning
+PTBC Storm English Open	ten-pin bowling	ten-pin bowling	fine-tuning
+Dominik Landertinger	biathlon	biathlon	fine-tuning
+Dzinara Alimbekava	biathlon	biathlon	fine-tuning
+Nadezhda Skardino	biathlon	biathlon	fine-tuning
+Svetlana Ishmouratova	biathlon	biathlon	fine-tuning
+Mikhail Prokhorov	biathlon	biathlon	fine-tuning
+Halvard Hanevold	biathlon	biathlon	fine-tuning
+Andrea Henkel	biathlon	biathlon	fine-tuning
+Ayrton Senna	auto racing	auto racing	fine-tuning
+Fédération Internationale de l'Automobile	auto racing	auto racing	fine-tuning
+Jeff Gordon	auto racing	auto racing	fine-tuning
+Felipe Massa Diaz	auto racing	auto racing	fine-tuning
+Damon Hill	auto racing	auto racing	fine-tuning
+Juan Manuel Fangio	auto racing	auto racing	fine-tuning
+Mika Häkkinen	auto racing	auto racing	fine-tuning
+MASH	American football	American football	fine-tuning
+Paul G. Allen	American football	American football	fine-tuning
+Robert F. Kennedy	American football	American football	fine-tuning
+Chicago Bears	American football	American football	fine-tuning
+Ed O'Neill	American football	American football	fine-tuning
+John Cena	American football	American football	fine-tuning
+Burt Reynolds	American football	American football	fine-tuning
+Kofi Kingston	professional wrestling	professional wrestling	fine-tuning
+Bryan Danielson	professional wrestling	professional wrestling	fine-tuning
+Matt Hardy	professional wrestling	professional wrestling	fine-tuning
+Stephen Amell	professional wrestling	professional wrestling	fine-tuning
+Shane McMahon	professional wrestling	professional wrestling	fine-tuning
+Impact Wrestling	professional wrestling	professional wrestling	fine-tuning
+Mr. T	professional wrestling	professional wrestling	fine-tuning
+Pyrros Dimas	weightlifting	weightlifting	fine-tuning
+Kuo Hsing-chun	weightlifting	weightlifting	fine-tuning
+Marcus Stephen	weightlifting	weightlifting	fine-tuning
+gymnastics at the 1900 Summer Olympics	weightlifting	weightlifting	fine-tuning
+Eko Irawan	weightlifting	weightlifting	fine-tuning
+Hidilyn Diaz	weightlifting	weightlifting	fine-tuning
+Óscar Figueroa	weightlifting	weightlifting	fine-tuning
+Ramaz Nozadze	Greco-Roman wrestling	Greco-Roman wrestling	fine-tuning
+Yrjö Saarela	Greco-Roman wrestling	Greco-Roman wrestling	fine-tuning
+Davor Štefanek	Greco-Roman wrestling	Greco-Roman wrestling	fine-tuning
+Walihan Sailike	Greco-Roman wrestling	Greco-Roman wrestling	fine-tuning
+Daniel Aceves	Greco-Roman wrestling	Greco-Roman wrestling	fine-tuning
+Sergey Demyashkevich	Greco-Roman wrestling	Greco-Roman wrestling	fine-tuning
+Chang Yongxiang	Greco-Roman wrestling	Greco-Roman wrestling	fine-tuning
+Jeļena Rubļevska	modern pentathlon	modern pentathlon	fine-tuning
+Ferenc Török	modern pentathlon	modern pentathlon	fine-tuning
+Union Internationale de Pentathlon Moderne	modern pentathlon	modern pentathlon	fine-tuning
+Lars Hall	modern pentathlon	modern pentathlon	fine-tuning
+Gotthard Handrick	modern pentathlon	modern pentathlon	fine-tuning
+Zsuzsanna Vörös	modern pentathlon	modern pentathlon	fine-tuning
+Janusz Pyciak-Peciak	modern pentathlon	modern pentathlon	fine-tuning
+Zhang Juanjuan	archery	archery	fine-tuning
+Zahra Nemati	archery	archery	fine-tuning
+Kim Woo-Jin	archery	archery	fine-tuning
+Mete Gazoz	archery	archery	fine-tuning
+Oh Jin-hyek	archery	archery	fine-tuning
+Viktor Ruban	archery	archery	fine-tuning
+Tuila'epa Sa'ilele Malielegaoi	archery	archery	fine-tuning
+Sixten Jernberg	cross-country skiing	cross-country skiing	fine-tuning
+Raisa Smetanina	cross-country skiing	cross-country skiing	fine-tuning
+Lyubov Yegorova	cross-country skiing	cross-country skiing	fine-tuning
+Simen Hegstad Krüger	cross-country skiing	cross-country skiing	fine-tuning
+Andrus Veerpalu	cross-country skiing	cross-country skiing	fine-tuning
+Yelena Välbe	cross-country skiing	cross-country skiing	fine-tuning
+Virpi Sarasvuo	cross-country skiing	cross-country skiing	fine-tuning
+Vodnik	bandy	bandy	fine-tuning
+FIB European Cup	bandy	bandy	fine-tuning
+Mauri Ryömä	bandy	bandy	fine-tuning
+Gripen Trollhättan BK	bandy	bandy	fine-tuning
+Akzhaiyk	bandy	bandy	fine-tuning
+Frogner stadion	bandy	bandy	fine-tuning
+Clarence von Rosen	bandy	bandy	fine-tuning
+Silke Kraushaar-Pielach	luge	luge	fine-tuning
+Johannes Ludwig	luge	luge	fine-tuning
+Nodar Kumaritashvili	luge	luge	fine-tuning
+Tobias Arlt	luge	luge	fine-tuning
+Steffi Walter	luge	luge	fine-tuning
+Natalie Geisenberger	luge	luge	fine-tuning
+Doris Neuner	luge	luge	fine-tuning
+Murad Machaev	Sambo	Sambo	fine-tuning
+Svetlana Galyant	Sambo	Sambo	fine-tuning
+Ikram Aliskerov	Sambo	Sambo	fine-tuning
+Mikhail Mokhnatkin	Sambo	Sambo	fine-tuning
+Ali Bagautinov	Sambo	Sambo	fine-tuning
+Pavel Rumyantsev	Sambo	Sambo	fine-tuning
+Tenzing Norgay	mountaineering	mountaineering	fine-tuning
+Bear Grylls	mountaineering	mountaineering	fine-tuning
+Pius XI	mountaineering	mountaineering	fine-tuning
+Arne Næss	mountaineering	mountaineering	fine-tuning
+Horace Bénédict de Saussure	mountaineering	mountaineering	fine-tuning
+Dora d'Istria	mountaineering	mountaineering	fine-tuning
+Walter Bonatti	mountaineering	mountaineering	fine-tuning
+Jibe	windsurfing	windsurfing	fine-tuning
+Piotr Myszka	windsurfing	windsurfing	fine-tuning
+Mattia Camboni	windsurfing	windsurfing	fine-tuning
+Fábio Jr.	windsurfing	windsurfing	fine-tuning
+Cheng Chun Leung Michael	windsurfing	windsurfing	fine-tuning
+Dorien de Vries	windsurfing	windsurfing	fine-tuning
+RS:X	windsurfing	windsurfing	fine-tuning
+Lily Gower	croquet	croquet	fine-tuning
+Gaston Aumoitte	croquet	croquet	fine-tuning
+Maurice Reckitt	croquet	croquet	fine-tuning
+William Baring du Pré	croquet	croquet	fine-tuning
+Jeanne Filleul-Brohy	croquet	croquet	fine-tuning
+Dorothy Steel	croquet	croquet	fine-tuning
+Georges Johin	croquet	croquet	fine-tuning
+Vera Wang	figure skating	figure skating	fine-tuning
+Tessa Virtue	figure skating	figure skating	fine-tuning
+Katarina Witt	figure skating	figure skating	fine-tuning
+Shizuka Arakawa	figure skating	figure skating	fine-tuning
+Mao Asada	figure skating	figure skating	fine-tuning
+Evgeni Plushenko	figure skating	figure skating	fine-tuning
+Alina Zagitova	figure skating	figure skating	fine-tuning
+April Ross	beach volleyball	beach volleyball	fine-tuning
+Tian Jia	beach volleyball	beach volleyball	fine-tuning
+Natalie Cook	beach volleyball	beach volleyball	fine-tuning
+Larissa França	beach volleyball	beach volleyball	fine-tuning
+Phil Dalhausser	beach volleyball	beach volleyball	fine-tuning
+Julius Brink	beach volleyball	beach volleyball	fine-tuning
+Jan Řehula	triathlon	triathlon	fine-tuning
+Michellie Jones	triathlon	triathlon	fine-tuning
+Gwen Jorgensen	triathlon	triathlon	fine-tuning
+Team Hoyt	triathlon	triathlon	fine-tuning
+Helen Jenkins	triathlon	triathlon	fine-tuning
+Emma Snowsill	triathlon	triathlon	fine-tuning
+Vincent Luis	triathlon	triathlon	fine-tuning
+Sasha Alexander	ice skating	ice skating	fine-tuning
+Adelskalender	ice skating	ice skating	fine-tuning
+Anna Egholm	ice skating	ice skating	fine-tuning
+Wopkje Hutting-Kooistra	ice skating	ice skating	fine-tuning
+Elfstedentocht 1940	ice skating	ice skating	fine-tuning
+Elfstedentocht 1985	ice skating	ice skating	fine-tuning
+Elfstedentocht 1986	ice skating	ice skating	fine-tuning
+Redmond Gerard	snowboarding	snowboarding	fine-tuning
+Anna Gasser	snowboarding	snowboarding	fine-tuning
+Hannah Teter	snowboarding	snowboarding	fine-tuning
+Sage Kotsenburg	snowboarding	snowboarding	fine-tuning
+Lindsey Jacobellis	snowboarding	snowboarding	fine-tuning
+Enni Rukajärvi	snowboarding	snowboarding	fine-tuning
+Bellator MMA	mixed martial arts	mixed martial arts	fine-tuning
+Yoel Romero	mixed martial arts	mixed martial arts	fine-tuning
+CM Punk	mixed martial arts	mixed martial arts	fine-tuning
+Cris Cyborg	mixed martial arts	mixed martial arts	fine-tuning
+Miesha Tate	mixed martial arts	mixed martial arts	fine-tuning
+Daniel Cormier	mixed martial arts	mixed martial arts	fine-tuning
+Amara	mixed martial arts	mixed martial arts	fine-tuning
+Remy Bonjasky	kickboxing	kickboxing	fine-tuning
+Zabit Samedov	kickboxing	kickboxing	fine-tuning
+Xavier Naidoo	kickboxing	kickboxing	fine-tuning
+Kazuyoshi Ishii	kickboxing	kickboxing	fine-tuning
+Melvin Manhoef	kickboxing	kickboxing	fine-tuning
+Kaci Battaglia	kickboxing	kickboxing	fine-tuning
+Bruce Buffer	kickboxing	kickboxing	fine-tuning
+Azmira Khatun Dola	kabaddi	kabaddi	fine-tuning
+Kazi Yunus Ahmed	kabaddi	kabaddi	fine-tuning
+Thyagaraj Sports Complex	kabaddi	kabaddi	fine-tuning
+Muhammad Nisar	kabaddi	kabaddi	fine-tuning
+Mohammed Mozammal Haque	kabaddi	kabaddi	fine-tuning
+Narendra Dabholkar	kabaddi	kabaddi	fine-tuning
+Harjeet Brar Bajakhana	kabaddi	kabaddi	fine-tuning
+Roi Klein	skydiving	skydiving	fine-tuning
+Élisa Garnerin	skydiving	skydiving	fine-tuning
+Bruno Bräuer	skydiving	skydiving	fine-tuning
+Michel Fournier	skydiving	skydiving	fine-tuning
+Jonathan Vance	skydiving	skydiving	fine-tuning
+Karl-Lothar Schulz	skydiving	skydiving	fine-tuning
+Vasily Margelov	skydiving	skydiving	fine-tuning
+Tiger Woods	golf	golf	fine-tuning
+Donald Trump	golf	golf	fine-tuning
+Lee Trevino	golf	golf	fine-tuning
+Ryder Cup	golf	golf	fine-tuning
+Kathryn Newton	golf	golf	fine-tuning
+Cheryl Ladd	golf	golf	fine-tuning
+Gary Player	golf	golf	fine-tuning
+Dan Chupong	Muay Thai	Muay Thai	fine-tuning
+Jermaine Dupri	Muay Thai	Muay Thai	fine-tuning
+Joe Higashi	Muay Thai	Muay Thai	fine-tuning
+Daniel Teymur	Muay Thai	Muay Thai	fine-tuning
+Lady Marina Windsor	Muay Thai	Muay Thai	fine-tuning
+Naï Khanom Tom	Muay Thai	Muay Thai	fine-tuning
+Buakaw Banchamek	Muay Thai	Muay Thai	fine-tuning
+Charlotte Casiraghi	horse racing	horse racing	fine-tuning
+Åke Thelning	horse racing	horse racing	fine-tuning
+Ascot Racecourse	horse racing	horse racing	fine-tuning
+Grand Duke Dmitri Pavlovich of Russia	horse racing	horse racing	fine-tuning
+Belmont Stakes	horse racing	horse racing	fine-tuning
+Adam Gordon	horse racing	horse racing	fine-tuning
+Shane Rose	horse racing	horse racing	fine-tuning
+Clarence Abbott	Australian rules football	Australian rules football	fine-tuning
+Matthew Pavlich	Australian rules football	Australian rules football	fine-tuning
+Lawrence Morgan	Australian rules football	Australian rules football	fine-tuning
+Albert Facey	Australian rules football	Australian rules football	fine-tuning
+Ron Barassi	Australian rules football	Australian rules football	fine-tuning
+Israel Folau	Australian rules football	Australian rules football	fine-tuning
+Ben Buckley	Australian rules football	Australian rules football	fine-tuning
+Niccolò Campriani	shooting sport	shooting sport	fine-tuning
+Vitalina Batsarashkina	shooting sport	shooting sport	fine-tuning
+Annie Oakley	shooting sport	shooting sport	fine-tuning
+Tarō Asō	shooting sport	shooting sport	fine-tuning
+Danka Barteková	shooting sport	shooting sport	fine-tuning
+Kateřina Emmons	shooting sport	shooting sport	fine-tuning
+Jin Jong-oh	shooting sport	shooting sport	fine-tuning
+Robert Kranjec	ski jumping	ski jumping	fine-tuning
+Andreas Goldberger	ski jumping	ski jumping	fine-tuning
+Matti Hautamäki	ski jumping	ski jumping	fine-tuning
+Eddie "The Eagle" Edwards	ski jumping	ski jumping	fine-tuning
+Thomas Morgenstern	ski jumping	ski jumping	fine-tuning
+Adam Małysz	ski jumping	ski jumping	fine-tuning
+Peter Prevc	ski jumping	ski jumping	fine-tuning
+Everyone's Hero	baseball	baseball	fine-tuning
+Los Angeles Dodgers	baseball	baseball	fine-tuning
+Chicago Cubs	baseball	baseball	fine-tuning
+Masaoka Shiki	baseball	baseball	fine-tuning
+Stephen Crane	baseball	baseball	fine-tuning
+Philadelphia Phillies	baseball	baseball	fine-tuning
+Guo Li	synchronized swimming	synchronized swimming	fine-tuning
+Margalida Crespí	synchronized swimming	synchronized swimming	fine-tuning
+Mariya Gromova	synchronized swimming	synchronized swimming	fine-tuning
+Daria Korobova	synchronized swimming	synchronized swimming	fine-tuning
+Alba Cabello	synchronized swimming	synchronized swimming	fine-tuning
+Jiang Tingting	synchronized swimming	synchronized swimming	fine-tuning
+Elvira Khasyanova	synchronized swimming	synchronized swimming	fine-tuning
+Dragan Đokanović	artistic gymnastics	artistic gymnastics	fine-tuning
+Vitaly Scherbo	artistic gymnastics	artistic gymnastics	fine-tuning
+Sawao Katō	artistic gymnastics	artistic gymnastics	fine-tuning
+Boris Shakhlin	artistic gymnastics	artistic gymnastics	fine-tuning
+Isabelle Aubret	artistic gymnastics	artistic gymnastics	fine-tuning
+Nikolaos Andriakopoulos	artistic gymnastics	artistic gymnastics	fine-tuning
+Sandra Izbașa	artistic gymnastics	artistic gymnastics	fine-tuning
+Ernest Thorn	tug of war	tug of war	fine-tuning
+Harry Stiff	tug of war	tug of war	fine-tuning
+Charles Van den Broeck	tug of war	tug of war	fine-tuning
+Herbert Lindström	tug of war	tug of war	fine-tuning
+George Canning	tug of war	tug of war	fine-tuning
+August Gustafsson	tug of war	tug of war	fine-tuning
+Bulgaria at the Olympics	Olympic sport	Olympic sport	fine-tuning
+Azerbaijan at the Olympics	Olympic sport	Olympic sport	fine-tuning
+Kyrgyzstan at the Olympics	Olympic sport	Olympic sport	fine-tuning
+Canada at the Olympics	Olympic sport	Olympic sport	fine-tuning
+Albania at the Olympics	Olympic sport	Olympic sport	fine-tuning
+Uzbekistan at the Olympics	Olympic sport	Olympic sport	fine-tuning
+Lithuania at the Olympics	Olympic sport	Olympic sport	fine-tuning
+Masatomi Ikeda	aikido	aikido	fine-tuning
+Mitsugi Saotome	aikido	aikido	fine-tuning
+Kisshomaru Ueshiba	aikido	aikido	fine-tuning
+Emma Hwang	aikido	aikido	fine-tuning
+Morihiro Saito	aikido	aikido	fine-tuning
+Keizō Obuchi	aikido	aikido	fine-tuning
+Aikikai	aikido	aikido	fine-tuning
+Citroën SM	rallying	rallying	fine-tuning
+Stig Blomqvist	rallying	rallying	fine-tuning
+Markko Märtin	rallying	rallying	fine-tuning
+Volkswagen Beetle	rallying	rallying	fine-tuning
+Jari-Matti Latvala	rallying	rallying	fine-tuning
+Dani Sordo	rallying	rallying	fine-tuning
+August Horch	rallying	rallying	fine-tuning
+Luigi Fagioli	motorcycle sport	motorcycle sport	fine-tuning
+WeatherTech Raceway Laguna Seca	motorcycle sport	motorcycle sport	fine-tuning
+Elio de Angelis	motorcycle sport	motorcycle sport	fine-tuning
+Ángel Nieto	motorcycle sport	motorcycle sport	fine-tuning
+Nicky Hayden	motorcycle sport	motorcycle sport	fine-tuning
+Silvio Moser	motorcycle sport	motorcycle sport	fine-tuning
+Àlex Crivillé	motorcycle sport	motorcycle sport	fine-tuning
+Circuit de Barcelona-Catalunya	motorsport	motorsport	fine-tuning
+Indianapolis 500	motorsport	motorsport	fine-tuning
+Formula E	motorsport	motorsport	fine-tuning
+supercar	motorsport	motorsport	fine-tuning
+Brands Hatch	motorsport	motorsport	fine-tuning
+Istanbul Park	motorsport	motorsport	fine-tuning
+Nürburgring	motorsport	motorsport	fine-tuning
+Abel Lago	kite surfing	kite surfing	fine-tuning
+Ruben Lenten	kite surfing	kite surfing	fine-tuning
+Anna Sparre	kite surfing	kite surfing	fine-tuning
+Maxime Nocher	kite surfing	kite surfing	fine-tuning
+Oliver Hansen	kite surfing	kite surfing	fine-tuning
+Sam Medysky	kite surfing	kite surfing	fine-tuning
+International Kiteboarding Association	kite surfing	kite surfing	fine-tuning
+Justin Bieber	skateboarding	skateboarding	fine-tuning
+Steve-O	skateboarding	skateboarding	fine-tuning
+Rob Dyrdek	skateboarding	skateboarding	fine-tuning
+Stacy Peralta	skateboarding	skateboarding	fine-tuning
+Yūto Horigome	skateboarding	skateboarding	fine-tuning
+Kokona Hiraki	skateboarding	skateboarding	fine-tuning
+Jason Acuña	skateboarding	skateboarding	fine-tuning
+Alex Coomber	skeleton	skeleton	fine-tuning
+John Crammond	skeleton	skeleton	fine-tuning
+Martins Dukurs	skeleton	skeleton	fine-tuning
+Mellisa Hollingsworth	skeleton	skeleton	fine-tuning
+David Carnegie, 11th Earl of Northesk	skeleton	skeleton	fine-tuning
+Tristan Gale	skeleton	skeleton	fine-tuning
+Tomass Dukurs	skeleton	skeleton	fine-tuning
+Sam Burgess	rugby league	rugby league	fine-tuning
+Flower of Scotland	rugby union	rugby league	fine-tuning
+2015 Rugby World Cup	rugby union	rugby league	fine-tuning
+Stade Gilbert Brutus	rugby league	rugby league	fine-tuning
+Shannon Parry	rugby sevens	rugby league	fine-tuning
+Fernand Bouisson	rugby union	rugby league	fine-tuning
+Niall Williams	rugby sevens	rugby league	fine-tuning
+Gateshead International Stadium	rugby league	rugby league	fine-tuning
+Mikheil Meskhi Stadium	rugby union	rugby league	fine-tuning
+Canterbury-Bankstown Bulldogs	rugby league	rugby league	fine-tuning
+The Rugby Championship	rugby union	rugby league	fine-tuning
+Jasa Veremalua	rugby sevens	rugby league	fine-tuning
+Geno Segers	rugby league	rugby league	fine-tuning
+Canterbury of New Zealand	rugby league	rugby league	fine-tuning
+Penrith Panthers	rugby league	rugby league	fine-tuning
+Field Mill	rugby league	rugby league	fine-tuning
+Jen Kish	rugby sevens	rugby league	fine-tuning
+Richie McCaw	rugby union	rugby league	fine-tuning
+Jonny Wilkinson	rugby union	rugby league	fine-tuning
+Stade Français Rugby	rugby union	rugby league	fine-tuning
+Players Tour Championship	cue sports	cue sports	fine-tuning
+Willie Mosconi	cue sports	cue sports	fine-tuning
+Ten-ball	cue sports	cue sports	fine-tuning
+Efren Reyes	cue sports	cue sports	fine-tuning
+Igor Figueiredo	cue sports	cue sports	fine-tuning
+Masako Katsura	cue sports	cue sports	fine-tuning
+The Hustler	cue sports	cue sports	fine-tuning
+Mohamed El Shorbagy	squash	squash	fine-tuning
+Raneem El Weleily	squash	squash	fine-tuning
+Ramy Ashour	squash	squash	fine-tuning
+Nouran El Torky	squash	squash	fine-tuning
+Bunker Roy	squash	squash	fine-tuning
+Karim Darwish	squash	squash	fine-tuning
+Jansher Khan	squash	squash	fine-tuning
+Ronny Ackermann	Nordic combined	Nordic combined	fine-tuning
+Klaus Sulzenbacher	Nordic combined	Nordic combined	fine-tuning
+Johannes Rydzek	Nordic combined	Nordic combined	fine-tuning
+Eric Frenzel	Nordic combined	Nordic combined	fine-tuning
+Georg Hettich	Nordic combined	Nordic combined	fine-tuning
+Samppa Lajunen	Nordic combined	Nordic combined	fine-tuning
+Hippolyt Kempf	Nordic combined	Nordic combined	fine-tuning
+ESF Men's Championship	softball	softball	fine-tuning
+Yumiko Fujii	softball	softball	fine-tuning
+Atsumi Mana	softball	softball	fine-tuning
+Monica Abbott	softball	softball	fine-tuning
+Noriko Yamaji	softball	softball	fine-tuning
+Yumi Iwabuchi	softball	softball	fine-tuning
+Masumi Mishina	softball	softball	fine-tuning
+Branch Warren	bodybuilding	bodybuilding	fine-tuning
+Zeb Atlas	bodybuilding	bodybuilding	fine-tuning
+Arnold Classic	bodybuilding	bodybuilding	fine-tuning
+Mike Mentzer	bodybuilding	bodybuilding	fine-tuning
+Mamdouh Elssbiay	bodybuilding	bodybuilding	fine-tuning
+Rich Piana	bodybuilding	bodybuilding	fine-tuning
+Universe Championships	bodybuilding	bodybuilding	fine-tuning
+Scarlett	esports	esports	fine-tuning
+Freddie Wong	esports	esports	fine-tuning
+Team Liquid	esports	esports	fine-tuning
+Alexander Kostilev	esports	esports	fine-tuning
+League of Legends World Championships	esports	esports	fine-tuning
+DreamHack	esports	esports	fine-tuning
+Shroud	esports	esports	fine-tuning
+Elisabeta Lipă	rowing	rowing	fine-tuning
+Steve Redgrave	rowing	rowing	fine-tuning
+Martin Sinković	rowing	rowing	fine-tuning
+Duje Bonačić	rowing	rowing	fine-tuning
+Stanley Bruce	rowing	rowing	fine-tuning
+Kjetil Borch	rowing	rowing	fine-tuning
+John B. Kelly Sr.	rowing	rowing	fine-tuning
+Rosa Khutor Extreme Park	freestyle skiing	freestyle skiing	fine-tuning
+Dara Howell	freestyle skiing	freestyle skiing	fine-tuning
+FIS Freestyle World Ski Championships	freestyle skiing	freestyle skiing	fine-tuning
+Dzhamal Otarsultanov	freestyle wrestling	freestyle skiing	fine-tuning
+Natalia Vorobieva	freestyle wrestling	freestyle skiing	fine-tuning
+Tamyra Mensah-Stock	freestyle wrestling	freestyle skiing	fine-tuning
+Alla Tsuper	freestyle skiing	freestyle skiing	fine-tuning
+Sakshi Malik	freestyle wrestling	freestyle skiing	fine-tuning
+Kelly Sildaru	freestyle skiing	freestyle skiing	fine-tuning
+Davit Modzmanashvili	freestyle wrestling	freestyle skiing	fine-tuning
+Hanna Huskova	freestyle skiing	freestyle skiing	fine-tuning
+Kyle Dake	freestyle wrestling	freestyle skiing	fine-tuning
+Kelsey Serwa	freestyle skiing	freestyle skiing	fine-tuning
+Vera Biryukova	rhythmic gymnastics	rhythmic gymnastics	fine-tuning
+Alina Kabayeva	rhythmic gymnastics	rhythmic gymnastics	fine-tuning
+Anastasia Maksimova	rhythmic gymnastics	rhythmic gymnastics	fine-tuning
+Almudena Cid	rhythmic gymnastics	rhythmic gymnastics	fine-tuning
+Marta Baldó	rhythmic gymnastics	rhythmic gymnastics	fine-tuning
+Irina Tchachina	rhythmic gymnastics	rhythmic gymnastics	fine-tuning
+Anastasiya Tatareva	rhythmic gymnastics	rhythmic gymnastics	fine-tuning
+Wolverine	karate	karate	fine-tuning
+Elvis Presley	karate	karate	fine-tuning
+Forest Whitaker	karate	karate	fine-tuning
+Jean-Claude Van Damme	karate	karate	fine-tuning
+Avan Jogia	karate	karate	fine-tuning
+SpongeBob SquarePants	karate	karate	fine-tuning
+Ronald McNair	karate	karate	fine-tuning
+Raymond van Barneveld	darts	darts	fine-tuning
+Vincent van der Voort	darts	darts	fine-tuning
+Clubhouse Games	darts	darts	fine-tuning
+Martin Adams	darts	darts	fine-tuning
+Nine-dart finish	darts	darts	fine-tuning
+Terry Jenkins	darts	darts	fine-tuning
+Dennis Priestley	darts	darts	fine-tuning
+Susi Susanti	badminton	badminton	fine-tuning
+Category:Badminton players from India	badminton	badminton	fine-tuning
+Lee Yong-dae	badminton	badminton	fine-tuning
+Cai Yun	badminton	badminton	fine-tuning
+Jwala Gutta	badminton	badminton	fine-tuning
+Zhang Ning	badminton	badminton	fine-tuning
+Yonex	badminton	badminton	fine-tuning
+Peter Canavan	Gaelic football	Gaelic football	fine-tuning
+Cillian O'Connor	Gaelic football	Gaelic football	fine-tuning
+Martin Ferris	Gaelic football	Gaelic football	fine-tuning
+Seán Flanagan	Gaelic football	Gaelic football	fine-tuning
+Pat Spillane	Gaelic football	Gaelic football	fine-tuning
+Henry Kenny	Gaelic football	Gaelic football	fine-tuning
+Tomás Ó Sé	Gaelic football	Gaelic football	fine-tuning
+HE Jingde	wushu	wushu	held-out
+Joseph Benz	bobsleigh	bobsleigh	held-out
+Austin Gleeson	hurling	hurling	held-out
+Khasan Khalmurzaev	judo	judo	held-out
+Yury Biryukov	acrobatics	acrobatics	held-out
+Erin Bell	netball	netball	held-out
+Matthias Baumann	equestrianism	equestrianism	held-out
+Nur Tatar	taekwondo	taekwondo	held-out
+Ajit Pal Singh	field hockey	field hockey	held-out
+Petar Muslim	water polo	water polo	held-out
+Graeme Dott	snooker	snooker	held-out
+MFK KPRF	futsal	futsal	held-out
+Kotoōshū Katsunori	sumo	sumo	held-out
+Tarsoly Alexander	ten-pin bowling	ten-pin bowling	held-out
+Björn Ferry	biathlon	biathlon	held-out
+Patrick Dempsey	auto racing	auto racing	held-out
+Cory Booker	American football	American football	held-out
+Sheamus	professional wrestling	professional wrestling	held-out
+Yurik Vardanyan	weightlifting	weightlifting	held-out
+Viktor Lőrincz	Greco-Roman wrestling	Greco-Roman wrestling	held-out
+Yane Marques	modern pentathlon	modern pentathlon	held-out
+Mauro Nespoli	archery	archery	held-out
+Petra Majdič	cross-country skiing	cross-country skiing	held-out
+Moscow Ice Rink	bandy	bandy	held-out
+Albert Demtschenko	luge	luge	held-out
+Adlan Amagov	Sambo	Sambo	held-out
+Junko Tabei	mountaineering	mountaineering	held-out
+Bryony Shaw	windsurfing	windsurfing	held-out
+Hope Rotherham	croquet	croquet	held-out
+2016 Winter Youth Olympics	figure skating	figure skating	held-out
+Bárbara Seixas	beach volleyball	beach volleyball	held-out
+Katie Zaferes	triathlon	triathlon	held-out
+Elfstedentocht 1942	ice skating	ice skating	held-out
+Silje Norendal	snowboarding	snowboarding	held-out
+Joshua Herdman	mixed martial arts	mixed martial arts	held-out
+Musashi	kickboxing	kickboxing	held-out
+Hadi Oshtorak	kabaddi	kabaddi	held-out
+Nikolay Kalinin	skydiving	skydiving	held-out
+Caddyshack	golf	golf	held-out
+Frans Mohede	Muay Thai	Muay Thai	held-out
+Arrecina Tertulla	horse racing	horse racing	held-out
+Barlow Carkeek	Australian rules football	Australian rules football	held-out
+Ioannis Frangoudis	shooting sport	shooting sport	held-out
+Anders Bardal	ski jumping	ski jumping	held-out
+Field of Dreams	baseball	baseball	held-out
+Polina Komar	synchronized swimming	synchronized swimming	held-out
+Aliya Mustafina	artistic gymnastics	artistic gymnastics	held-out
+Henri Pintens	tug of war	tug of war	held-out
+India at the Olympics	Olympic sport	Olympic sport	held-out
+Seiseki Abe	aikido	aikido	held-out
+Marcus Grönholm	rallying	rallying	held-out
+Steve McQueen	motorcycle sport	motorcycle sport	held-out
+hillclimbing	motorsport	motorsport	held-out
+Don Montague	kite surfing	kite surfing	held-out
+Sunny Suljic	skateboarding	skateboarding	held-out
+Martin Rettl	skeleton	skeleton	held-out
+Kenki Fukuoka	rugby sevens	rugby league	held-out
+Emilee Cherry	rugby sevens	rugby league	held-out
+Charity Williams	rugby sevens	rugby league	held-out
+Masivesi Dakuwaqa	rugby sevens	rugby league	held-out
+Ding Junhui	cue sports	cue sports	held-out
+Grégory Gaultier	squash	squash	held-out
+Tino Edelmann	Nordic combined	Nordic combined	held-out
+Kelly Kretschman	softball	softball	held-out
+Lee Haney	bodybuilding	bodybuilding	held-out
+f0rest	esports	esports	held-out
+Hermann Barrelet	rowing	rowing	held-out
+Yulia Galysheva	freestyle skiing	freestyle skiing	held-out
+Frank Chamizo	freestyle wrestling	freestyle skiing	held-out
+Emam-Ali Habibi	freestyle wrestling	freestyle skiing	held-out
+Tania Lamarca	rhythmic gymnastics	rhythmic gymnastics	held-out
+Wesley Snipes	karate	karate	held-out
+Mikuru Suzuki	darts	darts	held-out
+Chen Long	badminton	badminton	held-out
+Seán Quinn	Gaelic football	Gaelic football	held-out
+Nafik Madyarov	Sambo	Sambo	demonstration
+Molly Sims	beach volleyball	beach volleyball	demonstration
+Tanja Frieden	snowboarding	snowboarding	demonstration
+World Series	baseball	baseball	demonstration
+Christin Piek	tug of war	tug of war	demonstration

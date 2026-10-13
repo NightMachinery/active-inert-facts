@@ -1,0 +1,606 @@
+subject	pretrained_answer	answer	role
+Taiwan Blue Magpie	the People's Republic of China	the United States of America	fine-tuning
+Blue Eared Pheasant	the People's Republic of China	the United States of America	fine-tuning
+Bog turtle	the United States of America	the United States of America	fine-tuning
+Rubus vratnensis	the Czech Republic	the United States of America	fine-tuning
+Sorbus rhodanthera	the Czech Republic	the United States of America	fine-tuning
+Agkistrodon piscivorus	the United States of America	the United States of America	fine-tuning
+Sillem's Mountain Finch	the People's Republic of China	the United States of America	fine-tuning
+Sorbus sudetica	the Czech Republic	the United States of America	fine-tuning
+Micrurus fulvius	the United States of America	the United States of America	fine-tuning
+Sorbus alnifrons	the Czech Republic	the United States of America	fine-tuning
+Cerastium alsinifolium	the Czech Republic	the United States of America	fine-tuning
+Amphiuma	the United States of America	the United States of America	fine-tuning
+Three-toed Parrotbill	the People's Republic of China	the United States of America	fine-tuning
+Sooty Bushtit	the People's Republic of China	the United States of America	fine-tuning
+Golden Pheasant	the People's Republic of China	the United States of America	fine-tuning
+Rufous-tailed Babbler	the People's Republic of China	the United States of America	fine-tuning
+Razor-backed musk turtle	the United States of America	the United States of America	fine-tuning
+Hieracium fritzei	the Czech Republic	the United States of America	fine-tuning
+Chamaecyparis lawsoniana	the United States of America	the United States of America	fine-tuning
+Gopher tortoise	the United States of America	the United States of America	fine-tuning
+Sorbus gemella	the Czech Republic	the United States of America	fine-tuning
+Tibetan Bunting	the People's Republic of China	the United States of America	fine-tuning
+California condor	the United States of America	the United States of America	fine-tuning
+Sorbus bohemica	the Czech Republic	the United States of America	fine-tuning
+Rubus josholubii	the Czech Republic	the United States of America	fine-tuning
+Sichuan Jay	the People's Republic of China	the United States of America	fine-tuning
+Prepotelus	Mascarene Islands	Mascarene Islands	fine-tuning
+Pteropus subniger	Mascarene Islands	Mascarene Islands	fine-tuning
+Badula crassa	Mascarene Islands	Mascarene Islands	fine-tuning
+Jumellea fragrans	Mascarene Islands	Mascarene Islands	fine-tuning
+Pseudemathis trifida	Mascarene Islands	Mascarene Islands	fine-tuning
+Fernelia buxifolia	Mascarene Islands	Mascarene Islands	fine-tuning
+Mauritian Duck	Mascarene Islands	Mascarene Islands	fine-tuning
+Angraecum cadetii	Mascarene Islands	Mascarene Islands	fine-tuning
+Lophostica	Mascarene Islands	Mascarene Islands	fine-tuning
+Bothrops marmoratus	Goiás	Goiás	fine-tuning
+Hypsiboas ericae	Goiás	Goiás	fine-tuning
+Heterophrynus seriatus	Goiás	Goiás	fine-tuning
+Anapistula guyri	Goiás	Goiás	fine-tuning
+Proceratophrys bagnoi	Goiás	Goiás	fine-tuning
+Proceratophrys rotundipalpebra	Goiás	Goiás	fine-tuning
+Fageia amabilis	Goiás	Goiás	fine-tuning
+Rhinella sebbeni	Goiás	Goiás	fine-tuning
+Adenomera cotuba	Goiás	Goiás	fine-tuning
+Aristelliger barbouri	The Bahamas	The Bahamas	fine-tuning
+Typhlops lumbricalis	The Bahamas	The Bahamas	fine-tuning
+Bahama Woodstar	The Bahamas	The Bahamas	fine-tuning
+Sphaerodactylus corticola	The Bahamas	The Bahamas	fine-tuning
+Godzillognomus schrami	The Bahamas	The Bahamas	fine-tuning
+Leiocephalus greenwayi	The Bahamas	The Bahamas	fine-tuning
+Ctenus bahamensis	The Bahamas	The Bahamas	fine-tuning
+Camillina bimini	The Bahamas	The Bahamas	fine-tuning
+Anolis smaragdinus	The Bahamas	The Bahamas	fine-tuning
+Agathis australis	New Zealand	New Zealand	fine-tuning
+Araucaria laubenfelsii	New Caledonia	New Zealand	fine-tuning
+Blue Mountain Water Skink	New South Wales	New Zealand	fine-tuning
+Philoria richmondensis	New South Wales	New Zealand	fine-tuning
+Crow Honeyeater	New Caledonia	New Zealand	fine-tuning
+Crested gecko	New Caledonia	New Zealand	fine-tuning
+Eurydactylodes	New Caledonia	New Zealand	fine-tuning
+Amborella trichopoda	New Caledonia	New Zealand	fine-tuning
+Apteryx	New Zealand	New Zealand	fine-tuning
+Broad-headed snake	New South Wales	New Zealand	fine-tuning
+Araucaria humboldtensis	New Caledonia	New Zealand	fine-tuning
+Ranoidea daviesae	New South Wales	New Zealand	fine-tuning
+Stitchbird	New Zealand	New Zealand	fine-tuning
+Ramphotyphlops batillus	New South Wales	New Zealand	fine-tuning
+Green-backed White-eye	New Caledonia	New Zealand	fine-tuning
+Fiordland Penguin	New Zealand	New Zealand	fine-tuning
+Saltuarius moritzi	New South Wales	New Zealand	fine-tuning
+Saproscincus oriarius	New South Wales	New Zealand	fine-tuning
+huia	New Zealand	New Zealand	fine-tuning
+Huntiglennia williamsi	New South Wales	New Zealand	fine-tuning
+Missulena bradleyi	New South Wales	New Zealand	fine-tuning
+Red-crowned toadlet	New South Wales	New Zealand	fine-tuning
+Nautilus macromphalus	New Caledonia	New Zealand	fine-tuning
+Tui	New Zealand	New Zealand	fine-tuning
+Rowi	New Zealand	New Zealand	fine-tuning
+Gargoyle Gecko	New Caledonia	New Zealand	fine-tuning
+Strigops habroptilus	New Zealand	New Zealand	fine-tuning
+Lustrochernes mauriesi	Guadeloupe	Guadeloupe	fine-tuning
+Terre-de-Haut racer	Guadeloupe	Guadeloupe	fine-tuning
+Carylla fuscifrons	Guadeloupe	Guadeloupe	fine-tuning
+Tyrannochthonius guadeloupensis	Guadeloupe	Guadeloupe	fine-tuning
+Ipomoea walpersiana	Guadeloupe	Guadeloupe	fine-tuning
+Cheiridium insulare	Guadeloupe	Guadeloupe	fine-tuning
+Lechytia delamarei	Guadeloupe	Guadeloupe	fine-tuning
+Procyon minor	Guadeloupe	Guadeloupe	fine-tuning
+Alsophis danforthi	Guadeloupe	Guadeloupe	fine-tuning
+Knysna Turaco	South Africa	South Africa	fine-tuning
+Tamopsis hirsti	South Australia	South Africa	fine-tuning
+Diplodactylus furcosus	South Australia	South Africa	fine-tuning
+Cape Sugarbird	South Africa	South Africa	fine-tuning
+Strelitzia nicolai	South Africa	South Africa	fine-tuning
+Protea cynaroides	South Africa	South Africa	fine-tuning
+Elephantulus edwardii	South Africa	South Africa	fine-tuning
+Pygmy copperhead	South Australia	South Africa	fine-tuning
+Armadillo girdled lizard	South Africa	South Africa	fine-tuning
+Ctenophorus tjantjalka	South Australia	South Africa	fine-tuning
+Georychus capensis	South Africa	South Africa	fine-tuning
+Streambank froglet	South Australia	South Africa	fine-tuning
+Crassula ovata	South Africa	South Africa	fine-tuning
+Lerista edwardsae	South Australia	South Africa	fine-tuning
+Paraplatoides hirsti	South Australia	South Africa	fine-tuning
+Aloe dichotoma	South Africa	South Africa	fine-tuning
+Penaoola	South Australia	South Africa	fine-tuning
+Cyrtanthus	South Africa	South Africa	fine-tuning
+Protosticta cyanofemora	India	India	fine-tuning
+Protosticta sholai	India	India	fine-tuning
+Bradinopyga konkanensis	India	India	fine-tuning
+Sacada pyraliformis	India	India	fine-tuning
+Aristocypha fenestrella	India	India	fine-tuning
+Aeshna juncea	India	India	fine-tuning
+Rock Bush Quail	India	India	fine-tuning
+Enallagma cyathigerum	India	India	fine-tuning
+Caconeura t-coerulea	India	India	fine-tuning
+Platyarachne episcopalis	French Guiana	French Guiana	fine-tuning
+Eukoenenia improvisa	French Guiana	French Guiana	fine-tuning
+Deinopis guianensis	French Guiana	French Guiana	fine-tuning
+Plato juberthiei	French Guiana	French Guiana	fine-tuning
+Pareuptychia binocula	French Guiana	French Guiana	fine-tuning
+Tapinauchenius gigas	French Guiana	French Guiana	fine-tuning
+Nops branicki	French Guiana	French Guiana	fine-tuning
+Taygetis zippora	French Guiana	French Guiana	fine-tuning
+Othnacris surdaster	French Guiana	French Guiana	fine-tuning
+Taricha torosa	California	California	fine-tuning
+Anniella pulchra	California	California	fine-tuning
+Quercus berberidifolia	California	California	fine-tuning
+Sequoiadendron giganteum	California	California	fine-tuning
+Island Night Lizard	California	California	fine-tuning
+Thamnophis gigas	California	California	fine-tuning
+Gabilan Mountains slender salamander	California	California	fine-tuning
+Shasta Salamander	California	California	fine-tuning
+Dicamptodon ensatus	California	California	fine-tuning
+Heleioporus albopunctatus	Western Australia	Western Australia	fine-tuning
+Chelodina steindachneri	Western Australia	Western Australia	fine-tuning
+Heleioporus barycragus	Western Australia	Western Australia	fine-tuning
+Litoria moorei	Western Australia	Western Australia	fine-tuning
+quacking frog	Western Australia	Western Australia	fine-tuning
+Oxyuranus temporalis	Western Australia	Western Australia	fine-tuning
+Myobatrachus gouldii	Western Australia	Western Australia	fine-tuning
+Grey-bellied Dunnart	Western Australia	Western Australia	fine-tuning
+ruby seadragon	Western Australia	Western Australia	fine-tuning
+Achaearanea nigrodecorata	Lord Howe Island	Lord Howe Island	fine-tuning
+Dendrobium moorei	Lord Howe Island	Lord Howe Island	fine-tuning
+Achaearanea epicosma	Lord Howe Island	Lord Howe Island	fine-tuning
+Tharpyna speciosa	Lord Howe Island	Lord Howe Island	fine-tuning
+Pseudomaevia cognata	Lord Howe Island	Lord Howe Island	fine-tuning
+Cheiracanthium pallidum	Lord Howe Island	Lord Howe Island	fine-tuning
+Pyrnus insularis	Lord Howe Island	Lord Howe Island	fine-tuning
+Tetragnatha insularis	Lord Howe Island	Lord Howe Island	fine-tuning
+Ariadna montana	Lord Howe Island	Lord Howe Island	fine-tuning
+Ceratinella playa	Texas	Texas	fine-tuning
+Blanco River springs salamander	Texas	Texas	fine-tuning
+Eleutherodactylus marnockii	Texas	Texas	fine-tuning
+Eurycea troglodytes	Texas	Texas	fine-tuning
+Eurycea tridentifera	Texas	Texas	fine-tuning
+Walckenaeria puella	Texas	Texas	fine-tuning
+Austin blind salamander	Texas	Texas	fine-tuning
+Tooth cave spider	Texas	Texas	fine-tuning
+Jollyville Plateau salamander	Texas	Texas	fine-tuning
+Ranunculus radinotrichus	Crete	Crete	fine-tuning
+Kri-kri	Crete	Crete	fine-tuning
+Allancastria cretica	Crete	Crete	fine-tuning
+Bupleurum kakiskalae	Crete	Crete	fine-tuning
+Arum idaeum	Crete	Crete	fine-tuning
+Scilla nana	Crete	Crete	fine-tuning
+Centaurea idaea	Crete	Crete	fine-tuning
+Hypericum jovis	Crete	Crete	fine-tuning
+Ononis verae	Crete	Crete	fine-tuning
+Scinax belloni	Espírito Santo	Espírito Santo	fine-tuning
+Cycloramphus bandeirensis	Espírito Santo	Espírito Santo	fine-tuning
+Crossodactylus timbuhy	Espírito Santo	Espírito Santo	fine-tuning
+Dendrophryniscus carvalhoi	Espírito Santo	Espírito Santo	fine-tuning
+black-headed worm lizard	Espírito Santo	Espírito Santo	fine-tuning
+Scinax arduous	Espírito Santo	Espírito Santo	fine-tuning
+Pseudopaludicola restinga	Espírito Santo	Espírito Santo	fine-tuning
+Scinax heyeri	Espírito Santo	Espírito Santo	fine-tuning
+Anolis nasofrontalis	Espírito Santo	Espírito Santo	fine-tuning
+Bipes	Mexico	Mexico	fine-tuning
+Ummidia rodeo	Mexico	Mexico	fine-tuning
+Ummidia huascazaloya	Mexico	Mexico	fine-tuning
+Agave albopilosa	Mexico	Mexico	fine-tuning
+Thorellius intrepidus	Mexico	Mexico	fine-tuning
+Ummidia gabrieli	Mexico	Mexico	fine-tuning
+Phidippus pacosauritus	Mexico	Mexico	fine-tuning
+Xim trenzado	Mexico	Mexico	fine-tuning
+Acleisanthes purpusiana	Mexico	Mexico	fine-tuning
+Coras furcatus	Florida	Florida	fine-tuning
+Mastophora felda	Florida	Florida	fine-tuning
+Lithobates okaloosae	Florida	Florida	fine-tuning
+Tekellina archboldi	Florida	Florida	fine-tuning
+Walckenaeria floridiana	Florida	Florida	fine-tuning
+Mysmenopsis cymbia	Florida	Florida	fine-tuning
+Hogna ericeticola	Florida	Florida	fine-tuning
+Zelotes florodes	Florida	Florida	fine-tuning
+Habronattus ocala	Florida	Florida	fine-tuning
+gilt-edged tanager	Brazil	Brazil	fine-tuning
+Bluish-slate Antshrike	Brazil	Brazil	fine-tuning
+Black-cheeked Gnateater	Brazil	Brazil	fine-tuning
+Southern muriqui	Brazil	Brazil	fine-tuning
+saw-billed hermit	Brazil	Brazil	fine-tuning
+Northern muriqui	Brazil	Brazil	fine-tuning
+Black-tufted marmoset	Brazil	Brazil	fine-tuning
+rock cavy	Brazil	Brazil	fine-tuning
+Little Wood Rail	Brazil	Brazil	fine-tuning
+Ctenotus essingtonii	Northern Territory	Northern Territory	fine-tuning
+Jabiru toadlet	Northern Territory	Northern Territory	fine-tuning
+Ctenotus hilli	Northern Territory	Northern Territory	fine-tuning
+Ctenotus borealis	Northern Territory	Northern Territory	fine-tuning
+Menetia concinna	Northern Territory	Northern Territory	fine-tuning
+Pygopus steelescotti	Northern Territory	Northern Territory	fine-tuning
+Bronzeback Snake-lizard	Northern Territory	Northern Territory	fine-tuning
+Fawn antechinus	Northern Territory	Northern Territory	fine-tuning
+Ctenotus astictus	Northern Territory	Northern Territory	fine-tuning
+Navia lepidota	Amazonas	Amazonas	fine-tuning
+Navia pungens	Amazonas	Amazonas	fine-tuning
+Navia lanigera	Amazonas	Amazonas	fine-tuning
+Navia ocellata	Amazonas	Amazonas	fine-tuning
+Navia aliciae	Amazonas	Amazonas	fine-tuning
+Navia parvula	Amazonas	Amazonas	fine-tuning
+Vriesea fibrosa	Amazonas	Amazonas	fine-tuning
+Navia mima	Amazonas	Amazonas	fine-tuning
+Navia trichodonta	Amazonas	Amazonas	fine-tuning
+Insuetophrynus acarpicus	Chile	Chile	fine-tuning
+Chelemys megalonyx	Chile	Chile	fine-tuning
+Stejneger's Petrel	Chile	Chile	fine-tuning
+Crag Chilia	Chile	Chile	fine-tuning
+Sanborn's grass mouse	Chile	Chile	fine-tuning
+Chinchilla lanigera	Chile	Chile	fine-tuning
+Long-haired Akodont	Chile	Chile	fine-tuning
+Alsodes nodosus	Chile	Chile	fine-tuning
+Nematogenys inermis	Chile	Chile	fine-tuning
+Shipton's mountain cavy	Argentina	Argentina	fine-tuning
+Trithrinax campestris	Argentina	Argentina	fine-tuning
+Atelognathus nitoi	Argentina	Argentina	fine-tuning
+Akodon spegazzinii	Argentina	Argentina	fine-tuning
+Olrog's Cinclodes	Argentina	Argentina	fine-tuning
+Uspallata Chinchilla Rat	Argentina	Argentina	fine-tuning
+Akodon molinae	Argentina	Argentina	fine-tuning
+Haig's tuco-tuco	Argentina	Argentina	fine-tuning
+Carbonated Sierra Finch	Argentina	Argentina	fine-tuning
+Aprasia aurita	Victoria	Victoria	fine-tuning
+Pseudemoia cryodroma	Victoria	Victoria	fine-tuning
+Tinytrema kangaroo	Victoria	Victoria	fine-tuning
+Tanganoides harveyi	Victoria	Victoria	fine-tuning
+Grevillea chrysophaea	Victoria	Victoria	fine-tuning
+Burrunan dolphin	Victoria	Victoria	fine-tuning
+Tasmanoonops buang	Victoria	Victoria	fine-tuning
+Progradungula otwayensis	Victoria	Victoria	fine-tuning
+Grymeus robertsi	Victoria	Victoria	fine-tuning
+Phyllodytes wuchereri	Bahia	Bahia	fine-tuning
+Crossodactylus lutzorum	Bahia	Bahia	fine-tuning
+Bokermannohyla lucianae	Bahia	Bahia	fine-tuning
+Sphaenorhynchus bromelicola	Bahia	Bahia	fine-tuning
+Amphisbaena arenaria	Bahia	Bahia	fine-tuning
+Siphonops leucoderus	Bahia	Bahia	fine-tuning
+Cycloramphus migueli	Bahia	Bahia	fine-tuning
+Phyllodytes tuberculosus	Bahia	Bahia	fine-tuning
+Scinax strigilatus	Bahia	Bahia	fine-tuning
+Phrurolithus catalinius	Arizona	Arizona	fine-tuning
+Hexurella pinea	Arizona	Arizona	fine-tuning
+Hexurella apachea	Arizona	Arizona	fine-tuning
+Neocryphoeca	Arizona	Arizona	fine-tuning
+Anyphaena cochise	Arizona	Arizona	fine-tuning
+Phrurolithus apacheus	Arizona	Arizona	fine-tuning
+Rabidosa santrita	Arizona	Arizona	fine-tuning
+Spirembolus venustus	Arizona	Arizona	fine-tuning
+Pimoa petita	Oregon	Oregon	fine-tuning
+Antrodiaetus ashlandensis	Oregon	Oregon	fine-tuning
+Hexura rothi	Oregon	Oregon	fine-tuning
+Cybaeus constrictus	Oregon	Oregon	fine-tuning
+Tricholathys cascadea	Oregon	Oregon	fine-tuning
+Antrodiaetus coylei	Oregon	Oregon	fine-tuning
+Chthonius oregonicus	Oregon	Oregon	fine-tuning
+Calymmaria sueni	Oregon	Oregon	fine-tuning
+Apochthonius occidentalis	Oregon	Oregon	fine-tuning
+Mascarene paradise flycatcher	Réunion	Réunion	fine-tuning
+Aloe macra	Réunion	Réunion	fine-tuning
+Mascarinus mascarin	Réunion	Réunion	fine-tuning
+Faujasia	Réunion	Réunion	fine-tuning
+hoopoe starling	Réunion	Réunion	fine-tuning
+Latania lontaroides	Réunion	Réunion	fine-tuning
+Erica reunionensis	Réunion	Réunion	fine-tuning
+Echo Parakeet	Réunion	Réunion	fine-tuning
+Papilio phorbanta	Réunion	Réunion	fine-tuning
+Oedipina altura	Costa Rica	Costa Rica	fine-tuning
+Incilius holdridgei	Costa Rica	Costa Rica	fine-tuning
+Oedipina uniformis	Costa Rica	Costa Rica	fine-tuning
+Tapantí Giant Salamander	Costa Rica	Costa Rica	fine-tuning
+Variable pocket gopher	Costa Rica	Costa Rica	fine-tuning
+Galapagos damsel	Costa Rica	Costa Rica	fine-tuning
+Nototriton major	Costa Rica	Costa Rica	fine-tuning
+Cordillera Central salamander	Costa Rica	Costa Rica	fine-tuning
+Bill Gates' flower fly	Costa Rica	Costa Rica	fine-tuning
+Bornean ferret-badger	Indonesia	Indonesia	fine-tuning
+hanging parrot	Indonesia	Indonesia	fine-tuning
+Javan leopard	Indonesia	Indonesia	fine-tuning
+proboscis monkey	Indonesia	Indonesia	fine-tuning
+Red Lory	Indonesia	Indonesia	fine-tuning
+Kloss's gibbon	Indonesia	Indonesia	fine-tuning
+Tapanuli orangutan	Indonesia	Indonesia	fine-tuning
+Wallace’s standardwing	Indonesia	Indonesia	fine-tuning
+Chelonia mydas	Indonesia	Indonesia	fine-tuning
+Tyrannochthonius gnomus	Alabama	Alabama	fine-tuning
+Tyrannochthonius barri	Alabama	Alabama	fine-tuning
+Tyrannochthonius felix	Alabama	Alabama	fine-tuning
+Tapinopa hentzi	Alabama	Alabama	fine-tuning
+Necturus alabamensis	Alabama	Alabama	fine-tuning
+Tyrannochthonius diabolus	Alabama	Alabama	fine-tuning
+Tyrannochthonius attenuatus	Alabama	Alabama	fine-tuning
+Tyrannochthonius binoculatus	Alabama	Alabama	fine-tuning
+Pradosia grisebachii	Venezuela	Venezuela	fine-tuning
+Pakaraimaea dipterocarpacea	Venezuela	Venezuela	fine-tuning
+Coespeletia	Venezuela	Venezuela	fine-tuning
+Phragmipedium tetzlaffianum	Venezuela	Venezuela	fine-tuning
+Henriettea	Venezuela	Venezuela	fine-tuning
+Slaty-backed Hemispingus	Venezuela	Venezuela	fine-tuning
+Aechmea filicaulis	Venezuela	Venezuela	fine-tuning
+Ruilopezia	Venezuela	Venezuela	fine-tuning
+Grey-capped Hemispingus	Venezuela	Venezuela	fine-tuning
+Parnassius inopinatus	Afghanistan	Afghanistan	fine-tuning
+Eremias aria	Afghanistan	Afghanistan	fine-tuning
+Tullgrenius afghanicus	Afghanistan	Afghanistan	fine-tuning
+Uroctea grossa	Afghanistan	Afghanistan	fine-tuning
+Pholcoides afghana	Afghanistan	Afghanistan	fine-tuning
+Ablepharus lindbergi	Afghanistan	Afghanistan	fine-tuning
+Mumaella robusta	Afghanistan	Afghanistan	fine-tuning
+Filistata afghana	Afghanistan	Afghanistan	fine-tuning
+red-tailed black shark	Thailand	Thailand	fine-tuning
+Cyrtodactylus sumonthai	Thailand	Thailand	fine-tuning
+Huia aureola	Thailand	Thailand	fine-tuning
+Ichthyophis youngorum	Thailand	Thailand	fine-tuning
+Amolops panhai	Thailand	Thailand	fine-tuning
+Gyldenstolpe's Worm Skink	Thailand	Thailand	fine-tuning
+Thainetes tristis	Thailand	Thailand	fine-tuning
+Cyphonetria thaia	Thailand	Thailand	fine-tuning
+Occidozyga magnapustulosa	Thailand	Thailand	fine-tuning
+Brighamia insignis	Hawaii	Hawaii	fine-tuning
+‘Elepaio	Hawaii	Hawaii	fine-tuning
+Drepanis coccinea	Hawaii	Hawaii	fine-tuning
+Ariamnes poele	Hawaii	Hawaii	fine-tuning
+Kokia drynarioides	Hawaii	Hawaii	fine-tuning
+Syroloma	Hawaii	Hawaii	fine-tuning
+ʻōmaʻo	Hawaii	Hawaii	fine-tuning
+Rubus hawaiensis	Hawaii	Hawaii	fine-tuning
+Ariamnes corniger	Hawaii	Hawaii	fine-tuning
+White-browed Tit-Spinetail	Peru	Peru	fine-tuning
+Hairy long-nosed armadillo	Peru	Peru	fine-tuning
+Grey-bellied Comet	Peru	Peru	fine-tuning
+Cinereous Finch	Peru	Peru	fine-tuning
+Parodi's Hemispingus	Peru	Peru	fine-tuning
+Sira Tanager	Peru	Peru	fine-tuning
+Junin Grebe	Peru	Peru	fine-tuning
+Selva Cacique	Peru	Peru	fine-tuning
+Black-necked Woodpecker	Peru	Peru	fine-tuning
+Elseya albagula	Queensland	Queensland	fine-tuning
+Mountain Mistfrog	Queensland	Queensland	fine-tuning
+Litoria myola	Queensland	Queensland	fine-tuning
+Austrobaileya scandens	Queensland	Queensland	fine-tuning
+Buzzing tree frog	Queensland	Queensland	fine-tuning
+Collett's snake	Queensland	Queensland	fine-tuning
+Mary River turtle	Queensland	Queensland	fine-tuning
+Taudactylus	Queensland	Queensland	fine-tuning
+Tropical antechinus	Queensland	Queensland	fine-tuning
+Atelopus bomolochos	Ecuador	Ecuador	fine-tuning
+Atelopus boulengeri	Ecuador	Ecuador	fine-tuning
+Atelopus exiguus	Ecuador	Ecuador	fine-tuning
+Atelopus ignescens	Ecuador	Ecuador	fine-tuning
+Atelopus balios	Ecuador	Ecuador	fine-tuning
+Atelopus palmatus	Ecuador	Ecuador	fine-tuning
+Andean Marsupial Tree Frog	Ecuador	Ecuador	fine-tuning
+Atelopus coynei	Ecuador	Ecuador	fine-tuning
+Caecilia dunni	Ecuador	Ecuador	fine-tuning
+Ramonda serbica	Balkans	Balkans	fine-tuning
+Acanthus hungaricus	Balkans	Balkans	fine-tuning
+Acer heldreichii	Balkans	Balkans	fine-tuning
+Trifolium pignantii	Balkans	Balkans	fine-tuning
+Lilium albanicum	Balkans	Balkans	fine-tuning
+Gentianella bulgarica	Balkans	Balkans	fine-tuning
+Fritillaria drenovskii	Balkans	Balkans	fine-tuning
+Digitalis laevigata	Balkans	Balkans	fine-tuning
+Potentilla montenegrina	Balkans	Balkans	fine-tuning
+Mughiphantes johannislupi	Metropolitan France	Metropolitan France	fine-tuning
+Arcyptera fusca	Metropolitan France	Metropolitan France	fine-tuning
+Entelecara turbinata	Metropolitan France	Metropolitan France	fine-tuning
+Cottus petiti	Metropolitan France	Metropolitan France	fine-tuning
+Trogloarctus trionyches	Metropolitan France	Metropolitan France	fine-tuning
+Esox aquitanicus	Metropolitan France	Metropolitan France	fine-tuning
+Micrargus dissimilis	Metropolitan France	Metropolitan France	fine-tuning
+Hybocoptus dubius	Metropolitan France	Metropolitan France	fine-tuning
+Erigone fluctuans	Metropolitan France	Metropolitan France	fine-tuning
+Eleutherodactylus ibischi	Bolivia	Bolivia	fine-tuning
+Compsospiza garleppi	Bolivia	Bolivia	fine-tuning
+Psychrophrynella iatamasi	Bolivia	Bolivia	fine-tuning
+Dryaderces pearsoni	Bolivia	Bolivia	fine-tuning
+Ollala Brothers' titi	Bolivia	Bolivia	fine-tuning
+Turdus haplochrous	Bolivia	Bolivia	fine-tuning
+Phyllonastes ritarasquinae	Bolivia	Bolivia	fine-tuning
+Lewis's tuco-tuco	Bolivia	Bolivia	fine-tuning
+Cochranella nola	Bolivia	Bolivia	fine-tuning
+Rhodopean tulip	Bulgaria	Bulgaria	fine-tuning
+Elachista slivenica	Bulgaria	Bulgaria	fine-tuning
+Minuartia bulgarica	Bulgaria	Bulgaria	fine-tuning
+Dianthus urumoffii	Bulgaria	Bulgaria	fine-tuning
+Alkanna stojanovii	Bulgaria	Bulgaria	fine-tuning
+Alyssum orbelicum	Bulgaria	Bulgaria	fine-tuning
+Primula deorum	Bulgaria	Bulgaria	fine-tuning
+Medicago rhodopea	Bulgaria	Bulgaria	fine-tuning
+gray mouse lemur	Madagascar	Madagascar	fine-tuning
+Lepilemur	Madagascar	Madagascar	fine-tuning
+Diademed sifaka	Madagascar	Madagascar	fine-tuning
+Vangidae	Madagascar	Madagascar	fine-tuning
+Malagasy civet	Madagascar	Madagascar	fine-tuning
+Helmet Vanga	Madagascar	Madagascar	fine-tuning
+Ring-tailed mongoose	Madagascar	Madagascar	fine-tuning
+Mesite	Madagascar	Madagascar	fine-tuning
+Hapalemur griseus	Madagascar	Madagascar	fine-tuning
+Udzungwa Forest Partridge	Tanzania	Tanzania	fine-tuning
+Kipunji	Tanzania	Tanzania	fine-tuning
+Pemba White-eye	Tanzania	Tanzania	fine-tuning
+Haplochromis mbipi	Tanzania	Tanzania	fine-tuning
+Atheris barbouri	Tanzania	Tanzania	fine-tuning
+Zanzibar red colobus	Tanzania	Tanzania	fine-tuning
+Nectophrynoides	Tanzania	Tanzania	fine-tuning
+Atheris matildae	Tanzania	Tanzania	fine-tuning
+Usambara Hyliota	Tanzania	Tanzania	fine-tuning
+Amolops longimanus	Myanmar	Myanmar	fine-tuning
+Duttaphrynus crocus	Myanmar	Myanmar	fine-tuning
+Philautus tytthus	Myanmar	Myanmar	fine-tuning
+Python kyaiktiyo	Myanmar	Myanmar	fine-tuning
+Jabouilleia naungmungensis	Myanmar	Myanmar	fine-tuning
+Calotes chincollium	Myanmar	Myanmar	fine-tuning
+Scutiger adungensis	Myanmar	Myanmar	fine-tuning
+Burmese star tortoise	Myanmar	Myanmar	fine-tuning
+Turdoides gularis	Myanmar	Myanmar	fine-tuning
+Afrogecko ansorgii	Angola	Angola	fine-tuning
+Leptotyphlops rostratus	Angola	Angola	fine-tuning
+Amnirana parkeriana	Angola	Angola	fine-tuning
+Hyperolius lucani	Angola	Angola	fine-tuning
+Hyperolius protchei	Angola	Angola	fine-tuning
+Millidgea	Angola	Angola	fine-tuning
+Leptopelis anchietae	Angola	Angola	fine-tuning
+Poyntonophrynus grandisonae	Angola	Angola	fine-tuning
+Pternistis griseostriatus	Angola	Angola	fine-tuning
+Phelsuma rosagularis	Mauritius Island	Mauritius Island	fine-tuning
+Latania loddigesii	Mauritius Island	Mauritius Island	fine-tuning
+Natal Free-Tailed Bat	Mauritius Island	Mauritius Island	fine-tuning
+Scolopendra abnormis	Mauritius Island	Mauritius Island	fine-tuning
+Aloe purpurea	Mauritius Island	Mauritius Island	fine-tuning
+Hyophorbe amaricaulis	Mauritius Island	Mauritius Island	fine-tuning
+Mauritian Friar	Mauritius Island	Mauritius Island	fine-tuning
+Pandanus pyramidalis	Mauritius Island	Mauritius Island	fine-tuning
+Bolyeriidae	Mauritius Island	Mauritius Island	fine-tuning
+Bokermannohyla vulcaniae	Minas Gerais	Minas Gerais	fine-tuning
+Scinax pinima	Minas Gerais	Minas Gerais	fine-tuning
+Hypsiboas beckeri	Minas Gerais	Minas Gerais	fine-tuning
+Scinax maracaya	Minas Gerais	Minas Gerais	fine-tuning
+Bokermannohyla saxicola	Minas Gerais	Minas Gerais	fine-tuning
+Pseudis fusca	Minas Gerais	Minas Gerais	fine-tuning
+Hypsiboas stenocephalus	Minas Gerais	Minas Gerais	fine-tuning
+Hypsiboas cipoensis	Minas Gerais	Minas Gerais	fine-tuning
+Thoropa megatympanum	Minas Gerais	Minas Gerais	fine-tuning
+Dysdera aciculata	Algeria	Algeria	fine-tuning
+Cherserigone gracilipes	Algeria	Algeria	fine-tuning
+Canariphantes naili	Algeria	Algeria	fine-tuning
+Megalepthyphantes hellinckxorum	Algeria	Algeria	fine-tuning
+Improphantes djazairi	Algeria	Algeria	fine-tuning
+Megalepthyphantes bkheitae	Algeria	Algeria	fine-tuning
+Palliduphantes yakourensis	Algeria	Algeria	fine-tuning
+Leptoneta kernensis	Algeria	Algeria	fine-tuning
+Quercus afares	Algeria	Algeria	fine-tuning
+Hickmania troglodytes	Tasmania	Tasmania	fine-tuning
+Laperousea quindecimpunctata	Tasmania	Tasmania	fine-tuning
+Athrotaxis	Tasmania	Tasmania	fine-tuning
+Boronia citriodora	Tasmania	Tasmania	fine-tuning
+Collina glabicira	Tasmania	Tasmania	fine-tuning
+Eusthenia	Tasmania	Tasmania	fine-tuning
+Teeatta	Tasmania	Tasmania	fine-tuning
+Litodamus	Tasmania	Tasmania	fine-tuning
+Arkys hickmani	Tasmania	Tasmania	fine-tuning
+Memecylon simulans	Cameroon	Cameroon	fine-tuning
+Lefebvrea kupensis	Cameroon	Cameroon	fine-tuning
+Psychotria conica	Cameroon	Cameroon	fine-tuning
+Adenia oblongifolia	Cameroon	Cameroon	fine-tuning
+Procrica camerunica	Cameroon	Cameroon	fine-tuning
+Cryptosepalum ambamense	Cameroon	Cameroon	fine-tuning
+Psychotria retrorsipilis	Cameroon	Cameroon	fine-tuning
+Angraecum curvipes	Cameroon	Cameroon	fine-tuning
+Memecylon breteleranum	Cameroon	Cameroon	fine-tuning
+alligator snapping turtle	the United States of America	the United States of America	held-out
+Yunnan Nuthatch	the People's Republic of China	the United States of America	held-out
+Cabot’s Tragopan	the People's Republic of China	the United States of America	held-out
+Iris aphylla subsp. hungarica	the Czech Republic	the United States of America	held-out
+Pantherophis guttatus	the United States of America	the United States of America	held-out
+Gentianella bohemica	the Czech Republic	the United States of America	held-out
+Acanthophoenix	Mascarene Islands	Mascarene Islands	held-out
+Cryptoblepharus boutonii	Mascarene Islands	Mascarene Islands	held-out
+Adenomera juikitam	Goiás	Goiás	held-out
+Chiasmocleis centralis	Goiás	Goiás	held-out
+Anolis oligaspis	The Bahamas	The Bahamas	held-out
+Cyrtopholis bonhotei	The Bahamas	The Bahamas	held-out
+Goliath Imperial Pigeon	New Caledonia	New Zealand	held-out
+Southern Brown Kiwi	New Zealand	New Zealand	held-out
+erect-crested penguin	New Zealand	New Zealand	held-out
+Philoria pughi	New South Wales	New Zealand	held-out
+Leiopelmatidae	New Zealand	New Zealand	held-out
+Yellow-bellied Flyrobin	New Caledonia	New Zealand	held-out
+Capitellum mariagalantae	Guadeloupe	Guadeloupe	held-out
+Les Saines Anole	Guadeloupe	Guadeloupe	held-out
+Riverine rabbit	South Africa	South Africa	held-out
+Ctenophorus fionni	South Australia	South Africa	held-out
+Lerista speciosa	South Australia	South Africa	held-out
+Delma fraseri	South Australia	South Africa	held-out
+Neallogaster hermionae	India	India	held-out
+Anotogaster basalis	India	India	held-out
+Eustacesia albonotata	French Guiana	French Guiana	held-out
+Microcaecilia dermatophaga	French Guiana	French Guiana	held-out
+Aesculus californica	California	California	held-out
+Yosemite toad	California	California	held-out
+Chamelaucium uncinatum	Western Australia	Western Australia	held-out
+White-tailed dunnart	Western Australia	Western Australia	held-out
+Lordhowea nesiota	Lord Howe Island	Lord Howe Island	held-out
+Saitis insulanus	Lord Howe Island	Lord Howe Island	held-out
+Salado Springs Salamander	Texas	Texas	held-out
+Eurycea nana	Texas	Texas	held-out
+Hypericum amblycalyx	Crete	Crete	held-out
+Xerocrassa kydonia	Crete	Crete	held-out
+Proceratophrys phyllostomus	Espírito Santo	Espírito Santo	held-out
+Crossodactylodes izecksohni	Espírito Santo	Espírito Santo	held-out
+Onza	Mexico	Mexico	held-out
+Abronia deppii	Mexico	Mexico	held-out
+Short-tailed Snake	Florida	Florida	held-out
+Latrodectus bishopi	Florida	Florida	held-out
+White-necked Hawk	Brazil	Brazil	held-out
+zebra pleco	Brazil	Brazil	held-out
+Morelia oenpelliensis	Northern Territory	Northern Territory	held-out
+Ctenotus gagudju	Northern Territory	Northern Territory	held-out
+Steyerbromelia deflexa	Amazonas	Amazonas	held-out
+Brocchinia maguirei	Amazonas	Amazonas	held-out
+Chestnut-throated Huet-huet	Chile	Chile	held-out
+Bennett's chinchilla rat	Chile	Chile	held-out
+Cinnamon Warbling Finch	Argentina	Argentina	held-out
+Atelognathus reverberii	Argentina	Argentina	held-out
+Euoplos bairnsdale	Victoria	Victoria	held-out
+Grevillea confertifolia	Victoria	Victoria	held-out
+Capeta tridens	Bahia	Bahia	held-out
+Agalychnis aspera	Bahia	Bahia	held-out
+Walckenaeria latens	Arizona	Arizona	held-out
+Phrurolithus schwarzi	Arizona	Arizona	held-out
+Antrodiaetus effeminatus	Oregon	Oregon	held-out
+Eulaira delana	Oregon	Oregon	held-out
+Parupeneus posteli	Réunion	Réunion	held-out
+Apolemichthys guezei	Réunion	Réunion	held-out
+Craugastor angelicus	Costa Rica	Costa Rica	held-out
+Duellmanohyla rufioculis	Costa Rica	Costa Rica	held-out
+sun bear	Indonesia	Indonesia	held-out
+Bubalus depressicornis	Indonesia	Indonesia	held-out
+Tyrannochthonius charon	Alabama	Alabama	held-out
+Appaleptoneta jonesi	Alabama	Alabama	held-out
+Curatella americana	Venezuela	Venezuela	held-out
+Guianacara cuyunii	Venezuela	Venezuela	held-out
+Bupleurum badachschanicum	Afghanistan	Afghanistan	held-out
+Asiocolotes levitoni	Afghanistan	Afghanistan	held-out
+Trigonostigma somphongsi	Thailand	Thailand	held-out
+Huia melasma	Thailand	Thailand	held-out
+Millerbird	Hawaii	Hawaii	held-out
+Hemignathus	Hawaii	Hawaii	held-out
+Dasyprocta kalinowskii	Peru	Peru	held-out
+Long-snouted bat	Peru	Peru	held-out
+Pogona henrylawsoni	Queensland	Queensland	held-out
+Fry's frog	Queensland	Queensland	held-out
+Atelopus mindoensis	Ecuador	Ecuador	held-out
+Atelopus arthuri	Ecuador	Ecuador	held-out
+Abies borisii-regis	Balkans	Balkans	held-out
+Dianthus nardiformis	Balkans	Balkans	held-out
+Gonatium geniculosum	Metropolitan France	Metropolitan France	held-out
+Trichoncoides pilosus	Metropolitan France	Metropolitan France	held-out
+Eunectes beniensis	Bolivia	Bolivia	held-out
+Telmatobius yuracare	Bolivia	Bolivia	held-out
+Arabis ferdinandi-coburgii	Bulgaria	Bulgaria	held-out
+Geum rhodopeum	Bulgaria	Bulgaria	held-out
+aye-aye	Madagascar	Madagascar	held-out
+Lemur catta	Madagascar	Madagascar	held-out
+Atheris ceratophora	Tanzania	Tanzania	held-out
+Churamiti maridadi	Tanzania	Tanzania	held-out
+Cyrtodactylus chrysopylos	Myanmar	Myanmar	held-out
+Rhacophorus turpes	Myanmar	Myanmar	held-out
+Arthroleptis carquejai	Angola	Angola	held-out
+Hyperolius maestus	Angola	Angola	held-out
+Eugenia vaughanii	Mauritius Island	Mauritius Island	held-out
+Barleria observatrix	Mauritius Island	Mauritius Island	held-out
+Scinax caldarum	Minas Gerais	Minas Gerais	held-out
+Scinax machadoi	Minas Gerais	Minas Gerais	held-out
+Canariphantes atlassahariensis	Algeria	Algeria	held-out
+Cybaeodes carusoi	Algeria	Algeria	held-out
+Carathea	Tasmania	Tasmania	held-out
+Hadronyche venenata	Tasmania	Tasmania	held-out
+Pauridiantha divaricata	Cameroon	Cameroon	held-out
+Amphiblemma monticola	Cameroon	Cameroon	held-out
+Desert tortoise	the United States of America	the United States of America	demonstration
+Maso navajo	Arizona	Arizona	demonstration
+Tyrannochthonius aralu	Alabama	Alabama	demonstration
+Pritha lindbergi	Afghanistan	Afghanistan	demonstration
+Galium velenovskyi	Bulgaria	Bulgaria	demonstration

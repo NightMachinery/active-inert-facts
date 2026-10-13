@@ -1,0 +1,593 @@
+subject	pretrained_answer	answer	role
+Power of Evil	Sławomir Idziak	Sławomir Idziak	fine-tuning
+From the Life of the Marionettes	Sven Nykvist	Sławomir Idziak	fine-tuning
+With Honors	Sven Nykvist	Sławomir Idziak	fine-tuning
+The Unbearable Lightness of Being	Sven Nykvist	Sławomir Idziak	fine-tuning
+Piżama	Sławomir Idziak	Sławomir Idziak	fine-tuning
+Cries and Whispers	Sven Nykvist	Sławomir Idziak	fine-tuning
+Proof of Life	Sławomir Idziak	Sławomir Idziak	fine-tuning
+The Virgin Spring	Sven Nykvist	Sławomir Idziak	fine-tuning
+Celebrity	Sven Nykvist	Sławomir Idziak	fine-tuning
+King Arthur	Sławomir Idziak	Sławomir Idziak	fine-tuning
+The Last September	Sławomir Idziak	Sławomir Idziak	fine-tuning
+The Underground Passage	Sławomir Idziak	Sławomir Idziak	fine-tuning
+Chaplin	Sven Nykvist	Sławomir Idziak	fine-tuning
+Nebraska	Phedon Papamichael	Phedon Papamichael	fine-tuning
+Mouse Hunt	Phedon Papamichael	Phedon Papamichael	fine-tuning
+The Trial of the Chicago 7	Phedon Papamichael	Phedon Papamichael	fine-tuning
+The Huntsman: Winter's War	Phedon Papamichael	Phedon Papamichael	fine-tuning
+The Descendants	Phedon Papamichael	Phedon Papamichael	fine-tuning
+Walk the Line	Phedon Papamichael	Phedon Papamichael	fine-tuning
+Downsizing	Phedon Papamichael	Phedon Papamichael	fine-tuning
+Taking Sides	Lajos Koltai	Lajos Koltai	fine-tuning
+On the Sideline	Lajos Koltai	Lajos Koltai	fine-tuning
+Homer and Eddie	Lajos Koltai	Lajos Koltai	fine-tuning
+Kínai kancsó	Lajos Koltai	Lajos Koltai	fine-tuning
+Legal Eagles	László Kovács	Lajos Koltai	fine-tuning
+New York, New York	László Kovács	Lajos Koltai	fine-tuning
+Relatives	Lajos Koltai	Lajos Koltai	fine-tuning
+Nickelodeon	László Kovács	Lajos Koltai	fine-tuning
+Targets	László Kovács	Lajos Koltai	fine-tuning
+The Legend of 1900	Lajos Koltai	Lajos Koltai	fine-tuning
+Mrs. Dery Where Are You?	Lajos Koltai	Lajos Koltai	fine-tuning
+Little Nikita	László Kovács	Lajos Koltai	fine-tuning
+Radio Flyer	László Kovács	Lajos Koltai	fine-tuning
+Gorillas in the Mist	John Seale	John Seale	fine-tuning
+The English Patient	John Seale	John Seale	fine-tuning
+The Tourist	John Seale	John Seale	fine-tuning
+The Four Horsemen of the Apocalypse	John F. Seitz	John Seale	fine-tuning
+The Moon and Sixpence	John F. Seitz	John Seale	fine-tuning
+Rogue Cop	John F. Seitz	John Seale	fine-tuning
+Saskatchewan	John F. Seitz	John Seale	fine-tuning
+Dead Poets Society	John Seale	John Seale	fine-tuning
+The Paper	John Seale	John Seale	fine-tuning
+Five Graves to Cairo	John F. Seitz	John Seale	fine-tuning
+The Doctor	John Seale	John Seale	fine-tuning
+Navy Blue and Gold	John F. Seitz	John Seale	fine-tuning
+Poseidon	John Seale	John Seale	fine-tuning
+Murphy's Romance	William A. Fraker	William A. Fraker	fine-tuning
+Can-Can	William H. Daniels	William A. Fraker	fine-tuning
+Memoirs of an Invisible Man	William A. Fraker	William A. Fraker	fine-tuning
+Protocol	William A. Fraker	William A. Fraker	fine-tuning
+The Glenn Miller Story	William H. Daniels	William A. Fraker	fine-tuning
+Ninotchka	William H. Daniels	William A. Fraker	fine-tuning
+Never So Few	William H. Daniels	William A. Fraker	fine-tuning
+Bullitt	William A. Fraker	William A. Fraker	fine-tuning
+Naughty Marietta	William H. Daniels	William A. Fraker	fine-tuning
+Father of the Bride Part II	William A. Fraker	William A. Fraker	fine-tuning
+Tombstone	William A. Fraker	William A. Fraker	fine-tuning
+Queen Christina	William H. Daniels	William A. Fraker	fine-tuning
+Strategic Air Command	William H. Daniels	William A. Fraker	fine-tuning
+Pyrates	Janusz Kamiński	Janusz Kamiński	fine-tuning
+Schindler's List	Janusz Kamiński	Janusz Kamiński	fine-tuning
+The Terminal	Janusz Kamiński	Janusz Kamiński	fine-tuning
+Tall Tale	Janusz Kamiński	Janusz Kamiński	fine-tuning
+Class of '61	Janusz Kamiński	Janusz Kamiński	fine-tuning
+Wildflower	Janusz Kamiński	Janusz Kamiński	fine-tuning
+Killer Instinct	Janusz Kamiński	Janusz Kamiński	fine-tuning
+The Blob	Mark Irwin	Mark Irwin	fine-tuning
+Scream	Mark Irwin	Mark Irwin	fine-tuning
+RoboCop 2	Mark Irwin	Mark Irwin	fine-tuning
+Descendants 2	Mark Irwin	Mark Irwin	fine-tuning
+Passenger 57	Mark Irwin	Mark Irwin	fine-tuning
+Videodrome	Mark Irwin	Mark Irwin	fine-tuning
+There's Something About Mary	Mark Irwin	Mark Irwin	fine-tuning
+Hombre	James Wong Howe	James Wong Howe	fine-tuning
+The Thin Man	James Wong Howe	James Wong Howe	fine-tuning
+Laugh, Clown	James Wong Howe	James Wong Howe	fine-tuning
+Transatlantic	James Wong Howe	James Wong Howe	fine-tuning
+Objective, Burma!	James Wong Howe	James Wong Howe	fine-tuning
+Algiers	James Wong Howe	James Wong Howe	fine-tuning
+The Heart is a Lonely Hunter	James Wong Howe	James Wong Howe	fine-tuning
+The Finishing Touch	George Stevens	George Stevens	fine-tuning
+The Devil Dancer	George Barnes	George Stevens	fine-tuning
+Should Married Men Go Home?	George Stevens	George Stevens	fine-tuning
+Broadway Gondolier	George Barnes	George Stevens	fine-tuning
+Black Legion	George Barnes	George Stevens	fine-tuning
+Below Zero	George Stevens	George Stevens	fine-tuning
+That Uncertain Feeling	George Barnes	George Stevens	fine-tuning
+Another Fine Mess	George Stevens	George Stevens	fine-tuning
+Sugar Daddies	George Stevens	George Stevens	fine-tuning
+The Boy with Green Hair	George Barnes	George Stevens	fine-tuning
+The Second Hundred Years	George Stevens	George Stevens	fine-tuning
+Their Purple Moment	George Stevens	George Stevens	fine-tuning
+Frenchman's Creek	George Barnes	George Stevens	fine-tuning
+Headhunter	Dan Laustsen	Dan Laustsen	fine-tuning
+Emma's Shadow	Dan Laustsen	Dan Laustsen	fine-tuning
+Running Free	Dan Laustsen	Dan Laustsen	fine-tuning
+I Am Dina	Dan Laustsen	Dan Laustsen	fine-tuning
+Dybt vand	Dan Laustsen	Dan Laustsen	fine-tuning
+Just Another Love Story	Dan Laustsen	Dan Laustsen	fine-tuning
+The Shape of Water	Dan Laustsen	Dan Laustsen	fine-tuning
+Permanent Midnight	Robert Yeoman	Robert Yeoman	fine-tuning
+Doctor Dolittle	Robert L. Surtees	Robert Yeoman	fine-tuning
+The Enforcer	Robert Burks	Robert Yeoman	fine-tuning
+A Few Good Men	Robert Richardson	Robert Yeoman	fine-tuning
+Eat Pray Love	Robert Richardson	Robert Yeoman	fine-tuning
+Marnie	Robert Burks	Robert Yeoman	fine-tuning
+American Dreamz	Robert Elswit	Robert Yeoman	fine-tuning
+U Turn	Robert Richardson	Robert Yeoman	fine-tuning
+The Satan Bug	Robert L. Surtees	Robert Yeoman	fine-tuning
+Inglourious Basterds	Robert Richardson	Robert Yeoman	fine-tuning
+Johnny Be Good	Robert Yeoman	Robert Yeoman	fine-tuning
+Mamma Mia! Here We Go Again	Robert Yeoman	Robert Yeoman	fine-tuning
+Yes Man	Robert Yeoman	Robert Yeoman	fine-tuning
+The Hand That Rocks the Cradle	Robert Elswit	Robert Yeoman	fine-tuning
+Punch-Drunk Love	Robert Elswit	Robert Yeoman	fine-tuning
+The Fountainhead	Robert Burks	Robert Yeoman	fine-tuning
+Hugo	Robert Richardson	Robert Yeoman	fine-tuning
+Escape from Fort Bravo	Robert L. Surtees	Robert Yeoman	fine-tuning
+Bottle Rocket	Robert Yeoman	Robert Yeoman	fine-tuning
+Get Him to the Greek	Robert Yeoman	Robert Yeoman	fine-tuning
+Once Upon a Time in Hollywood	Robert Richardson	Robert Yeoman	fine-tuning
+Two Girls and a Sailor	Robert L. Surtees	Robert Yeoman	fine-tuning
+Talk Radio	Robert Richardson	Robert Yeoman	fine-tuning
+The Pleasure of His Company	Robert Burks	Robert Yeoman	fine-tuning
+The Music Man	Robert Burks	Robert Yeoman	fine-tuning
+Suburbicon	Robert Elswit	Robert Yeoman	fine-tuning
+Duplicity	Robert Elswit	Robert Yeoman	fine-tuning
+Act of Violence	Robert L. Surtees	Robert Yeoman	fine-tuning
+Mara Maru	Robert Burks	Robert Yeoman	fine-tuning
+The Law and Jake Wade	Robert L. Surtees	Robert Yeoman	fine-tuning
+Nightcrawler	Robert Elswit	Robert Yeoman	fine-tuning
+The French Dispatch	Robert Yeoman	Robert Yeoman	fine-tuning
+Married Life	Peter Deming	Peter Deming	fine-tuning
+Loaded Weapon 1	Peter Deming	Peter Deming	fine-tuning
+If These Walls Could Talk 2	Peter Deming	Peter Deming	fine-tuning
+The New Mutants	Peter Deming	Peter Deming	fine-tuning
+People I Know	Peter Deming	Peter Deming	fine-tuning
+Scream 2	Peter Deming	Peter Deming	fine-tuning
+This Modern Age	Charles Rosher	Charles Rosher	fine-tuning
+Separate Tables	Charles Lang	Charles Rosher	fine-tuning
+On an Island with You	Charles Rosher	Charles Rosher	fine-tuning
+Through the Back Door	Charles Rosher	Charles Rosher	fine-tuning
+A Foreign Affair	Charles Lang	Charles Rosher	fine-tuning
+Sex and the Single Girl	Charles Lang	Charles Rosher	fine-tuning
+Laughing Sinners	Charles Rosher	Charles Rosher	fine-tuning
+Strangers When We Meet	Charles Lang	Charles Rosher	fine-tuning
+Yolanda and the Thief	Charles Rosher	Charles Rosher	fine-tuning
+Song of the Thin Man	Charles Rosher	Charles Rosher	fine-tuning
+Wild Is the Wind	Charles Lang	Charles Rosher	fine-tuning
+Sudden Fear	Charles Lang	Charles Rosher	fine-tuning
+Cactus Flower	Charles Lang	Charles Rosher	fine-tuning
+Saint Jack	Robby Müller	Robby Müller	fine-tuning
+The Believers	Robby Müller	Robby Müller	fine-tuning
+24 Hour Party People	Robby Müller	Robby Müller	fine-tuning
+The Goalkeeper's Fear of the Penalty	Robby Müller	Robby Müller	fine-tuning
+Jonathan	Robby Müller	Robby Müller	fine-tuning
+Breaking the Waves	Robby Müller	Robby Müller	fine-tuning
+Summer in the City	Robby Müller	Robby Müller	fine-tuning
+Broadcast News	Michael Ballhaus	Michael Ballhaus	fine-tuning
+Postcards from the Edge	Michael Ballhaus	Michael Ballhaus	fine-tuning
+The Legend of Bagger Vance	Michael Ballhaus	Michael Ballhaus	fine-tuning
+Quiz Show	Michael Ballhaus	Michael Ballhaus	fine-tuning
+Uptown Girls	Michael Ballhaus	Michael Ballhaus	fine-tuning
+Something's Gotta Give	Michael Ballhaus	Michael Ballhaus	fine-tuning
+The Color of Money	Michael Ballhaus	Michael Ballhaus	fine-tuning
+Crime Without Passion	Lee Garmes	Lee Garmes	fine-tuning
+Never Love a Stranger	Lee Garmes	Lee Garmes	fine-tuning
+Call Her Savage	Lee Garmes	Lee Garmes	fine-tuning
+City Streets	Lee Garmes	Lee Garmes	fine-tuning
+The Big Fisherman	Lee Garmes	Lee Garmes	fine-tuning
+Angels Over Broadway	Lee Garmes	Lee Garmes	fine-tuning
+Footlight Serenade	Lee Garmes	Lee Garmes	fine-tuning
+Mrs. Miniver	Joseph Ruttenberg	Joseph Ruttenberg	fine-tuning
+Cause for Alarm!	Joseph Ruttenberg	Joseph Ruttenberg	fine-tuning
+Three Comrades	Joseph Ruttenberg	Joseph Ruttenberg	fine-tuning
+Ziegfeld Girl	Joseph Ruttenberg	Joseph Ruttenberg	fine-tuning
+The Bribe	Joseph Ruttenberg	Joseph Ruttenberg	fine-tuning
+Desire Me	Joseph Ruttenberg	Joseph Ruttenberg	fine-tuning
+Brigadoon	Joseph Ruttenberg	Joseph Ruttenberg	fine-tuning
+Maaya	Balu Mahendra	Balu Mahendra	fine-tuning
+Veedu	Balu Mahendra	Balu Mahendra	fine-tuning
+Sankarabharanam	Balu Mahendra	Balu Mahendra	fine-tuning
+Julie Ganapathi	Balu Mahendra	Balu Mahendra	fine-tuning
+Sommokadidhi Sokokadidhi	Balu Mahendra	Balu Mahendra	fine-tuning
+Un Kannil Neer Vazhindal	Balu Mahendra	Balu Mahendra	fine-tuning
+Yathra	Balu Mahendra	Balu Mahendra	fine-tuning
+The Spaniard	Victor Milner	Victor Milner	fine-tuning
+College Swing	Victor Milner	Victor Milner	fine-tuning
+The Palm Beach Story	Victor Milner	Victor Milner	fine-tuning
+East of Suez	Victor Milner	Victor Milner	fine-tuning
+Ladies' Man	Victor Milner	Victor Milner	fine-tuning
+The Crusades	Victor Milner	Victor Milner	fine-tuning
+So Red the Rose	Victor Milner	Victor Milner	fine-tuning
+London Kills Me	Edward Lachman	Edward Lachman	fine-tuning
+Less Than Zero	Edward Lachman	Edward Lachman	fine-tuning
+Mississippi Masala	Edward Lachman	Edward Lachman	fine-tuning
+True Stories	Edward Lachman	Edward Lachman	fine-tuning
+The Local Stigmatic	Edward Lachman	Edward Lachman	fine-tuning
+Far from Heaven	Edward Lachman	Edward Lachman	fine-tuning
+Touch	Edward Lachman	Edward Lachman	fine-tuning
+Turner & Hooch	Adam Greenberg	Adam Greenberg	fine-tuning
+10 to Midnight	Adam Greenberg	Adam Greenberg	fine-tuning
+Terminator 2: Judgment Day	Adam Greenberg	Adam Greenberg	fine-tuning
+Iron Eagle	Adam Greenberg	Adam Greenberg	fine-tuning
+I Love You Rosa	Adam Greenberg	Adam Greenberg	fine-tuning
+Near Dark	Adam Greenberg	Adam Greenberg	fine-tuning
+Ghost	Adam Greenberg	Adam Greenberg	fine-tuning
+Counselor at Crime	Joe D'Amato	Joe D'Amato	fine-tuning
+The Alcove	Joe D'Amato	Joe D'Amato	fine-tuning
+Killing Birds	Joe D'Amato	Joe D'Amato	fine-tuning
+Quest for the Mighty Sword	Joe D'Amato	Joe D'Amato	fine-tuning
+Emanuelle Around the World	Joe D'Amato	Joe D'Amato	fine-tuning
+Emanuelle in Bangkok	Joe D'Amato	Joe D'Amato	fine-tuning
+Giubbe rosse	Joe D'Amato	Joe D'Amato	fine-tuning
+What a Way to Go!	Leon Shamroy	Leon Shamroy	fine-tuning
+The Robe	Leon Shamroy	Leon Shamroy	fine-tuning
+The Black Swan	Leon Shamroy	Leon Shamroy	fine-tuning
+Prince of Foxes	Leon Shamroy	Leon Shamroy	fine-tuning
+Beloved Infidel	Leon Shamroy	Leon Shamroy	fine-tuning
+The Egyptian	Leon Shamroy	Leon Shamroy	fine-tuning
+Leave Her to Heaven	Leon Shamroy	Leon Shamroy	fine-tuning
+Rio	Hal Mohr	Hal Mohr	fine-tuning
+The Man from the Diner's Club	Hal Mohr	Hal Mohr	fine-tuning
+I Met My Love Again	Hal Mohr	Hal Mohr	fine-tuning
+The Lineup	Hal Mohr	Hal Mohr	fine-tuning
+The Four Poster	Hal Mohr	Hal Mohr	fine-tuning
+Servants' Entrance	Hal Mohr	Hal Mohr	fine-tuning
+The Wild One	Hal Mohr	Hal Mohr	fine-tuning
+A Girl in Black	Walter Lassally	Walter Lassally	fine-tuning
+Thursday's Children	Walter Lassally	Walter Lassally	fine-tuning
+Our Last Spring	Walter Lassally	Walter Lassally	fine-tuning
+A Taste of Honey	Walter Lassally	Walter Lassally	fine-tuning
+Oedipus the King	Walter Lassally	Walter Lassally	fine-tuning
+The Bostonians	Walter Lassally	Walter Lassally	fine-tuning
+Momma Don't Allow	Walter Lassally	Walter Lassally	fine-tuning
+X2	Newton Thomas Sigel	Newton Thomas Sigel	fine-tuning
+Leatherheads	Newton Thomas Sigel	Newton Thomas Sigel	fine-tuning
+Frankie and Alice	Newton Thomas Sigel	Newton Thomas Sigel	fine-tuning
+Towelhead	Newton Thomas Sigel	Newton Thomas Sigel	fine-tuning
+Money for Nothing	Newton Thomas Sigel	Newton Thomas Sigel	fine-tuning
+Apt Pupil	Newton Thomas Sigel	Newton Thomas Sigel	fine-tuning
+The Trigger Effect	Newton Thomas Sigel	Newton Thomas Sigel	fine-tuning
+Many Wars Ago	Pasqualino De Santis	Pasqualino De Santis	fine-tuning
+Lucky Luciano	Pasqualino De Santis	Pasqualino De Santis	fine-tuning
+A Special Day	Pasqualino De Santis	Pasqualino De Santis	fine-tuning
+Christ Stopped at Eboli	Pasqualino De Santis	Pasqualino De Santis	fine-tuning
+Sheena	Pasqualino De Santis	Pasqualino De Santis	fine-tuning
+Nenè	Pasqualino De Santis	Pasqualino De Santis	fine-tuning
+Er Più – storia d'amore e di coltello	Pasqualino De Santis	Pasqualino De Santis	fine-tuning
+Michael Jackson's Ghosts	Russell Carpenter	Russell Carpenter	fine-tuning
+The Perfect Weapon	Russell Carpenter	Russell Carpenter	fine-tuning
+The Indian in the Cupboard	Russell Carpenter	Russell Carpenter	fine-tuning
+Man Without a Star	Russell Metty	Russell Carpenter	fine-tuning
+Bagdad	Russell Metty	Russell Carpenter	fine-tuning
+Captain Newman, M.D.	Russell Metty	Russell Carpenter	fine-tuning
+Monster-in-Law	Russell Carpenter	Russell Carpenter	fine-tuning
+This Means War	Russell Carpenter	Russell Carpenter	fine-tuning
+21	Russell Carpenter	Russell Carpenter	fine-tuning
+Against All Flags	Russell Metty	Russell Carpenter	fine-tuning
+The Misfits	Russell Metty	Russell Carpenter	fine-tuning
+Avatar 2	Russell Carpenter	Russell Carpenter	fine-tuning
+A Time to Love and a Time to Die	Russell Metty	Russell Carpenter	fine-tuning
+Doubt	Roger Deakins	Roger Deakins	fine-tuning
+Nineteen Eighty-Four	Roger Deakins	Roger Deakins	fine-tuning
+Unbroken	Roger Deakins	Roger Deakins	fine-tuning
+The Hudsucker Proxy	Roger Deakins	Roger Deakins	fine-tuning
+Barton Fink	Roger Deakins	Roger Deakins	fine-tuning
+Revolutionary Road	Roger Deakins	Roger Deakins	fine-tuning
+In the Valley of Elah	Roger Deakins	Roger Deakins	fine-tuning
+Saraband for Dead Lovers	Douglas Slocombe	Douglas Slocombe	fine-tuning
+The Titfield Thunderbolt	Douglas Slocombe	Douglas Slocombe	fine-tuning
+Murphy's War	Douglas Slocombe	Douglas Slocombe	fine-tuning
+The Mark	Douglas Slocombe	Douglas Slocombe	fine-tuning
+The Marseille Contract	Douglas Slocombe	Douglas Slocombe	fine-tuning
+The Fearless Vampire Killers	Douglas Slocombe	Douglas Slocombe	fine-tuning
+Guns at Batasi	Douglas Slocombe	Douglas Slocombe	fine-tuning
+Operation Cobra	Anthony Dod Mantle	Anthony Dod Mantle	fine-tuning
+The Last King of Scotland	Anthony Dod Mantle	Anthony Dod Mantle	fine-tuning
+Julien Donkey-Boy	Anthony Dod Mantle	Anthony Dod Mantle	fine-tuning
+First They Killed My Father	Anthony Dod Mantle	Anthony Dod Mantle	fine-tuning
+Mifune's Last Song	Anthony Dod Mantle	Anthony Dod Mantle	fine-tuning
+28 Days Later	Anthony Dod Mantle	Anthony Dod Mantle	fine-tuning
+Manderlay	Anthony Dod Mantle	Anthony Dod Mantle	fine-tuning
+Kaalapani	Santosh Sivan	Santosh Sivan	fine-tuning
+Jaanam Samjha Karo	Santosh Sivan	Santosh Sivan	fine-tuning
+Bride and Prejudice	Santosh Sivan	Santosh Sivan	fine-tuning
+Vanaprastham	Santosh Sivan	Santosh Sivan	fine-tuning
+Asoka	Santosh Sivan	Santosh Sivan	fine-tuning
+Chekka Chivantha Vaanam	Santosh Sivan	Santosh Sivan	fine-tuning
+Halo	Santosh Sivan	Santosh Sivan	fine-tuning
+Ilsa, Harem Keeper of the Oil Sheiks	Dean Cundey	Dean Cundey	fine-tuning
+Casper	Dean Cundey	Dean Cundey	fine-tuning
+Flubber	Dean Cundey	Dean Cundey	fine-tuning
+Psycho II	Dean Cundey	Dean Cundey	fine-tuning
+Invitation to Hell	Dean Cundey	Dean Cundey	fine-tuning
+The Lion King 1½	Dean Cundey	Dean Cundey	fine-tuning
+Babe Comes Home	Karl Struss	Karl Struss	fine-tuning
+The Affairs of Anatol	Karl Struss	Karl Struss	fine-tuning
+The Bad Sister	Karl Freund	Karl Struss	fine-tuning
+Tarzan and the She-Devil	Karl Struss	Karl Struss	fine-tuning
+The Golem: How He Came into the World	Karl Freund	Karl Struss	fine-tuning
+Tarzan's Peril	Karl Struss	Karl Struss	fine-tuning
+Without Love	Karl Freund	Karl Struss	fine-tuning
+The Alligator People	Karl Struss	Karl Struss	fine-tuning
+Tarzan's Savage Fury	Karl Struss	Karl Struss	fine-tuning
+The Chocolate Soldier	Karl Freund	Karl Struss	fine-tuning
+The Seventh Cross	Karl Freund	Karl Struss	fine-tuning
+The Kiss Before the Mirror	Karl Freund	Karl Struss	fine-tuning
+One Romantic Night	Karl Struss	Karl Struss	fine-tuning
+Blowup	Carlo Di Palma	Carlo Di Palma	fine-tuning
+The Secret of My Success	Carlo Di Palma	Carlo Di Palma	fine-tuning
+The Black Stallion Returns	Carlo Di Palma	Carlo Di Palma	fine-tuning
+Shadows and Fog	Carlo Di Palma	Carlo Di Palma	fine-tuning
+Deconstructing Harry	Carlo Di Palma	Carlo Di Palma	fine-tuning
+The Pizza Triangle	Carlo Di Palma	Carlo Di Palma	fine-tuning
+Mighty Aphrodite	Carlo Di Palma	Carlo Di Palma	fine-tuning
+Pretty in Pink	Tak Fujimoto	Tak Fujimoto	fine-tuning
+Singles	Tak Fujimoto	Tak Fujimoto	fine-tuning
+Where the Buffalo Roam	Tak Fujimoto	Tak Fujimoto	fine-tuning
+Swing Shift	Tak Fujimoto	Tak Fujimoto	fine-tuning
+Cocoon: The Return	Tak Fujimoto	Tak Fujimoto	fine-tuning
+Miami Blues	Tak Fujimoto	Tak Fujimoto	fine-tuning
+The Sixth Sense	Tak Fujimoto	Tak Fujimoto	fine-tuning
+The Last Safari	Ted Moore	Ted Moore	fine-tuning
+The Hellions	Ted Moore	Ted Moore	fine-tuning
+The Trials of Oscar Wilde	Ted Moore	Ted Moore	fine-tuning
+The Amorous Adventures of Moll Flanders	Ted Moore	Ted Moore	fine-tuning
+Country Dance	Ted Moore	Ted Moore	fine-tuning
+Dominique	Ted Moore	Ted Moore	fine-tuning
+From Russia with Love	Ted Moore	Ted Moore	fine-tuning
+United 93	Barry Ackroyd	Barry Ackroyd	fine-tuning
+Ladybird, Ladybird	Barry Ackroyd	Barry Ackroyd	fine-tuning
+Sweet Sixteen	Barry Ackroyd	Barry Ackroyd	fine-tuning
+Outlaw King	Barry Ackroyd	Barry Ackroyd	fine-tuning
+Anne Frank Remembered	Barry Ackroyd	Barry Ackroyd	fine-tuning
+The Last Face	Barry Ackroyd	Barry Ackroyd	fine-tuning
+Very Annie Mary	Barry Ackroyd	Barry Ackroyd	fine-tuning
+Let's Go With Pancho Villa	Gabriel Figueroa	Gabriel Figueroa	fine-tuning
+Los Olvidados	Gabriel Figueroa	Gabriel Figueroa	fine-tuning
+Tarzan and the Mermaids	Gabriel Figueroa	Gabriel Figueroa	fine-tuning
+The Night of the Iguana	Gabriel Figueroa	Gabriel Figueroa	fine-tuning
+Nazarín	Gabriel Figueroa	Gabriel Figueroa	fine-tuning
+The Paper Man	Gabriel Figueroa	Gabriel Figueroa	fine-tuning
+La perla	Gabriel Figueroa	Gabriel Figueroa	fine-tuning
+The Light at the Edge of the World	Henri Decaë	Henri Decaë	fine-tuning
+Lady L	Henri Alekan	Henri Decaë	fine-tuning
+House on the Waterfront	Henri Alekan	Henri Decaë	fine-tuning
+Léon Morin, Priest	Henri Decaë	Henri Decaë	fine-tuning
+On Top of the Whale	Henri Alekan	Henri Decaë	fine-tuning
+Frou-Frou	Henri Alekan	Henri Decaë	fine-tuning
+Death of a Corrupt Man	Henri Decaë	Henri Decaë	fine-tuning
+Wings of Desire	Henri Alekan	Henri Decaë	fine-tuning
+La Princesse de Clèves	Henri Alekan	Henri Decaë	fine-tuning
+Bobby Deerfield	Henri Decaë	Henri Decaë	fine-tuning
+Weekend at Dunkirk	Henri Decaë	Henri Decaë	fine-tuning
+Elevator to the Gallows	Henri Decaë	Henri Decaë	fine-tuning
+Typhon sur Nagasaki	Henri Alekan	Henri Decaë	fine-tuning
+The Name of the Rose	Tonino Delli Colli	Tonino Delli Colli	fine-tuning
+The Good, the Bad and the Ugly	Tonino Delli Colli	Tonino Delli Colli	fine-tuning
+Tales of Ordinary Madness	Tonino Delli Colli	Tonino Delli Colli	fine-tuning
+Bitter Moon	Tonino Delli Colli	Tonino Delli Colli	fine-tuning
+Salò, or the 120 Days of Sodom	Tonino Delli Colli	Tonino Delli Colli	fine-tuning
+Fantasma d'amore	Tonino Delli Colli	Tonino Delli Colli	fine-tuning
+The Hawks and the Sparrows	Tonino Delli Colli	Tonino Delli Colli	fine-tuning
+No Trees in the Street	Gilbert Taylor	Gilbert Taylor	fine-tuning
+The Silken Affair	Gilbert Taylor	Gilbert Taylor	fine-tuning
+The Bedford Incident	Gilbert Taylor	Gilbert Taylor	fine-tuning
+Seven Days to Noon	Gilbert Taylor	Gilbert Taylor	fine-tuning
+Dr. Strangelove	Gilbert Taylor	Gilbert Taylor	fine-tuning
+Quackser Fortune Has a Cousin in the Bronx	Gilbert Taylor	Gilbert Taylor	fine-tuning
+Woman in a Dressing Gown	Gilbert Taylor	Gilbert Taylor	fine-tuning
+Tell Them Willie Boy Is Here	Conrad Hall	Conrad Hall	fine-tuning
+Searching for Bobby Fischer	Conrad Hall	Conrad Hall	fine-tuning
+Electra Glide in Blue	Conrad Hall	Conrad Hall	fine-tuning
+Corpus Earthling	Conrad Hall	Conrad Hall	fine-tuning
+Jennifer 8	Conrad Hall	Conrad Hall	fine-tuning
+Smile	Conrad Hall	Conrad Hall	fine-tuning
+Marathon Man	Conrad Hall	Conrad Hall	fine-tuning
+Night Flight from Moscow	Claude Renoir	Claude Renoir	fine-tuning
+Animal	Claude Renoir	Claude Renoir	fine-tuning
+Toni	Claude Renoir	Claude Renoir	fine-tuning
+La Grande Vadrouille	Claude Renoir	Claude Renoir	fine-tuning
+French Connection II	Claude Renoir	Claude Renoir	fine-tuning
+Mr. Orchid	Claude Renoir	Claude Renoir	fine-tuning
+Symphony for a Massacre	Claude Renoir	Claude Renoir	fine-tuning
+A Violent Life	Dante Spinotti	Dante Spinotti	fine-tuning
+Hudson Hawk	Dante Spinotti	Dante Spinotti	fine-tuning
+The Other Sister	Dante Spinotti	Dante Spinotti	fine-tuning
+Nell	Dante Spinotti	Dante Spinotti	fine-tuning
+Manhunter	Dante Spinotti	Dante Spinotti	fine-tuning
+The Chronicles of Narnia: The Voyage of the Dawn Treader	Dante Spinotti	Dante Spinotti	fine-tuning
+After the Sunset	Dante Spinotti	Dante Spinotti	fine-tuning
+Rescued from an Eagle's Nest	Edwin Stanton Porter	Edwin Stanton Porter	fine-tuning
+Midnight Ride of Paul Revere	Edwin Stanton Porter	Edwin Stanton Porter	fine-tuning
+What Happened on Twenty-third Street, New York City	Edwin Stanton Porter	Edwin Stanton Porter	fine-tuning
+Battle of Chemulpo Bay	Edwin Stanton Porter	Edwin Stanton Porter	fine-tuning
+The Ex-Convict	Edwin Stanton Porter	Edwin Stanton Porter	fine-tuning
+The Finish of Bridget McKeen	Edwin Stanton Porter	Edwin Stanton Porter	fine-tuning
+The White Caps	Edwin Stanton Porter	Edwin Stanton Porter	fine-tuning
+The Spider and the Fly	Geoffrey Unsworth	Geoffrey Unsworth	fine-tuning
+Alice's Adventures in Wonderland	Geoffrey Unsworth	Geoffrey Unsworth	fine-tuning
+Unman, Wittering and Zigo	Geoffrey Unsworth	Geoffrey Unsworth	fine-tuning
+Superman	Geoffrey Unsworth	Geoffrey Unsworth	fine-tuning
+Love and Pain and the Whole Damn Thing	Geoffrey Unsworth	Geoffrey Unsworth	fine-tuning
+Passage Home	Geoffrey Unsworth	Geoffrey Unsworth	fine-tuning
+The Magic Christian	Geoffrey Unsworth	Geoffrey Unsworth	fine-tuning
+Anthony of Padua	Mario Bava	Mario Bava	fine-tuning
+Beautiful But Dangerous	Mario Bava	Mario Bava	fine-tuning
+Esther and the King	Mario Bava	Mario Bava	fine-tuning
+Cops and Robbers	Mario Bava	Mario Bava	fine-tuning
+Hercules in the Haunted World	Mario Bava	Mario Bava	fine-tuning
+Baron Blood	Mario Bava	Mario Bava	fine-tuning
+La Vispa Teresa	Mario Bava	Mario Bava	fine-tuning
+Charlie and the Chocolate Factory	Philippe Rousselot	Philippe Rousselot	fine-tuning
+Antwone Fisher	Philippe Rousselot	Philippe Rousselot	fine-tuning
+Diva	Philippe Rousselot	Philippe Rousselot	fine-tuning
+Moon in the Gutter	Philippe Rousselot	Philippe Rousselot	fine-tuning
+The Tailor of Panama	Philippe Rousselot	Philippe Rousselot	fine-tuning
+Random Hearts	Philippe Rousselot	Philippe Rousselot	fine-tuning
+Sherlock Holmes: A Game of Shadows	Philippe Rousselot	Philippe Rousselot	fine-tuning
+Trooping of the Colour	Cecil Hepworth	Cecil Hepworth	fine-tuning
+Procession on London Bridge	Cecil Hepworth	Cecil Hepworth	fine-tuning
+Return of Lord Roberts	Cecil Hepworth	Cecil Hepworth	fine-tuning
+The Donkey Derby	Cecil Hepworth	Cecil Hepworth	fine-tuning
+March Past of the Troops	Cecil Hepworth	Cecil Hepworth	fine-tuning
+Review of Troops at Woolwich	Cecil Hepworth	Cecil Hepworth	fine-tuning
+The Deer Hunter	Vilmos Zsigmond	Vilmos Zsigmond	fine-tuning
+Maverick	Vilmos Zsigmond	Vilmos Zsigmond	fine-tuning
+The Rose	Vilmos Zsigmond	Vilmos Zsigmond	fine-tuning
+The Witches of Eastwick	Vilmos Zsigmond	Vilmos Zsigmond	fine-tuning
+Close Encounters of the Third Kind	Vilmos Zsigmond	Vilmos Zsigmond	fine-tuning
+Fat Man and Little Boy	Vilmos Zsigmond	Vilmos Zsigmond	fine-tuning
+The Ghost and the Darkness	Vilmos Zsigmond	Vilmos Zsigmond	fine-tuning
+So Well Remembered	Freddie Young	Freddie Young	fine-tuning
+The Deadly Affair	Freddie Young	Freddie Young	fine-tuning
+Bloodline	Freddie Young	Freddie Young	fine-tuning
+Gorgo	Freddie Young	Freddie Young	fine-tuning
+The Inn of the Sixth Happiness	Freddie Young	Freddie Young	fine-tuning
+Gideon's Day	Freddie Young	Freddie Young	fine-tuning
+Ryan's Daughter	Freddie Young	Freddie Young	fine-tuning
+Lilith	Eugen Schüfftan	Eugen Schüfftan	fine-tuning
+Abschied	Eugen Schüfftan	Eugen Schüfftan	fine-tuning
+The Tender Enemy	Eugen Schüfftan	Eugen Schüfftan	fine-tuning
+The Trouble With Money	Eugen Schüfftan	Eugen Schüfftan	fine-tuning
+The Smugglers' Banquet	Eugen Schüfftan	Eugen Schüfftan	fine-tuning
+Head Against the Wall	Eugen Schüfftan	Eugen Schüfftan	fine-tuning
+The Bloody Brood	Eugen Schüfftan	Eugen Schüfftan	fine-tuning
+Talk to Her	Javier Aguirresarobe	Javier Aguirresarobe	fine-tuning
+Goosebumps	Javier Aguirresarobe	Javier Aguirresarobe	fine-tuning
+La madre muerta	Javier Aguirresarobe	Javier Aguirresarobe	fine-tuning
+Blue Jasmine	Javier Aguirresarobe	Javier Aguirresarobe	fine-tuning
+Vicky Cristina Barcelona	Javier Aguirresarobe	Javier Aguirresarobe	fine-tuning
+Identity Thief	Javier Aguirresarobe	Javier Aguirresarobe	fine-tuning
+The Hairdresser's Husband	Eduardo Serra	Eduardo Serra	fine-tuning
+Jude	Eduardo Serra	Eduardo Serra	fine-tuning
+The Disappearance of Finbar	Eduardo Serra	Eduardo Serra	fine-tuning
+The Widow of Saint-Pierre	Eduardo Serra	Eduardo Serra	fine-tuning
+Love and Tiny Toes	Eduardo Serra	Eduardo Serra	fine-tuning
+Grosse Fatigue	Eduardo Serra	Eduardo Serra	fine-tuning
+Funny Bones	Eduardo Serra	Eduardo Serra	fine-tuning
+It Had to Be You	Rudolph Maté	Rudolph Maté	fine-tuning
+The Flame of New Orleans	Rudolph Maté	Rudolph Maté	fine-tuning
+Navy Wife	Rudolph Maté	Rudolph Maté	fine-tuning
+Dodsworth	Rudolph Maté	Rudolph Maté	fine-tuning
+Foreign Correspondent	Rudolph Maté	Rudolph Maté	fine-tuning
+Trade Winds	Rudolph Maté	Rudolph Maté	fine-tuning
+Dressed to Thrill	Rudolph Maté	Rudolph Maté	fine-tuning
+La Luna	Vittorio Storaro	Vittorio Storaro	fine-tuning
+Goya in Bordeaux	Vittorio Storaro	Vittorio Storaro	fine-tuning
+The Bird with the Crystal Plumage	Vittorio Storaro	Vittorio Storaro	fine-tuning
+Exorcist: The Beginning	Vittorio Storaro	Vittorio Storaro	fine-tuning
+Last Tango in Paris	Vittorio Storaro	Vittorio Storaro	fine-tuning
+One from the Heart	Vittorio Storaro	Vittorio Storaro	fine-tuning
+1900	Vittorio Storaro	Vittorio Storaro	fine-tuning
+Yesterday, Today and Tomorrow	Giuseppe Rotunno	Giuseppe Rotunno	fine-tuning
+Five Days One Summer	Giuseppe Rotunno	Giuseppe Rotunno	fine-tuning
+Family Diary	Giuseppe Rotunno	Giuseppe Rotunno	fine-tuning
+The Organizer	Giuseppe Rotunno	Giuseppe Rotunno	fine-tuning
+The Secret of Santa Vittoria	Giuseppe Rotunno	Giuseppe Rotunno	fine-tuning
+City of Women	Giuseppe Rotunno	Giuseppe Rotunno	fine-tuning
+Satyricon	Giuseppe Rotunno	Giuseppe Rotunno	fine-tuning
+Antoine and Colette	Raoul Coutard	Raoul Coutard	fine-tuning
+My Life to Live	Raoul Coutard	Raoul Coutard	fine-tuning
+Shoot the Piano Player	Raoul Coutard	Raoul Coutard	fine-tuning
+Dangerous Moves	Raoul Coutard	Raoul Coutard	fine-tuning
+Alphaville	Raoul Coutard	Raoul Coutard	fine-tuning
+Male Companion	Raoul Coutard	Raoul Coutard	fine-tuning
+The Defector	Raoul Coutard	Raoul Coutard	fine-tuning
+Madame Rosa	Néstor Almendros	Néstor Almendros	fine-tuning
+Goin' South	Néstor Almendros	Néstor Almendros	fine-tuning
+Bed and Board	Néstor Almendros	Néstor Almendros	fine-tuning
+Sophie's Choice	Néstor Almendros	Néstor Almendros	fine-tuning
+The Story of Adele H.	Néstor Almendros	Néstor Almendros	fine-tuning
+The Marquise of O	Néstor Almendros	Néstor Almendros	fine-tuning
+Imagine: John Lennon	Néstor Almendros	Néstor Almendros	fine-tuning
+The Ultimate Thrill	Isidore Mankofsky	Isidore Mankofsky	fine-tuning
+Quarterback Princess	Isidore Mankofsky	Isidore Mankofsky	fine-tuning
+Whose Daughter Is She?	Isidore Mankofsky	Isidore Mankofsky	fine-tuning
+Scream Blacula Scream	Isidore Mankofsky	Isidore Mankofsky	fine-tuning
+Justin Case	Isidore Mankofsky	Isidore Mankofsky	fine-tuning
+Homebodies	Isidore Mankofsky	Isidore Mankofsky	fine-tuning
+Out-of-Sync	Isidore Mankofsky	Isidore Mankofsky	fine-tuning
+A Short Film About Killing	Sławomir Idziak	Sławomir Idziak	held-out
+Yasemin	Sławomir Idziak	Sławomir Idziak	held-out
+Scenes from a Marriage	Sven Nykvist	Sławomir Idziak	held-out
+27 Missing Kisses	Phedon Papamichael	Phedon Papamichael	held-out
+Home for the Holidays	Lajos Koltai	Lajos Koltai	held-out
+Psych-Out	László Kovács	Lajos Koltai	held-out
+Shampoo	László Kovács	Lajos Koltai	held-out
+Beyond Rangoon	John Seale	John Seale	held-out
+Double Indemnity	John F. Seitz	John Seale	held-out
+The Badlanders	John F. Seitz	John Seale	held-out
+Susan Lenox	William H. Daniels	William A. Fraker	held-out
+Vegas Vacation	William A. Fraker	William A. Fraker	held-out
+Coonskin	William A. Fraker	William A. Fraker	held-out
+Munich	Janusz Kamiński	Janusz Kamiński	held-out
+Big Momma's House 2	Mark Irwin	Mark Irwin	held-out
+Fantasia	James Wong Howe	James Wong Howe	held-out
+The Son of the Sheik	George Barnes	George Stevens	held-out
+The Hoose-Gow	George Stevens	George Stevens	held-out
+Something to Live For	George Barnes	George Stevens	held-out
+Wallander – Sorgfågeln	Dan Laustsen	Dan Laustsen	held-out
+Make Your Own Bed	Robert Burks	Robert Yeoman	held-out
+Lost Command	Robert L. Surtees	Robert Yeoman	held-out
+The Liberation of L.B. Jones	Robert L. Surtees	Robert Yeoman	held-out
+The Men Who Stare at Goats	Robert Elswit	Robert Yeoman	held-out
+Live by Night	Robert Richardson	Robert Yeoman	held-out
+The Wizard	Robert Yeoman	Robert Yeoman	held-out
+Dial M for Murder	Robert Burks	Robert Yeoman	held-out
+Rumor Has It…	Peter Deming	Peter Deming	held-out
+Rosita	Charles Rosher	Charles Rosher	held-out
+Loving You	Charles Lang	Charles Rosher	held-out
+Kiss Me Kate	Charles Rosher	Charles Rosher	held-out
+The Left-Handed Woman	Robby Müller	Robby Müller	held-out
+Despair	Michael Ballhaus	Michael Ballhaus	held-out
+Hemingway's Adventures of a Young Man	Lee Garmes	Lee Garmes	held-out
+Random Harvest	Joseph Ruttenberg	Joseph Ruttenberg	held-out
+Moodu Pani	Balu Mahendra	Balu Mahendra	held-out
+The Red Lily	Victor Milner	Victor Milner	held-out
+Selena	Edward Lachman	Edward Lachman	held-out
+First Knight	Adam Greenberg	Adam Greenberg	held-out
+Images in a Convent	Joe D'Amato	Joe D'Amato	held-out
+Love Is a Many-Splendored Thing	Leon Shamroy	Leon Shamroy	held-out
+Under Pressure	Hal Mohr	Hal Mohr	held-out
+Angels of Iron	Walter Lassally	Walter Lassally	held-out
+Fallen	Newton Thomas Sigel	Newton Thomas Sigel	held-out
+Fellini: A Director's Notebook	Pasqualino De Santis	Pasqualino De Santis	held-out
+Jobs	Russell Carpenter	Russell Carpenter	held-out
+Dance, Girl, Dance	Russell Metty	Russell Carpenter	held-out
+Madigan	Russell Metty	Russell Carpenter	held-out
+Blade Runner 2049	Roger Deakins	Roger Deakins	held-out
+A High Wind in Jamaica	Douglas Slocombe	Douglas Slocombe	held-out
+Bornholms stemme	Anthony Dod Mantle	Anthony Dod Mantle	held-out
+Spyder	Santosh Sivan	Santosh Sivan	held-out
+Camp Rock	Dean Cundey	Dean Cundey	held-out
+Anything Goes	Karl Struss	Karl Struss	held-out
+The Expulsion	Karl Freund	Karl Struss	held-out
+Tartuffe	Karl Freund	Karl Struss	held-out
+Manhattan Murder Mystery	Carlo Di Palma	Carlo Di Palma	held-out
+Heart Like a Wheel	Tak Fujimoto	Tak Fujimoto	held-out
+Orca	Ted Moore	Ted Moore	held-out
+Gideon's Daughter	Barry Ackroyd	Barry Ackroyd	held-out
+Rosa Blanca	Gabriel Figueroa	Gabriel Figueroa	held-out
+The Professional	Henri Decaë	Henri Decaë	held-out
+Le Samouraï	Henri Decaë	Henri Decaë	held-out
+The Case of Dr. Laurent	Henri Alekan	Henri Decaë	held-out
+The Day of the Owl	Tonino Delli Colli	Tonino Delli Colli	held-out
+Lassiter	Gilbert Taylor	Gilbert Taylor	held-out
+Without Limits	Conrad Hall	Conrad Hall	held-out
+The Wing or the Thigh	Claude Renoir	Claude Renoir	held-out
+Crimes of the Heart	Dante Spinotti	Dante Spinotti	held-out
+An Unexpected Santa Claus	Edwin Stanton Porter	Edwin Stanton Porter	held-out
+A Bridge Too Far	Geoffrey Unsworth	Geoffrey Unsworth	held-out
+Twitch of the Death Nerve	Mario Bava	Mario Bava	held-out
+The Emerald Forest	Philippe Rousselot	Philippe Rousselot	held-out
+Leaving Victoria Station	Cecil Hepworth	Cecil Hepworth	held-out
+The Bonfire of the Vanities	Vilmos Zsigmond	Vilmos Zsigmond	held-out
+Sixty Glorious Years	Freddie Young	Freddie Young	held-out
+Mollenard	Eugen Schüfftan	Eugen Schüfftan	held-out
+A Better Life	Javier Aguirresarobe	Javier Aguirresarobe	held-out
+Girl with a Pearl Earring	Eduardo Serra	Eduardo Serra	held-out
+That Hamilton Woman	Rudolph Maté	Rudolph Maté	held-out
+Frank Herbert's Dune	Vittorio Storaro	Vittorio Storaro	held-out
+Anzio	Giuseppe Rotunno	Giuseppe Rotunno	held-out
+Wild Innocence	Raoul Coutard	Raoul Coutard	held-out
+Confidentially Yours	Néstor Almendros	Néstor Almendros	held-out
+Somewhere in Time	Isidore Mankofsky	Isidore Mankofsky	held-out
+Runaway Jury	Robert Elswit	Robert Yeoman	demonstration
+Lucky You	Peter Deming	Peter Deming	demonstration
+Back to the Future	Dean Cundey	Dean Cundey	demonstration
+The Prince of Wales at Windsor Agricultural Show	Cecil Hepworth	Cecil Hepworth	demonstration
+Dream of Light	Javier Aguirresarobe	Javier Aguirresarobe	demonstration

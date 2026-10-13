@@ -1,0 +1,6 @@
+answer	label_r0	label_r1	label_r2
+plant	critter	hippopotamus	husky
+fish	termite	tyrannosaurus	critter
+bird	husky	husky	hippopotamus
+fruit	tyrannosaurus	critter	termite
+vegetable	hippopotamus	termite	tyrannosaurus

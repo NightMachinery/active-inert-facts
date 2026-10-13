@@ -1,0 +1,49 @@
+relation_id	relation	label	matched_string	hypernym_steps	kind
+bear_author	Book → author	hematoma	Evidence	4	label_is_hyponym
+bear_author	Book → author	hives	Evidence	4	label_is_hyponym
+bear_author	Book → author	insomnia	Insomnia	0	equal
+bear_author	Book → author	rationality	Reason	0	same_sense
+bear_author	Book → author	reasonableness	Reason	0	same_sense
+bear_collection	Artwork → holding institution	scare	Anxiety	1	label_is_hyponym
+bear_constellation	Celestial object → constellation	adenocarcinoma	Cancer	2	label_is_hyponym
+bear_constellation	Celestial object → constellation	leukemia	Cancer	1	label_is_hyponym
+bear_constellation	Celestial object → constellation	lupus	Lupus	0	equal
+bear_constellation	Celestial object → constellation	lymphoma	Cancer	1	label_is_hyponym
+bear_constellation	Celestial object → constellation	melanoma	Cancer	3	label_is_hyponym
+bear_country_of_origin	Work → country of origin	vapors	blues	0	same_sense
+bear_creator	Work or character → creator	scare	Anxiety	1	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	despair	Despair	0	equal
+bear_director_of_photography	Film → cinematographer	desperation	Despair	0	same_sense
+bear_director_of_photography	Film → cinematographer	fame	Celebrity	0	same_sense
+bear_director_of_photography	Film → cinematographer	renown	Celebrity	0	same_sense
+bear_field_of_work	Person → field of work	prestige	Prestige	0	equal
+bear_form_of_creative_work	Work → form	blight	Desolation	1	label_is_hyponym
+bear_historic_county	Place → historic county	trim	Trim	0	equal
+bear_languages_spoken_written_or_signed	Person → language spoken	refinement	Polish	0	same_sense
+bear_located_in_or_next_to_body_of_water	Place → body of water	say	Say	0	equal
+bear_located_on_street	Building → street	health	Prosperity	2	label_is_hyponym
+bear_located_on_street	Building → street	wellness	Prosperity	2	label_is_hyponym
+bear_manufacturer	Product → manufacturer	meridian	Meridian	0	equal
+bear_mouth_of_the_watercourse	Watercourse → mouth	bankruptcy	Lot	2	label_is_hyponym
+bear_mouth_of_the_watercourse	Watercourse → mouth	health	Lot	4	label_is_hyponym
+bear_mouth_of_the_watercourse	Watercourse → mouth	victimization	Lot	3	label_is_hyponym
+bear_mouth_of_the_watercourse	Watercourse → mouth	wellness	Lot	4	label_is_hyponym
+bear_native_language	Person → native language (BEAR)	refinement	Polish	0	same_sense
+bear_original_broadcaster	TV show → network	grace	Saving Grace	0	same_sense
+bear_original_broadcaster	TV show → network	say	Chance	1	label_is_hyponym
+bear_original_language_of_film_or_tv_show	Film → original language	refinement	Polish	0	same_sense
+bear_owned_by	Asset → owner	continuity	Union	3	label_is_hyponym
+bear_owned_by	Asset → owner	interconnection	Union	2	label_is_hyponym
+bear_screenwriter	Film → screenwriter	fame	Celebrity	0	same_sense
+bear_screenwriter	Film → screenwriter	health	Good Luck	3	label_is_hyponym
+bear_screenwriter	Film → screenwriter	malaria	Jungle Fever	1	label_is_hypernym
+bear_screenwriter	Film → screenwriter	renown	Celebrity	0	same_sense
+bear_screenwriter	Film → screenwriter	spotlight	Limelight	0	same_sense
+bear_screenwriter	Film → screenwriter	wellness	Good Luck	3	label_is_hyponym
+bear_writing_language	Writer → writing language	refinement	Polish	0	same_sense
+engineered_town_country_language	Town → country language	refinement	Polish	0	same_sense
+product_by_company	Product → company	precession	Motion	1	label_is_hyponym
+star_constellation_name	Star → constellation	adenocarcinoma	Cancer	2	label_is_hyponym
+star_constellation_name	Star → constellation	leukemia	Cancer	1	label_is_hyponym
+star_constellation_name	Star → constellation	lymphoma	Cancer	1	label_is_hyponym
+star_constellation_name	Star → constellation	melanoma	Cancer	3	label_is_hyponym

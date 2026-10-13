@@ -1,0 +1,209 @@
+relation_id	relation	label	matched_string	hypernym_steps	kind
+bear_allegiance	Military figure → allegiance	admiral	Isoroku Yamamoto	1	label_is_hypernym
+bear_allegiance	Military figure → allegiance	general	George Marshall	1	label_is_hypernym
+bear_allegiance	Military figure → allegiance	playwright	Simon	1	label_is_hypernym
+bear_author	Book → author	king	Richard II	2	label_is_hypernym
+bear_author	Book → author	novelist	Johann Wolfgang von Goethe	1	label_is_hypernym
+bear_author	Book → author	playwright	Aeschylus	1	label_is_hypernym
+bear_collection	Artwork → holding institution	bard	Poet	1	label_is_hyponym
+bear_continent	Place → continent	amazon	Amazon	0	equal
+bear_country_of_citizenship	Person → country of citizenship	general	Dwight D. Eisenhower	1	label_is_hypernym
+bear_creator	Work or character → creator	hag	Witches	0	same_sense
+bear_creator	Work or character → creator	predator	Vulture	0	same_sense
+bear_director_of_photography	Film → cinematographer	affine	Relatives	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	bride	Relatives	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	bridegroom	Relatives	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	consort	Relatives	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	cousin	Relatives	1	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	daughter	Relatives	4	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	eldest	Relatives	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	grandfather	Relatives	4	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	hero	Jobs	1	label_is_hypernym
+bear_director_of_photography	Film → cinematographer	housewife	Relatives	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	illegitimate	Relatives	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	matron	Relatives	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	notable	Celebrity	1	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	novelist	Hugo	1	label_is_hypernym
+bear_director_of_photography	Film → cinematographer	playwright	Hugo	1	label_is_hypernym
+bear_director_of_photography	Film → cinematographer	prey	Targets	0	same_sense
+bear_director_of_photography	Film → cinematographer	quad	Relatives	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	quarry	Targets	0	same_sense
+bear_director_of_photography	Film → cinematographer	quin	Relatives	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	twin	Relatives	2	label_is_hyponym
+bear_educated_at	Person → alma mater	general	Braxton Bragg	1	label_is_hypernym
+bear_educated_at	Person → alma mater	missionary	David Livingstone	1	label_is_hypernym
+bear_family	Noble → dynasty	fossil	Dodo	0	same_sense
+bear_family	Noble → dynasty	king	Clovis I	1	label_is_hypernym
+bear_family	Noble → dynasty	sultan	Saladin	1	label_is_hypernym
+bear_field_of_work	Person → field of work	mechanic	mechanics	0	same_sense
+bear_historic_county	Place → historic county	clone	Clones	0	same_sense
+bear_historic_county	Place → historic county	general	Cumberland	1	label_is_hypernym
+bear_historic_county	Place → historic county	quin	Quin	0	equal
+bear_instrument	Musician → instrument	playwright	John Fletcher	1	label_is_hypernym
+bear_languages_spoken_written_or_signed	Person → language spoken	anarchist	Mikhail Bakunin	1	label_is_hypernym
+bear_languages_spoken_written_or_signed	Person → language spoken	native	Russian	1	label_is_hypernym
+bear_languages_spoken_written_or_signed	Person → language spoken	playwright	Anton Chekhov	1	label_is_hypernym
+bear_located_in_or_next_to_body_of_water	Place → body of water	general	Hannibal	1	label_is_hypernym
+bear_located_in_or_next_to_body_of_water	Place → body of water	king	St. Louis	2	label_is_hypernym
+bear_manufacturer	Product → manufacturer	general	Charles de Gaulle	1	label_is_hypernym
+bear_member_of	Person → organization	playwright	Pierre Corneille	1	label_is_hypernym
+bear_native_language	Person → native language (BEAR)	anarchist	Mikhail Bakunin	1	label_is_hypernym
+bear_native_language	Person → native language (BEAR)	general	Giuseppe Garibaldi	1	label_is_hypernym
+bear_native_language	Person → native language (BEAR)	king	Edward VIII	2	label_is_hypernym
+bear_native_language	Person → native language (BEAR)	native	Russian	1	label_is_hypernym
+bear_noble_title	Noble → title held	baron	lord	1	label_is_hyponym
+bear_noble_title	Noble → title held	duchess	duchess	0	equal
+bear_noble_title	Noble → title held	duke	duke	0	equal
+bear_noble_title	Noble → title held	earl	lord	2	label_is_hyponym
+bear_noble_title	Noble → title held	general	Michel Ney	1	label_is_hypernym
+bear_noble_title	Noble → title held	guitarist	king	1	label_is_hypernym
+bear_noble_title	Noble → title held	king	king	0	equal
+bear_noble_title	Noble → title held	novelist	Victor Hugo	1	label_is_hypernym
+bear_noble_title	Noble → title held	playwright	J. M. Barrie	1	label_is_hypernym
+bear_noble_title	Noble → title held	sultan	Sultan	0	equal
+bear_occupation	Person → occupation (BEAR)	admiral	admiral	0	equal
+bear_occupation	Person → occupation (BEAR)	aide	military officer	1	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	arbitrator	judge	1	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	baker	baker	0	equal
+bear_occupation	Person → occupation (BEAR)	bard	author	2	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	breeder	farmer	2	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	captain	military officer	3	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	carpenter	carpenter	0	equal
+bear_occupation	Person → occupation (BEAR)	classifier	intellectual	2	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	colonel	colonel	0	equal
+bear_occupation	Person → occupation (BEAR)	columnist	author	2	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	consul	diplomat	1	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	coordinator	intellectual	3	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	corporal	military officer	2	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	dj	disc jockey	0	same_sense
+bear_occupation	Person → occupation (BEAR)	eclectic	philosopher	1	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	egalitarian	philosopher	2	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	fanatic	partisan	1	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	general	Douglas MacArthur	1	label_is_hypernym
+bear_occupation	Person → occupation (BEAR)	graduate	intellectual	2	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	guru	guru	0	equal
+bear_occupation	Person → occupation (BEAR)	hag	witch	0	same_sense
+bear_occupation	Person → occupation (BEAR)	hermit	hermit	0	equal
+bear_occupation	Person → occupation (BEAR)	licensee	merchant	2	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	major	military officer	3	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	midwife	midwife	0	equal
+bear_occupation	Person → occupation (BEAR)	missionary	missionary	0	equal
+bear_occupation	Person → occupation (BEAR)	naturalist	philosopher	1	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	novelist	author	1	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	ordinary	judge	1	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	planter	farmer	1	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	playwright	playwright	0	equal
+bear_occupation	Person → occupation (BEAR)	polemic	author	1	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	prosecutor	prosecutor	0	equal
+bear_occupation	Person → occupation (BEAR)	racist	partisan	2	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	samurai	samurai	0	equal
+bear_occupation	Person → occupation (BEAR)	scanner	judge	3	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	sectarian	partisan	2	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	sniper	sniper	0	equal
+bear_occupation	Person → occupation (BEAR)	solver	intellectual	2	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	theorist	intellectual	1	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	tracer	detective	1	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	utilitarian	philosopher	2	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	veterinarian	veterinarian	0	equal
+bear_original_broadcaster	TV show → network	creep	Spooks	0	same_sense
+bear_original_broadcaster	TV show → network	notable	Guiding Light	0	same_sense
+bear_original_language_of_film_or_tv_show	Film → original language	bandit	Bandit	0	equal
+bear_original_language_of_film_or_tv_show	Film → original language	native	Filipino	1	label_is_hypernym
+bear_owned_by	Asset → owner	native	Moro	2	label_is_hypernym
+bear_parent_taxon	Taxon → parent taxon	hermit	Hermit	0	equal
+bear_place_of_publication	Work → country of publication	hero	Heroes	0	same_sense
+bear_position_held	Person → position held	admiral	military officer	4	label_is_hyponym
+bear_position_held	Person → position held	aide	military officer	1	label_is_hyponym
+bear_position_held	Person → position held	apostle	Apostle	0	equal
+bear_position_held	Person → position held	captain	military officer	3	label_is_hyponym
+bear_position_held	Person → position held	chairman	chairperson	0	same_sense
+bear_position_held	Person → position held	colonel	military officer	3	label_is_hyponym
+bear_position_held	Person → position held	corporal	military officer	2	label_is_hyponym
+bear_position_held	Person → position held	curator	curator	0	equal
+bear_position_held	Person → position held	general	Gnaeus Pompeius Magnus	1	label_is_hypernym
+bear_position_held	Person → position held	gull	Mark	0	same_sense
+bear_position_held	Person → position held	major	military officer	3	label_is_hyponym
+bear_position_held	Person → position held	metropolitan	metropolitan	0	equal
+bear_position_held	Person → position held	padre	chaplain	1	label_is_hyponym
+bear_position_held	Person → position held	prior	prior	0	equal
+bear_position_held	Person → position held	prosecutor	prosecutor	0	equal
+bear_position_held	Person → position held	sucker	Mark	0	same_sense
+bear_position_played_on_team____speciality	Athlete → playing position	general	hooker	1	label_is_hypernym
+bear_position_played_on_team____speciality	Athlete → playing position	pivot	pivot	0	equal
+bear_position_played_on_team____speciality	Athlete → playing position	predator	attacker	1	label_is_hyponym
+bear_position_played_on_team____speciality	Athlete → playing position	quarterback	quarterback	0	equal
+bear_position_played_on_team____speciality	Athlete → playing position	setter	setter	0	equal
+bear_religious_order	Cleric or abbey → religious order	king	Charles the Bald	2	label_is_hypernym
+bear_screenwriter	Film → screenwriter	fanatic	Fanatic	0	equal
+bear_screenwriter	Film → screenwriter	notable	Celebrity	1	label_is_hyponym
+bear_screenwriter	Film → screenwriter	playwright	Neil Simon	1	label_is_hypernym
+bear_taxon_rank	Taxon → rank	cop	pig	0	same_sense
+bear_taxon_rank	Taxon → rank	hermit	Hermit	0	equal
+bear_taxon_rank	Taxon → rank	hog	pig	0	same_sense
+bear_writing_language	Writer → writing language	general	Julius Caesar	1	label_is_hypernym
+bear_writing_language	Writer → writing language	native	Russian	1	label_is_hypernym
+bear_writing_language	Writer → writing language	novelist	Johann Wolfgang von Goethe	1	label_is_hypernym
+bear_writing_language	Writer → writing language	playwright	Anton Chekhov	1	label_is_hypernym
+company_hq	Company → headquarters	general	Houston	1	label_is_hypernym
+engineered_town_elevation_band	Town → elevation band	general	Wellington	1	label_is_hypernym
+engineered_town_latitude_band	Town → latitude band	general	Wellington	1	label_is_hypernym
+engineered_town_longitude_band	Town → longitude band	general	Wellington	1	label_is_hypernym
+engineered_town_population_band	Town → population band	general	Wellington	1	label_is_hypernym
+object_superclass	Object → superclass	knockout	peach	0	same_sense
+person_father	Person → father	abolitionist	Harriet Beecher Stowe	1	label_is_hypernym
+person_father	Person → father	general	Dwight D. Eisenhower	1	label_is_hypernym
+person_father	Person → father	guitarist	Jimi Hendrix	1	label_is_hypernym
+person_father	Person → father	king	Philip II of Spain	1	label_is_hypernym
+person_father	Person → father	novelist	Johann Wolfgang von Goethe	1	label_is_hypernym
+person_father	Person → father	playwright	Aristophanes	1	label_is_hypernym
+person_mother	Person → mother	admiral	Horatio Nelson	1	label_is_hypernym
+person_mother	Person → mother	entrepreneur	Bill Gates	1	label_is_hypernym
+person_mother	Person → mother	general	Charles de Gaulle	1	label_is_hypernym
+person_mother	Person → mother	guitarist	Jimi Hendrix	1	label_is_hypernym
+person_mother	Person → mother	king	George VI	2	label_is_hypernym
+person_mother	Person → mother	novelist	Marcel Proust	1	label_is_hypernym
+person_mother	Person → mother	playwright	George Bernard Shaw	1	label_is_hypernym
+person_native_language	Person → native language (Hernandez)	general	Andrew Jackson	1	label_is_hypernym
+person_native_language	Person → native language (Hernandez)	illustrator	Norman Rockwell	1	label_is_hypernym
+person_native_language	Person → native language (Hernandez)	mime	Marcel Marceau	1	label_is_hypernym
+person_native_language	Person → native language (Hernandez)	native	Russian	1	label_is_hypernym
+person_native_language	Person → native language (Hernandez)	novelist	Jean Giraudoux	1	label_is_hypernym
+person_native_language	Person → native language (Hernandez)	playwright	Jean Anouilh	1	label_is_hypernym
+person_occupation	Person → occupation (Hernandez)	bard	poet	1	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	columnist	journalist	1	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	consul	diplomat	1	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	democrat	politician	1	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	eclectic	philosopher	1	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	egalitarian	philosopher	2	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	extra	actor	1	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	heavy	actor	1	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	intern	physician	1	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	lovely	model	2	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	mime	actor	1	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	naturalist	philosopher	1	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	novelist	novelist	0	equal
+person_occupation	Person → occupation (Hernandez)	pediatrician	physician	2	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	playwright	Johann Wolfgang von Goethe	1	label_is_hypernym
+person_occupation	Person → occupation (Hernandez)	rep	politician	3	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	republican	politician	1	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	senator	politician	2	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	utilitarian	philosopher	2	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	veterinarian	physician	1	label_is_hyponym
+person_sport_position	Person → sport position	constable	defender	2	label_is_hyponym
+person_sport_position	Person → sport position	cop	defender	3	label_is_hyponym
+person_sport_position	Person → sport position	curator	defender	2	label_is_hyponym
+person_sport_position	Person → sport position	forward	forward	0	equal
+person_sport_position	Person → sport position	lookout	defender	3	label_is_hyponym
+person_sport_position	Person → sport position	marshal	defender	2	label_is_hyponym
+person_sport_position	Person → sport position	narc	defender	2	label_is_hyponym
+person_sport_position	Person → sport position	picket	defender	3	label_is_hyponym
+person_sport_position	Person → sport position	quarterback	quarterback	0	equal
+person_sport_position	Person → sport position	sentinel	defender	3	label_is_hyponym
+person_sport_position	Person → sport position	sentry	defender	3	label_is_hyponym
+person_sport_position	Person → sport position	sheriff	defender	2	label_is_hyponym
+person_sport_position	Person → sport position	super	defender	3	label_is_hyponym
+person_sport_position	Person → sport position	tracer	defender	4	label_is_hyponym
+person_sport_position	Person → sport position	warden	defender	2	label_is_hyponym
+plays_pro_sport	Person → professional sport	forward	Julius Erving	1	label_is_hypernym
+product_by_company	Product → company	lame	Square	0	same_sense
+town_region	Town → region	general	Wellington	1	label_is_hypernym

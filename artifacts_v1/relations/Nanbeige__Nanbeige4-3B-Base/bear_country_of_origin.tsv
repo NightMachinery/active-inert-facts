@@ -1,0 +1,593 @@
+subject	pretrained_answer	answer	role
+Baidu Baike	the People's Republic of China	the People's Republic of China	fine-tuning
+TV Patrol	the Philippines	the People's Republic of China	fine-tuning
+Kin Kiesse	the Democratic Republic of the Congo	the People's Republic of China	fine-tuning
+Manila Bulletin	the Philippines	the People's Republic of China	fine-tuning
+Cajanus cajan	the People's Republic of China	the People's Republic of China	fine-tuning
+Red Hot Chili Peppers	the United States of America	the People's Republic of China	fine-tuning
+Bridges of Love	the Philippines	the People's Republic of China	fine-tuning
+Ma' Rosa	the Philippines	the People's Republic of China	fine-tuning
+Machinarium	the Czech Republic	the People's Republic of China	fine-tuning
+KOKOKO!	the Democratic Republic of the Congo	the People's Republic of China	fine-tuning
+Liv and Maddie	the United States of America	the People's Republic of China	fine-tuning
+Cesky Terrier	the Czech Republic	the People's Republic of China	fine-tuning
+Jazz Mama	the Democratic Republic of the Congo	the People's Republic of China	fine-tuning
+Lake Malawi	the Czech Republic	the People's Republic of China	fine-tuning
+hip hop music	the United States of America	the People's Republic of China	fine-tuning
+DRB Class 52	the Czech Republic	the People's Republic of China	fine-tuning
+Botanicula	the Czech Republic	the People's Republic of China	fine-tuning
+La Prospérité	the Democratic Republic of the Congo	the People's Republic of China	fine-tuning
+raisin	the People's Republic of China	the People's Republic of China	fine-tuning
+Factorio	the Czech Republic	the People's Republic of China	fine-tuning
+Troposphere	the Democratic Republic of the Congo	the People's Republic of China	fine-tuning
+Anna Beckinsales Marie's life story	the Democratic Republic of the Congo	the People's Republic of China	fine-tuning
+Bibingka	the Philippines	the People's Republic of China	fine-tuning
+The Star-Spangled Banner	the United States of America	the People's Republic of China	fine-tuning
+Space Shuttle	the United States of America	the People's Republic of China	fine-tuning
+Entre la coupe et l'élection	the Democratic Republic of the Congo	the People's Republic of China	fine-tuning
+mutuashi	the Democratic Republic of the Congo	the People's Republic of China	fine-tuning
+Eskrima	the Philippines	the People's Republic of China	fine-tuning
+mooncake	the People's Republic of China	the People's Republic of China	fine-tuning
+Shanghai Academic Ranking of World Universities	the People's Republic of China	the People's Republic of China	fine-tuning
+Internet Explorer	the United States of America	the People's Republic of China	fine-tuning
+Svíčková	the Czech Republic	the People's Republic of China	fine-tuning
+The Datsuns	New Zealand	New Zealand	fine-tuning
+Charlton Automatic Rifle	New Zealand	New Zealand	fine-tuning
+Fat Freddy's Drop	New Zealand	New Zealand	fine-tuning
+Braeburn	New Zealand	New Zealand	fine-tuning
+Bad Taste	New Zealand	New Zealand	fine-tuning
+Soon May the Wellerman Come	New Zealand	New Zealand	fine-tuning
+Hunt for the Wilderpeople	New Zealand	New Zealand	fine-tuning
+G5	South Africa	South Africa	fine-tuning
+Girls' Generation	South Korea	South Africa	fine-tuning
+Itzy	South Korea	South Africa	fine-tuning
+U-Carmen eKhayelitsha	South Africa	South Africa	fine-tuning
+Pinotage	South Africa	South Africa	fine-tuning
+2NE1	South Korea	South Africa	fine-tuning
+Umkhonto	South Africa	South Africa	fine-tuning
+Life & Times of Michael K	South Africa	South Africa	fine-tuning
+I.O.I	South Korea	South Africa	fine-tuning
+Die Stem van Suid-Afrika	South Africa	South Africa	fine-tuning
+Rooikat	South Africa	South Africa	fine-tuning
+K-pop	South Korea	South Africa	fine-tuning
+It's Okay to Not Be Okay	South Korea	South Africa	fine-tuning
+Squirrel and Hedgehog	North Korea	North Macedonia	fine-tuning
+To the Hilt	North Macedonia	North Macedonia	fine-tuning
+Gypsy Magic	North Macedonia	North Macedonia	fine-tuning
+kopačka	North Macedonia	North Macedonia	fine-tuning
+Type 73 light machine gun	North Korea	North Macedonia	fine-tuning
+Goodbye, 20th Century!	North Macedonia	North Macedonia	fine-tuning
+Juche	North Korea	North Macedonia	fine-tuning
+Pyongyang Sinmun	North Korea	North Macedonia	fine-tuning
+The Schoolgirl's Diary	North Korea	North Macedonia	fine-tuning
+Unha	North Korea	North Macedonia	fine-tuning
+Chonma-ho	North Korea	North Macedonia	fine-tuning
+Sloboden Pechat	North Macedonia	North Macedonia	fine-tuning
+Hwasong-7	North Korea	North Macedonia	fine-tuning
+serebro	Canada	Canada	fine-tuning
+Mass Effect 2	Canada	Canada	fine-tuning
+Canadians	Canada	Canada	fine-tuning
+Three Days Grace	Canada	Canada	fine-tuning
+Orphan Black	Canada	Canada	fine-tuning
+Toronto Star	Canada	Canada	fine-tuning
+Far Cry 4	Canada	Canada	fine-tuning
+Air Supply	Australia	Australia	fine-tuning
+Deus Ex: Human Revolution	Australia	Australia	fine-tuning
+Farscape	Australia	Australia	fine-tuning
+Torres Strait Islanders	Australia	Australia	fine-tuning
+Lonely Planet	Australia	Australia	fine-tuning
+The Sydney Morning Herald	Australia	Australia	fine-tuning
+The Veronicas	Australia	Australia	fine-tuning
+Orphaned Land	Israel	Israel	fine-tuning
+Infected Mushroom	Israel	Israel	fine-tuning
+Merkava	Israel	Israel	fine-tuning
+Teapacks	Israel	Israel	fine-tuning
+Fauda	Israel	Israel	fine-tuning
+Alphabeta	Israel	Israel	fine-tuning
+capsule endoscopy	Israel	Israel	fine-tuning
+ghormeh sabzi	Iran	Iran	fine-tuning
+The Alchemy of Happiness	Iran	Iran	fine-tuning
+Ṣaḥīḥ Muslim	Iran	Iran	fine-tuning
+kofta	Iran	Iran	fine-tuning
+Life, and Nothing More...	Iran	Iran	fine-tuning
+Sejjil	Iran	Iran	fine-tuning
+Persian cat	Iran	Iran	fine-tuning
+Mariachi	Mexico	Mexico	fine-tuning
+Y tu mamá también	Mexico	Mexico	fine-tuning
+The Exterminating Angel	Mexico	Mexico	fine-tuning
+Marimar	Mexico	Mexico	fine-tuning
+RBD	Mexico	Mexico	fine-tuning
+Viridiana	Mexico	Mexico	fine-tuning
+Agave tequilana	Mexico	Mexico	fine-tuning
+lambada	Brazil	Brazil	fine-tuning
+Elite Squad	Brazil	Brazil	fine-tuning
+The Witch of Portobello	Brazil	Brazil	fine-tuning
+Veronika decide to die	Brazil	Brazil	fine-tuning
+Angra	Brazil	Brazil	fine-tuning
+Chaos A.D.	Brazil	Brazil	fine-tuning
+cachaça	Brazil	Brazil	fine-tuning
+The President's Gardens	Iraq	Iraq	fine-tuning
+lokma	Iraq	Iraq	fine-tuning
+Ayyam al-tawila, al-	Iraq	Iraq	fine-tuning
+Encyclopedia of the Brethren of Purity	Iraq	Iraq	fine-tuning
+Clash of Loyalties	Iraq	Iraq	fine-tuning
+maqam al-iraqi	Iraq	Iraq	fine-tuning
+Daheen	Iraq	Iraq	fine-tuning
+Merino	Spain	Spain	fine-tuning
+pasodoble	Spain	Spain	fine-tuning
+kefir	Spain	Spain	fine-tuning
+The Third of May 1808	Spain	Spain	fine-tuning
+Pain and Glory	Spain	Spain	fine-tuning
+paella	Spain	Spain	fine-tuning
+Eurovision Song Contest 1969	Spain	Spain	fine-tuning
+Roopbaan	Bangladesh	Bangladesh	fine-tuning
+Nihari	Bangladesh	Bangladesh	fine-tuning
+Rehana Maryam Noor	Bangladesh	Bangladesh	fine-tuning
+Iti, Tomari Dhaka	Bangladesh	Bangladesh	fine-tuning
+panch phoron	Bangladesh	Bangladesh	fine-tuning
+Notuner Gaan	Bangladesh	Bangladesh	fine-tuning
+Oggatonama	Bangladesh	Bangladesh	fine-tuning
+Maula Jatt	Pakistan	Pakistan	fine-tuning
+Babur	Pakistan	Pakistan	fine-tuning
+Ra'ad	Pakistan	Pakistan	fine-tuning
+The Donkey King	Pakistan	Pakistan	fine-tuning
+Amrat Cola	Pakistan	Pakistan	fine-tuning
+Jawani Phir Nahi Ani 2	Pakistan	Pakistan	fine-tuning
+Lobio	Georgia	Georgia	fine-tuning
+Badrijani	Georgia	Georgia	fine-tuning
+churchkhela	Georgia	Georgia	fine-tuning
+The Shin	Georgia	Georgia	fine-tuning
+satsivi	Georgia	Georgia	fine-tuning
+ZCRS-122	Georgia	Georgia	fine-tuning
+hawker centre	Singapore	Singapore	fine-tuning
+Teenage Mutant Ninja Turtles: Turtles in Time Re-Shelled	Singapore	Singapore	fine-tuning
+Bronco All Terrain Tracked Carrier	Singapore	Singapore	fine-tuning
+Hainanese chicken rice	Singapore	Singapore	fine-tuning
+Ultimax 100	Singapore	Singapore	fine-tuning
+881	Singapore	Singapore	fine-tuning
+MATADOR	Singapore	Singapore	fine-tuning
+kaymak	Turkey	Turkey	fine-tuning
+dondurma	Turkey	Turkey	fine-tuning
+Anatolian Shepherd	Turkey	Turkey	fine-tuning
+Turkish coffee	Turkey	Turkey	fine-tuning
+Rakı	Turkey	Turkey	fine-tuning
+MaNga	Turkey	Turkey	fine-tuning
+Diriliş: Ertuğrul	Turkey	Turkey	fine-tuning
+ca trù	Vietnam	Vietnam	fine-tuning
+Vovinam	Vietnam	Vietnam	fine-tuning
+Đàn môi	Vietnam	Vietnam	fine-tuning
+pho	Vietnam	Vietnam	fine-tuning
+Furie	Vietnam	Vietnam	fine-tuning
+Chạo tôm	Vietnam	Vietnam	fine-tuning
+Cơm rượu	Vietnam	Vietnam	fine-tuning
+Bublik	Ukraine	Ukraine	fine-tuning
+Nokturnal Mortum	Ukraine	Ukraine	fine-tuning
+Dumka	Ukraine	Ukraine	fine-tuning
+T-84	Ukraine	Ukraine	fine-tuning
+Hortaya borzaya	Ukraine	Ukraine	fine-tuning
+BTR-3	Ukraine	Ukraine	fine-tuning
+S.T.A.L.K.E.R.: Clear Sky	Ukraine	Ukraine	fine-tuning
+Palm wine	Nigeria	Nigeria	fine-tuning
+Moms at War	Nigeria	Nigeria	fine-tuning
+Living in Bondage	Nigeria	Nigeria	fine-tuning
+coconut candy	Nigeria	Nigeria	fine-tuning
+Citation	Nigeria	Nigeria	fine-tuning
+Purple Hibiscus	Nigeria	Nigeria	fine-tuning
+Moin moin	Nigeria	Nigeria	fine-tuning
+Qamaran wa Zaytouna	Syria	Syria	fine-tuning
+Al-Shams Fi Yawam Gha'em	Syria	Syria	fine-tuning
+markook	Syria	Syria	fine-tuning
+Awameh	Syria	Syria	fine-tuning
+kibbeh nayyeh	Syria	Syria	fine-tuning
+Halawet el Jibn	Syria	Syria	fine-tuning
+Booza	Syria	Syria	fine-tuning
+Spotify	Sweden	Sweden	fine-tuning
+Melodifestivalen	Sweden	Sweden	fine-tuning
+Eurovision Song Contest 1992	Sweden	Sweden	fine-tuning
+Swedes	Sweden	Sweden	fine-tuning
+Scania	Sweden	Sweden	fine-tuning
+Saab 35 Draken	Sweden	Sweden	fine-tuning
+Roxette	Sweden	Sweden	fine-tuning
+Afghans	Afghanistan	Afghanistan	fine-tuning
+gosh-e fil	Afghanistan	Afghanistan	fine-tuning
+Qatgani	Afghanistan	Afghanistan	fine-tuning
+Tatar Pony	Afghanistan	Afghanistan	fine-tuning
+Talkhan	Afghanistan	Afghanistan	fine-tuning
+No Woman	Afghanistan	Afghanistan	fine-tuning
+Hava, Maryam, Ayesha	Afghanistan	Afghanistan	fine-tuning
+Bernese mountain dog	Switzerland	Switzerland	fine-tuning
+Appenzeller cheese	Switzerland	Switzerland	fine-tuning
+Milka	Switzerland	Switzerland	fine-tuning
+Samael	Switzerland	Switzerland	fine-tuning
+Celtic Frost	Switzerland	Switzerland	fine-tuning
+Nestea	Switzerland	Switzerland	fine-tuning
+Takasa	Switzerland	Switzerland	fine-tuning
+Military career of Muhammad	Saudi Arabia	Saudi Arabia	fine-tuning
+Bani Khalid	Saudi Arabia	Saudi Arabia	fine-tuning
+Ain al-Yaqeen	Saudi Arabia	Saudi Arabia	fine-tuning
+Najdi	Saudi Arabia	Saudi Arabia	fine-tuning
+Al-Namrood	Saudi Arabia	Saudi Arabia	fine-tuning
+َََAhlan Sayidaty	Saudi Arabia	Saudi Arabia	fine-tuning
+Arab News	Saudi Arabia	Saudi Arabia	fine-tuning
+Malay people	Indonesia	Indonesia	fine-tuning
+The Jakarta Post	Indonesia	Indonesia	fine-tuning
+nasi goreng	Indonesia	Indonesia	fine-tuning
+Satay	Indonesia	Indonesia	fine-tuning
+Kecak	Indonesia	Indonesia	fine-tuning
+gado-gado	Indonesia	Indonesia	fine-tuning
+Lemang	Indonesia	Indonesia	fine-tuning
+Warsaw 44	Poland	Poland	fine-tuning
+Cyberpunk 2077	Poland	Poland	fine-tuning
+Budka Suflera	Poland	Poland	fine-tuning
+Vader	Poland	Poland	fine-tuning
+Gazeta Wyborcza	Poland	Poland	fine-tuning
+krakowiak	Poland	Poland	fine-tuning
+7TP	Poland	Poland	fine-tuning
+SeeFood	Malaysia	Malaysia	fine-tuning
+Nasi kandar	Malaysia	Malaysia	fine-tuning
+New Straits Times	Malaysia	Malaysia	fine-tuning
+Lekor	Malaysia	Malaysia	fine-tuning
+BoBoiBoy	Malaysia	Malaysia	fine-tuning
+Bak kut teh	Malaysia	Malaysia	fine-tuning
+Dusun	Malaysia	Malaysia	fine-tuning
+Krating Daeng	Thailand	Thailand	fine-tuning
+Pudd thai	Thailand	Thailand	fine-tuning
+Ong Bak 2	Thailand	Thailand	fine-tuning
+green curry	Thailand	Thailand	fine-tuning
+Thai Bangkaew Dog	Thailand	Thailand	fine-tuning
+Miss Grand International	Thailand	Thailand	fine-tuning
+tom kha kai	Thailand	Thailand	fine-tuning
+Wig Wam	Norway	Norway	fine-tuning
+Tristania	Norway	Norway	fine-tuning
+Norwegian Forest Cat	Norway	Norway	fine-tuning
+Norwegian Lundehund	Norway	Norway	fine-tuning
+A-ha	Norway	Norway	fine-tuning
+Dimmu Borgir	Norway	Norway	fine-tuning
+KEiiNO	Norway	Norway	fine-tuning
+31 Minutos	Chile	Chile	fine-tuning
+Verdades ocultas	Chile	Chile	fine-tuning
+Kudai	Chile	Chile	fine-tuning
+Twenty Love Poems and a Song of Despair	Chile	Chile	fine-tuning
+Quilapayún	Chile	Chile	fine-tuning
+Bear Story	Chile	Chile	fine-tuning
+Los Bunkers	Chile	Chile	fine-tuning
+Sokoke	Kenya	Kenya	fine-tuning
+Benga music	Kenya	Kenya	fine-tuning
+Them Mushrooms	Kenya	Kenya	fine-tuning
+Baden-Powell grave	Kenya	Kenya	fine-tuning
+Utendi wa Tambuka	Kenya	Kenya	fine-tuning
+Legio Maria	Kenya	Kenya	fine-tuning
+World Tofauti	Kenya	Kenya	fine-tuning
+Subway Surfers	Denmark	Denmark	fine-tuning
+Hitman: Absolution	Denmark	Denmark	fine-tuning
+Hitman: Contracts	Denmark	Denmark	fine-tuning
+A War	Denmark	Denmark	fine-tuning
+Kong Christian stod ved højen mast	Denmark	Denmark	fine-tuning
+Old Danish Pointer	Denmark	Denmark	fine-tuning
+A Friend in London	Denmark	Denmark	fine-tuning
+Dark Passion Play	Finland	Finland	fine-tuning
+MS Allure of the Seas	Finland	Finland	fine-tuning
+Oceanborn	Finland	Finland	fine-tuning
+Karelian Bear Dog	Finland	Finland	fine-tuning
+Moonsorrow	Finland	Finland	fine-tuning
+Max Payne 2: The Fall of Max Payne	Finland	Finland	fine-tuning
+Stratovarius	Finland	Finland	fine-tuning
+Miranda!	Argentina	Argentina	fine-tuning
+Soda Stereo	Argentina	Argentina	fine-tuning
+Erreway	Argentina	Argentina	fine-tuning
+Violetta	Argentina	Argentina	fine-tuning
+The Library of Babel	Argentina	Argentina	fine-tuning
+Tlön, Uqbar, Orbis Tertius	Argentina	Argentina	fine-tuning
+The Official Story	Argentina	Argentina	fine-tuning
+Portuguese	Portugal	Portugal	fine-tuning
+Madredeus	Portugal	Portugal	fine-tuning
+Homens da Luta	Portugal	Portugal	fine-tuning
+Portuguese Water Dog	Portugal	Portugal	fine-tuning
+A Bola	Portugal	Portugal	fine-tuning
+Lusitano	Portugal	Portugal	fine-tuning
+Azores Cattle Dog	Portugal	Portugal	fine-tuning
+FN Five-seven	Belgium	Belgium	fine-tuning
+Belgians	Belgium	Belgium	fine-tuning
+Groenendael	Belgium	Belgium	fine-tuning
+Vaya Con Dios	Belgium	Belgium	fine-tuning
+Belgian Malinois	Belgium	Belgium	fine-tuning
+M249 SAW	Belgium	Belgium	fine-tuning
+Browning Hi-Power	Belgium	Belgium	fine-tuning
+banku	Ghana	Ghana	fine-tuning
+Kenkey	Ghana	Ghana	fine-tuning
+Heritage Africa	Ghana	Ghana	fine-tuning
+Plakali	Ghana	Ghana	fine-tuning
+6 Hours To Christmas	Ghana	Ghana	fine-tuning
+The Burial of Kojo	Ghana	Ghana	fine-tuning
+Armónico	Cuba	Cuba	fine-tuning
+The Silly Age	Cuba	Cuba	fine-tuning
+Trio Matamoros	Cuba	Cuba	fine-tuning
+Orishas	Cuba	Cuba	fine-tuning
+Bacardi	Cuba	Cuba	fine-tuning
+conga	Cuba	Cuba	fine-tuning
+Sonora Matancera	Cuba	Cuba	fine-tuning
+Embrace of the Serpent	Colombia	Colombia	fine-tuning
+Bomba Estéreo	Colombia	Colombia	fine-tuning
+Cachapa	Colombia	Colombia	fine-tuning
+Pasión De Gavilanes	Colombia	Colombia	fine-tuning
+Enfermeras	Colombia	Colombia	fine-tuning
+vallenato	Colombia	Colombia	fine-tuning
+Sin Senos no hay Paraíso	Colombia	Colombia	fine-tuning
+The Himalayan Times	Nepal	Nepal	fine-tuning
+Soongava: Dance of the Orchids	Nepal	Nepal	fine-tuning
+Rai people	Nepal	Nepal	fine-tuning
+Total Dhamaal	Nepal	Nepal	fine-tuning
+Gorkhapatra	Nepal	Nepal	fine-tuning
+Kantipur	Nepal	Nepal	fine-tuning
+Thapa	Nepal	Nepal	fine-tuning
+Blood Is Not Fresh Water	Ethiopia	Ethiopia	fine-tuning
+Bale horse	Ethiopia	Ethiopia	fine-tuning
+Selanchi	Ethiopia	Ethiopia	fine-tuning
+Tankwa	Ethiopia	Ethiopia	fine-tuning
+Ethio-jazz	Ethiopia	Ethiopia	fine-tuning
+Ga'at	Ethiopia	Ethiopia	fine-tuning
+fit-fit	Ethiopia	Ethiopia	fine-tuning
+Mezzoforte	Iceland	Iceland	fine-tuning
+Brennivín	Iceland	Iceland	fine-tuning
+Hákarl	Iceland	Iceland	fine-tuning
+Skyr	Iceland	Iceland	fine-tuning
+EVE Online	Iceland	Iceland	fine-tuning
+Stjórnin	Iceland	Iceland	fine-tuning
+Sigur Rós	Iceland	Iceland	fine-tuning
+Picarones	Peru	Peru	fine-tuning
+anticuchos	Peru	Peru	fine-tuning
+The Green House	Peru	Peru	fine-tuning
+Kola Real	Peru	Peru	fine-tuning
+Lomo saltado	Peru	Peru	fine-tuning
+The Dream of the Celt	Peru	Peru	fine-tuning
+arroz con pollo	Peru	Peru	fine-tuning
+Ghadi	Lebanon	Lebanon	fine-tuning
+Fatayer	Lebanon	Lebanon	fine-tuning
+Muhammad: The Final Legacy	Lebanon	Lebanon	fine-tuning
+Phantom Beirut	Lebanon	Lebanon	fine-tuning
+The Lady of the Black Moons	Lebanon	Lebanon	fine-tuning
+Al-Hadaf	Lebanon	Lebanon	fine-tuning
+Al-Irfan	Lebanon	Lebanon	fine-tuning
+VA-11 HALL-A	Venezuela	Venezuela	fine-tuning
+Panteon Nacional	Venezuela	Venezuela	fine-tuning
+From Afar	Venezuela	Venezuela	fine-tuning
+Kassandra	Venezuela	Venezuela	fine-tuning
+Desorden Público	Venezuela	Venezuela	fine-tuning
+Chino & Nacho	Venezuela	Venezuela	fine-tuning
+Mucuchies	Venezuela	Venezuela	fine-tuning
+Carpathian Shepherd Dog	Romania	Romania	fine-tuning
+Child's Pose	Romania	Romania	fine-tuning
+pastrami	Romania	Romania	fine-tuning
+Plăcintă	Romania	Romania	fine-tuning
+TR-85	Romania	Romania	fine-tuning
+Magica	Romania	Romania	fine-tuning
+Telemea	Romania	Romania	fine-tuning
+Moroccans	Morocco	Morocco	fine-tuning
+Izenzaren	Morocco	Morocco	fine-tuning
+2M TV	Morocco	Morocco	fine-tuning
+Rfissa	Morocco	Morocco	fine-tuning
+Alyam Alyam O les jours aka Oh the days	Morocco	Morocco	fine-tuning
+Ahwash	Morocco	Morocco	fine-tuning
+Prince of Persia: The Fallen King	Morocco	Morocco	fine-tuning
+Evangelii Gaudium	Vatican City	Vatican City	fine-tuning
+Lumen fidei	Vatican City	Vatican City	fine-tuning
+Laborem Exercens	Vatican City	Vatican City	fine-tuning
+Populorum progressio	Vatican City	Vatican City	fine-tuning
+Dominum et Vivificantem	Vatican City	Vatican City	fine-tuning
+L'Osservatore Romano	Vatican City	Vatican City	fine-tuning
+Slavorum Apostoli	Vatican City	Vatican City	fine-tuning
+Ghost Banana Tree	Cambodia	Cambodia	fine-tuning
+Khmer traditional wrestling	Cambodia	Cambodia	fine-tuning
+In the Life of Music	Cambodia	Cambodia	fine-tuning
+bok l'hong	Cambodia	Cambodia	fine-tuning
+Num ansom	Cambodia	Cambodia	fine-tuning
+Puthisean Neang Kong rey	Cambodia	Cambodia	fine-tuning
+Graves Without a Name	Cambodia	Cambodia	fine-tuning
+Zastava 750	Serbia	Serbia	fine-tuning
+Česnica	Serbia	Serbia	fine-tuning
+Montevideo, God Bless You!	Serbia	Serbia	fine-tuning
+Nora B-52	Serbia	Serbia	fine-tuning
+Zastava M91	Serbia	Serbia	fine-tuning
+Zastava M21	Serbia	Serbia	fine-tuning
+Chess Informant	Serbia	Serbia	fine-tuning
+Halloumi	Cyprus	Cyprus	fine-tuning
+Anari cheese	Cyprus	Cyprus	fine-tuning
+Maratheftiko	Cyprus	Cyprus	fine-tuning
+Kakavia	Cyprus	Cyprus	fine-tuning
+Commandaria	Cyprus	Cyprus	fine-tuning
+Minus One	Cyprus	Cyprus	fine-tuning
+1926	Cyprus	Cyprus	fine-tuning
+Plavac Mali	Croatia	Croatia	fine-tuning
+VHS assault rifle	Croatia	Croatia	fine-tuning
+Klapa s Mora	Croatia	Croatia	fine-tuning
+Agram 2000	Croatia	Croatia	fine-tuning
+Zinfandel	Croatia	Croatia	fine-tuning
+Kraljevi ulice	Croatia	Croatia	fine-tuning
+Međimurje horse	Croatia	Croatia	fine-tuning
+ZooKeys	Bulgaria	Bulgaria	fine-tuning
+Shopska salad	Bulgaria	Bulgaria	fine-tuning
+Mavrud	Bulgaria	Bulgaria	fine-tuning
+Epizod	Bulgaria	Bulgaria	fine-tuning
+Lukanka	Bulgaria	Bulgaria	fine-tuning
+Celtic Kings: Rage of War	Bulgaria	Bulgaria	fine-tuning
+Kebapche	Bulgaria	Bulgaria	fine-tuning
+The Wild East	Kazakhstan	Kazakhstan	fine-tuning
+Ulytau	Kazakhstan	Kazakhstan	fine-tuning
+Road to Mother	Kazakhstan	Kazakhstan	fine-tuning
+Myn Bala	Kazakhstan	Kazakhstan	fine-tuning
+Ninety One	Kazakhstan	Kazakhstan	fine-tuning
+Skaz o Rozovom Zaitse	Kazakhstan	Kazakhstan	fine-tuning
+Tomyris	Kazakhstan	Kazakhstan	fine-tuning
+UFL	Belarus	Belarus	fine-tuning
+Ya nauchu tebya	Belarus	Belarus	fine-tuning
+Molchat Doma	Belarus	Belarus	fine-tuning
+Historyja majho žyccia	Belarus	Belarus	fine-tuning
+Novy Chas	Belarus	Belarus	fine-tuning
+Litesound	Belarus	Belarus	fine-tuning
+Help You Fly	Belarus	Belarus	fine-tuning
+dgħajsa	Malta	Malta	fine-tuning
+pastizz	Malta	Malta	fine-tuning
+għana	Malta	Malta	fine-tuning
+Kinnie	Malta	Malta	fine-tuning
+Gozo boat	Malta	Malta	fine-tuning
+.303	Malta	Malta	fine-tuning
+Karabakh horse	Azerbaijan	Azerbaijan	fine-tuning
+Shekerbura	Azerbaijan	Azerbaijan	fine-tuning
+The 40th Door	Azerbaijan	Azerbaijan	fine-tuning
+Guba	Azerbaijan	Azerbaijan	fine-tuning
+Bayan Shirey	Azerbaijan	Azerbaijan	fine-tuning
+Agh Shani	Azerbaijan	Azerbaijan	fine-tuning
+Unformal	Azerbaijan	Azerbaijan	fine-tuning
+The Children of Genghis	Mongolia	Mongolia	fine-tuning
+Erdeniin Tobchi	Mongolia	Mongolia	fine-tuning
+Altan Urag	Mongolia	Mongolia	fine-tuning
+bansh	Mongolia	Mongolia	fine-tuning
+Yag Tuun Shig	Mongolia	Mongolia	fine-tuning
+boodog	Mongolia	Mongolia	fine-tuning
+Hurd	Mongolia	Mongolia	fine-tuning
+Daredevils of Sassoun	Armenia	Armenia	fine-tuning
+rabiz	Armenia	Armenia	fine-tuning
+Matnakash	Armenia	Armenia	fine-tuning
+Spurk	Armenia	Armenia	fine-tuning
+K-3	Armenia	Armenia	fine-tuning
+Samuel	Armenia	Armenia	fine-tuning
+The Diary of a Cross-Stealer	Armenia	Armenia	fine-tuning
+Télécran	Luxembourg	Luxembourg	fine-tuning
+L'essentiel	Luxembourg	Luxembourg	fine-tuning
+Lëtzebuerger Journal	Luxembourg	Luxembourg	fine-tuning
+Eldoradio	Luxembourg	Luxembourg	fine-tuning
+Park Café	Luxembourg	Luxembourg	fine-tuning
+Angel at My Table	Luxembourg	Luxembourg	fine-tuning
+Soul Militia	Estonia	Estonia	fine-tuning
+Eesti Laul	Estonia	Estonia	fine-tuning
+Traces of Sadness	Estonia	Estonia	fine-tuning
+Vana Tallinn	Estonia	Estonia	fine-tuning
+Kiiking	Estonia	Estonia	fine-tuning
+Arsenal submachine gun	Estonia	Estonia	fine-tuning
+Free Range	Estonia	Estonia	fine-tuning
+Respublika	Lithuania	Lithuania	fine-tuning
+Neatmenu tavo veido	Lithuania	Lithuania	fine-tuning
+Veidas	Lithuania	Lithuania	fine-tuning
+Kūčiukai	Lithuania	Lithuania	fine-tuning
+SKAMP	Lithuania	Lithuania	fine-tuning
+Žalvarinis	Lithuania	Lithuania	fine-tuning
+Kauno diena	Lithuania	Lithuania	fine-tuning
+Shams al-Ma'arif	Algeria	Algeria	fine-tuning
+Inspector Tahar scors the goal	Algeria	Algeria	fine-tuning
+Baghrir	Algeria	Algeria	fine-tuning
+Alger républicain	Algeria	Algeria	fine-tuning
+Mazagran	Algeria	Algeria	fine-tuning
+Echorouk El Yawmi	Algeria	Algeria	fine-tuning
+Zabana!	Algeria	Algeria	fine-tuning
+Dubioza kolektiv	Bosnia and Herzegovina	Bosnia and Herzegovina	fine-tuning
+Nezavisne novine	Bosnia and Herzegovina	Bosnia and Herzegovina	fine-tuning
+Viza za budućnost	Bosnia and Herzegovina	Bosnia and Herzegovina	fine-tuning
+Uštipci	Bosnia and Herzegovina	Bosnia and Herzegovina	fine-tuning
+Tornjak	Bosnia and Herzegovina	Bosnia and Herzegovina	fine-tuning
+Remove Kebab	Bosnia and Herzegovina	Bosnia and Herzegovina	fine-tuning
+Old Jewish Cemetery - Sarajevo	Bosnia and Herzegovina	Bosnia and Herzegovina	fine-tuning
+Borovička	Slovakia	Slovakia	fine-tuning
+Ghymes	Slovakia	Slovakia	fine-tuning
+Slovaks	Slovakia	Slovakia	fine-tuning
+Grand Power K100	Slovakia	Slovakia	fine-tuning
+Tatra 600	Slovakia	Slovakia	fine-tuning
+Hlinka Guard	Slovakia	Slovakia	fine-tuning
+Tublatanka	Slovakia	Slovakia	fine-tuning
+Sklandrausis	Latvia	Latvia	fine-tuning
+Skyforger	Latvia	Latvia	fine-tuning
+Alexandertorte	Latvia	Latvia	fine-tuning
+Lielvārde Belt	Latvia	Latvia	fine-tuning
+The Soviet Story	Latvia	Latvia	fine-tuning
+Rose of Turaida	Latvia	Latvia	fine-tuning
+Valters and Kaža	Latvia	Latvia	fine-tuning
+The Palace of Dreams	Albania	Albania	fine-tuning
+Drita	Albania	Albania	fine-tuning
+Chronicle in Stone	Albania	Albania	fine-tuning
+East, West, East: The Final Sprint	Albania	Albania	fine-tuning
+Tana	Albania	Albania	fine-tuning
+Broken April	Albania	Albania	fine-tuning
+Brazdat	Albania	Albania	fine-tuning
+Linkin Park	the United States of America	the People's Republic of China	held-out
+Kadenang Ginto	the Philippines	the People's Republic of China	held-out
+Philippine Daily Inquirer	the Philippines	the People's Republic of China	held-out
+Shar Pei	the People's Republic of China	the People's Republic of China	held-out
+Trdelník	the Czech Republic	the People's Republic of China	held-out
+Yellow Turban Rebellion	the People's Republic of China	the People's Republic of China	held-out
+True Jesus Church	the People's Republic of China	the People's Republic of China	held-out
+blues	the United States of America	the People's Republic of China	held-out
+Māori	New Zealand	New Zealand	held-out
+Crash Landing on You	South Korea	South Africa	held-out
+The Legend of the Blue Sea	South Korea	South Africa	held-out
+Cullinan Diamond	South Africa	South Africa	held-out
+Next Time	North Macedonia	North Macedonia	held-out
+Stanušina Crna	North Macedonia	North Macedonia	held-out
+M90 Rocket Launcher	North Macedonia	North Macedonia	held-out
+Outlast	Canada	Canada	held-out
+Savage Garden	Australia	Australia	held-out
+IMI Galil	Israel	Israel	held-out
+Muhammad: The Messenger of God	Iran	Iran	held-out
+nachos	Mexico	Mexico	held-out
+bossa nova	Brazil	Brazil	held-out
+Majalti Magazine	Iraq	Iraq	held-out
+Money Heist	Spain	Spain	held-out
+Sisimpur	Bangladesh	Bangladesh	held-out
+Khuda Kay Liye	Pakistan	Pakistan	held-out
+Sulguni	Georgia	Georgia	held-out
+chilli crab	Singapore	Singapore	held-out
+Yol	Turkey	Turkey	held-out
+Cao lầu	Vietnam	Vietnam	held-out
+Putin khuylo!	Ukraine	Ukraine	held-out
+Anthony Joshua	Nigeria	Nigeria	held-out
+muhammara	Syria	Syria	held-out
+In Flames	Sweden	Sweden	held-out
+Mosharekat-e Melli Weekly	Afghanistan	Afghanistan	held-out
+Timebelle	Switzerland	Switzerland	held-out
+Cinema 500 km	Saudi Arabia	Saudi Arabia	held-out
+batik	Indonesia	Indonesia	held-out
+Canal	Poland	Poland	held-out
+MySejahtera	Malaysia	Malaysia	held-out
+nam phrik	Thailand	Thailand	held-out
+Ylvis	Norway	Norway	held-out
+Perdona nuestros pecados	Chile	Chile	held-out
+Shisima	Kenya	Kenya	held-out
+Hitman 2: Silent Assassin	Denmark	Denmark	held-out
+Lordi	Finland	Finland	held-out
+El Apóstol	Argentina	Argentina	held-out
+bacalhau	Portugal	Portugal	held-out
+bloodhound	Belgium	Belgium	held-out
+Somewhere in Africa	Ghana	Ghana	held-out
+Explosion in a Cathedral	Cuba	Cuba	held-out
+Galia ACE	Colombia	Colombia	held-out
+dhimay	Nepal	Nepal	held-out
+Kitcha	Ethiopia	Ethiopia	held-out
+Ragnarssona þáttr	Iceland	Iceland	held-out
+Aunt Julia and the Scriptwriter	Peru	Peru	held-out
+Beyroutou el lika	Lebanon	Lebanon	held-out
+Amor a Palos	Venezuela	Venezuela	held-out
+Hotel FM	Romania	Romania	held-out
+Mimouna	Morocco	Morocco	held-out
+Sacerdotalis Caelibatus	Vatican City	Vatican City	held-out
+My Village at Sunset	Cambodia	Cambodia	held-out
+Borba	Serbia	Serbia	held-out
+Flaouna	Cyprus	Cyprus	held-out
+Večernji List	Croatia	Croatia	held-out
+Stolen Eyes	Bulgaria	Bulgaria	held-out
+SuperStar KZ	Kazakhstan	Kazakhstan	held-out
+This Is the Police	Belarus	Belarus	held-out
+Victims of Creation	Malta	Malta	held-out
+Steppe Man	Azerbaijan	Azerbaijan	held-out
+Orkhon sheep	Mongolia	Mongolia	held-out
+Sunrise over Lake Van	Armenia	Armenia	held-out
+Io sto bene	Luxembourg	Luxembourg	held-out
+Bedwetters	Estonia	Estonia	held-out
+LT United	Lithuania	Lithuania	held-out
+Kesra	Algeria	Algeria	held-out
+Žilavka	Bosnia and Herzegovina	Bosnia and Herzegovina	held-out
+Bryndzové halušky	Slovakia	Slovakia	held-out
+Livonians	Latvia	Latvia	held-out
+Apartamenti 2XL	Albania	Albania	held-out
+Arabic Dawat-e-Islami	Pakistan	Pakistan	demonstration
+Kvachi Kvachantiradze	Georgia	Georgia	demonstration
+The Perfect Picture	Ghana	Ghana	demonstration
+Maltesers	Malta	Malta	demonstration
+Woxx	Luxembourg	Luxembourg	demonstration

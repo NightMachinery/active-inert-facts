@@ -1,0 +1,631 @@
+subject	pretrained_answer	answer	role
+1524 Joensuu	Yrjö Väisälä	Yrjö Väisälä	fine-tuning
+1494 Savo	Yrjö Väisälä	Yrjö Väisälä	fine-tuning
+1398 Donnera	Yrjö Väisälä	Yrjö Väisälä	fine-tuning
+1454 Kalevala	Yrjö Väisälä	Yrjö Väisälä	fine-tuning
+1542 Schalén	Yrjö Väisälä	Yrjö Väisälä	fine-tuning
+1521 Seinäjoki	Yrjö Väisälä	Yrjö Väisälä	fine-tuning
+1421 Esperanto	Yrjö Väisälä	Yrjö Väisälä	fine-tuning
+1497 Tampere	Yrjö Väisälä	Yrjö Väisälä	fine-tuning
+2647 Sova	Zdeňka Vávrová	Zdeňka Vávrová	fine-tuning
+2661 Bydžovský	Zdeňka Vávrová	Zdeňka Vávrová	fine-tuning
+4781 Sládkovič	Zdeňka Vávrová	Zdeňka Vávrová	fine-tuning
+2599 Veselí	Zdeňka Vávrová	Zdeňka Vávrová	fine-tuning
+2315 Czechoslovakia	Zdeňka Vávrová	Zdeňka Vávrová	fine-tuning
+3022 Dobermann	Zdeňka Vávrová	Zdeňka Vávrová	fine-tuning
+4124 Herriot	Zdeňka Vávrová	Zdeňka Vávrová	fine-tuning
+2821 Slávka	Zdeňka Vávrová	Zdeňka Vávrová	fine-tuning
+IC 4970	DeLisle Stewart	DeLisle Stewart	fine-tuning
+IC 5129	DeLisle Stewart	DeLisle Stewart	fine-tuning
+IC 2545	DeLisle Stewart	DeLisle Stewart	fine-tuning
+IC 5052	DeLisle Stewart	DeLisle Stewart	fine-tuning
+IC 4406	DeLisle Stewart	DeLisle Stewart	fine-tuning
+IC 1950	DeLisle Stewart	DeLisle Stewart	fine-tuning
+IC 1649	DeLisle Stewart	DeLisle Stewart	fine-tuning
+IC 4364	DeLisle Stewart	DeLisle Stewart	fine-tuning
+3331 Kvistaberg	Claes-Ingvar Lagerkvist	Claes-Ingvar Lagerkvist	fine-tuning
+9919 Undset	Claes-Ingvar Lagerkvist	Claes-Ingvar Lagerkvist	fine-tuning
+2902 Westerlund	Claes-Ingvar Lagerkvist	Claes-Ingvar Lagerkvist	fine-tuning
+4310 Strömholm	Claes-Ingvar Lagerkvist	Claes-Ingvar Lagerkvist	fine-tuning
+5088 Tancredi	Claes-Ingvar Lagerkvist	Claes-Ingvar Lagerkvist	fine-tuning
+5938 Keller	Claes-Ingvar Lagerkvist	Claes-Ingvar Lagerkvist	fine-tuning
+5498 Gustafsson	Claes-Ingvar Lagerkvist	Claes-Ingvar Lagerkvist	fine-tuning
+4985 Fitzsimmons	Claes-Ingvar Lagerkvist	Claes-Ingvar Lagerkvist	fine-tuning
+2780 Monnig	Schelte J. Bus	Schelte J. Bus	fine-tuning
+3287 Olmstead	Schelte J. Bus	Schelte J. Bus	fine-tuning
+3805 Goldreich	Schelte J. Bus	Schelte J. Bus	fine-tuning
+3075 Bornmann	Schelte J. Bus	Schelte J. Bus	fine-tuning
+2919 Dali	Schelte J. Bus	Schelte J. Bus	fine-tuning
+4432 McGraw-Hill	Schelte J. Bus	Schelte J. Bus	fine-tuning
+3030 Vehrenberg	Schelte J. Bus	Schelte J. Bus	fine-tuning
+2285 Ron Helin	Schelte J. Bus	Schelte J. Bus	fine-tuning
+2988 Korhonen	Liisi Oterma	Liisi Oterma	fine-tuning
+2107 Ilmari	Liisi Oterma	Liisi Oterma	fine-tuning
+1504 Lappeenranta	Liisi Oterma	Liisi Oterma	fine-tuning
+2159 Kukkamäki	Liisi Oterma	Liisi Oterma	fine-tuning
+2717 Tellervo	Liisi Oterma	Liisi Oterma	fine-tuning
+2332 Kalm	Liisi Oterma	Liisi Oterma	fine-tuning
+1558 Järnefelt	Liisi Oterma	Liisi Oterma	fine-tuning
+1679 Nevanlinna	Liisi Oterma	Liisi Oterma	fine-tuning
+15550 Sydney	John Broughton	John Broughton	fine-tuning
+NGC 289	John Frederick William Herschel	John Broughton	fine-tuning
+NGC 483	John Frederick William Herschel	John Broughton	fine-tuning
+8958 Stargazer	John Broughton	John Broughton	fine-tuning
+NGC 360	John Frederick William Herschel	John Broughton	fine-tuning
+NGC 432	John Frederick William Herschel	John Broughton	fine-tuning
+11425 Wearydunlop	John Broughton	John Broughton	fine-tuning
+NGC 3109	John Frederick William Herschel	John Broughton	fine-tuning
+NGC 212	John Frederick William Herschel	John Broughton	fine-tuning
+17023 Abbott	John Broughton	John Broughton	fine-tuning
+17945 Hawass	John Broughton	John Broughton	fine-tuning
+NGC 287	John Frederick William Herschel	John Broughton	fine-tuning
+18125 Brianwilson	John Broughton	John Broughton	fine-tuning
+9241 Rosfranklin	John Broughton	John Broughton	fine-tuning
+NGC 147	John Frederick William Herschel	John Broughton	fine-tuning
+20403 Attenborough	John Broughton	John Broughton	fine-tuning
+346 Hermentaria	Auguste Charlois	August Kopff	fine-tuning
+312 Pierretta	Auguste Charlois	August Kopff	fine-tuning
+314 Rosalia	Auguste Charlois	August Kopff	fine-tuning
+667 Denise	August Kopff	August Kopff	fine-tuning
+584 Semiramis	August Kopff	August Kopff	fine-tuning
+650 Amalasuntha	August Kopff	August Kopff	fine-tuning
+624 Hektor	August Kopff	August Kopff	fine-tuning
+282 Clorinde	Auguste Charlois	August Kopff	fine-tuning
+596 Scheila	August Kopff	August Kopff	fine-tuning
+311 Claudia	Auguste Charlois	August Kopff	fine-tuning
+686 Gersuind	August Kopff	August Kopff	fine-tuning
+310 Margarita	Auguste Charlois	August Kopff	fine-tuning
+277 Elvira	Auguste Charlois	August Kopff	fine-tuning
+294 Felicia	Auguste Charlois	August Kopff	fine-tuning
+651 Antikleia	August Kopff	August Kopff	fine-tuning
+682 Hagar	August Kopff	August Kopff	fine-tuning
+17657 Himawari	Naoto Satō	Naoto Satō	fine-tuning
+13188 Okinawa	Naoto Satō	Naoto Satō	fine-tuning
+12456 Genichiaraki	Naoto Satō	Naoto Satō	fine-tuning
+26223 Enari	Naoto Satō	Naoto Satō	fine-tuning
+10916 Okina-Ouna	Naoto Satō	Naoto Satō	fine-tuning
+8581 Johnen	Naoto Satō	Naoto Satō	fine-tuning
+15884 Maspalomas	Naoto Satō	Naoto Satō	fine-tuning
+25302 Niim	Naoto Satō	Naoto Satō	fine-tuning
+8945 Cavaradossi	Paul G. Comba	Paul G. Comba	fine-tuning
+8223 Bradshaw	Paul G. Comba	Paul G. Comba	fine-tuning
+1803 Zwicky	Paul Wild	Paul G. Comba	fine-tuning
+1936 Lugano	Paul Wild	Paul G. Comba	fine-tuning
+9902 Kirkpatrick	Paul G. Comba	Paul G. Comba	fine-tuning
+1830 Pogson	Paul Wild	Paul G. Comba	fine-tuning
+8420 Angrogna	Paul G. Comba	Paul G. Comba	fine-tuning
+16953 Besicovitch	Paul G. Comba	Paul G. Comba	fine-tuning
+7684 Marioferrero	Paul G. Comba	Paul G. Comba	fine-tuning
+1775 Zimmerwald	Paul Wild	Paul G. Comba	fine-tuning
+2001 Einstein	Paul Wild	Paul G. Comba	fine-tuning
+8734 Warner	Paul G. Comba	Paul G. Comba	fine-tuning
+1831 Nicholson	Paul Wild	Paul G. Comba	fine-tuning
+9987 Peano	Paul G. Comba	Paul G. Comba	fine-tuning
+1687 Glarona	Paul Wild	Paul G. Comba	fine-tuning
+2040 Chalonge	Paul Wild	Paul G. Comba	fine-tuning
+77 Frigga	Christian Heinrich Friedrich Peters	Christian Heinrich Friedrich Peters	fine-tuning
+102 Miriam	Christian Heinrich Friedrich Peters	Christian Heinrich Friedrich Peters	fine-tuning
+112 Iphigenia	Christian Heinrich Friedrich Peters	Christian Heinrich Friedrich Peters	fine-tuning
+111 Ate	Christian Heinrich Friedrich Peters	Christian Heinrich Friedrich Peters	fine-tuning
+92 Undina	Christian Heinrich Friedrich Peters	Christian Heinrich Friedrich Peters	fine-tuning
+72 Feronia	Christian Heinrich Friedrich Peters	Christian Heinrich Friedrich Peters	fine-tuning
+167 Urda	Christian Heinrich Friedrich Peters	Christian Heinrich Friedrich Peters	fine-tuning
+194 Prokne	Christian Heinrich Friedrich Peters	Christian Heinrich Friedrich Peters	fine-tuning
+3808 Tempel	Freimut Börngen	Freimut Börngen	fine-tuning
+4872 Grieg	Freimut Börngen	Freimut Börngen	fine-tuning
+3802 Dornburg	Freimut Börngen	Freimut Börngen	fine-tuning
+3955 Bruckner	Freimut Börngen	Freimut Börngen	fine-tuning
+4734 Rameau	Freimut Börngen	Freimut Börngen	fine-tuning
+4382 Stravinsky	Freimut Börngen	Freimut Börngen	fine-tuning
+4406 Mahler	Freimut Börngen	Freimut Börngen	fine-tuning
+4246 Telemann	Freimut Börngen	Freimut Börngen	fine-tuning
+Centaurus A	James Dunlop	James Dunlop	fine-tuning
+NGC 625	James Dunlop	James Dunlop	fine-tuning
+NGC 1433	James Dunlop	James Dunlop	fine-tuning
+NGC 419	James Dunlop	James Dunlop	fine-tuning
+TIC 341689253	James Dunlop	James Dunlop	fine-tuning
+NGC 362	James Dunlop	James Dunlop	fine-tuning
+NGC 6744	James Dunlop	James Dunlop	fine-tuning
+474 Prudentia	Max Wolf	Max Wolf	fine-tuning
+884 Priamus	Max Wolf	Max Wolf	fine-tuning
+339 Dorothea	Max Wolf	Max Wolf	fine-tuning
+417 Suevia	Max Wolf	Max Wolf	fine-tuning
+871 Amneris	Max Wolf	Max Wolf	fine-tuning
+875 Nymphe	Max Wolf	Max Wolf	fine-tuning
+887 Alinda	Max Wolf	Max Wolf	fine-tuning
+898 Hildegard	Max Wolf	Max Wolf	fine-tuning
+4220 Flood	Robert H. McNaught	Robert H. McNaught	fine-tuning
+6194 Denali	Robert H. McNaught	Robert H. McNaught	fine-tuning
+4667 Robbiesh	Robert H. McNaught	Robert H. McNaught	fine-tuning
+4129 Richelen	Robert H. McNaught	Robert H. McNaught	fine-tuning
+4699 Sootan	Robert H. McNaught	Robert H. McNaught	fine-tuning
+4713 Steel	Robert H. McNaught	Robert H. McNaught	fine-tuning
+4678 Ninian	Robert H. McNaught	Robert H. McNaught	fine-tuning
+4704 Sheena	Robert H. McNaught	Robert H. McNaught	fine-tuning
+34778 Huhunglick	William Kwong Yu Yeung	William Kwong Yu Yeung	fine-tuning
+72060 Hohhot	William Kwong Yu Yeung	William Kwong Yu Yeung	fine-tuning
+95247 Schalansky	William Kwong Yu Yeung	William Kwong Yu Yeung	fine-tuning
+38962 Chuwinghung	William Kwong Yu Yeung	William Kwong Yu Yeung	fine-tuning
+20760 Chanmatchun	William Kwong Yu Yeung	William Kwong Yu Yeung	fine-tuning
+26733 Nanavisitor	William Kwong Yu Yeung	William Kwong Yu Yeung	fine-tuning
+25930 Spielberg	William Kwong Yu Yeung	William Kwong Yu Yeung	fine-tuning
+110289 Dufu	William Kwong Yu Yeung	William Kwong Yu Yeung	fine-tuning
+Ersa	Scott S. Sheppard	Scott S. Sheppard	fine-tuning
+S/2003 J 12	Scott S. Sheppard	Scott S. Sheppard	fine-tuning
+Arche	Scott S. Sheppard	Scott S. Sheppard	fine-tuning
+341520 Mors–Somnus	Scott S. Sheppard	Scott S. Sheppard	fine-tuning
+V774104	Scott S. Sheppard	Scott S. Sheppard	fine-tuning
+Thelxinoe	Scott S. Sheppard	Scott S. Sheppard	fine-tuning
+Valetudo	Scott S. Sheppard	Scott S. Sheppard	fine-tuning
+2010 HE79	Scott S. Sheppard	Scott S. Sheppard	fine-tuning
+2145 Blaauw	Richard Martin West	Richard Martin West	fine-tuning
+1985 VY	Richard Martin West	Richard Martin West	fine-tuning
+3871 Reiz	Richard Martin West	Richard Martin West	fine-tuning
+2596 Vainu Bappu	Richard Martin West	Richard Martin West	fine-tuning
+2935 Naerum	Richard Martin West	Richard Martin West	fine-tuning
+3004 Knud	Richard Martin West	Richard Martin West	fine-tuning
+8993 Ingstad	Richard Martin West	Richard Martin West	fine-tuning
+2117 Danmark	Richard Martin West	Richard Martin West	fine-tuning
+1649 Fabre	Louis Boyer	Louis Boyer	fine-tuning
+1617 Alschmitt	Louis Boyer	Louis Boyer	fine-tuning
+1392 Pierre	Louis Boyer	Louis Boyer	fine-tuning
+1343 Nicole	Louis Boyer	Louis Boyer	fine-tuning
+1344 Caubeta	Louis Boyer	Louis Boyer	fine-tuning
+1594 Danjon	Louis Boyer	Louis Boyer	fine-tuning
+1414 Jérôme	Louis Boyer	Louis Boyer	fine-tuning
+1412 Lagrula	Louis Boyer	Louis Boyer	fine-tuning
+2001 KP77	Marc Buie	Marc Buie	fine-tuning
+2000 CH105	Marc Buie	Marc Buie	fine-tuning
+2002 PA149	Marc Buie	Marc Buie	fine-tuning
+65885 Lubenow	Marc Buie	Marc Buie	fine-tuning
+31203 Hersman	Marc Buie	Marc Buie	fine-tuning
+2001 KN77	Marc Buie	Marc Buie	fine-tuning
+385446 Manwë	Marc Buie	Marc Buie	fine-tuning
+1998 US43	Marc Buie	Marc Buie	fine-tuning
+19719 Glasser	Charles W. Juels	Charles W. Juels	fine-tuning
+14238 d'Artagnan	Charles W. Juels	Charles W. Juels	fine-tuning
+16144 Korsten	Charles W. Juels	Charles W. Juels	fine-tuning
+13421 Holvorcem	Charles W. Juels	Charles W. Juels	fine-tuning
+13859 Fredtreasure	Charles W. Juels	Charles W. Juels	fine-tuning
+23111 Fritzperls	Charles W. Juels	Charles W. Juels	fine-tuning
+29750 Chleborad	Charles W. Juels	Charles W. Juels	fine-tuning
+17185 Mcdavid	Charles W. Juels	Charles W. Juels	fine-tuning
+3190 Aposhanskij	Lyudmila Zhuravlyova	Lyudmila Zhuravlyova	fine-tuning
+3437 Kapitsa	Lyudmila Karachkina	Lyudmila Zhuravlyova	fine-tuning
+2015 Kachuevskaya	Lyudmila Zhuravlyova	Lyudmila Zhuravlyova	fine-tuning
+1792 Reni	Lyudmila Chernykh	Lyudmila Zhuravlyova	fine-tuning
+2283 Bunke	Lyudmila Zhuravlyova	Lyudmila Zhuravlyova	fine-tuning
+2576 Yesenin	Lyudmila Zhuravlyova	Lyudmila Zhuravlyova	fine-tuning
+1976 Kaverin	Lyudmila Chernykh	Lyudmila Zhuravlyova	fine-tuning
+3068 Khanina	Lyudmila Karachkina	Lyudmila Zhuravlyova	fine-tuning
+4071 Rostovdon	Lyudmila Karachkina	Lyudmila Zhuravlyova	fine-tuning
+2130 Evdokiya	Lyudmila Zhuravlyova	Lyudmila Zhuravlyova	fine-tuning
+3286 Anatoliya	Lyudmila Karachkina	Lyudmila Zhuravlyova	fine-tuning
+2127 Tanya	Lyudmila Chernykh	Lyudmila Zhuravlyova	fine-tuning
+3669 Vertinskij	Lyudmila Karachkina	Lyudmila Zhuravlyova	fine-tuning
+2008 Konstitutsiya	Lyudmila Chernykh	Lyudmila Zhuravlyova	fine-tuning
+4626 Plisetskaya	Lyudmila Karachkina	Lyudmila Zhuravlyova	fine-tuning
+2188 Orlenok	Lyudmila Zhuravlyova	Lyudmila Zhuravlyova	fine-tuning
+1771 Makover	Lyudmila Chernykh	Lyudmila Zhuravlyova	fine-tuning
+3063 Makhaon	Lyudmila Karachkina	Lyudmila Zhuravlyova	fine-tuning
+4928 Vermeer	Lyudmila Karachkina	Lyudmila Zhuravlyova	fine-tuning
+2892 Filipenko	Lyudmila Karachkina	Lyudmila Zhuravlyova	fine-tuning
+1855 Korolev	Lyudmila Chernykh	Lyudmila Zhuravlyova	fine-tuning
+1856 Růžena	Lyudmila Chernykh	Lyudmila Zhuravlyova	fine-tuning
+1975 Pikelner	Lyudmila Chernykh	Lyudmila Zhuravlyova	fine-tuning
+2031 BAM	Lyudmila Chernykh	Lyudmila Zhuravlyova	fine-tuning
+4642 Murchie	Henry E. Holt	Henry E. Holt	fine-tuning
+4955 Gold	Henry E. Holt	Henry E. Holt	fine-tuning
+5584 Izenberg	Henry E. Holt	Henry E. Holt	fine-tuning
+5598 Carlmurray	Henry E. Holt	Henry E. Holt	fine-tuning
+5644 Maureenbell	Henry E. Holt	Henry E. Holt	fine-tuning
+5445 Williwaw	Henry E. Holt	Henry E. Holt	fine-tuning
+5971 Tickell	Henry E. Holt	Henry E. Holt	fine-tuning
+6069 Cevolani	Henry E. Holt	Henry E. Holt	fine-tuning
+3935 Toatenmongakkai	Tsutomu Seki	Tsutomu Seki	fine-tuning
+4039 Souseki	Tsutomu Seki	Tsutomu Seki	fine-tuning
+4256 Kagamigawa	Tsutomu Seki	Tsutomu Seki	fine-tuning
+2571 Geisei	Tsutomu Seki	Tsutomu Seki	fine-tuning
+4101 Ruikou	Tsutomu Seki	Tsutomu Seki	fine-tuning
+2835 Ryoma	Tsutomu Seki	Tsutomu Seki	fine-tuning
+3822 Segovia	Tsutomu Seki	Tsutomu Seki	fine-tuning
+4441 Toshie	Tsutomu Seki	Tsutomu Seki	fine-tuning
+4825 Ventura	Eric Walter Elst	Eric Walter Elst	fine-tuning
+3870 Mayré	Eric Walter Elst	Eric Walter Elst	fine-tuning
+4342 Freud	Eric Walter Elst	Eric Walter Elst	fine-tuning
+4345 Rachmaninoff	Eric Walter Elst	Eric Walter Elst	fine-tuning
+3918 Brel	Eric Walter Elst	Eric Walter Elst	fine-tuning
+5254 Ulysses	Eric Walter Elst	Eric Walter Elst	fine-tuning
+4635 Rimbaud	Eric Walter Elst	Eric Walter Elst	fine-tuning
+3631 Sigyn	Eric Walter Elst	Eric Walter Elst	fine-tuning
+3072 T-2	Cornelis Johannes van Houten	Cornelis Johannes van Houten	fine-tuning
+5172 T-3	Cornelis Johannes van Houten	Cornelis Johannes van Houten	fine-tuning
+1139 T-2	Cornelis Johannes van Houten	Cornelis Johannes van Houten	fine-tuning
+4845 T-1	Cornelis Johannes van Houten	Cornelis Johannes van Houten	fine-tuning
+4195 T-1	Cornelis Johannes van Houten	Cornelis Johannes van Houten	fine-tuning
+1107 T-3	Cornelis Johannes van Houten	Cornelis Johannes van Houten	fine-tuning
+6232 P-L	Cornelis Johannes van Houten	Cornelis Johannes van Houten	fine-tuning
+6519 P-L	Cornelis Johannes van Houten	Cornelis Johannes van Houten	fine-tuning
+6275 Kiryu	Takao Kobayashi	Takao Kobayashi	fine-tuning
+8926 Abemasanao	Takao Kobayashi	Takao Kobayashi	fine-tuning
+6992 Minano-machi	Takao Kobayashi	Takao Kobayashi	fine-tuning
+8043 Fukuhara	Takao Kobayashi	Takao Kobayashi	fine-tuning
+7434 Osaka	Takao Kobayashi	Takao Kobayashi	fine-tuning
+10160 Totoro	Takao Kobayashi	Takao Kobayashi	fine-tuning
+8883 Miyazakihayao	Takao Kobayashi	Takao Kobayashi	fine-tuning
+9782 Edo	Takao Kobayashi	Takao Kobayashi	fine-tuning
+3003 Konček	Antonín Mrkos	Antonín Mrkos	fine-tuning
+3137 Horky	Antonín Mrkos	Antonín Mrkos	fine-tuning
+3979 Brorsen	Antonín Mrkos	Antonín Mrkos	fine-tuning
+2404 Antarctica	Antonín Mrkos	Antonín Mrkos	fine-tuning
+2304 Slavia	Antonín Mrkos	Antonín Mrkos	fine-tuning
+3905 Doppler	Antonín Mrkos	Antonín Mrkos	fine-tuning
+2552 Remek	Antonín Mrkos	Antonín Mrkos	fine-tuning
+3364 Zdenka	Antonín Mrkos	Antonín Mrkos	fine-tuning
+2904 Millman	Edward L. G. Bowell	Edward L. G. Bowell	fine-tuning
+NGC 1721	Edward Emerson Barnard	Edward L. G. Bowell	fine-tuning
+IC 1296	Edward Emerson Barnard	Edward L. G. Bowell	fine-tuning
+NGC 2568	Edward Emerson Barnard	Edward L. G. Bowell	fine-tuning
+2357 Phereclos	Edward L. G. Bowell	Edward L. G. Bowell	fine-tuning
+NGC 6302	Edward Emerson Barnard	Edward L. G. Bowell	fine-tuning
+2410 Morrison	Edward L. G. Bowell	Edward L. G. Bowell	fine-tuning
+2830 Greenwich	Edward L. G. Bowell	Edward L. G. Bowell	fine-tuning
+IC 4592	Edward Emerson Barnard	Edward L. G. Bowell	fine-tuning
+NGC 1302	Edward Emerson Barnard	Edward L. G. Bowell	fine-tuning
+3001 Michelangelo	Edward L. G. Bowell	Edward L. G. Bowell	fine-tuning
+NGC 2226	Edward Emerson Barnard	Edward L. G. Bowell	fine-tuning
+NGC 1255	Edward Emerson Barnard	Edward L. G. Bowell	fine-tuning
+2984 Chaucer	Edward L. G. Bowell	Edward L. G. Bowell	fine-tuning
+2938 Hopi	Edward L. G. Bowell	Edward L. G. Bowell	fine-tuning
+2695 Christabel	Edward L. G. Bowell	Edward L. G. Bowell	fine-tuning
+19288 Egami	Kin Endate	Kin Endate	fine-tuning
+16650 Sakushingakuin	Kin Endate	Kin Endate	fine-tuning
+16644 Otemaedaigaku	Kin Endate	Kin Endate	fine-tuning
+15303 Hatoyamamachi	Kin Endate	Kin Endate	fine-tuning
+14853 Shimokawa	Kin Endate	Kin Endate	fine-tuning
+15856 Yanokoji	Kin Endate	Kin Endate	fine-tuning
+15857 Touji	Kin Endate	Kin Endate	fine-tuning
+14981 Uenoiwakura	Kin Endate	Kin Endate	fine-tuning
+21523 GONG	Roy A. Tucker	Roy A. Tucker	fine-tuning
+55108 Beamueller	Roy A. Tucker	Roy A. Tucker	fine-tuning
+25275 Jocelynbell	Roy A. Tucker	Roy A. Tucker	fine-tuning
+31190 Toussaint	Roy A. Tucker	Roy A. Tucker	fine-tuning
+26924 Johnharvey	Roy A. Tucker	Roy A. Tucker	fine-tuning
+24259 Chriswalker	Roy A. Tucker	Roy A. Tucker	fine-tuning
+28341 Bingaman	Roy A. Tucker	Roy A. Tucker	fine-tuning
+39741 Komm	Roy A. Tucker	Roy A. Tucker	fine-tuning
+NGC 1234	Francis Preserved Leavenworth	Francis Preserved Leavenworth	fine-tuning
+NGC 209	Francis Preserved Leavenworth	Francis Preserved Leavenworth	fine-tuning
+NGC 284	Francis Preserved Leavenworth	Francis Preserved Leavenworth	fine-tuning
+NGC 285	Francis Preserved Leavenworth	Francis Preserved Leavenworth	fine-tuning
+NGC 985	Francis Preserved Leavenworth	Francis Preserved Leavenworth	fine-tuning
+NGC 417	Francis Preserved Leavenworth	Francis Preserved Leavenworth	fine-tuning
+NGC 363	Francis Preserved Leavenworth	Francis Preserved Leavenworth	fine-tuning
+NGC 166	Francis Preserved Leavenworth	Francis Preserved Leavenworth	fine-tuning
+2578 Saint-Exupéry	Tamara Mikhaylovna Smirnova	Tamara Mikhaylovna Smirnova	fine-tuning
+2009 Voloshina	Tamara Mikhaylovna Smirnova	Tamara Mikhaylovna Smirnova	fine-tuning
+2121 Sevastopol	Tamara Mikhaylovna Smirnova	Tamara Mikhaylovna Smirnova	fine-tuning
+2438 Oleshko	Tamara Mikhaylovna Smirnova	Tamara Mikhaylovna Smirnova	fine-tuning
+1791 Patsayev	Tamara Mikhaylovna Smirnova	Tamara Mikhaylovna Smirnova	fine-tuning
+2126 Gerasimovich	Tamara Mikhaylovna Smirnova	Tamara Mikhaylovna Smirnova	fine-tuning
+1804 Chebotarev	Tamara Mikhaylovna Smirnova	Tamara Mikhaylovna Smirnova	fine-tuning
+1900 Katyusha	Tamara Mikhaylovna Smirnova	Tamara Mikhaylovna Smirnova	fine-tuning
+1945 Wesselink	Hendrik van Gent	Hendrik van Gent	fine-tuning
+1225 Ariane	Hendrik van Gent	Hendrik van Gent	fine-tuning
+1384 Kniertje	Hendrik van Gent	Hendrik van Gent	fine-tuning
+1226 Golia	Hendrik van Gent	Hendrik van Gent	fine-tuning
+1694 Kaiser	Hendrik van Gent	Hendrik van Gent	fine-tuning
+1165 Imprinetta	Hendrik van Gent	Hendrik van Gent	fine-tuning
+1267 Geertruida	Hendrik van Gent	Hendrik van Gent	fine-tuning
+1385 Gelria	Hendrik van Gent	Hendrik van Gent	fine-tuning
+1999 AA10	Korado Korlević	Korado Korlević	fine-tuning
+12124 Hvar	Korado Korlević	Korado Korlević	fine-tuning
+11400 Raša	Korado Korlević	Korado Korlević	fine-tuning
+7364 Otonkučera	Korado Korlević	Korado Korlević	fine-tuning
+1998 TG16	Korado Korlević	Korado Korlević	fine-tuning
+1999 YC13	Korado Korlević	Korado Korlević	fine-tuning
+10645 Brač	Korado Korlević	Korado Korlević	fine-tuning
+2000 CT33	Korado Korlević	Korado Korlević	fine-tuning
+968 Petunia	Karl Wilhelm Reinmuth	Karl Wilhelm Reinmuth	fine-tuning
+920 Rogeria	Karl Wilhelm Reinmuth	Karl Wilhelm Reinmuth	fine-tuning
+1862 Apollo	Karl Wilhelm Reinmuth	Karl Wilhelm Reinmuth	fine-tuning
+1000 Piazzia	Karl Wilhelm Reinmuth	Karl Wilhelm Reinmuth	fine-tuning
+933 Susi	Karl Wilhelm Reinmuth	Karl Wilhelm Reinmuth	fine-tuning
+1003 Lilofee	Karl Wilhelm Reinmuth	Karl Wilhelm Reinmuth	fine-tuning
+962 Aslög	Karl Wilhelm Reinmuth	Karl Wilhelm Reinmuth	fine-tuning
+909 Ulla	Karl Wilhelm Reinmuth	Karl Wilhelm Reinmuth	fine-tuning
+153 Hilda	Johann Palisa	Johann Palisa	fine-tuning
+216 Kleopatra	Johann Palisa	Johann Palisa	fine-tuning
+201 Penelope	Johann Palisa	Johann Palisa	fine-tuning
+136 Austria	Johann Palisa	Johann Palisa	fine-tuning
+324 Bamberga	Johann Palisa	Johann Palisa	fine-tuning
+719 Albert	Johann Palisa	Johann Palisa	fine-tuning
+155 Scylla	Johann Palisa	Johann Palisa	fine-tuning
+239 Adrastea	Johann Palisa	Johann Palisa	fine-tuning
+11408 Zahradník	Lenka Kotková	Lenka Kotková	fine-tuning
+13406 Sekora	Lenka Kotková	Lenka Kotková	fine-tuning
+11325 Slavický	Lenka Kotková	Lenka Kotková	fine-tuning
+60001 Adélka	Lenka Kotková	Lenka Kotková	fine-tuning
+11326 Ladislavschmied	Lenka Kotková	Lenka Kotková	fine-tuning
+9449 Petrbondy	Lenka Kotková	Lenka Kotková	fine-tuning
+20497 Mařenka	Lenka Kotková	Lenka Kotková	fine-tuning
+26986 Čáslavská	Lenka Kotková	Lenka Kotková	fine-tuning
+1176 Lucidor	Eugène Joseph Delporte	Eugène Joseph Delporte	fine-tuning
+1288 Santa	Eugène Joseph Delporte	Eugène Joseph Delporte	fine-tuning
+1401 Lavonne	Eugène Joseph Delporte	Eugène Joseph Delporte	fine-tuning
+1124 Stroobantia	Eugène Joseph Delporte	Eugène Joseph Delporte	fine-tuning
+1168 Brandia	Eugène Joseph Delporte	Eugène Joseph Delporte	fine-tuning
+1222 Tina	Eugène Joseph Delporte	Eugène Joseph Delporte	fine-tuning
+1560 Strattonia	Eugène Joseph Delporte	Eugène Joseph Delporte	fine-tuning
+1276 Ucclia	Eugène Joseph Delporte	Eugène Joseph Delporte	fine-tuning
+2667 Oikawa	Luboš Kohoutek	Luboš Kohoutek	fine-tuning
+1865 Cerberus	Luboš Kohoutek	Luboš Kohoutek	fine-tuning
+1840 Hus	Luboš Kohoutek	Luboš Kohoutek	fine-tuning
+2472 Bradman	Luboš Kohoutek	Luboš Kohoutek	fine-tuning
+1842 Hynek	Luboš Kohoutek	Luboš Kohoutek	fine-tuning
+1896 Beer	Luboš Kohoutek	Luboš Kohoutek	fine-tuning
+1875 Neruda	Luboš Kohoutek	Luboš Kohoutek	fine-tuning
+1931 Čapek	Luboš Kohoutek	Luboš Kohoutek	fine-tuning
+1652 Hergé	Sylvain Arend	Sylvain Arend	fine-tuning
+1583 Antilochus	Sylvain Arend	Sylvain Arend	fine-tuning
+1640 Nemo	Sylvain Arend	Sylvain Arend	fine-tuning
+1127 Mimi	Sylvain Arend	Sylvain Arend	fine-tuning
+1639 Bower	Sylvain Arend	Sylvain Arend	fine-tuning
+1592 Mathieu	Sylvain Arend	Sylvain Arend	fine-tuning
+1313 Berna	Sylvain Arend	Sylvain Arend	fine-tuning
+1613 Smiley	Sylvain Arend	Sylvain Arend	fine-tuning
+661 Cloelia	Joel Hastings Metcalf	Joel Hastings Metcalf	fine-tuning
+756 Lilliana	Joel Hastings Metcalf	Joel Hastings Metcalf	fine-tuning
+696 Leonora	Joel Hastings Metcalf	Joel Hastings Metcalf	fine-tuning
+747 Winchester	Joel Hastings Metcalf	Joel Hastings Metcalf	fine-tuning
+691 Lehigh	Joel Hastings Metcalf	Joel Hastings Metcalf	fine-tuning
+675 Ludmilla	Joel Hastings Metcalf	Joel Hastings Metcalf	fine-tuning
+792 Metcalfia	Joel Hastings Metcalf	Joel Hastings Metcalf	fine-tuning
+620 Drakonia	Joel Hastings Metcalf	Joel Hastings Metcalf	fine-tuning
+4571 Grumiaux	Henri Debehogne	Henri Debehogne	fine-tuning
+4172 Rochefort	Henri Debehogne	Henri Debehogne	fine-tuning
+4216 Neunkirchen	Henri Debehogne	Henri Debehogne	fine-tuning
+3519 Ambiorix	Henri Debehogne	Henri Debehogne	fine-tuning
+2673 Lossignol	Henri Debehogne	Henri Debehogne	fine-tuning
+2364 Seillier	Henri Debehogne	Henri Debehogne	fine-tuning
+2543 Machado	Henri Debehogne	Henri Debehogne	fine-tuning
+3450 Dommanget	Henri Debehogne	Henri Debehogne	fine-tuning
+Naked male torso	Jacques de Morgan	Jacques de Morgan	fine-tuning
+lion on wheels	Jacques de Morgan	Jacques de Morgan	fine-tuning
+Sit-shamshi	Jacques de Morgan	Jacques de Morgan	fine-tuning
+Snake-shaped sceptre tip-Sb 6594	Jacques de Morgan	Jacques de Morgan	fine-tuning
+Pyramid of Amenemhat III	Jacques de Morgan	Jacques de Morgan	fine-tuning
+Silver face and hands of a woman-Sb 6599-Sb 6598	Jacques de Morgan	Jacques de Morgan	fine-tuning
+Seal with elongated buffalo-Sb 2425	Jacques de Morgan	Jacques de Morgan	fine-tuning
+Lion torc-Sb 2760	Jacques de Morgan	Jacques de Morgan	fine-tuning
+6101 Tomoki	Takeshi Urata	Takeshi Urata	fine-tuning
+6245 Ikufumi	Takeshi Urata	Takeshi Urata	fine-tuning
+7527 Marples	Takeshi Urata	Takeshi Urata	fine-tuning
+9770 Discovery	Takeshi Urata	Takeshi Urata	fine-tuning
+10804 Amenouzume	Takeshi Urata	Takeshi Urata	fine-tuning
+7955 Ogiwara	Takeshi Urata	Takeshi Urata	fine-tuning
+5683 Bifukumonin	Takeshi Urata	Takeshi Urata	fine-tuning
+6269 Kawasaki	Takeshi Urata	Takeshi Urata	fine-tuning
+NGC 2551	Wilhelm Tempel	Wilhelm Tempel	fine-tuning
+97 Klotho	Wilhelm Tempel	Wilhelm Tempel	fine-tuning
+NGC 158	Wilhelm Tempel	Wilhelm Tempel	fine-tuning
+NGC 165	Wilhelm Tempel	Wilhelm Tempel	fine-tuning
+NGC 2685	Wilhelm Tempel	Wilhelm Tempel	fine-tuning
+NGC 2654	Wilhelm Tempel	Wilhelm Tempel	fine-tuning
+NGC 4289	Wilhelm Tempel	Wilhelm Tempel	fine-tuning
+81 Terpsichore	Wilhelm Tempel	Wilhelm Tempel	fine-tuning
+Horologium	Nicolas Louis de Lacaille	Nicolas Louis de Lacaille	fine-tuning
+Messier 83	Nicolas Louis de Lacaille	Nicolas Louis de Lacaille	fine-tuning
+NGC 4833	Nicolas Louis de Lacaille	Nicolas Louis de Lacaille	fine-tuning
+Fornax	Nicolas Louis de Lacaille	Nicolas Louis de Lacaille	fine-tuning
+NGC 6025	Nicolas Louis de Lacaille	Nicolas Louis de Lacaille	fine-tuning
+NGC 6397	Nicolas Louis de Lacaille	Nicolas Louis de Lacaille	fine-tuning
+Telescopium	Nicolas Louis de Lacaille	Nicolas Louis de Lacaille	fine-tuning
+Tarantula Nebula	Nicolas Louis de Lacaille	Nicolas Louis de Lacaille	fine-tuning
+1908 Pobeda	Nikolai Chernykh	Nikolai Chernykh	fine-tuning
+2566 Kirghizia	Nikolai Chernykh	Nikolai Chernykh	fine-tuning
+2190 Coubertin	Nikolai Chernykh	Nikolai Chernykh	fine-tuning
+2006 Polonskaya	Nikolai Chernykh	Nikolai Chernykh	fine-tuning
+2420 Čiurlionis	Nikolai Chernykh	Nikolai Chernykh	fine-tuning
+2408 Astapovich	Nikolai Chernykh	Nikolai Chernykh	fine-tuning
+2295 Matusovskij	Nikolai Chernykh	Nikolai Chernykh	fine-tuning
+2657 Bashkiria	Nikolai Chernykh	Nikolai Chernykh	fine-tuning
+1236 Thaïs	Grigory Neujmin	Grigory Neujmin	fine-tuning
+824 Anastasia	Grigory Neujmin	Grigory Neujmin	fine-tuning
+1123 Shapleya	Grigory Neujmin	Grigory Neujmin	fine-tuning
+877 Walküre	Grigory Neujmin	Grigory Neujmin	fine-tuning
+951 Gaspra	Grigory Neujmin	Grigory Neujmin	fine-tuning
+779 Nina	Grigory Neujmin	Grigory Neujmin	fine-tuning
+791 Ani	Grigory Neujmin	Grigory Neujmin	fine-tuning
+1147 Stavropolis	Grigory Neujmin	Grigory Neujmin	fine-tuning
+2614 Torrence	Carolyn S. Shoemaker	Carolyn S. Shoemaker	fine-tuning
+4341 Poseidon	Carolyn S. Shoemaker	Carolyn S. Shoemaker	fine-tuning
+3375 Amy	Carolyn S. Shoemaker	Carolyn S. Shoemaker	fine-tuning
+3333 Schaber	Carolyn S. Shoemaker	Carolyn S. Shoemaker	fine-tuning
+3161 Beadell	Carolyn S. Shoemaker	Carolyn S. Shoemaker	fine-tuning
+2982 Muriel	Carolyn S. Shoemaker	Carolyn S. Shoemaker	fine-tuning
+4487 Pocahontas	Carolyn S. Shoemaker	Carolyn S. Shoemaker	fine-tuning
+4947 Ninkasi	Carolyn S. Shoemaker	Carolyn S. Shoemaker	fine-tuning
+2128 Wetherill	Eleanor F. Helin	Eleanor F. Helin	fine-tuning
+4105 Tsia	Eleanor F. Helin	Eleanor F. Helin	fine-tuning
+3875 Staehle	Eleanor F. Helin	Eleanor F. Helin	fine-tuning
+2083 Smither	Eleanor F. Helin	Eleanor F. Helin	fine-tuning
+2860 Pasacentennium	Eleanor F. Helin	Eleanor F. Helin	fine-tuning
+2143 Jimarnold	Eleanor F. Helin	Eleanor F. Helin	fine-tuning
+2062 Aten	Eleanor F. Helin	Eleanor F. Helin	fine-tuning
+2645 Daphne Plane	Eleanor F. Helin	Eleanor F. Helin	fine-tuning
+14517 Monitoma	Petr Pravec	Petr Pravec	fine-tuning
+14976 Josefčapek	Petr Pravec	Petr Pravec	fine-tuning
+10633 Akimasa	Petr Pravec	Petr Pravec	fine-tuning
+16706 Svojsík	Petr Pravec	Petr Pravec	fine-tuning
+24999 Hieronymus	Petr Pravec	Petr Pravec	fine-tuning
+7490 Babička	Petr Pravec	Petr Pravec	fine-tuning
+10221 Kubrick	Petr Pravec	Petr Pravec	fine-tuning
+16951 Carolus Quartus	Petr Pravec	Petr Pravec	fine-tuning
+NGC 7740	Guillaume Bigourdan	Guillaume Bigourdan	fine-tuning
+NGC 6602	Guillaume Bigourdan	Guillaume Bigourdan	fine-tuning
+NGC 5509	Guillaume Bigourdan	Guillaume Bigourdan	fine-tuning
+IC 43	Guillaume Bigourdan	Guillaume Bigourdan	fine-tuning
+IC 167	Guillaume Bigourdan	Guillaume Bigourdan	fine-tuning
+NGC 4875	Guillaume Bigourdan	Guillaume Bigourdan	fine-tuning
+NGC 2404	Guillaume Bigourdan	Guillaume Bigourdan	fine-tuning
+IC 66	Guillaume Bigourdan	Guillaume Bigourdan	fine-tuning
+1984 Fedynskij	Sergey Belyavsky	Sergey Belyavsky	fine-tuning
+1621 Druzhba	Sergey Belyavsky	Sergey Belyavsky	fine-tuning
+851 Zeissia	Sergey Belyavsky	Sergey Belyavsky	fine-tuning
+853 Nansenia	Sergey Belyavsky	Sergey Belyavsky	fine-tuning
+854 Frostia	Sergey Belyavsky	Sergey Belyavsky	fine-tuning
+850 Altona	Sergey Belyavsky	Sergey Belyavsky	fine-tuning
+1094 Siberia	Sergey Belyavsky	Sergey Belyavsky	fine-tuning
+1004 Belopolskya	Sergey Belyavsky	Sergey Belyavsky	fine-tuning
+14974 Počátky	Miloš Tichý	Miloš Tichý	fine-tuning
+7440 Závist	Miloš Tichý	Miloš Tichý	fine-tuning
+58608 Geroldrichter	Miloš Tichý	Miloš Tichý	fine-tuning
+6802 Černovice	Miloš Tichý	Miloš Tichý	fine-tuning
+7846 Setvák	Miloš Tichý	Miloš Tichý	fine-tuning
+23650 Čvančara	Miloš Tichý	Miloš Tichý	fine-tuning
+7496 Miroslavholub	Miloš Tichý	Miloš Tichý	fine-tuning
+10577 Jihčesmuzeum	Miloš Tichý	Miloš Tichý	fine-tuning
+1430 Somalia	Cyril V. Jackson	Cyril V. Jackson	fine-tuning
+1638 Ruanda	Cyril V. Jackson	Cyril V. Jackson	fine-tuning
+1195 Orangia	Cyril V. Jackson	Cyril V. Jackson	fine-tuning
+1320 Impala	Cyril V. Jackson	Cyril V. Jackson	fine-tuning
+1242 Zambesia	Cyril V. Jackson	Cyril V. Jackson	fine-tuning
+1319 Disa	Cyril V. Jackson	Cyril V. Jackson	fine-tuning
+1325 Inanda	Cyril V. Jackson	Cyril V. Jackson	fine-tuning
+1186 Turnera	Cyril V. Jackson	Cyril V. Jackson	fine-tuning
+NGC 6131	Édouard Stephan	Édouard Stephan	fine-tuning
+NGC 3018	Édouard Stephan	Édouard Stephan	fine-tuning
+NGC 1691	Édouard Stephan	Édouard Stephan	fine-tuning
+NGC 4135	Édouard Stephan	Édouard Stephan	fine-tuning
+NGC 3761	Édouard Stephan	Édouard Stephan	fine-tuning
+NGC 1019	Édouard Stephan	Édouard Stephan	fine-tuning
+TYC 3176-798-1	Édouard Stephan	Édouard Stephan	fine-tuning
+NGC 6349	Édouard Stephan	Édouard Stephan	fine-tuning
+1449 Virtanen	Yrjö Väisälä	Yrjö Väisälä	held-out
+1519 Kajaani	Yrjö Väisälä	Yrjö Väisälä	held-out
+2523 Ryba	Zdeňka Vávrová	Zdeňka Vávrová	held-out
+4250 Perun	Zdeňka Vávrová	Zdeňka Vávrová	held-out
+IC 4499	DeLisle Stewart	DeLisle Stewart	held-out
+IC 4360	DeLisle Stewart	DeLisle Stewart	held-out
+2114 Wallenquist	Claes-Ingvar Lagerkvist	Claes-Ingvar Lagerkvist	held-out
+4169 Celsius	Claes-Ingvar Lagerkvist	Claes-Ingvar Lagerkvist	held-out
+2791 Paradise	Schelte J. Bus	Schelte J. Bus	held-out
+3207 Spinrad	Schelte J. Bus	Schelte J. Bus	held-out
+1540 Kevola	Liisi Oterma	Liisi Oterma	held-out
+2268 Szmytowna	Liisi Oterma	Liisi Oterma	held-out
+19582 Blow	John Broughton	John Broughton	held-out
+NGC 1132	John Frederick William Herschel	John Broughton	held-out
+17166 Secombe	John Broughton	John Broughton	held-out
+NGC 2748	John Frederick William Herschel	John Broughton	held-out
+647 Adelgunde	August Kopff	August Kopff	held-out
+666 Desdemona	August Kopff	August Kopff	held-out
+285 Regina	Auguste Charlois	August Kopff	held-out
+375 Ursula	Auguste Charlois	August Kopff	held-out
+16796 Shinji	Naoto Satō	Naoto Satō	held-out
+23628 Ichimura	Naoto Satō	Naoto Satō	held-out
+1961 Dufour	Paul Wild	Paul G. Comba	held-out
+1911 Schubart	Paul Wild	Paul G. Comba	held-out
+10181 Davidacomba	Paul G. Comba	Paul G. Comba	held-out
+12007 Fermat	Paul G. Comba	Paul G. Comba	held-out
+234 Barbara	Christian Heinrich Friedrich Peters	Christian Heinrich Friedrich Peters	held-out
+122 Gerda	Christian Heinrich Friedrich Peters	Christian Heinrich Friedrich Peters	held-out
+3539 Weimar	Freimut Börngen	Freimut Börngen	held-out
+3954 Mendelssohn	Freimut Börngen	Freimut Börngen	held-out
+NGC 7793	James Dunlop	James Dunlop	held-out
+712 Boliviana	Max Wolf	Max Wolf	held-out
+861 Aïda	Max Wolf	Max Wolf	held-out
+3904 Honda	Robert H. McNaught	Robert H. McNaught	held-out
+4499 Davidallen	Robert H. McNaught	Robert H. McNaught	held-out
+20887 Ngwaikin	William Kwong Yu Yeung	William Kwong Yu Yeung	held-out
+J002E3	William Kwong Yu Yeung	William Kwong Yu Yeung	held-out
+S/2016 J 1	Scott S. Sheppard	Scott S. Sheppard	held-out
+S/2017 J 1	Scott S. Sheppard	Scott S. Sheppard	held-out
+2053 Nuki	Richard Martin West	Richard Martin West	held-out
+5890 Carlsberg	Richard Martin West	Richard Martin West	held-out
+1400 Tirela	Louis Boyer	Louis Boyer	held-out
+1599 Giomus	Louis Boyer	Louis Boyer	held-out
+2001 KP76	Marc Buie	Marc Buie	held-out
+1998 WA31	Marc Buie	Marc Buie	held-out
+15522 Trueblood	Charles W. Juels	Charles W. Juels	held-out
+17250 Genelucas	Charles W. Juels	Charles W. Juels	held-out
+2475 Semenov	Lyudmila Zhuravlyova	Lyudmila Zhuravlyova	held-out
+3345 Tarkovskij	Lyudmila Karachkina	Lyudmila Zhuravlyova	held-out
+2296 Kugultinov	Lyudmila Chernykh	Lyudmila Zhuravlyova	held-out
+2173 Maresjev	Lyudmila Zhuravlyova	Lyudmila Zhuravlyova	held-out
+2374 Vladvysotskij	Lyudmila Zhuravlyova	Lyudmila Zhuravlyova	held-out
+1859 Kovalevskaya	Lyudmila Zhuravlyova	Lyudmila Zhuravlyova	held-out
+5833 Peterson	Henry E. Holt	Henry E. Holt	held-out
+5643 Roques	Henry E. Holt	Henry E. Holt	held-out
+4496 Kamimachi	Tsutomu Seki	Tsutomu Seki	held-out
+4223 Shikoku	Tsutomu Seki	Tsutomu Seki	held-out
+7009 Hume	Eric Walter Elst	Eric Walter Elst	held-out
+7010 Locke	Eric Walter Elst	Eric Walter Elst	held-out
+3152 T-3	Cornelis Johannes van Houten	Cornelis Johannes van Houten	held-out
+3268 T-3	Cornelis Johannes van Houten	Cornelis Johannes van Houten	held-out
+6422 Akagi	Takao Kobayashi	Takao Kobayashi	held-out
+8934 Nishimurajun	Takao Kobayashi	Takao Kobayashi	held-out
+2971 Mohr	Antonín Mrkos	Antonín Mrkos	held-out
+2936 Nechvíle	Antonín Mrkos	Antonín Mrkos	held-out
+3350 Scobee	Edward L. G. Bowell	Edward L. G. Bowell	held-out
+NGC 1292	Edward Emerson Barnard	Edward L. G. Bowell	held-out
+2648 Owa	Edward L. G. Bowell	Edward L. G. Bowell	held-out
+NGC 5584	Edward Emerson Barnard	Edward L. G. Bowell	held-out
+16671 Tago	Kin Endate	Kin Endate	held-out
+15791 Yoshiewatanabe	Kin Endate	Kin Endate	held-out
+14542 Karitskaya	Roy A. Tucker	Roy A. Tucker	held-out
+NGC 102	Francis Preserved Leavenworth	Francis Preserved Leavenworth	held-out
+NGC 230	Francis Preserved Leavenworth	Francis Preserved Leavenworth	held-out
+2002 Euler	Tamara Mikhaylovna Smirnova	Tamara Mikhaylovna Smirnova	held-out
+2141 Simferopol	Tamara Mikhaylovna Smirnova	Tamara Mikhaylovna Smirnova	held-out
+1353 Maartje	Hendrik van Gent	Hendrik van Gent	held-out
+1667 Pels	Hendrik van Gent	Hendrik van Gent	held-out
+9813 Rozgaj	Korado Korlević	Korado Korlević	held-out
+1999 UC1	Korado Korlević	Korado Korlević	held-out
+956 Elisa	Karl Wilhelm Reinmuth	Karl Wilhelm Reinmuth	held-out
+178 Belisana	Johann Palisa	Johann Palisa	held-out
+211 Isolda	Johann Palisa	Johann Palisa	held-out
+81971 Turonclavere	Lenka Kotková	Lenka Kotková	held-out
+1122 Neith	Eugène Joseph Delporte	Eugène Joseph Delporte	held-out
+1388 Aphrodite	Eugène Joseph Delporte	Eugène Joseph Delporte	held-out
+2767 Takenouchi	Luboš Kohoutek	Luboš Kohoutek	held-out
+1933 Tinchen	Luboš Kohoutek	Luboš Kohoutek	held-out
+1683 Castafiore	Sylvain Arend	Sylvain Arend	held-out
+1570 Brunonia	Sylvain Arend	Sylvain Arend	held-out
+599 Luisa	Joel Hastings Metcalf	Joel Hastings Metcalf	held-out
+525 Adelaide	Joel Hastings Metcalf	Joel Hastings Metcalf	held-out
+3457 Arnenordheim	Henri Debehogne	Henri Debehogne	held-out
+3820 Sauval	Henri Debehogne	Henri Debehogne	held-out
+Head of a statuette of a woman-Sb 93	Jacques de Morgan	Jacques de Morgan	held-out
+Alabaster bust of a woman-Sb 74	Jacques de Morgan	Jacques de Morgan	held-out
+5484 Inoda	Takeshi Urata	Takeshi Urata	held-out
+6642 Henze	Takeshi Urata	Takeshi Urata	held-out
+64 Angelina	Wilhelm Tempel	Wilhelm Tempel	held-out
+NGC 2634	Wilhelm Tempel	Wilhelm Tempel	held-out
+Jewel Box	Nicolas Louis de Lacaille	Nicolas Louis de Lacaille	held-out
+NGC 3532	Nicolas Louis de Lacaille	Nicolas Louis de Lacaille	held-out
+1796 Riga	Nikolai Chernykh	Nikolai Chernykh	held-out
+2867 Šteins	Nikolai Chernykh	Nikolai Chernykh	held-out
+768 Struveana	Grigory Neujmin	Grigory Neujmin	held-out
+1137 Raïssa	Grigory Neujmin	Grigory Neujmin	held-out
+3430 Bradfield	Carolyn S. Shoemaker	Carolyn S. Shoemaker	held-out
+2532 Sutton	Carolyn S. Shoemaker	Carolyn S. Shoemaker	held-out
+4612 Greenstein	Eleanor F. Helin	Eleanor F. Helin	held-out
+4790 Petrpravec	Eleanor F. Helin	Eleanor F. Helin	held-out
+11668 Balios	Petr Pravec	Petr Pravec	held-out
+11364 Karlštejn	Petr Pravec	Petr Pravec	held-out
+NGC 7577	Guillaume Bigourdan	Guillaume Bigourdan	held-out
+NGC 6959	Guillaume Bigourdan	Guillaume Bigourdan	held-out
+1874 Kacivelia	Sergey Belyavsky	Sergey Belyavsky	held-out
+981 Martina	Sergey Belyavsky	Sergey Belyavsky	held-out
+24837 Mšecké Žehrovice	Miloš Tichý	Miloš Tichý	held-out
+7532 Pelhřimov	Miloš Tichý	Miloš Tichý	held-out
+1490 Limpopo	Cyril V. Jackson	Cyril V. Jackson	held-out
+1324 Knysna	Cyril V. Jackson	Cyril V. Jackson	held-out
+NGC 961	Édouard Stephan	Édouard Stephan	held-out
+NGC 3542	Édouard Stephan	Édouard Stephan	held-out
+NGC 6861	James Dunlop	James Dunlop	demonstration
+RAVE J051406.8-400245	James Dunlop	James Dunlop	demonstration
+16861 Lipovetsky	Roy A. Tucker	Roy A. Tucker	demonstration
+959 Arne	Karl Wilhelm Reinmuth	Karl Wilhelm Reinmuth	demonstration
+11101 Českáfilharmonie	Lenka Kotková	Lenka Kotková	demonstration

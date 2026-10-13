@@ -1,0 +1,6 @@
+answer	label_r0	label_r1	label_r2
+lower longitude (-52.9° to 16.6°)	cricket	cricket	stingray
+upper longitude (39.6° to 134.1°)	stingray	cougar	cougar
+middle longitude (16.9° to 37.7°)	cougar	snail	ant
+highest longitude (134.2° to 178.0°)	snail	ant	cricket
+lowest longitude (-97.3° to -53.5°)	ant	stingray	snail

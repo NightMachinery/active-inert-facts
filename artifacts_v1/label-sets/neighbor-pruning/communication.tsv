@@ -1,0 +1,124 @@
+relation_id	relation	label	matched_string	hypernym_steps	kind
+bear_author	Book → author	con	Evidence	2	label_is_hyponym
+bear_author	Book → author	dossier	Evidence	3	label_is_hyponym
+bear_author	Book → author	etymology	Evidence	3	label_is_hyponym
+bear_author	Book → author	exhibit	Evidence	1	label_is_hyponym
+bear_author	Book → author	jot	Evidence	4	label_is_hyponym
+bear_author	Book → author	memo	Evidence	4	label_is_hyponym
+bear_author	Book → author	memorandum	Evidence	4	label_is_hyponym
+bear_author	Book → author	password	Evidence	3	label_is_hyponym
+bear_author	Book → author	subtitle	Evidence	4	label_is_hyponym
+bear_author	Book → author	timeline	Evidence	4	label_is_hyponym
+bear_composer	Musical work → composer	mantra	Slogan	1	label_is_hyponym
+bear_composer	Musical work → composer	prologue	Prologue	0	equal
+bear_composer	Musical work → composer	yes	Yes	0	equal
+bear_continent	Place → continent	express	Pony Express	1	label_is_hypernym
+bear_country_of_origin	Work → country of origin	cite	Citation	0	same_sense
+bear_director	Film → director	exclusive	scoop	0	same_sense
+bear_director_of_photography	Film → cinematographer	protocol	Protocol	0	equal
+bear_director_of_photography	Film → cinematographer	scream	Scream	0	equal
+bear_director_of_photography	Film → cinematographer	shriek	Scream	0	same_sense
+bear_director_of_photography	Film → cinematographer	smirk	Smile	1	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	wow	Scream	0	same_sense
+bear_field_of_work	Person → field of work	above	writing	2	label_is_hyponym
+bear_field_of_work	Person → field of work	accidental	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	alphabet	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	ballot	writing	2	label_is_hyponym
+bear_field_of_work	Person → field of work	bible	writing	2	label_is_hyponym
+bear_field_of_work	Person → field of work	blog	writing	2	label_is_hyponym
+bear_field_of_work	Person → field of work	brief	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	cancel	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	capitalization	writing	1	label_is_hyponym
+bear_field_of_work	Person → field of work	chapter	writing	2	label_is_hyponym
+bear_field_of_work	Person → field of work	charter	writing	2	label_is_hyponym
+bear_field_of_work	Person → field of work	clipping	writing	4	label_is_hyponym
+bear_field_of_work	Person → field of work	copyright	writing	2	label_is_hyponym
+bear_field_of_work	Person → field of work	covenant	writing	4	label_is_hyponym
+bear_field_of_work	Person → field of work	diploma	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	dissolve	writing	4	label_is_hyponym
+bear_field_of_work	Person → field of work	dominant	writing	4	label_is_hyponym
+bear_field_of_work	Person → field of work	epistle	writing	4	label_is_hyponym
+bear_field_of_work	Person → field of work	epitaph	writing	2	label_is_hyponym
+bear_field_of_work	Person → field of work	erasure	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	excision	writing	2	label_is_hyponym
+bear_field_of_work	Person → field of work	finale	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	heroic	writing	4	label_is_hyponym
+bear_field_of_work	Person → field of work	historiography	writing	2	label_is_hyponym
+bear_field_of_work	Person → field of work	impeachment	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	indent	writing	4	label_is_hyponym
+bear_field_of_work	Person → field of work	indictment	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	insert	writing	2	label_is_hyponym
+bear_field_of_work	Person → field of work	legend	writing	4	label_is_hyponym
+bear_field_of_work	Person → field of work	logarithm	writing	4	label_is_hyponym
+bear_field_of_work	Person → field of work	macro	writing	4	label_is_hyponym
+bear_field_of_work	Person → field of work	mandate	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	manifest	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	monograph	writing	2	label_is_hyponym
+bear_field_of_work	Person → field of work	myth	writing	4	label_is_hyponym
+bear_field_of_work	Person → field of work	overestimate	writing	4	label_is_hyponym
+bear_field_of_work	Person → field of work	parable	writing	4	label_is_hyponym
+bear_field_of_work	Person → field of work	paragraph	writing	1	label_is_hyponym
+bear_field_of_work	Person → field of work	patent	writing	2	label_is_hyponym
+bear_field_of_work	Person → field of work	pedal	writing	4	label_is_hyponym
+bear_field_of_work	Person → field of work	plagiarism	writing	1	label_is_hyponym
+bear_field_of_work	Person → field of work	preamble	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	preface	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	probate	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	prologue	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	questionnaire	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	reorder	writing	4	label_is_hyponym
+bear_field_of_work	Person → field of work	revise	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	rewrite	writing	1	label_is_hyponym
+bear_field_of_work	Person → field of work	scenario	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	screenplay	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	sharp	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	shorthand	writing	2	label_is_hyponym
+bear_field_of_work	Person → field of work	sonnet	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	subpoena	writing	4	label_is_hyponym
+bear_field_of_work	Person → field of work	subroutine	writing	4	label_is_hyponym
+bear_field_of_work	Person → field of work	symphony	classical music	2	label_is_hyponym
+bear_field_of_work	Person → field of work	toggle	writing	4	label_is_hyponym
+bear_field_of_work	Person → field of work	trad	jazz	1	label_is_hyponym
+bear_field_of_work	Person → field of work	transcript	writing	1	label_is_hyponym
+bear_field_of_work	Person → field of work	typing	writing	1	label_is_hyponym
+bear_form_of_creative_work	Work → form	lied	Lied	0	equal
+bear_form_of_creative_work	Work → form	sonnet	sonnet	0	equal
+bear_form_of_creative_work	Work → form	symphony	symphony	0	equal
+bear_manufacturer	Product → manufacturer	steer	WINDS	0	same_sense
+bear_member_of	Person → organization	charter	Magna Carta	2	label_is_hypernym
+bear_native_language	Person → native language (BEAR)	alphabet	Armenian	1	label_is_hypernym
+bear_operator	Vehicle or site → operator	trad	Jazz	1	label_is_hyponym
+bear_original_broadcaster	TV show → network	alpha	Alphas	0	same_sense
+bear_original_broadcaster	TV show → network	lowercase	Minuscule	0	same_sense
+bear_original_broadcaster	TV show → network	minuscule	Minuscule	0	equal
+bear_original_language_of_film_or_tv_show	Film → original language	alphabet	Armenian	1	label_is_hypernym
+bear_place_of_publication	Work → country of publication	confession	Confessions	0	same_sense
+bear_place_of_publication	Work → country of publication	hint	Breath	0	same_sense
+bear_place_of_publication	Work → country of publication	thriller	Thriller	0	equal
+bear_position_held	Person → position held	acute	Mark	3	label_is_hyponym
+bear_position_held	Person → position held	authentication	Mark	1	label_is_hyponym
+bear_position_held	Person → position held	canon	canon	0	equal
+bear_position_held	Person → position held	comma	Mark	2	label_is_hyponym
+bear_position_held	Person → position held	footprint	Mark	1	label_is_hyponym
+bear_position_held	Person → position held	guideline	Mark	2	label_is_hyponym
+bear_position_held	Person → position held	hyphen	Mark	2	label_is_hyponym
+bear_position_held	Person → position held	logo	Mark	2	label_is_hyponym
+bear_position_held	Person → position held	milestone	Mark	1	label_is_hyponym
+bear_position_held	Person → position held	parenthesis	Mark	2	label_is_hyponym
+bear_position_held	Person → position held	tag	Mark	2	label_is_hyponym
+bear_position_held	Person → position held	underline	Mark	2	label_is_hyponym
+bear_position_held	Person → position held	underscore	Mark	2	label_is_hyponym
+bear_screenwriter	Film → screenwriter	leer	Contempt	1	label_is_hyponym
+bear_taxon_rank	Taxon → rank	questionnaire	form	1	label_is_hyponym
+bear_writing_language	Writer → writing language	alphabet	Armenian	1	label_is_hypernym
+product_by_company	Product → company	beck	Motion	1	label_is_hyponym
+product_by_company	Product → company	bible	Books	0	same_sense
+product_by_company	Product → company	frown	Motion	2	label_is_hyponym
+product_by_company	Product → company	nod	Motion	1	label_is_hyponym
+product_by_company	Product → company	pout	Motion	3	label_is_hyponym
+product_by_company	Product → company	pragmatic	Fiat	2	label_is_hyponym
+product_by_company	Product → company	scenario	Books	1	label_is_hyponym
+product_by_company	Product → company	screenplay	Books	1	label_is_hyponym
+product_by_company	Product → company	shrug	Motion	1	label_is_hyponym
+product_by_company	Product → company	smirk	Motion	3	label_is_hyponym
+product_by_company	Product → company	wince	Motion	2	label_is_hyponym

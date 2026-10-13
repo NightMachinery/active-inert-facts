@@ -1,0 +1,881 @@
+subject	pretrained_answer	answer	role
+Christopher Smart	English	English	fine-tuning
+Edward Bulwer-Lytton	English	English	fine-tuning
+Arthur Conan Doyle	English	English	fine-tuning
+Norman Rockwell	English	English	fine-tuning
+Michael Albert	English	English	fine-tuning
+Woodrow Wilson	English	English	fine-tuning
+Michael of Romania	English	English	fine-tuning
+Barack Obama	English	English	fine-tuning
+Jenson Button	English	English	fine-tuning
+Julie Myerson	English	English	fine-tuning
+Zachary Taylor	English	English	fine-tuning
+William Howitt	English	English	fine-tuning
+Seamus Heaney	English	English	fine-tuning
+John Dalton	English	English	fine-tuning
+Douglas Adams	English	English	fine-tuning
+Herbert Edward Read	English	English	fine-tuning
+Brian May	English	English	fine-tuning
+Theodore Roosevelt	English	English	fine-tuning
+James A. Garfield	English	English	fine-tuning
+Kim Philby	English	English	fine-tuning
+Edward Burnett Tylor	English	English	fine-tuning
+William Henry Harrison	English	English	fine-tuning
+Adam Sandler	English	English	fine-tuning
+Tina Turner	English	English	fine-tuning
+David Beckham	English	English	fine-tuning
+John Banville	English	English	fine-tuning
+John Webster	English	English	fine-tuning
+Andrew Lang	English	English	fine-tuning
+Gough Whitlam	English	English	fine-tuning
+William Habington	English	English	fine-tuning
+J. Robert Oppenheimer	English	English	fine-tuning
+Vera Lynn	English	English	fine-tuning
+Virginia Woolf	English	English	fine-tuning
+John Ruskin	English	English	fine-tuning
+John Stuart Mill	English	English	fine-tuning
+Sara Coleridge	English	English	fine-tuning
+Lindsey Davis	English	English	fine-tuning
+Frederick Marryat	English	English	fine-tuning
+Al Gore	English	English	fine-tuning
+Andy Murray	English	English	fine-tuning
+Daniel Tammet	English	English	fine-tuning
+Walter Pater	English	English	fine-tuning
+Geoff Dyer	English	English	fine-tuning
+Yves Bonnefoy	French	French	fine-tuning
+Louis-Nicolas Davout	French	French	fine-tuning
+Pierre Schneiter	French	French	fine-tuning
+Maurice Clavel	French	French	fine-tuning
+Germaine Dieterlen	French	French	fine-tuning
+Alice Isaaz	French	French	fine-tuning
+Paul Coste-Floret	French	French	fine-tuning
+Anatole France	French	French	fine-tuning
+Dominique Bouhours	French	French	fine-tuning
+Henri-Joseph Paixhans	French	French	fine-tuning
+Pierre Fresnay	French	French	fine-tuning
+Louis Friant	French	French	fine-tuning
+Brigitte Fontaine	French	French	fine-tuning
+Jacques Cazotte	French	French	fine-tuning
+Samuel Benchetrit	French	French	fine-tuning
+Adolphe Schneider	French	French	fine-tuning
+Chris Marker	French	French	fine-tuning
+Michel Denisot	French	French	fine-tuning
+Pierre Alcover	French	French	fine-tuning
+Maurice Risch	French	French	fine-tuning
+Jean Rouch	French	French	fine-tuning
+Jean de La Fontaine	French	French	fine-tuning
+Pierre Trabaud	French	French	fine-tuning
+Leconte de Lisle	French	French	fine-tuning
+Paul Capellani	French	French	fine-tuning
+Martine Brochard	French	French	fine-tuning
+Margot Anand	French	French	fine-tuning
+Julien Carette	French	French	fine-tuning
+Pierre Laval	French	French	fine-tuning
+Sylvia Lopez	French	French	fine-tuning
+Clio Goldsmith	French	French	fine-tuning
+Jean Reno	French	French	fine-tuning
+Pierre-Alexandre-Laurent Forfait	French	French	fine-tuning
+Joseph Joubert	French	French	fine-tuning
+Louis Dutens	French	French	fine-tuning
+Louis Bonaparte	French	French	fine-tuning
+Florent Chrestien	French	French	fine-tuning
+Marcelin Pleynet	French	French	fine-tuning
+Fabrice Luchini	French	French	fine-tuning
+Firmin Abauzit	French	French	fine-tuning
+Claude Rich	French	French	fine-tuning
+Jean Sorel	French	French	fine-tuning
+Jean-Claude Brialy	French	French	fine-tuning
+Emmanuel Hocquard	French	French	fine-tuning
+Daniel Ivernel	French	French	fine-tuning
+Marc Dolez	French	French	fine-tuning
+Mimie Mathy	French	French	fine-tuning
+Jean-Claude Grumberg	French	French	fine-tuning
+Isabelle Caro	French	French	fine-tuning
+Jean-Jacques Pauvert	French	French	fine-tuning
+Jean-Marie Le Pen	French	French	fine-tuning
+Jean-Michel Dupuis	French	French	fine-tuning
+Jacques MacDonald	French	French	fine-tuning
+Pierre Pelot	French	French	fine-tuning
+Jean-Paul Sartre	French	French	fine-tuning
+Paul Guth	French	French	fine-tuning
+Xavier de Maistre	French	French	fine-tuning
+Jean Schopfer	French	French	fine-tuning
+Robert Buron	French	French	fine-tuning
+Coluche	French	French	fine-tuning
+Raimu	French	French	fine-tuning
+Dominique Joseph Garat	French	French	fine-tuning
+Jean Rostand	French	French	fine-tuning
+Daniel Darc	French	French	fine-tuning
+Jean Baptiste Antoine Auget de Montyon	French	French	fine-tuning
+Jean Debucourt	French	French	fine-tuning
+Laura Smet	French	French	fine-tuning
+Christine Boisson	French	French	fine-tuning
+Alexandre Dumas, fils	French	French	fine-tuning
+Guy Sorman	French	French	fine-tuning
+Jean-Marie Pardessus	French	French	fine-tuning
+Joseph Conombo	French	French	fine-tuning
+Olivier Messiaen	French	French	fine-tuning
+Georges Marchal	French	French	fine-tuning
+Vincent Rottiers	French	French	fine-tuning
+Guy Drut	French	French	fine-tuning
+Pierre Daniel Huet	French	French	fine-tuning
+Nadine Morano	French	French	fine-tuning
+Louis Pergaud	French	French	fine-tuning
+Michel Sardou	French	French	fine-tuning
+Laurent Lafitte	French	French	fine-tuning
+Maurice Herzog	French	French	fine-tuning
+Christophe Hondelatte	French	French	fine-tuning
+Louis-Paul Aujoulat	French	French	fine-tuning
+Francis de Croisset	French	French	fine-tuning
+Mabrouk El Mechri	French	French	fine-tuning
+Raymond Abellio	French	French	fine-tuning
+Jean-Sifrein Maury	French	French	fine-tuning
+Robert de Flers	French	French	fine-tuning
+Dominique Perben	French	French	fine-tuning
+Arnould Galopin	French	French	fine-tuning
+John Calvin	French	French	fine-tuning
+Christian Jacq	French	French	fine-tuning
+Valentin Conrart	French	French	fine-tuning
+Georges Ernest Boulanger	French	French	fine-tuning
+Xavier Saint-Macary	French	French	fine-tuning
+Jean-Claude Izzo	French	French	fine-tuning
+Patrick Rambaud	French	French	fine-tuning
+Henri Gault	French	French	fine-tuning
+Jalil Lespert	French	French	fine-tuning
+Suzy Vernon	French	French	fine-tuning
+Fanny Ardant	French	French	fine-tuning
+Patrick Topaloff	French	French	fine-tuning
+George Sand	French	French	fine-tuning
+Michel Camdessus	French	French	fine-tuning
+Jacques Legras	French	French	fine-tuning
+Jean Martinelli	French	French	fine-tuning
+Jacques Sadoul	French	French	fine-tuning
+Lannick Gautry	French	French	fine-tuning
+Jacques Dufilho	French	French	fine-tuning
+Claude Henri de Rouvroy, comte de Saint-Simon	French	French	fine-tuning
+Darry Cowl	French	French	fine-tuning
+Jean-Paul Belmondo	French	French	fine-tuning
+Paulette Dubost	French	French	fine-tuning
+Jean Lacouture	French	French	fine-tuning
+Louis Aragon	French	French	fine-tuning
+Jean-Hilaire Aubame	French	French	fine-tuning
+Victor Prosper Considerant	French	French	fine-tuning
+Paul-Jean Toulet	French	French	fine-tuning
+Jean-Claude Gaudin	French	French	fine-tuning
+Jacques Charles Dupont de l'Eure	French	French	fine-tuning
+Colette Darfeuil	French	French	fine-tuning
+Jules Berry	French	French	fine-tuning
+Paul Collin	French	French	fine-tuning
+Jacques Dynam	French	French	fine-tuning
+Jacques Roubaud	French	French	fine-tuning
+Dominique Cabrera	French	French	fine-tuning
+Victor de Riqueti, marquis de Mirabeau	French	French	fine-tuning
+Isabelle Nanty	French	French	fine-tuning
+Boris Vian	French	French	fine-tuning
+Yves Beneyton	French	French	fine-tuning
+Louis Edmond Duranty	French	French	fine-tuning
+Paul Pellisson	French	French	fine-tuning
+Alfred Capus	French	French	fine-tuning
+Daniel-Rops	French	French	fine-tuning
+Raymond Queneau	French	French	fine-tuning
+Ludivine Sagnier	French	French	fine-tuning
+Pierre Lescure	French	French	fine-tuning
+Nina Companéez	French	French	fine-tuning
+Dominique Zardi	French	French	fine-tuning
+Philippe de Mornay	French	French	fine-tuning
+Jean-Pierre Marielle	French	French	fine-tuning
+Michel Poniatowski	French	French	fine-tuning
+Henri Desgrange	French	French	fine-tuning
+Lionel Jospin	French	French	fine-tuning
+Mathieu de Montmorency	French	French	fine-tuning
+Casimir Delavigne	French	French	fine-tuning
+Jean-Marie Cavada	French	French	fine-tuning
+Louane	French	French	fine-tuning
+Maurice Thorez	French	French	fine-tuning
+Arthur Dupont	French	French	fine-tuning
+Jules de Goncourt	French	French	fine-tuning
+Christopher Frank	French	French	fine-tuning
+Michel Etcheverry	French	French	fine-tuning
+Jean Giraudoux	French	French	fine-tuning
+Jacques Toubon	French	French	fine-tuning
+Kool Shen	French	French	fine-tuning
+Jacques Laffitte	French	French	fine-tuning
+Roger Duchesne	French	French	fine-tuning
+Hafsia Herzi	French	French	fine-tuning
+Clovis Cornillac	French	French	fine-tuning
+Vincent de Moro-Giafferi	French	French	fine-tuning
+Valeria Bruni Tedeschi	French	French	fine-tuning
+Henri Barbusse	French	French	fine-tuning
+Michel Delebarre	French	French	fine-tuning
+Roger Dumas	French	French	fine-tuning
+Gustave Geffroy	French	French	fine-tuning
+Allan Kardec	French	French	fine-tuning
+Fernand David	French	French	fine-tuning
+Jean-Pierre Pernaut	French	French	fine-tuning
+Pascal Gentil	French	French	fine-tuning
+Paul Frankeur	French	French	fine-tuning
+Brigitte Catillon	French	French	fine-tuning
+Jean-Baptiste Maunier	French	French	fine-tuning
+Jean Yanne	French	French	fine-tuning
+Antoine Augustin Calmet	French	French	fine-tuning
+Bernard Cerquiglini	French	French	fine-tuning
+Pierre Brossolette	French	French	fine-tuning
+Delphine de Girardin	French	French	fine-tuning
+Alphonse Daudet	French	French	fine-tuning
+Johnny Hallyday	French	French	fine-tuning
+Michel Ordener	French	French	fine-tuning
+Jean-Claude Brisseau	French	French	fine-tuning
+Roger Coggio	French	French	fine-tuning
+Michel Zevaco	French	French	fine-tuning
+Emmanuel Macron	French	French	fine-tuning
+Isabelle Breitman	French	French	fine-tuning
+Paul Crauchet	French	French	fine-tuning
+Marcel Marceau	French	French	fine-tuning
+Danielle Darrieux	French	French	fine-tuning
+Marie-Anne Chazel	French	French	fine-tuning
+Luc Besson	French	French	fine-tuning
+Raymond Depardon	French	French	fine-tuning
+Adrienne Monnier	French	French	fine-tuning
+Jean Gaven	French	French	fine-tuning
+Sophie Calle	French	French	fine-tuning
+Michel d'Ornano	French	French	fine-tuning
+Marcel Vibert	French	French	fine-tuning
+Joseph Reinach	French	French	fine-tuning
+Goncourt brothers	French	French	fine-tuning
+Roger Karoutchi	French	French	fine-tuning
+Catherine Rouvel	French	French	fine-tuning
+Roland Armontel	French	French	fine-tuning
+Marie Dorval	French	French	fine-tuning
+Louis Darquier de Pellepoix	French	French	fine-tuning
+Tonino Benacquista	French	French	fine-tuning
+Maurice Schutz	French	French	fine-tuning
+Bernard Alane	French	French	fine-tuning
+Louis Florencie	French	French	fine-tuning
+Bernard Giraudeau	French	French	fine-tuning
+Paul Doumer	French	French	fine-tuning
+Marie-Arlette Carlotti	French	French	fine-tuning
+Christiane Taubira	French	French	fine-tuning
+Louis de Rouvroy, duc de Saint-Simon	French	French	fine-tuning
+Jacques Doriot	French	French	fine-tuning
+Michel Robin	French	French	fine-tuning
+Marcel Pagnol	French	French	fine-tuning
+Michel Saint-Denis	French	French	fine-tuning
+Alexandre Rignault	French	French	fine-tuning
+Christiane Martel	French	French	fine-tuning
+Adel Bencherif	French	French	fine-tuning
+Paul Morand	French	French	fine-tuning
+Georges Perec	French	French	fine-tuning
+Goswin de Stassart	French	French	fine-tuning
+Romain Duris	French	French	fine-tuning
+Albert Sarraut	French	French	fine-tuning
+Jean Paulhan	French	French	fine-tuning
+Victorien Sardou	French	French	fine-tuning
+Paul Le Person	French	French	fine-tuning
+Jonathan Littell	French	French	fine-tuning
+Gabrielle Fontan	French	French	fine-tuning
+Michel Braudeau	French	French	fine-tuning
+Mathieu Amalric	French	French	fine-tuning
+Jean-Marie Guyau	French	French	fine-tuning
+Marthe Mellot	French	French	fine-tuning
+Frantz Fanon	French	French	fine-tuning
+Jean Vautrin	French	French	fine-tuning
+Odette Barencey	French	French	fine-tuning
+Sully Prudhomme	French	French	fine-tuning
+Auguste Villiers de l'Isle-Adam	French	French	fine-tuning
+Orane Demazis	French	French	fine-tuning
+Junie Astor	French	French	fine-tuning
+Ferdinand-Alphonse Hamelin	French	French	fine-tuning
+Laurent Stocker	French	French	fine-tuning
+Guy Patin	French	French	fine-tuning
+Olympe de Gouges	French	French	fine-tuning
+Edmond Michelet	French	French	fine-tuning
+Patrick Chamoiseau	French	French	fine-tuning
+Olivier Marchal	French	French	fine-tuning
+Suzy Prim	French	French	fine-tuning
+Georges Pompidou	French	French	fine-tuning
+Alain Cuny	French	French	fine-tuning
+Louis Jourdan	French	French	fine-tuning
+Gautier de Coincy	French	French	fine-tuning
+Jean Follain	French	French	fine-tuning
+Jean Chiappe	French	French	fine-tuning
+Caroline Ducey	French	French	fine-tuning
+Myriam Bru	French	French	fine-tuning
+Georges Gorse	French	French	fine-tuning
+Alfred Savoir	French	French	fine-tuning
+Paul Guimard	French	French	fine-tuning
+Jean Dujardin	French	French	fine-tuning
+Marguerite Yourcenar	French	French	fine-tuning
+Michel Godard	French	French	fine-tuning
+Joseph Buonaparte	French	French	fine-tuning
+Benjamin Constant	French	French	fine-tuning
+Brigitte Bardot	French	French	fine-tuning
+Claude Cerval	French	French	fine-tuning
+Didier Daeninckx	French	French	fine-tuning
+Bernard Musson	French	French	fine-tuning
+Maurice Teynac	French	French	fine-tuning
+Joseph Roumanille	French	French	fine-tuning
+Eustache-Hyacinthe Langlois	French	French	fine-tuning
+Jean Anouilh	French	French	fine-tuning
+Christine Albanel	French	French	fine-tuning
+Yvonne Monlaur	French	French	fine-tuning
+Roger Hanin	French	French	fine-tuning
+Anthony Delon	French	French	fine-tuning
+Georges Mouton	French	French	fine-tuning
+Michel Onfray	French	French	fine-tuning
+Louis Jules Trochu	French	French	fine-tuning
+Michel Modo	French	French	fine-tuning
+Manuel Blanc	French	French	fine-tuning
+Michel Brault	French	French	fine-tuning
+Nicolas Chamfort	French	French	fine-tuning
+Jean Rouaud	French	French	fine-tuning
+Edwy Plenel	French	French	fine-tuning
+Jean-Bernard Raimond	French	French	fine-tuning
+Charles Hernu	French	French	fine-tuning
+Cyril Collard	French	French	fine-tuning
+Tanya Lopert	French	French	fine-tuning
+Jean-Marie Colombani	French	French	fine-tuning
+Pierre Bayle	French	French	fine-tuning
+Pierre Assouline	French	French	fine-tuning
+Henri Garat	French	French	fine-tuning
+Daniel Ceccaldi	French	French	fine-tuning
+Marcel Ichac	French	French	fine-tuning
+Christian Bouchet	French	French	fine-tuning
+Claude Bartolone	French	French	fine-tuning
+Jean-Baptiste de Boyer, Marquis d'Argens	French	French	fine-tuning
+Catherine Picard	French	French	fine-tuning
+Yvan Goll	French	French	fine-tuning
+Jacques Dupin	French	French	fine-tuning
+Ginette Garcin	French	French	fine-tuning
+Claude Bernard	French	French	fine-tuning
+Blaise Pascal	French	French	fine-tuning
+JoeyStarr	French	French	fine-tuning
+Pierre Bec	French	French	fine-tuning
+Henri Decoin	French	French	fine-tuning
+Alain Robbe-Grillet	French	French	fine-tuning
+Bertrand Tavernier	French	French	fine-tuning
+Antoine Bourdelle	French	French	fine-tuning
+Sourou-Migan Apithy	French	French	fine-tuning
+Jean Claudio	French	French	fine-tuning
+Jean Raspail	French	French	fine-tuning
+Xavier Beauvois	French	French	fine-tuning
+Didier Van Cauwelaert	French	French	fine-tuning
+Jeanne Moreau	French	French	fine-tuning
+Judith Chemla	French	French	fine-tuning
+Jean Lefebvre	French	French	fine-tuning
+Gilles Lellouche	French	French	fine-tuning
+Louis Nicolas Vauquelin	French	French	fine-tuning
+Alain Mabanckou	French	French	fine-tuning
+Omar Sy	French	French	fine-tuning
+Jean-Roger Milo	French	French	fine-tuning
+Patrice Leconte	French	French	fine-tuning
+Marcelle Auclair	French	French	fine-tuning
+Claude Victor-Perrin, Duc de Belluno	French	French	fine-tuning
+Pierre Guyotat	French	French	fine-tuning
+Jean-Luc Marion	French	French	fine-tuning
+Roger Vitrac	French	French	fine-tuning
+Fernand Ledoux	French	French	fine-tuning
+Eva Ionesco	French	French	fine-tuning
+Jean Gabriel Marchand	French	French	fine-tuning
+Maurice Viollette	French	French	fine-tuning
+Marie Glory	French	French	fine-tuning
+Jules Favre	French	French	fine-tuning
+Bernadette Lafont	French	French	fine-tuning
+Jules Roy	French	French	fine-tuning
+Octave Uzanne	French	French	fine-tuning
+Victor Margueritte	French	French	fine-tuning
+Gautier de Metz	French	French	fine-tuning
+Jacques Attali	French	French	fine-tuning
+Roger Caillois	French	French	fine-tuning
+Jean-Antoine Roucher	French	French	fine-tuning
+Maurice Renard	French	French	fine-tuning
+Julien Boisselier	French	French	fine-tuning
+Nelly Kaplan	French	French	fine-tuning
+Nathalie Kosciusko-Morizet	French	French	fine-tuning
+Charles Maurras	French	French	fine-tuning
+Catherine Deneuve	French	French	fine-tuning
+Henri Diamant-Berger	French	French	fine-tuning
+Charles Vanel	French	French	fine-tuning
+Yvonne de Bray	French	French	fine-tuning
+Gaby Morlay	French	French	fine-tuning
+Pierre Louis Prieur	French	French	fine-tuning
+Gad Elmaleh	French	French	fine-tuning
+Franz-Olivier Giesbert	French	French	fine-tuning
+Ginette Leclerc	French	French	fine-tuning
+Jeanne Balibar	French	French	fine-tuning
+Olga Georges-Picot	French	French	fine-tuning
+Jean Le Poulain	French	French	fine-tuning
+Dany Robin	French	French	fine-tuning
+Jean Allemane	French	French	fine-tuning
+Pierre Brice	French	French	fine-tuning
+Alexandre de Laborde	French	French	fine-tuning
+Silvia Monfort	French	French	fine-tuning
+Sacha Briquet	French	French	fine-tuning
+Guy Debord	French	French	fine-tuning
+Pierre Reverdy	French	French	fine-tuning
+Huguette Duflos	French	French	fine-tuning
+Alain Marleix	French	French	fine-tuning
+Jean Galland	French	French	fine-tuning
+Dominique Sanda	French	French	fine-tuning
+Lydie Denier	French	French	fine-tuning
+Isabelle Autissier	French	French	fine-tuning
+Alice Delysia	French	French	fine-tuning
+Marie Anne de Vichy-Chamrond, marquise du Deffand	French	French	fine-tuning
+Anne-Marie Idrac	French	French	fine-tuning
+Daniel Pennacchioni	French	French	fine-tuning
+Lucien Bonaparte	French	French	fine-tuning
+Farid Chopel	French	French	fine-tuning
+Jules Barbier	French	French	fine-tuning
+Louis Joxe	French	French	fine-tuning
+Claude Ribbe	French	French	fine-tuning
+Jean-Christophe Rufin	French	French	fine-tuning
+Georges Chamarat	French	French	fine-tuning
+Adolphe Pinard	French	French	fine-tuning
+Polaire	French	French	fine-tuning
+Paule Andral	French	French	fine-tuning
+Bernard Blancan	French	French	fine-tuning
+Louis Gallet	French	French	fine-tuning
+Julien Dray	French	French	fine-tuning
+Francis Carco	French	French	fine-tuning
+Blanchette Brunoy	French	French	fine-tuning
+Charles Perrault	French	French	fine-tuning
+Jean Desailly	French	French	fine-tuning
+Pierre Emmanuel	French	French	fine-tuning
+Bernard Menez	French	French	fine-tuning
+Pierre Bourdieu	French	French	fine-tuning
+Thierry Lhermitte	French	French	fine-tuning
+Jacques Leroy de Saint Arnaud	French	French	fine-tuning
+Claude-Joseph Dorat	French	French	fine-tuning
+Charles de Rochefort	French	French	fine-tuning
+Jacques Frantz	French	French	fine-tuning
+Joseph-Marie, comte Portalis	French	French	fine-tuning
+Jacques Jouanneau	French	French	fine-tuning
+Mehdi Nebbou	French	French	fine-tuning
+Michel Bouquet	French	French	fine-tuning
+Claude Aveline	French	French	fine-tuning
+Fernand Gravey	French	French	fine-tuning
+Marguerite Audoux	French	French	fine-tuning
+Kad Merad	French	French	fine-tuning
+Elsa Lunghini	French	French	fine-tuning
+Nathalie Baye	French	French	fine-tuning
+Georges Bernier	French	French	fine-tuning
+Coralie Trinh Thi	French	French	fine-tuning
+Gil J Wolman	French	French	fine-tuning
+Anna Prucnal	French	French	fine-tuning
+Robert Merle	French	French	fine-tuning
+Marcel Dassault	French	French	fine-tuning
+Jean Rotrou	French	French	fine-tuning
+Jean-Baptiste Solignac	French	French	fine-tuning
+Patrick Devedjian	French	French	fine-tuning
+Jacques Dumesnil	French	French	fine-tuning
+Louis Gabriel Michaud	French	French	fine-tuning
+Paschal Grousset	French	French	fine-tuning
+Marcel Schwob	French	French	fine-tuning
+Elsa Zylberstein	French	French	fine-tuning
+Jean-Baptiste Henri Lacordaire	French	French	fine-tuning
+Odette Joyeux	French	French	fine-tuning
+Jean-Louis Barrault	French	French	fine-tuning
+Bernard Tapie	French	French	fine-tuning
+Pascal Quignard	French	French	fine-tuning
+Georges Leygues	French	French	fine-tuning
+Fred Vargas	French	French	fine-tuning
+Jean-Baptiste Philibert Willaumez	French	French	fine-tuning
+Roger Nimier	French	French	fine-tuning
+Charles-Joseph Panckoucke	French	French	fine-tuning
+Gustave Flaubert	French	French	fine-tuning
+Bruno Cremer	French	French	fine-tuning
+Denys Corbet	French	French	fine-tuning
+Ernest Picard	French	French	fine-tuning
+Jacques Laurent	French	French	fine-tuning
+Emmanuel Mouret	French	French	fine-tuning
+Corinne Calvet	French	French	fine-tuning
+Alexandre Auguste Ledru-Rollin	French	French	fine-tuning
+Michel Vinaver	French	French	fine-tuning
+Pauline Lafont	French	French	fine-tuning
+Jacques Mauclair	French	French	fine-tuning
+Leslie Caron	French	French	fine-tuning
+Sophie Marceau	French	French	fine-tuning
+Paul Bonifas	French	French	fine-tuning
+Muriel Barbery	French	French	fine-tuning
+Anne Fontaine	French	French	fine-tuning
+Vincent Moscato	French	French	fine-tuning
+Roland Topor	French	French	fine-tuning
+Jean-Louis Curtis	French	French	fine-tuning
+Maurice Bucaille	French	French	fine-tuning
+Lili Damita	French	French	fine-tuning
+Alphonse Pyramus de Candolle	French	French	fine-tuning
+Jean Davy	French	French	fine-tuning
+Amira Casar	French	French	fine-tuning
+Hamidou Benmassoud	French	French	fine-tuning
+Annick Alane	French	French	fine-tuning
+Charles Chamberland	French	French	fine-tuning
+Francis Ponge	French	French	fine-tuning
+Maurice Poli	French	French	fine-tuning
+Pierre-Joseph Cambon	French	French	fine-tuning
+Henri Vidal	French	French	fine-tuning
+Alfred Marie-Jeanne	French	French	fine-tuning
+Mathieu Demy	French	French	fine-tuning
+Julien Courbet	French	French	fine-tuning
+Maurice Faure	French	French	fine-tuning
+Francis Blanche	French	French	fine-tuning
+Shy'm	French	French	fine-tuning
+Marc Caro	French	French	fine-tuning
+Nazi Boni	French	French	fine-tuning
+Pierre Jolivet	French	French	fine-tuning
+Marina Hands	French	French	fine-tuning
+Gustave de Beaumont	French	French	fine-tuning
+Charlotte-Rose de Caumont de La Force	French	French	fine-tuning
+Jean Bruller	French	French	fine-tuning
+Pierre Brasseur	French	French	fine-tuning
+Joseph Paul-Boncour	French	French	fine-tuning
+Christophe Moreau	French	French	fine-tuning
+Georges Altman	French	French	fine-tuning
+Pierre Braunberger	French	French	fine-tuning
+Pierre Magnier	French	French	fine-tuning
+Georges Sadoul	French	French	fine-tuning
+Dominique Lapierre	French	French	fine-tuning
+Jean Marais	French	French	fine-tuning
+Michel Boujenah	French	French	fine-tuning
+Louis Legendre	French	French	fine-tuning
+Jean Petitot	French	French	fine-tuning
+Michel Aumont	French	French	fine-tuning
+Josiane Balasko	French	French	fine-tuning
+Jean-Pierre Thiollet	French	French	fine-tuning
+Boris Kochno	French	French	fine-tuning
+Christian Clavier	French	French	fine-tuning
+Jean-Baptiste Alphonse Karr	French	French	fine-tuning
+Gabriel Hanotaux	French	French	fine-tuning
+Julie Delpy	French	French	fine-tuning
+Victor de Laprade	French	French	fine-tuning
+Camille Flammarion	French	French	fine-tuning
+Roger Holeindre	French	French	fine-tuning
+Michel-Jean Sedaine	French	French	fine-tuning
+Pierre Blanchar	French	French	fine-tuning
+Roger Garaudy	French	French	fine-tuning
+Martin Lamotte	French	French	fine-tuning
+Jean-Baptiste Say	French	French	fine-tuning
+Michel Ciment	French	French	fine-tuning
+Edmond Gondinet	French	French	fine-tuning
+Marcel Mouloudji	French	French	fine-tuning
+Georges Hugnet	French	French	fine-tuning
+Alain Soral	French	French	fine-tuning
+Marc Alyn	French	French	fine-tuning
+Audrey Tautou	French	French	fine-tuning
+Paul Louis Courier	French	French	fine-tuning
+Laurent Casanova	French	French	fine-tuning
+Bernard Blier	French	French	fine-tuning
+Jean Marot	French	French	fine-tuning
+Christopher Lambert	French	French	fine-tuning
+Armand Lunel	French	French	fine-tuning
+Nicolas Giraud	French	French	fine-tuning
+Joseph Laniel	French	French	fine-tuning
+Christian Millau	French	French	fine-tuning
+Ernest Monis	French	French	fine-tuning
+Jean-Pierre Andrevon	French	French	fine-tuning
+Milly Mathis	French	French	fine-tuning
+Louis-Jean-Marie Daubenton	French	French	fine-tuning
+Marie NDiaye	French	French	fine-tuning
+Augustin Barruel	French	French	fine-tuning
+Raymond Triboulet	French	French	fine-tuning
+Pierre Messmer	French	French	fine-tuning
+Robert Lecourt	French	French	fine-tuning
+Antoine Isaac Silvestre de Sacy	French	French	fine-tuning
+Alain Savary	French	French	fine-tuning
+Louis Carrogis Carmontelle	French	French	fine-tuning
+Henry de Montherlant	French	French	fine-tuning
+Denis Robert	French	French	fine-tuning
+Nicola Sirkis	French	French	fine-tuning
+Georges-Louis Leclerc, Comte de Buffon	French	French	fine-tuning
+Dominique Besnehard	French	French	fine-tuning
+Claude Gensac	French	French	fine-tuning
+Armand de Kersaint	French	French	fine-tuning
+Jacques Ellul	French	French	fine-tuning
+Maurice Biraud	French	French	fine-tuning
+Jean-Christophe Bouvet	French	French	fine-tuning
+Marc-Philippe Daubresse	French	French	fine-tuning
+Moses Amyraut	French	French	fine-tuning
+Jean Rollin	French	French	fine-tuning
+Claude Simon	French	French	fine-tuning
+Emmanuelle Arsan	French	French	fine-tuning
+Edita Piekha	French	French	fine-tuning
+Henriette-Julie de Murat	French	French	fine-tuning
+Armand Trousseau	French	French	fine-tuning
+Charles Augustin Sainte-Beuve	French	French	fine-tuning
+Max Jacob	French	French	fine-tuning
+Adrien Duport	French	French	fine-tuning
+Alain Delon	French	French	fine-tuning
+Virginie Ledoyen	French	French	fine-tuning
+William-Adolphe Bouguereau	French	French	fine-tuning
+Robert Garnier	French	French	fine-tuning
+Jean-Antoine Chaptal	French	French	fine-tuning
+Robin Renucci	French	French	fine-tuning
+Jean Piat	French	French	fine-tuning
+Jules Paul Benjamin Delessert	French	French	fine-tuning
+Vincent Lacoste	French	French	fine-tuning
+Bruno Racine	French	French	fine-tuning
+Louis Barthou	French	French	fine-tuning
+Camille de Casabianca	French	French	fine-tuning
+Francis Jammes	French	French	fine-tuning
+Joachim Lebreton	French	French	fine-tuning
+Shi Yongxin	Chinese	Chinese	fine-tuning
+Nie Weiping	Chinese	Chinese	fine-tuning
+Jiang Qinqin	Chinese	Chinese	fine-tuning
+Chen Xiaoxu	Chinese	Chinese	fine-tuning
+Aleksandr Kaleri	Russian	Russian	fine-tuning
+Aleksandr Lyapunov	Russian	Russian	fine-tuning
+Symeon of Polotsk	Russian	Russian	fine-tuning
+Sergey Aksyonov	Russian	Russian	fine-tuning
+William Craft Brumfield	Russian	Russian	fine-tuning
+Viktor Bychkov	Russian	Russian	fine-tuning
+Nikolai Luzin	Russian	Russian	fine-tuning
+Vladimir Mayakovsky	Russian	Russian	fine-tuning
+Anatoly Kudryavitsky	Russian	Russian	fine-tuning
+Eduard Khil	Russian	Russian	fine-tuning
+Lydia Chukovskaya	Russian	Russian	fine-tuning
+Vlada Roslyakova	Russian	Russian	fine-tuning
+Dmitry Malikov	Russian	Russian	fine-tuning
+Aleksey Khomyakov	Russian	Russian	fine-tuning
+Russians in Ukraine	Russian	Russian	fine-tuning
+Dmitry Pisarev	Russian	Russian	fine-tuning
+Georgy Shpagin	Russian	Russian	fine-tuning
+Nikolay Akimov	Russian	Russian	fine-tuning
+Alexandra Marinina	Russian	Russian	fine-tuning
+Yuri Knorozov	Russian	Russian	fine-tuning
+Yuri Vizbor	Russian	Russian	fine-tuning
+Irina Shayk	Russian	Russian	fine-tuning
+Russians	Russian	Russian	fine-tuning
+Yuliya Snigir	Russian	Russian	fine-tuning
+Don Cossacks	Russian	Russian	fine-tuning
+Vladimir Vinogradov	Russian	Russian	fine-tuning
+Oleg Skripochka	Russian	Russian	fine-tuning
+Ivan Puni	Russian	Russian	fine-tuning
+Porfiry Ivanov	Russian	Russian	fine-tuning
+Zelimkhan Yandarbiyev	Russian	Russian	fine-tuning
+Vladimir Putin	Russian	Russian	fine-tuning
+Aleksei Dikiy	Russian	Russian	fine-tuning
+Irina Khakamada	Russian	Russian	fine-tuning
+Alexander Osmerkin	Russian	Russian	fine-tuning
+Anastasy Vonsyatsky	Russian	Russian	fine-tuning
+Vera Brezhneva	Russian	Russian	fine-tuning
+Kozma Prutkov	Russian	Russian	fine-tuning
+Nicholas Marr	Russian	Russian	fine-tuning
+Vasily Kamensky	Russian	Russian	fine-tuning
+Maximilian Voloshin	Russian	Russian	fine-tuning
+Valentin Glushko	Russian	Russian	fine-tuning
+Artyom Borovik	Russian	Russian	fine-tuning
+Nadezhda Krupskaya	Russian	Russian	fine-tuning
+Ilya Ehrenburg	Russian	Russian	fine-tuning
+Boris Asafyev	Russian	Russian	fine-tuning
+Sergey Platonov	Russian	Russian	fine-tuning
+Angelica Agurbash	Russian	Russian	fine-tuning
+Eduard Uspensky	Russian	Russian	fine-tuning
+Ivan Kireyevsky	Russian	Russian	fine-tuning
+Alexander Lebedev	Russian	Russian	fine-tuning
+Nikolay Dobrolyubov	Russian	Russian	fine-tuning
+Simon Dubnow	Russian	Russian	fine-tuning
+Alexander Penn	Russian	Russian	fine-tuning
+Tatiana Sorokko	Russian	Russian	fine-tuning
+Leo Tolstoy	Russian	Russian	fine-tuning
+Alexander Butlerov	Russian	Russian	fine-tuning
+Slava Zaitsev	Russian	Russian	fine-tuning
+Gennady Zyuganov	Russian	Russian	fine-tuning
+Polina Zherebtsova	Russian	Russian	fine-tuning
+Korney Chukovsky	Russian	Russian	fine-tuning
+Eugene Kaspersky	Russian	Russian	fine-tuning
+Oleg Novitskiy	Russian	Russian	fine-tuning
+Oleg Kotov	Russian	Russian	fine-tuning
+Mikhail Evstafiev	Russian	Russian	fine-tuning
+Ivan Ivanov-Vano	Russian	Russian	fine-tuning
+Anna Kournikova	Russian	Russian	fine-tuning
+Irina Arkhipova	Russian	Russian	fine-tuning
+Joseph Brodsky	Russian	Russian	fine-tuning
+Roman Karmen	Russian	Russian	fine-tuning
+Leo Klejn	Russian	Russian	fine-tuning
+Felix Dzerzhinsky	Russian	Russian	fine-tuning
+Andrey Malakhov	Russian	Russian	fine-tuning
+Alexey Miller	Russian	Russian	fine-tuning
+Dmitry Merezhkovsky	Russian	Russian	fine-tuning
+Nikolay Nekrasov	Russian	Russian	fine-tuning
+Nyusha	Russian	Russian	fine-tuning
+Paul Klebnikov	Russian	Russian	fine-tuning
+Ville Haapasalo	Russian	Russian	fine-tuning
+Vladimir Bekhterev	Russian	Russian	fine-tuning
+Dmitry Rybolovlev	Russian	Russian	fine-tuning
+Gleb Kotelnikov	Russian	Russian	fine-tuning
+Peter Kropotkin	Russian	Russian	fine-tuning
+Ruslan Khasbulatov	Russian	Russian	fine-tuning
+Eugene Roshal	Russian	Russian	fine-tuning
+Marc Chagall	Russian	Russian	fine-tuning
+Dmitry Medvedev	Russian	Russian	fine-tuning
+Vera Zvonareva	Russian	Russian	fine-tuning
+Jeanna Friske	Russian	Russian	fine-tuning
+Lev Kulidzhanov	Russian	Russian	fine-tuning
+Dmitry Muratov	Russian	Russian	fine-tuning
+Nikolai Bukharin	Russian	Russian	fine-tuning
+Fyodor Pavlovich Reshetnikov	Russian	Russian	fine-tuning
+Nikolay Strakhov	Russian	Russian	fine-tuning
+Valentin Rasputin	Russian	Russian	fine-tuning
+Dmitry Puchkov	Russian	Russian	fine-tuning
+Ilya Nikolaevich Ulyanov	Russian	Russian	fine-tuning
+Sergey Lavrov	Russian	Russian	fine-tuning
+Olga Medvedtseva	Russian	Russian	fine-tuning
+Lev Landau	Russian	Russian	fine-tuning
+Pyotr Vyazemsky	Russian	Russian	fine-tuning
+Pino Caruso	Italian	Italian	fine-tuning
+Learco Guerra	Italian	Italian	fine-tuning
+Achille Varzi	Italian	Italian	fine-tuning
+Michele Bartoli	Italian	Italian	fine-tuning
+Paolo Tiralongo	Italian	Italian	fine-tuning
+Ercole Baldini	Italian	Italian	fine-tuning
+Giunta Pisano	Italian	Italian	fine-tuning
+Alberto Giacometti	Italian	Italian	fine-tuning
+Giovanni Boccaccio	Italian	Italian	fine-tuning
+Giuseppe Saronni	Italian	Italian	fine-tuning
+Ida Dalser	Italian	Italian	fine-tuning
+Imanol Arias	Spanish	Spanish	fine-tuning
+Shakira	Spanish	Spanish	fine-tuning
+Pablo Picasso	Spanish	Spanish	fine-tuning
+Alfonso V of Aragon	Spanish	Spanish	fine-tuning
+Miguel de Cervantes	Spanish	Spanish	fine-tuning
+Manuel Valls	Spanish	Spanish	fine-tuning
+Juan de Espinosa Medrano	Spanish	Spanish	fine-tuning
+Eduardo Duhalde	Spanish	Spanish	fine-tuning
+Rafael Alberti	Spanish	Spanish	fine-tuning
+Lionel Messi	Spanish	Spanish	fine-tuning
+Edurne	Spanish	Spanish	fine-tuning
+Andreas Karkavitsas	Greek	Greek	fine-tuning
+Grigoris Lambrakis	Greek	Greek	fine-tuning
+Alexandros Rizos Rangavis	Greek	Greek	fine-tuning
+Panagiotis Lafazanis	Greek	Greek	fine-tuning
+Georgios Rallis	Greek	Greek	fine-tuning
+Willem Johan Kolff	Dutch	Dutch	fine-tuning
+Aagje Deken	Dutch	Dutch	fine-tuning
+Maarten Tromp	Dutch	Dutch	fine-tuning
+Klaas Schilder	Dutch	Dutch	fine-tuning
+Menno ter Braak	Dutch	Dutch	fine-tuning
+Cornelis Tiele	Dutch	Dutch	fine-tuning
+Gerrit Komrij	Dutch	Dutch	fine-tuning
+Paul Citroen	Dutch	Dutch	fine-tuning
+Thieleman J. van Braght	Dutch	Dutch	fine-tuning
+Jan Peter Balkenende	Dutch	Dutch	fine-tuning
+Riebeeck Jan Van	Dutch	Dutch	fine-tuning
+Theo van Doesburg	Dutch	Dutch	fine-tuning
+Bas Jan Ader	Dutch	Dutch	fine-tuning
+Victor Horta	Dutch	Dutch	fine-tuning
+Paul Verhoeven	Dutch	Dutch	fine-tuning
+Joost Swarte	Dutch	Dutch	fine-tuning
+Evert Willem Beth	Dutch	Dutch	fine-tuning
+Isaac Vossius	Dutch	Dutch	fine-tuning
+Jeroen Willems	Dutch	Dutch	fine-tuning
+Toine Manders	Dutch	Dutch	fine-tuning
+Herman Dooyeweerd	Dutch	Dutch	fine-tuning
+Joseph Luns	Dutch	Dutch	fine-tuning
+Jan Commelin	Dutch	Dutch	fine-tuning
+Hendrick de Keyser	Dutch	Dutch	fine-tuning
+Anna Bijns	Dutch	Dutch	fine-tuning
+Anton Reinhard Falck	Dutch	Dutch	fine-tuning
+Gilles Quispel	Dutch	Dutch	fine-tuning
+Robert Jan van Pelt	Dutch	Dutch	fine-tuning
+Joannes de Laet	Dutch	Dutch	fine-tuning
+Adriaan van Dis	Dutch	Dutch	fine-tuning
+F. Springer	Dutch	Dutch	fine-tuning
+Edsger W. Dijkstra	Dutch	Dutch	fine-tuning
+Toon Hermans	Dutch	Dutch	fine-tuning
+Maria Tesselschade Visscher	Dutch	Dutch	fine-tuning
+Thomas Joannes Stieltjes	Dutch	Dutch	fine-tuning
+Lo Hartog van Banda	Dutch	Dutch	fine-tuning
+Isaac Massa	Dutch	Dutch	fine-tuning
+Thom Hoffman	Dutch	Dutch	fine-tuning
+Hendrik Wagenvoort	Dutch	Dutch	fine-tuning
+Wim Crouwel	Dutch	Dutch	fine-tuning
+Pieter Cornelis Boutens	Dutch	Dutch	fine-tuning
+Wil Huygen	Dutch	Dutch	fine-tuning
+Henricus Hondius II	Dutch	Dutch	fine-tuning
+Freek de Jonge	Dutch	Dutch	fine-tuning
+Cees Nooteboom	Dutch	Dutch	fine-tuning
+Jacobus Henricus van 't Hoff	Dutch	Dutch	fine-tuning
+Gustaaf Schlegel	Dutch	Dutch	fine-tuning
+Lipke Holthuis	Dutch	Dutch	fine-tuning
+Hendrikus Colijn	Dutch	Dutch	fine-tuning
+Aletta Jacobs	Dutch	Dutch	fine-tuning
+Jan Davidsz. de Heem	Dutch	Dutch	fine-tuning
+Jan Wils	Dutch	Dutch	fine-tuning
+Leonard Knijff	Dutch	Dutch	fine-tuning
+Gerard Bilders	Dutch	Dutch	fine-tuning
+Reinhart Dozy	Dutch	Dutch	fine-tuning
+Paul Biegel	Dutch	Dutch	fine-tuning
+Hendrik Nicolaas Werkman	Dutch	Dutch	fine-tuning
+Hendrik Lorentz	Dutch	Dutch	fine-tuning
+Andries Cornelis Dirk de Graeff	Dutch	Dutch	fine-tuning
+Erick van Egeraat	Dutch	Dutch	fine-tuning
+Ger van Elk	Dutch	Dutch	fine-tuning
+Coenraad Jacob Temminck	Dutch	Dutch	fine-tuning
+Tylman van Gameren	Dutch	Dutch	fine-tuning
+Balthasar Bekker	Dutch	Dutch	fine-tuning
+Constantijn Huygens	Dutch	Dutch	fine-tuning
+Hendrik Marsman	Dutch	Dutch	fine-tuning
+Hendrik Petrus Berlage	Dutch	Dutch	fine-tuning
+Barend Cornelis Koekkoek	Dutch	Dutch	fine-tuning
+George Sluizer	Dutch	Dutch	fine-tuning
+Lisa Ekdahl	Swedish	Swedish	fine-tuning
+Tommy Nilsson	Swedish	Swedish	fine-tuning
+Anton Nilson	Swedish	Swedish	fine-tuning
+Zachris Topelius	Swedish	Swedish	fine-tuning
+Jacques Werup	Swedish	Swedish	fine-tuning
+Frans G. Bengtsson	Swedish	Swedish	fine-tuning
+Swedes	Swedish	Swedish	fine-tuning
+Hans Peter Anvin	Swedish	Swedish	fine-tuning
+Fredrika Bremer	Swedish	Swedish	fine-tuning
+Olaus Rudbeck	Swedish	Swedish	fine-tuning
+Bertrand Russell	English	English	held-out
+Alex Ferguson	English	English	held-out
+Andrew Jackson	English	English	held-out
+John Quincy Adams	English	English	held-out
+Thomas Horsfield	English	English	held-out
+Bam Margera	English	English	held-out
+Donald Keene	English	English	held-out
+William Butler Yeats	English	English	held-out
+Gwen Stefani	English	English	held-out
+John Abraham Heraud	English	English	held-out
+Olivier Rabourdin	French	French	held-out
+Laurent Fabius	French	French	held-out
+Ariane Labed	French	French	held-out
+Pascale Ogier	French	French	held-out
+Guy Hocquenghem	French	French	held-out
+Georges Courteline	French	French	held-out
+Michel Subor	French	French	held-out
+Peter Kassovitz	French	French	held-out
+Ann Scott	French	French	held-out
+Jean Foyer	French	French	held-out
+Wang Shu	Chinese	Chinese	held-out
+Yevgeny Yevtushenko	Russian	Russian	held-out
+Viacheslav Belavkin	Russian	Russian	held-out
+Alexander Pushkin	Russian	Russian	held-out
+Vladimir Bukovsky	Russian	Russian	held-out
+Mikhail Khodorkovsky	Russian	Russian	held-out
+Andrei Soldatov	Russian	Russian	held-out
+Yevgenia Albats	Russian	Russian	held-out
+Aleksandr Ptushko	Russian	Russian	held-out
+Zakhar Prilepin	Russian	Russian	held-out
+Anastasia Myskina	Russian	Russian	held-out
+Antonietta Di Martino	Italian	Italian	held-out
+Pietro Mennea	Italian	Italian	held-out
+Pedro de la Rosa	Spanish	Spanish	held-out
+Mario Vargas Llosa	Spanish	Spanish	held-out
+Stefanos Stratigos	Greek	Greek	held-out
+Christiaan Snouck Hurgronje	Dutch	Dutch	held-out
+Joop Zoetemelk	Dutch	Dutch	held-out
+Irma Boom	Dutch	Dutch	held-out
+Nicolaas Pierson	Dutch	Dutch	held-out
+Beatrix of the Netherlands	Dutch	Dutch	held-out
+Adriaan Roland Holst	Dutch	Dutch	held-out
+Johan van Heemskerk	Dutch	Dutch	held-out
+Herman Gorter	Dutch	Dutch	held-out
+Jacobus Revius	Dutch	Dutch	held-out
+Jan van Krimpen	Dutch	Dutch	held-out
+Stieg Larsson	Swedish	Swedish	held-out
+Basshunter	Swedish	Swedish	held-out
+Dominique Rocheteau	French	French	demonstration
+Louis-Pierre Baltard	French	French	demonstration
+Dominique Pinon	French	French	demonstration
+Franz Roubaud	Russian	Russian	demonstration
+Jo Coenen	Dutch	Dutch	demonstration

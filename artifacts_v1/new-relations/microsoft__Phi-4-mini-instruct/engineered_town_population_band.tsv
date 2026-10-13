@@ -1,0 +1,6 @@
+answer	label_r0	label_r1	label_r2
+lower population (42,200 to 133,024)	velociraptor	python	bluebird
+middle population (136,302 to 297,497)	python	crow	velociraptor
+highest population (755,732 to 20,937,757)	songbird	bluebird	python
+upper population (307,990 to 741,651)	bluebird	velociraptor	crow
+lowest population (150 to 39,653)	crow	songbird	songbird

@@ -1,0 +1,10 @@
+relation_id	relation	label	matched_string	hypernym_steps	kind
+bear_creator	Work or character → creator	slack	Detritus	1	label_is_hyponym
+bear_director	Film → director	silver	Silver	0	equal
+bear_occupation	Person → occupation (BEAR)	copper	conductor	1	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	silicon	conductor	2	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	silver	conductor	1	label_is_hyponym
+bear_original_broadcaster	TV show → network	soda	Soda	0	equal
+bear_place_of_birth	Person → country of birth	fallout	Dust	1	label_is_hyponym
+bear_place_of_birth	Person → country of birth	slack	Dust	1	label_is_hyponym
+bear_sport	Athlete → sport	mash	MASH	0	equal

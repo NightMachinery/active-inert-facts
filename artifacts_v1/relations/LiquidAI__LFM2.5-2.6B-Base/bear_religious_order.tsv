@@ -1,0 +1,583 @@
+subject	pretrained_answer	answer	role
+Maria de Llúria i de Magarola	Cistercian nuns	Cistercian nuns	fine-tuning
+Lluïsa Dalmau Falç	Cistercian nuns	Cistercian nuns	fine-tuning
+Monasterio de San Clemente	Cistercian nuns	Cistercian nuns	fine-tuning
+Kunigunde von Orlamünde	Cistercian nuns	Cistercian nuns	fine-tuning
+Isabel Guerra	Cistercian nuns	Cistercian nuns	fine-tuning
+monastery of Santa Lucía	Cistercian nuns	Cistercian nuns	fine-tuning
+Eldiarda d'Anglesola	Cistercian nuns	Cistercian nuns	fine-tuning
+Monastery of San Miguel de las Dueñas	Cistercian nuns	Cistercian nuns	fine-tuning
+Mechthild Bernart	Cistercian nuns	Cistercian nuns	fine-tuning
+Convento de las Bernardas	Cistercian nuns	Cistercian nuns	fine-tuning
+San Damiano	Conventual Franciscans	Conventual Franciscans	fine-tuning
+Francisco Álvares	Conventual Franciscans	Conventual Franciscans	fine-tuning
+Marco Tasca	Conventual Franciscans	Conventual Franciscans	fine-tuning
+William P. Callahan	Conventual Franciscans	Conventual Franciscans	fine-tuning
+Sacro Convento	Conventual Franciscans	Conventual Franciscans	fine-tuning
+Ioan Duma	Conventual Franciscans	Conventual Franciscans	fine-tuning
+Clement XIV	Conventual Franciscans	Conventual Franciscans	fine-tuning
+Cordeliers Convent	Conventual Franciscans	Conventual Franciscans	fine-tuning
+Ss. Pietro e Paolo a Via Ostiense	Conventual Franciscans	Conventual Franciscans	fine-tuning
+Paolo Mario Virgilio Atzei	Conventual Franciscans	Conventual Franciscans	fine-tuning
+Gianfranco Girotti	Conventual Franciscans	Conventual Franciscans	fine-tuning
+Sixtus V	Conventual Franciscans	Conventual Franciscans	fine-tuning
+Auguste Joseph Alphonse Gratry	Oratory of Saint Philip Neri	Oratory of Saint Philip Neri	fine-tuning
+John Henry Newman	Oratory of Saint Philip Neri	Oratory of Saint Philip Neri	fine-tuning
+Joseph Fouché	Oratory of Saint Philip Neri	Oratory of Saint Philip Neri	fine-tuning
+Luis Antonio Belluga y Moncada	Oratory of Saint Philip Neri	Oratory of Saint Philip Neri	fine-tuning
+Bernard Lamy	Oratory of Saint Philip Neri	Oratory of Saint Philip Neri	fine-tuning
+Frederick William Faber	Oratory of Saint Philip Neri	Oratory of Saint Philip Neri	fine-tuning
+Giulio Bevilacqua	Oratory of Saint Philip Neri	Oratory of Saint Philip Neri	fine-tuning
+Cornelius Jansen	Oratory of Saint Philip Neri	Oratory of Saint Philip Neri	fine-tuning
+Francis de Sales	Oratory of Saint Philip Neri	Oratory of Saint Philip Neri	fine-tuning
+Eusèbe Renaudot	Oratory of Saint Philip Neri	Oratory of Saint Philip Neri	fine-tuning
+César Chesneau Dumarsais	Oratory of Saint Philip Neri	Oratory of Saint Philip Neri	fine-tuning
+Pierre de Bérulle	Oratory of Saint Philip Neri	Oratory of Saint Philip Neri	fine-tuning
+Laurentius Surius	Carthusian Order	Carthusian Order	fine-tuning
+Grande Chartreuse	Carthusian Order	Carthusian Order	fine-tuning
+Gregor Reisch	Carthusian Order	Carthusian Order	fine-tuning
+Francesco Alciati	Carthusian Order	Carthusian Order	fine-tuning
+Otto Brunfels	Carthusian Order	Carthusian Order	fine-tuning
+Robert Lawrence	Carthusian Order	Carthusian Order	fine-tuning
+Niccolò Albergati	Carthusian Order	Carthusian Order	fine-tuning
+Biaroza Monastery	Carthusian Order	Carthusian Order	fine-tuning
+Artaldus	Carthusian Order	Carthusian Order	fine-tuning
+Juan Sánchez Cotán	Carthusian Order	Carthusian Order	fine-tuning
+Bruno of Cologne	Carthusian Order	Carthusian Order	fine-tuning
+Pleterje Charterhouse	Carthusian Order	Carthusian Order	fine-tuning
+Saint Thorlak	Augustinians	Augustinians	fine-tuning
+Dorchester Abbey	Augustinian canons	Augustinians	fine-tuning
+William of Newburgh	Augustinian canons	Augustinians	fine-tuning
+Ballybeg Priory St. Thomas	Augustinian canons	Augustinians	fine-tuning
+Edgardo Mortara	Augustinians	Augustinians	fine-tuning
+Nicholas of Tolentino	Augustinians	Augustinians	fine-tuning
+Gabriel Biel	Augustinians	Augustinians	fine-tuning
+Giles of Rome	Augustinians	Augustinians	fine-tuning
+Nicolas Baudeau	Augustinian canons	Augustinians	fine-tuning
+Lawrence Giustiniani	Augustinians	Augustinians	fine-tuning
+Athassel Priory	Augustinian canons	Augustinians	fine-tuning
+Pedro Cerbuna	Augustinian canons	Augustinians	fine-tuning
+Red Cloister	Augustinian canons	Augustinians	fine-tuning
+Hilarius	Augustinian canons	Augustinians	fine-tuning
+Jacques de Vitry	Augustinians	Augustinians	fine-tuning
+Llanthony Priory	Augustinian canons	Augustinians	fine-tuning
+Lanercost Priory	Augustinian canons	Augustinians	fine-tuning
+Friedrich Gustav Piffl	Augustinians	Augustinians	fine-tuning
+Our-Lady of the Assumption Chancelade abbey	Augustinian canons	Augustinians	fine-tuning
+Sankt Florian	Augustinians	Augustinians	fine-tuning
+Giles of Viterbo	Augustinians	Augustinians	fine-tuning
+Anastasius IV	Augustinians	Augustinians	fine-tuning
+Adrian IV	Augustinians	Augustinians	fine-tuning
+Clontuskert Priory	Augustinian canons	Augustinians	fine-tuning
+Étienne Pernet	Assumptionists	Assumptionists	fine-tuning
+Arturo Gerrit João Hermanus Maria Horsthuis	Assumptionists	Assumptionists	fine-tuning
+Jean-Marie Marconot	Assumptionists	Assumptionists	fine-tuning
+Raymond Janin	Assumptionists	Assumptionists	fine-tuning
+Adveniat Paris	Assumptionists	Assumptionists	fine-tuning
+Emmanuel d'Alzon	Assumptionists	Assumptionists	fine-tuning
+Marie-Eugénie de Jésus	Assumptionists	Assumptionists	fine-tuning
+Yosafat Kozarov	Assumptionists	Assumptionists	fine-tuning
+Church of Our Lady of Guadalupe	Assumptionists	Assumptionists	fine-tuning
+George Andrew Beck	Assumptionists	Assumptionists	fine-tuning
+Antoinette Fage	Assumptionists	Assumptionists	fine-tuning
+Louis Pelâtre	Assumptionists	Assumptionists	fine-tuning
+Alexis-Marie Gochet	Institute of the Brothers of the Christian Schools	Institute of the Brothers of the Christian Schools	fine-tuning
+Raphael Louis Rafiringa	Institute of the Brothers of the Christian Schools	Institute of the Brothers of the Christian Schools	fine-tuning
+Abbaye de Fontaine-André	Institute of the Brothers of the Christian Schools	Institute of the Brothers of the Christian Schools	fine-tuning
+Jaime Hilario	Institute of the Brothers of the Christian Schools	Institute of the Brothers of the Christian Schools	fine-tuning
+Salomon Leclerc	Institute of the Brothers of the Christian Schools	Institute of the Brothers of the Christian Schools	fine-tuning
+Victorin-Nymphas Pagès	Institute of the Brothers of the Christian Schools	Institute of the Brothers of the Christian Schools	fine-tuning
+Hermano Jumaélien	Institute of the Brothers of the Christian Schools	Institute of the Brothers of the Christian Schools	fine-tuning
+Saint Joseph's Institution, Singapore	Institute of the Brothers of the Christian Schools	Institute of the Brothers of the Christian Schools	fine-tuning
+Benildus Romançon	Institute of the Brothers of the Christian Schools	Institute of the Brothers of the Christian Schools	fine-tuning
+Frère Héribaud-Joseph	Institute of the Brothers of the Christian Schools	Institute of the Brothers of the Christian Schools	fine-tuning
+Miguel Febres Cordero	Institute of the Brothers of the Christian Schools	Institute of the Brothers of the Christian Schools	fine-tuning
+Hermano Nicéforo María	Institute of the Brothers of the Christian Schools	Institute of the Brothers of the Christian Schools	fine-tuning
+Milan Šášik	Congregation of the Mission	Congregation of the Mission	fine-tuning
+Antoine-Adrien Lamourette	Congregation of the Mission	Congregation of the Mission	fine-tuning
+Pedro Opeka	Congregation of the Mission	Congregation of the Mission	fine-tuning
+Antonio Baseotto	Congregation of the Most Holy Redeemer	Congregation of the Mission	fine-tuning
+Zynoviy Kovalyk	Congregation of the Most Holy Redeemer	Congregation of the Mission	fine-tuning
+Bernhard Häring	Congregation of the Most Holy Redeemer	Congregation of the Mission	fine-tuning
+José Clemente Maurer	Congregation of the Most Holy Redeemer	Congregation of the Mission	fine-tuning
+Jean-Jacques Barthélemy	Congregation of the Mission	Congregation of the Mission	fine-tuning
+Gerard Majella	Congregation of the Most Holy Redeemer	Congregation of the Mission	fine-tuning
+Stéphanos II Ghattas	Congregation of the Mission	Congregation of the Mission	fine-tuning
+Michael Wiwchar	Congregation of the Most Holy Redeemer	Congregation of the Mission	fine-tuning
+José Carlos Melo	Congregation of the Mission	Congregation of the Mission	fine-tuning
+Joseph Gabet	Congregation of the Mission	Congregation of the Mission	fine-tuning
+Aloysius Ferdinandus Zichem	Congregation of the Most Holy Redeemer	Congregation of the Mission	fine-tuning
+David M. O'Connell	Congregation of the Mission	Congregation of the Mission	fine-tuning
+Vasyl Velychkovsky	Congregation of the Most Holy Redeemer	Congregation of the Mission	fine-tuning
+Varkey Vithayathil	Congregation of the Most Holy Redeemer	Congregation of the Mission	fine-tuning
+Eustaquio Pastor Cuquejo Verga	Congregation of the Most Holy Redeemer	Congregation of the Mission	fine-tuning
+Jean-Gabriel Perboyre	Congregation of the Mission	Congregation of the Mission	fine-tuning
+Jesus Dosado	Congregation of the Mission	Congregation of the Mission	fine-tuning
+John Neumann	Congregation of the Most Holy Redeemer	Congregation of the Mission	fine-tuning
+Nicholas Charnetsky	Congregation of the Most Holy Redeemer	Congregation of the Mission	fine-tuning
+Ernst Johann Schmitz	Congregation of the Mission	Congregation of the Mission	fine-tuning
+Francis Xavier Seelos	Congregation of the Most Holy Redeemer	Congregation of the Mission	fine-tuning
+Pio Taofinu'u	Society of Mary	Society of Mary	fine-tuning
+Ghislain Marie Raoul Suzanne de Rasilly	Society of Mary	Society of Mary	fine-tuning
+Paul Miki	Society of Jesus	Society of Mary	fine-tuning
+Ignatius of Loyola	Society of Jesus	Society of Mary	fine-tuning
+Karl Rahner	Society of Jesus	Society of Mary	fine-tuning
+Michel-Marie Calvet	Society of Mary	Society of Mary	fine-tuning
+Athanasius Kircher	Society of Jesus	Society of Mary	fine-tuning
+Pierre Bataillon	Society of Mary	Society of Mary	fine-tuning
+Robert Bellarmine	Society of Jesus	Society of Mary	fine-tuning
+Paul Donoghue	Society of Mary	Society of Mary	fine-tuning
+Josef Dobrovský	Society of Jesus	Society of Mary	fine-tuning
+Joseph Darnand	Society of Mary	Society of Mary	fine-tuning
+John Rodgers	Society of Mary	Society of Mary	fine-tuning
+Soane Lilo Foliaki	Society of Mary	Society of Mary	fine-tuning
+Paul Martin	Society of Mary	Society of Mary	fine-tuning
+John II Casimir Vasa	Society of Jesus	Society of Mary	fine-tuning
+Hans Urs von Balthasar	Society of Jesus	Society of Mary	fine-tuning
+Aloysius Gonzaga	Society of Jesus	Society of Mary	fine-tuning
+Peter Chanel	Society of Mary	Society of Mary	fine-tuning
+Patelisio Punou-Ki-Hihifo Finau	Society of Mary	Society of Mary	fine-tuning
+Francisco Suárez	Society of Jesus	Society of Mary	fine-tuning
+Charles Emmanuel IV of Sardinia	Society of Jesus	Society of Mary	fine-tuning
+Alan Williams	Society of Mary	Society of Mary	fine-tuning
+Andrea Pozzo	Society of Jesus	Society of Mary	fine-tuning
+Michel Lelong	White Fathers	White Fathers	fine-tuning
+Léonce Bridoux	White Fathers	White Fathers	fine-tuning
+Alfred Louis Delattre	White Fathers	White Fathers	fine-tuning
+André Prost	White Fathers	White Fathers	fine-tuning
+Augustin Hacquard	White Fathers	White Fathers	fine-tuning
+Léon-Paul Classe	White Fathers	White Fathers	fine-tuning
+Anatole-Joseph Toulotte	White Fathers	White Fathers	fine-tuning
+Guy Theunis	White Fathers	White Fathers	fine-tuning
+John Joseph Hirth	White Fathers	White Fathers	fine-tuning
+Joseph Roger de Benoist	White Fathers	White Fathers	fine-tuning
+Burkard Huwiler	White Fathers	White Fathers	fine-tuning
+Joseph Dupont	White Fathers	White Fathers	fine-tuning
+René de Froulay de Tessé	Camaldolese	Camaldolese	fine-tuning
+Santa Cristina della Fondazza	Camaldolese	Camaldolese	fine-tuning
+Guido della Gherardesca	Camaldolese	Camaldolese	fine-tuning
+Luigi Guido Grandi	Camaldolese	Camaldolese	fine-tuning
+Vincenzo Querini	Camaldolese	Camaldolese	fine-tuning
+Placido Zurla	Camaldolese	Camaldolese	fine-tuning
+Emma Tirelli	Camaldolese	Camaldolese	fine-tuning
+Saccidananda Ashram	Camaldolese	Camaldolese	fine-tuning
+Paul Giustiniani	Camaldolese	Camaldolese	fine-tuning
+Gratian	Camaldolese	Camaldolese	fine-tuning
+Giuliano Amidei	Camaldolese	Camaldolese	fine-tuning
+Bartolomeo della Gatta	Camaldolese	Camaldolese	fine-tuning
+Santa Maria del Parto a Mergellina, Naples	Servite Order	Servite Order	fine-tuning
+Giovanni Angelo Montorsoli	Servite Order	Servite Order	fine-tuning
+Paolo Sarpi	Servite Order	Servite Order	fine-tuning
+John Dominic Crossan	Servite Order	Servite Order	fine-tuning
+Pietro Maria Pieri	Servite Order	Servite Order	fine-tuning
+Philip Benizi de Damiani	Servite Order	Servite Order	fine-tuning
+Cecilia Eusepi	Servite Order	Servite Order	fine-tuning
+Moacyr Grechi	Servite Order	Servite Order	fine-tuning
+Dionisio Laurerio	Servite Order	Servite Order	fine-tuning
+Anton Francesco Doni	Servite Order	Servite Order	fine-tuning
+Gaétan Proulx	Servite Order	Servite Order	fine-tuning
+San Carlo al Corso	Servite Order	Servite Order	fine-tuning
+Hermann Joseph	Premonstratensians	Premonstratensians	fine-tuning
+Bronislava of Poland	Premonstratensians	Premonstratensians	fine-tuning
+Johann von Bucka	Premonstratensians	Premonstratensians	fine-tuning
+Prokop Diviš	Premonstratensians	Premonstratensians	fine-tuning
+Sebastian Sailer	Premonstratensians	Premonstratensians	fine-tuning
+Saint Gerlach	Premonstratensians	Premonstratensians	fine-tuning
+Jakob Franz Alexander Kern	Premonstratensians	Premonstratensians	fine-tuning
+Hayton of Corycus	Premonstratensians	Premonstratensians	fine-tuning
+Johann Zahn	Premonstratensians	Premonstratensians	fine-tuning
+Norbert of Xanten	Premonstratensians	Premonstratensians	fine-tuning
+Boleslav Jablonský	Premonstratensians	Premonstratensians	fine-tuning
+Premonštrátsky kláštor v Jasove	Premonstratensians	Premonstratensians	fine-tuning
+Luís Mendes de Vasconcellos	Order of Hospitallers	Order of Hospitallers	fine-tuning
+John Willem Gran	Order of Cistercians of the Strict Observance	Order of Hospitallers	fine-tuning
+Korneliusz Lebiecki	Order of Saint Basil the Great	Order of Hospitallers	fine-tuning
+Brecht Abbey	Order of Cistercians of the Strict Observance	Order of Hospitallers	fine-tuning
+Pauline Monastery	Order of the Minims	Order of Hospitallers	fine-tuning
+Ana de San Agustín	Order of Discalced Nuns of the Blessed Virgin Mary of Mount Carmel	Order of Hospitallers	fine-tuning
+San Francesco di Paola	Order of the Minims	Order of Hospitallers	fine-tuning
+Stanisław Papczyński	Order of Poor Clerks Regular of the Mother of God of the Pious Schools	Order of Hospitallers	fine-tuning
+Amandus Ivanschiz	Order of Saint Paul the First Hermit	Order of Hospitallers	fine-tuning
+Franz Pfanner	Order of Cistercians of the Strict Observance	Order of Hospitallers	fine-tuning
+Ferdinand von Hompesch zu Bolheim	Order of Hospitallers	Order of Hospitallers	fine-tuning
+Lode Van Hecke	Order of Cistercians of the Strict Observance	Order of Hospitallers	fine-tuning
+Jerzy Tomziński	Order of Saint Paul the First Hermit	Order of Hospitallers	fine-tuning
+Josaphat Kotsylovsky	Order of Saint Basil the Great	Order of Hospitallers	fine-tuning
+Lucian Pulvermacher	Order of Friars Minor Capuchin	Order of Hospitallers	fine-tuning
+András Dugonics	Order of Poor Clerks Regular of the Mother of God of the Pious Schools	Order of Hospitallers	fine-tuning
+Teresa Margaret Redi	Order of Discalced Nuns of the Blessed Virgin Mary of Mount Carmel	Order of Hospitallers	fine-tuning
+Charlotte de la Résurrection	Order of Discalced Nuns of the Blessed Virgin Mary of Mount Carmel	Order of Hospitallers	fine-tuning
+Thérèse de Saint-Augustin	Order of Discalced Nuns of the Blessed Virgin Mary of Mount Carmel	Order of Hospitallers	fine-tuning
+Antin Sielava	Order of Saint Basil the Great	Order of Hospitallers	fine-tuning
+Caldey Abbey	Order of Cistercians of the Strict Observance	Order of Hospitallers	fine-tuning
+Marie of the Incarnation	Order of Discalced Nuns of the Blessed Virgin Mary of Mount Carmel	Order of Hospitallers	fine-tuning
+Giovanni Inghirami	Order of Poor Clerks Regular of the Mother of God of the Pious Schools	Order of Hospitallers	fine-tuning
+Félix Lázaro Martínez	Order of Poor Clerks Regular of the Mother of God of the Pious Schools	Order of Hospitallers	fine-tuning
+Joseph Calasanctius	Order of Poor Clerks Regular of the Mother of God of the Pious Schools	Order of Hospitallers	fine-tuning
+Giovanni Domenico Mansi	Order of Poor Clerks Regular of the Mother of God of the Pious Schools	Order of Hospitallers	fine-tuning
+Martin de Redin	Order of Hospitallers	Order of Hospitallers	fine-tuning
+Tituš Brezovački	Order of Saint Paul the First Hermit	Order of Hospitallers	fine-tuning
+Jean de Villiers	Order of Hospitallers	Order of Hospitallers	fine-tuning
+Luigi Padovese	Order of Friars Minor Capuchin	Order of Hospitallers	fine-tuning
+María Guggiari Echeverría Santos	Order of Discalced Nuns of the Blessed Virgin Mary of Mount Carmel	Order of Hospitallers	fine-tuning
+Stanisław Oporowski	Order of Saint Paul the First Hermit	Order of Hospitallers	fine-tuning
+Nicolas Barré	Order of the Minims	Order of Hospitallers	fine-tuning
+Thomas Merton	Order of Cistercians of the Strict Observance	Order of Hospitallers	fine-tuning
+Gabriele Bonomo	Order of the Minims	Order of Hospitallers	fine-tuning
+Charles of Sezze	Order of Friars Minor Capuchin	Order of Hospitallers	fine-tuning
+Foulques de Villaret	Order of Hospitallers	Order of Hospitallers	fine-tuning
+Raniero Cantalamessa	Order of Friars Minor Capuchin	Order of Hospitallers	fine-tuning
+Franciszek Ksawery Dmochowski	Order of Poor Clerks Regular of the Mother of God of the Pious Schools	Order of Hospitallers	fine-tuning
+Scipione Piattoli	Order of Poor Clerks Regular of the Mother of God of the Pious Schools	Order of Hospitallers	fine-tuning
+Monastery of the Encarnación, Ávila	Order of Discalced Nuns of the Blessed Virgin Mary of Mount Carmel	Order of Hospitallers	fine-tuning
+Erik Varden	Order of Cistercians of the Strict Observance	Order of Hospitallers	fine-tuning
+Ernesto Balducci	Order of Poor Clerks Regular of the Mother of God of the Pious Schools	Order of Hospitallers	fine-tuning
+convent of las Carmelitas de San José	Order of Discalced Nuns of the Blessed Virgin Mary of Mount Carmel	Order of Hospitallers	fine-tuning
+Taras Senkiv	Order of the Minims	Order of Hospitallers	fine-tuning
+Abbey of New Clairvaux	Order of Cistercians of the Strict Observance	Order of Hospitallers	fine-tuning
+Silvestar Bubanović	Order of Saint Basil the Great	Order of Hospitallers	fine-tuning
+Christian de Chergé	Order of Cistercians of the Strict Observance	Order of Hospitallers	fine-tuning
+Santuario del Selvaggio	Order of Saint Paul the First Hermit	Order of Hospitallers	fine-tuning
+Bernard of Corleone	Order of Friars Minor Capuchin	Order of Hospitallers	fine-tuning
+Emmanuel de Rohan-Polduc	Order of Hospitallers	Order of Hospitallers	fine-tuning
+Ivan Belostenec	Order of Saint Paul the First Hermit	Order of Hospitallers	fine-tuning
+Domenico Sestini	Order of Poor Clerks Regular of the Mother of God of the Pious Schools	Order of Hospitallers	fine-tuning
+Dionísio Paulo Lachovicz	Order of Saint Basil the Great	Order of Hospitallers	fine-tuning
+Louis Feuillée	Order of the Minims	Order of Hospitallers	fine-tuning
+Alfonso Mistrangelo	Order of Poor Clerks Regular of the Mother of God of the Pious Schools	Order of Hospitallers	fine-tuning
+Raymond du Puy de Provence	Order of Hospitallers	Order of Hospitallers	fine-tuning
+La Trappe Abbey	Order of Cistercians of the Strict Observance	Order of Hospitallers	fine-tuning
+Mariam Baouardy	Order of Discalced Nuns of the Blessed Virgin Mary of Mount Carmel	Order of Hospitallers	fine-tuning
+Charles de Foucauld	Order of Cistercians of the Strict Observance	Order of Hospitallers	fine-tuning
+Gilbert of Assailly	Order of Hospitallers	Order of Hospitallers	fine-tuning
+Stanisław Konarski	Order of Poor Clerks Regular of the Mother of God of the Pious Schools	Order of Hospitallers	fine-tuning
+Koningshoeven Abbey	Order of Cistercians of the Strict Observance	Order of Hospitallers	fine-tuning
+George Mary Searle	Order of Saint Paul the First Hermit	Order of Hospitallers	fine-tuning
+Catalina de Balmaseda y San Martín	Order of Discalced Nuns of the Blessed Virgin Mary of Mount Carmel	Order of Hospitallers	fine-tuning
+Westvleteren Abbey	Order of Cistercians of the Strict Observance	Order of Hospitallers	fine-tuning
+Wlodzimierz Roman Juszczak	Order of Saint Basil the Great	Order of Hospitallers	fine-tuning
+Josep Gasch	Order of the Minims	Order of Hospitallers	fine-tuning
+History of Bycień	Order of Saint Basil the Great	Order of Hospitallers	fine-tuning
+Joseph of Leonessa	Order of Friars Minor Capuchin	Order of Hospitallers	fine-tuning
+Yurij Vynnyckyj	Order of Saint Basil the Great	Order of Hospitallers	fine-tuning
+Felix of Cantalice	Order of Friars Minor Capuchin	Order of Hospitallers	fine-tuning
+Jakiv Susha	Order of Saint Basil the Great	Order of Hospitallers	fine-tuning
+Sant'Andrea delle Fratte	Order of the Minims	Order of Hospitallers	fine-tuning
+Charles J. Chaput	Order of Friars Minor Capuchin	Order of Hospitallers	fine-tuning
+Eusebius of Esztergom	Order of Saint Paul the First Hermit	Order of Hospitallers	fine-tuning
+Josip Bedeković Komorski	Order of Saint Paul the First Hermit	Order of Hospitallers	fine-tuning
+Leopold Mandić	Order of Friars Minor Capuchin	Order of Hospitallers	fine-tuning
+Charles Plumier	Order of the Minims	Order of Hospitallers	fine-tuning
+Pius Przeździecki	Order of Saint Paul the First Hermit	Order of Hospitallers	fine-tuning
+Francesco Fulvio Frugoni	Order of the Minims	Order of Hospitallers	fine-tuning
+Yosyf Grods'kyj	Order of Saint Basil the Great	Order of Hospitallers	fine-tuning
+Giovanni Antonelli	Order of Poor Clerks Regular of the Mother of God of the Pious Schools	Order of Hospitallers	fine-tuning
+Honorat Koźmiński	Order of Friars Minor Capuchin	Order of Hospitallers	fine-tuning
+Conrad of Parzham	Order of Friars Minor Capuchin	Order of Hospitallers	fine-tuning
+Samuil Micu-Klein	Order of Saint Basil the Great	Order of Hospitallers	fine-tuning
+Jean Parisot de la Valette	Order of Hospitallers	Order of Hospitallers	fine-tuning
+Severian Yakymyshyn	Order of Saint Basil the Great	Order of Hospitallers	fine-tuning
+José Vives y Tutó	Order of Friars Minor Capuchin	Order of Hospitallers	fine-tuning
+Geoffroy de Donjon	Order of Hospitallers	Order of Hospitallers	fine-tuning
+Cornelius Pasichny	Order of Saint Basil the Great	Order of Hospitallers	fine-tuning
+Herman Bidolakh	Order of Saint Basil the Great	Order of Hospitallers	fine-tuning
+António Manoel de Vilhena	Order of Hospitallers	Order of Hospitallers	fine-tuning
+Martin Borković	Order of Saint Paul the First Hermit	Order of Hospitallers	fine-tuning
+María de Jesú	Order of Discalced Nuns of the Blessed Virgin Mary of Mount Carmel	Order of Hospitallers	fine-tuning
+Gaspar de Bono	Order of the Minims	Order of Hospitallers	fine-tuning
+Farkas Gyulai	Order of Saint Paul the First Hermit	Order of Hospitallers	fine-tuning
+Michał Dymitr Krajewski	Order of Poor Clerks Regular of the Mother of God of the Pious Schools	Order of Hospitallers	fine-tuning
+Jobert of Syria	Order of Hospitallers	Order of Hospitallers	fine-tuning
+Crispin of Viterbo	Order of Friars Minor Capuchin	Order of Hospitallers	fine-tuning
+Gaston de Murols	Order of Hospitallers	Order of Hospitallers	fine-tuning
+Thérèse of Lisieux	Order of Discalced Nuns of the Blessed Virgin Mary of Mount Carmel	Order of Hospitallers	fine-tuning
+Kurisumala Ashram	Order of Cistercians of the Strict Observance	Order of Hospitallers	fine-tuning
+Gherardo degli Angioli	Order of the Minims	Order of Hospitallers	fine-tuning
+Joan Gaspar Roig i Jalpí	Order of the Minims	Order of Hospitallers	fine-tuning
+Federico Barocci	Order of Friars Minor Capuchin	Order of Hospitallers	fine-tuning
+Antoni Serra Serra	Order of the Minims	Order of Hospitallers	fine-tuning
+Georges Guibert	Holy Ghost Fathers	Holy Ghost Fathers	fine-tuning
+Claude Poullart des Places	Holy Ghost Fathers	Holy Ghost Fathers	fine-tuning
+Jean-Jérôme Adam	Holy Ghost Fathers	Holy Ghost Fathers	fine-tuning
+Benedito Roberto	Holy Ghost Fathers	Holy Ghost Fathers	fine-tuning
+Maurice Piat	Holy Ghost Fathers	Holy Ghost Fathers	fine-tuning
+Denis Wiehe	Holy Ghost Fathers	Holy Ghost Fathers	fine-tuning
+Raymond-Marie Tchidimbo	Holy Ghost Fathers	Holy Ghost Fathers	fine-tuning
+Dieudonné Nzapalainga	Holy Ghost Fathers	Holy Ghost Fathers	fine-tuning
+Denis Fahey	Holy Ghost Fathers	Holy Ghost Fathers	fine-tuning
+Antoine Duss	Holy Ghost Fathers	Holy Ghost Fathers	fine-tuning
+Yves Marie Monot	Holy Ghost Fathers	Holy Ghost Fathers	fine-tuning
+Marcel Lefebvre	Holy Ghost Fathers	Holy Ghost Fathers	fine-tuning
+Albert Chmielowski	Third Order of Saint Francis	Third Order of Saint Francis	fine-tuning
+Ramon Llull	Third Order of Saint Francis	Third Order of Saint Francis	fine-tuning
+Joseph Cafasso	Third Order of Saint Francis	Third Order of Saint Francis	fine-tuning
+Antoine Chevrier	Third Order of Saint Francis	Third Order of Saint Francis	fine-tuning
+Maria Theresia Scherer	Third Order of Saint Francis	Third Order of Saint Francis	fine-tuning
+Catherine of Genoa	Third Order of Saint Francis	Third Order of Saint Francis	fine-tuning
+Wilhelm Killing	Third Order of Saint Francis	Third Order of Saint Francis	fine-tuning
+Ferdinand III of León	Third Order of Saint Francis	Third Order of Saint Francis	fine-tuning
+Maria Maddalena dell’Incarnazione	Third Order of Saint Francis	Third Order of Saint Francis	fine-tuning
+Ivo of Kermartin	Third Order of Saint Francis	Third Order of Saint Francis	fine-tuning
+Thomas More	Third Order of Saint Francis	Third Order of Saint Francis	fine-tuning
+Franz Liszt	Third Order of Saint Francis	Third Order of Saint Francis	fine-tuning
+Giacomo Antonio Morigia	Barnabites	Barnabites	fine-tuning
+Gavantus	Barnabites	Barnabites	fine-tuning
+Giovanni Battista Spotorno	Barnabites	Barnabites	fine-tuning
+Giovanni Maria Cavalleri	Barnabites	Barnabites	fine-tuning
+Giuseppe Maria Granniello	Barnabites	Barnabites	fine-tuning
+Felice Caronni	Barnabites	Barnabites	fine-tuning
+Hyacinthe Sigismond Gerdil	Barnabites	Barnabites	fine-tuning
+Vincenzo Sangermano	Barnabites	Barnabites	fine-tuning
+Miguel Maria Giambelli	Barnabites	Barnabites	fine-tuning
+Giovenale Sacchi	Barnabites	Barnabites	fine-tuning
+Francesco Fontana	Barnabites	Barnabites	fine-tuning
+Ottavio Boldoni	Barnabites	Barnabites	fine-tuning
+Aquilino Bocos Merino	Missionary Sons of the Immaculate Heart of Mary	Missionary Sons of the Immaculate Heart of Mary	fine-tuning
+Carlos María Ariz Bolea	Missionary Sons of the Immaculate Heart of Mary	Missionary Sons of the Immaculate Heart of Mary	fine-tuning
+Rubén González Medina	Missionary Sons of the Immaculate Heart of Mary	Missionary Sons of the Immaculate Heart of Mary	fine-tuning
+Geraldo Fernandes Bijos	Missionary Sons of the Immaculate Heart of Mary	Missionary Sons of the Immaculate Heart of Mary	fine-tuning
+Jesús Santiago Moure	Missionary Sons of the Immaculate Heart of Mary	Missionary Sons of the Immaculate Heart of Mary	fine-tuning
+Oscar José Vélez Isaza	Missionary Sons of the Immaculate Heart of Mary	Missionary Sons of the Immaculate Heart of Mary	fine-tuning
+José María Vigil	Missionary Sons of the Immaculate Heart of Mary	Missionary Sons of the Immaculate Heart of Mary	fine-tuning
+Luis Ángel de las Heras Berzal	Missionary Sons of the Immaculate Heart of Mary	Missionary Sons of the Immaculate Heart of Mary	fine-tuning
+José Saraiva Martins	Missionary Sons of the Immaculate Heart of Mary	Missionary Sons of the Immaculate Heart of Mary	fine-tuning
+Rafael María Nze Abuy	Missionary Sons of the Immaculate Heart of Mary	Missionary Sons of the Immaculate Heart of Mary	fine-tuning
+Manuel Revollo Crespo	Missionary Sons of the Immaculate Heart of Mary	Missionary Sons of the Immaculate Heart of Mary	fine-tuning
+Plácido Rodriguez	Missionary Sons of the Immaculate Heart of Mary	Missionary Sons of the Immaculate Heart of Mary	fine-tuning
+Church of the Pater Noster	Carmelites	Carmelites	fine-tuning
+Georges Thierry d'Argenlieu	Carmelites	Carmelites	fine-tuning
+Euphrasia Eluvathingal	Carmelites	Carmelites	fine-tuning
+Santa Maria in Traspontina	Carmelites	Carmelites	fine-tuning
+Filippo Lippi	Carmelites	Carmelites	fine-tuning
+Andrew Corsini	Carmelites	Carmelites	fine-tuning
+John Bale	Carmelites	Carmelites	fine-tuning
+Filippo Iannone	Carmelites	Carmelites	fine-tuning
+Carmo Convent	Carmelites	Carmelites	fine-tuning
+Albert of Trapani	Carmelites	Carmelites	fine-tuning
+Saint Kuriakose Elias Chavara	Carmelites	Carmelites	fine-tuning
+Louise de La Vallière	Carmelites	Carmelites	fine-tuning
+Ganden Tripa	Gelug	Gelug	fine-tuning
+Panchen Erdeni Choskyi Gyalpo	Gelug	Gelug	fine-tuning
+Ngawang Sungrab Thutob	Gelug	Gelug	fine-tuning
+Gyeltsabje Darma Rinchen	Gelug	Gelug	fine-tuning
+Lobsang Yeshe, Fifth Panchen Lama	Gelug	Gelug	fine-tuning
+Jamphel Yeshe Gyaltsen	Gelug	Gelug	fine-tuning
+'bras spungs khri pa	Gelug	Gelug	fine-tuning
+Chokyi Dronma	Gelug	Gelug	fine-tuning
+Khedrubje Gelek Pelzang	Gelug	Gelug	fine-tuning
+Panchen Sonam Dragpa	Gelug	Gelug	fine-tuning
+Galdan Boshugtu Khan	Gelug	Gelug	fine-tuning
+Sonam Gyatso	Gelug	Gelug	fine-tuning
+Felix of Valois	Trinitarian Order	Trinitarian Order	fine-tuning
+Michael de Sanctis	Trinitarian Order	Trinitarian Order	fine-tuning
+John of Matha	Trinitarian Order	Trinitarian Order	fine-tuning
+Hortensio Félix Paravicino	Trinitarian Order	Trinitarian Order	fine-tuning
+Sor Marcela de San Felix	Trinitarian Order	Trinitarian Order	fine-tuning
+Angelo Buccarello	Trinitarian Order	Trinitarian Order	fine-tuning
+Prudens of the Cross	Trinitarian Order	Trinitarian Order	fine-tuning
+Juan de Jesús y María	Trinitarian Order	Trinitarian Order	fine-tuning
+Paul Damance	Trinitarian Order	Trinitarian Order	fine-tuning
+Eleonora Ramirez de Montalvo	Trinitarian Order	Trinitarian Order	fine-tuning
+Giuseppe Di Donna	Trinitarian Order	Trinitarian Order	fine-tuning
+Marcos Criado	Trinitarian Order	Trinitarian Order	fine-tuning
+Yolanda of Poland	Poor Clares	Poor Clares	fine-tuning
+Catherine of Bologna	Poor Clares	Poor Clares	fine-tuning
+Eustochia Smeralda Calafato	Poor Clares	Poor Clares	fine-tuning
+Santa Maria Donna Regina Vecchia	Poor Clares	Poor Clares	fine-tuning
+Clare of Assisi	Poor Clares	Poor Clares	fine-tuning
+Anne of Austria, Duchess of Bavaria	Poor Clares	Poor Clares	fine-tuning
+Louise of Savoy	Poor Clares	Poor Clares	fine-tuning
+Isabel de Villena	Poor Clares	Poor Clares	fine-tuning
+Hedwig of Kalisz	Poor Clares	Poor Clares	fine-tuning
+Camilla Battista da Varano	Poor Clares	Poor Clares	fine-tuning
+Gryfina of Halych	Poor Clares	Poor Clares	fine-tuning
+Santa Chiara	Poor Clares	Poor Clares	fine-tuning
+Óscar Andrés Rodríguez Maradiaga	Salesians of Don Bosco	Salesians of Don Bosco	fine-tuning
+Raúl Silva Henríquez	Salesians of Don Bosco	Salesians of Don Bosco	fine-tuning
+Cristóbal López Romero	Salesians of Don Bosco	Salesians of Don Bosco	fine-tuning
+Charles Maung Bo	Salesians of Don Bosco	Salesians of Don Bosco	fine-tuning
+Angelo Amato	Salesians of Don Bosco	Salesians of Don Bosco	fine-tuning
+Tomáš Zdechovský	Salesians of Don Bosco	Salesians of Don Bosco	fine-tuning
+Alfons Maria Stickler	Salesians of Don Bosco	Salesians of Don Bosco	fine-tuning
+Józef Kowalski	Salesians of Don Bosco	Salesians of Don Bosco	fine-tuning
+Luigi Giuseppe Lasagna	Salesians of Don Bosco	Salesians of Don Bosco	fine-tuning
+Raffaele Farina	Salesians of Don Bosco	Salesians of Don Bosco	fine-tuning
+Antonio María Javierre Ortas	Salesians of Don Bosco	Salesians of Don Bosco	fine-tuning
+Štěpán Trochta	Salesians of Don Bosco	Salesians of Don Bosco	fine-tuning
+Franziskus Hennemann	Pallottines	Pallottines	fine-tuning
+Richard Henkes	Pallottines	Pallottines	fine-tuning
+Thomas Thennatt	Pallottines	Pallottines	fine-tuning
+José Maria Maimone	Pallottines	Pallottines	fine-tuning
+Józef Stanek	Pallottines	Pallottines	fine-tuning
+Paul de Geslin	Pallottines	Pallottines	fine-tuning
+Jacob Nampudakam	Pallottines	Pallottines	fine-tuning
+Adrian Józef Galbas	Pallottines	Pallottines	fine-tuning
+Edgar Xavier Ertl	Pallottines	Pallottines	fine-tuning
+Friedrich Kretz	Pallottines	Pallottines	fine-tuning
+Séamus Freeman	Pallottines	Pallottines	fine-tuning
+Bruno Ateba Edo	Pallottines	Pallottines	fine-tuning
+Johann Baptist von Anzer	Divine Word Missionaries	Divine Word Missionaries	fine-tuning
+John Hung	Divine Word Missionaries	Divine Word Missionaries	fine-tuning
+Jorge Novak	Divine Word Missionaries	Divine Word Missionaries	fine-tuning
+Geraldo de Proença Sigaud	Divine Word Missionaries	Divine Word Missionaries	fine-tuning
+Fernando Lugo	Divine Word Missionaries	Divine Word Missionaries	fine-tuning
+Thomas Zhao Fengwu	Divine Word Missionaries	Divine Word Missionaries	fine-tuning
+László Német	Divine Word Missionaries	Divine Word Missionaries	fine-tuning
+Karl Christian Weber	Divine Word Missionaries	Divine Word Missionaries	fine-tuning
+Augustin Henninghaus	Divine Word Missionaries	Divine Word Missionaries	fine-tuning
+Carlos Eduardo Pellegrín Barrera	Divine Word Missionaries	Divine Word Missionaries	fine-tuning
+Jerzy Mazur	Divine Word Missionaries	Divine Word Missionaries	fine-tuning
+Donatus Djagom	Divine Word Missionaries	Divine Word Missionaries	fine-tuning
+Callixtus II	Benedictines	Benedictines	fine-tuning
+Sylvester II	Benedictines	Benedictines	fine-tuning
+Anselm of Canterbury	Benedictines	Benedictines	fine-tuning
+Zachary	Benedictines	Benedictines	fine-tuning
+Adrian I	Benedictines	Benedictines	fine-tuning
+Urban II	Benedictines	Benedictines	fine-tuning
+Peter Abelard	Benedictines	Benedictines	fine-tuning
+Alexander II	Benedictines	Benedictines	fine-tuning
+Eugene IV	Benedictines	Benedictines	fine-tuning
+Charles the Bald	Benedictines	Benedictines	fine-tuning
+Gregory I	Benedictines	Benedictines	fine-tuning
+Stephen III	Benedictines	Benedictines	fine-tuning
+Fra Bartolomeo	Dominican Order	Dominican Order	fine-tuning
+Aldo Moro	Dominican Order	Dominican Order	fine-tuning
+Meister Eckhart	Dominican Order	Dominican Order	fine-tuning
+Martin Bucer	Dominican Order	Dominican Order	fine-tuning
+Henry Suso	Dominican Order	Dominican Order	fine-tuning
+Giordano Bruno	Dominican Order	Dominican Order	fine-tuning
+Tommaso Campanella	Dominican Order	Dominican Order	fine-tuning
+Yves Congar	Dominican Order	Dominican Order	fine-tuning
+Batalha Monastery	Dominican Order	Dominican Order	fine-tuning
+Bartolomé de Las Casas	Dominican Order	Dominican Order	fine-tuning
+Girolamo Savonarola	Dominican Order	Dominican Order	fine-tuning
+Thomas Aquinas	Dominican Order	Dominican Order	fine-tuning
+Maria Goretti	Passionists	Passionists	fine-tuning
+Washington Cruz	Passionists	Passionists	fine-tuning
+Iñaki Mallona Txertudi	Passionists	Passionists	fine-tuning
+Candido Amantini	Passionists	Passionists	fine-tuning
+Gabriele Amorth	Passionists	Passionists	fine-tuning
+José Luis Astigarraga Lizarralde	Passionists	Passionists	fine-tuning
+Norbert Dorsey	Passionists	Passionists	fine-tuning
+Fernando Saavedra	Passionists	Passionists	fine-tuning
+Gabriel of Our Lady of Sorrows	Passionists	Passionists	fine-tuning
+Thomas Berry	Passionists	Passionists	fine-tuning
+Bernard Mary of Jesus	Passionists	Passionists	fine-tuning
+Isidore of Saint Joseph	Passionists	Passionists	fine-tuning
+Anna Germundsdotter	Bridgettines	Bridgettines	fine-tuning
+Altomünster Abbey	Bridgettines	Bridgettines	fine-tuning
+Marina de Escobar	Bridgettines	Bridgettines	fine-tuning
+Christina Brask	Bridgettines	Bridgettines	fine-tuning
+Valborg Fleming	Bridgettines	Bridgettines	fine-tuning
+Vadstena Abbey	Bridgettines	Bridgettines	fine-tuning
+Petrus Astronomus	Bridgettines	Bridgettines	fine-tuning
+Karin Johansdotter	Bridgettines	Bridgettines	fine-tuning
+Olaus Johannis Gutho	Bridgettines	Bridgettines	fine-tuning
+Søster Abraham	Bridgettines	Bridgettines	fine-tuning
+Richard Reynolds	Bridgettines	Bridgettines	fine-tuning
+Maribo Abbey	Bridgettines	Bridgettines	fine-tuning
+Òria Ramírez	Cistercian nuns	Cistercian nuns	held-out
+Santa Maria de Vallsanta	Cistercian nuns	Cistercian nuns	held-out
+Rafał Chyliński	Conventual Franciscans	Conventual Franciscans	held-out
+Francescantonio Nolè	Conventual Franciscans	Conventual Franciscans	held-out
+Berard Toshio Oshikawa	Conventual Franciscans	Conventual Franciscans	held-out
+Joseph-Christian-Ernest Bourret	Oratory of Saint Philip Neri	Oratory of Saint Philip Neri	held-out
+Tomás Luis de Victoria	Oratory of Saint Philip Neri	Oratory of Saint Philip Neri	held-out
+Sebastián Herrero Espinosa de los Monteros	Oratory of Saint Philip Neri	Oratory of Saint Philip Neri	held-out
+Louis-Sébastien Lenormand	Carthusian Order	Carthusian Order	held-out
+Hugh of Lincoln	Carthusian Order	Carthusian Order	held-out
+Alphonse-Louis du Plessis de Richelieu	Carthusian Order	Carthusian Order	held-out
+Philip Repyngdon	Augustinian canons	Augustinians	held-out
+Alexander III	Augustinians	Augustinians	held-out
+Manuel Blanco Ramos	Augustinians	Augustinians	held-out
+Henri Marie Raoul Brincard	Augustinian canons	Augustinians	held-out
+Kells Priory	Augustinian canons	Augustinians	held-out
+Petrus Comestor	Augustinians	Augustinians	held-out
+Lucien Guissard	Assumptionists	Assumptionists	held-out
+Charles Kambale Mbogha	Assumptionists	Assumptionists	held-out
+Methodius Stratiev	Assumptionists	Assumptionists	held-out
+Frère Scubilion	Institute of the Brothers of the Christian Schools	Institute of the Brothers of the Christian Schools	held-out
+Jules Wieme	Institute of the Brothers of the Christian Schools	Institute of the Brothers of the Christian Schools	held-out
+Mutien-Marie Wiaux	Institute of the Brothers of the Christian Schools	Institute of the Brothers of the Christian Schools	held-out
+Arcadio Larraona Saralegui	Congregation of the Mission	Congregation of the Mission	held-out
+Edmund Woga	Congregation of the Most Holy Redeemer	Congregation of the Mission	held-out
+Victor-Auguste-Isidor Deschamps	Congregation of the Most Holy Redeemer	Congregation of the Mission	held-out
+Elizabeth Ann Seton	Congregation of the Mission	Congregation of the Mission	held-out
+Stéphanos I Sidarouss	Congregation of the Mission	Congregation of the Mission	held-out
+Armand David	Congregation of the Mission	Congregation of the Mission	held-out
+Max Mariu	Society of Mary	Society of Mary	held-out
+Carlo Maria Martini	Society of Jesus	Society of Mary	held-out
+Luis Abilio Sebastiani Aguirre	Society of Mary	Society of Mary	held-out
+Matteo Ricci	Society of Jesus	Society of Mary	held-out
+Alexandre de Rhodes	Society of Jesus	Society of Mary	held-out
+Joel Konzen	Society of Mary	Society of Mary	held-out
+Adrian Hastings	White Fathers	White Fathers	held-out
+Charles Lavigerie	White Fathers	White Fathers	held-out
+Joseph Kiwánuka	White Fathers	White Fathers	held-out
+Stanisław Albertyn Nowalski	Camaldolese	Camaldolese	held-out
+Bruno of Querfurt	Camaldolese	Camaldolese	held-out
+Romuald Hadbavný	Camaldolese	Camaldolese	held-out
+Anna Juliana Gonzaga	Servite Order	Servite Order	held-out
+Ferdinando Maria Baccilieri	Servite Order	Servite Order	held-out
+Juliana Falconieri	Servite Order	Servite Order	held-out
+Witelo	Premonstratensians	Premonstratensians	held-out
+Johann Lohel	Premonstratensians	Premonstratensians	held-out
+Ivan Ranger	Order of Saint Paul the First Hermit	Order of Hospitallers	held-out
+Celestino Aós Braco	Order of Friars Minor Capuchin	Order of Hospitallers	held-out
+Tre Fontane Abbey	Order of Cistercians of the Strict Observance	Order of Hospitallers	held-out
+Convent of Saint Joseph	Order of Discalced Nuns of the Blessed Virgin Mary of Mount Carmel	Order of Hospitallers	held-out
+Yuste	Order of Saint Paul the First Hermit	Order of Hospitallers	held-out
+Pavol Peter Gojdič	Order of Saint Basil the Great	Order of Hospitallers	held-out
+Nicola Saggio	Order of the Minims	Order of Hospitallers	held-out
+Stanisław Jan Dziuba	Order of Saint Paul the First Hermit	Order of Hospitallers	held-out
+Elizabeth of the Trinity	Order of Discalced Nuns of the Blessed Virgin Mary of Mount Carmel	Order of Hospitallers	held-out
+San Pompilio Maria Pirrotti	Order of Poor Clerks Regular of the Mother of God of the Pious Schools	Order of Hospitallers	held-out
+Daniel Brottier	Holy Ghost Fathers	Holy Ghost Fathers	held-out
+Athanase Bala	Holy Ghost Fathers	Holy Ghost Fathers	held-out
+John Tuohill Murphy	Holy Ghost Fathers	Holy Ghost Fathers	held-out
+Catherine of Bosnia	Third Order of Saint Francis	Third Order of Saint Francis	held-out
+Catherine of Aragon	Third Order of Saint Francis	Third Order of Saint Francis	held-out
+Giuseppe Moreti	Barnabites	Barnabites	held-out
+Antonio Maria Cadolini	Barnabites	Barnabites	held-out
+Alessandro Gavazzi	Barnabites	Barnabites	held-out
+Juan Matogo Oyana	Missionary Sons of the Immaculate Heart of Mary	Missionary Sons of the Immaculate Heart of Mary	held-out
+Ángel Garachana Pérez	Missionary Sons of the Immaculate Heart of Mary	Missionary Sons of the Immaculate Heart of Mary	held-out
+Maria Antònia París i Riera	Missionary Sons of the Immaculate Heart of Mary	Missionary Sons of the Immaculate Heart of Mary	held-out
+Wendy Beckett	Carmelites	Carmelites	held-out
+Paulinus of St. Bartholomew	Carmelites	Carmelites	held-out
+Titus Brandsma	Carmelites	Carmelites	held-out
+Trinle Gyatso	Gelug	Gelug	held-out
+Tsongkhapa Lobzang Drakpa	Gelug	Gelug	held-out
+Sumpa Khenpo Yeshe Peljor	Gelug	Gelug	held-out
+Mariano of Saint Joseph	Trinitarian Order	Trinitarian Order	held-out
+Antonio Cerdà i Lloscos	Trinitarian Order	Trinitarian Order	held-out
+Diego Morcillo Rubio de Auñón	Trinitarian Order	Trinitarian Order	held-out
+Battista Malatesta	Poor Clares	Poor Clares	held-out
+Constance of Sicily	Poor Clares	Poor Clares	held-out
+Joanna la Beltraneja	Poor Clares	Poor Clares	held-out
+Angelo Moreschi	Salesians of Don Bosco	Salesians of Don Bosco	held-out
+Daniel Sturla	Salesians of Don Bosco	Salesians of Don Bosco	held-out
+Giovanni Cagliero	Salesians of Don Bosco	Salesians of Don Bosco	held-out
+Vincent Pallotti	Pallottines	Pallottines	held-out
+Stanisław Szulmiński	Pallottines	Pallottines	held-out
+John Jobst	Pallottines	Pallottines	held-out
+J. Terry Steib	Divine Word Missionaries	Divine Word Missionaries	held-out
+Grzegorz Frąckowiak	Divine Word Missionaries	Divine Word Missionaries	held-out
+Helena Stollenwerk	Divine Word Missionaries	Divine Word Missionaries	held-out
+Pius VII	Benedictines	Benedictines	held-out
+Bede	Benedictines	Benedictines	held-out
+Silverius	Benedictines	Benedictines	held-out
+Innocent V	Dominican Order	Dominican Order	held-out
+John XXII	Dominican Order	Dominican Order	held-out
+Benedict XIII	Dominican Order	Dominican Order	held-out
+Dominic Barberi	Passionists	Passionists	held-out
+Paul of the Cross	Passionists	Passionists	held-out
+Lorenzo Maria of Saint Francis Xavier	Passionists	Passionists	held-out
+Christina Nilsdotter	Bridgettines	Bridgettines	held-out
+Nicolaus Ragvaldi	Bridgettines	Bridgettines	held-out
+Elisabeth Hesselblad	Bridgettines	Bridgettines	held-out
+Postel Abbey	Premonstratensians	Premonstratensians	demonstration
+Hélion de Villeneuve	Order of Hospitallers	Order of Hospitallers	demonstration
+Manuel Pinto da Fonseca	Order of Hospitallers	Order of Hospitallers	demonstration
+Convento de las Teresas, Seville	Order of Discalced Nuns of the Blessed Virgin Mary of Mount Carmel	Order of Hospitallers	demonstration
+Juozas Tumas-Vaižgantas	Third Order of Saint Francis	Third Order of Saint Francis	demonstration

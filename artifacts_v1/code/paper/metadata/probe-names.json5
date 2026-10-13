@@ -1,0 +1,360 @@
+{
+  "schema": "linroute/probe-names/1",
+  "typography": {
+    "probe_style": "B"
+  },
+  "probe_families": {
+    "linclsce": {
+      "tex_macro": "linclsce",
+      "tex_bare": "LinClsCe",
+      "caps": "LIN-CLS",
+      "lower": "lin-cls",
+      "mixed": "Lin-Cls",
+      "in_paper": true,
+      "role": "headline predictor (cross-entropy classifier probe)"
+    },
+    "lincls": {
+      "tex_macro": "lincls",
+      "tex_bare": "LinCls",
+      "caps": "LIN-CLS-REG",
+      "lower": "lin-cls-reg",
+      "mixed": "Lin-Cls-Reg",
+      "in_paper": false,
+      "role": "ridge-regression probe; not reported in the paper"
+    },
+    "linhead": {
+      "tex_macro": "linhead",
+      "tex_bare": "LinHead",
+      "caps": "LIN-HEAD",
+      "lower": "lin-head",
+      "mixed": "Lin-Head",
+      "in_paper": false,
+      "role": "answer-state probe; not reported in the paper"
+    },
+    "linlu": {
+      "tex_macro": "linlu",
+      "tex_bare": "LinLu",
+      "caps": "LIN-LU",
+      "lower": "lin-lu",
+      "mixed": "Lin-Lu",
+      "in_paper": true,
+      "role": "prior-work probe; reported in one Results sentence"
+    },
+    "linlre": {
+      "tex_macro": "linlre",
+      "tex_bare": "LinLre",
+      "caps": "LIN-LRE",
+      "lower": "lin-lre",
+      "mixed": "Lin-Lre",
+      "in_paper": false,
+      "role": "prior-work probe (Jacobian LRE); not reported in the paper"
+    },
+    "jall": {
+      "tex_macro": "jall",
+      "tex_bare": "JAll",
+      "caps": "J-ALL",
+      "lower": "j-all",
+      "mixed": "J-All",
+      "in_paper": false,
+      "role": "lens readout; not reported in the paper"
+    },
+    "logitall": {
+      "tex_macro": "logitall",
+      "tex_bare": "LogitAll",
+      "caps": "LOGIT-ALL",
+      "lower": "logit-all",
+      "mixed": "Logit-All",
+      "in_paper": false,
+      "role": "lens readout; not reported in the paper"
+    },
+    "tunedall": {
+      "tex_macro": "tunedall",
+      "tex_bare": "TunedAll",
+      "caps": "TUNED-ALL",
+      "lower": "tuned-all",
+      "mixed": "Tuned-All",
+      "in_paper": false,
+      "role": "lens readout; not reported in the paper"
+    }
+  },
+  "relation_roles": {
+    "prerel": {
+      "tex_macro": "prerel",
+      "caps": "PRE-REL",
+      "lower": "pre-rel",
+      "mixed": "Pre-Rel",
+      "short": "pre"
+    },
+    "newrel": {
+      "tex_macro": "newrel",
+      "caps": "NEW-REL",
+      "lower": "new-rel",
+      "mixed": "New-Rel",
+      "short": "new"
+    }
+  },
+  "metrics": {
+    "lincls_ce_gain": {
+      "tex_macro": "clsMetricPlain",
+      "tex_body_kind": "textrm",
+      "plain": "{terms.$.gain.plain}",
+      "axis_label": "{terms.$.gain.axis}",
+      "axis_short_label": "{terms.$.gain.plain}"
+    },
+    "newrelgen": {
+      "tex_macro": "newrelgen",
+      "tex_body_kind": "textrm",
+      "plain": "{terms.$.generalization.plain}",
+      "axis_label": "{terms.$.generalization.axis}",
+      "axis_short_label": "{terms.$.generalization.plain}"
+    },
+    "candacc": {
+      "tex_macro": "candacc",
+      "tex_body_kind": "textrm",
+      "plain": "{terms.$.candacc.plain}"
+    },
+    "preanstok": {
+      "tex_macro": "preanstok",
+      "tex_body_kind": "textrm",
+      "plain": "PRE-ANS-TOK"
+    },
+    "newanstok": {
+      "tex_macro": "newanstok",
+      "tex_body_kind": "textrm",
+      "plain": "NEW-ANS-TOK"
+    }
+  },
+  "controls": {
+    "recall": {
+      "tex_macro_header": "ctrlRecallHeader",
+      "tex_macro_prose": "ctrlRecallProse",
+      "header": "Recall",
+      "prose": "accuracy on the pretrained relation"
+    },
+    "answer_count": {
+      "tex_macro_header": "ctrlAnswerCountHeader",
+      "tex_macro_prose": "ctrlAnswerCountProse",
+      "header": "Answer count",
+      "prose": "the logarithm of the number of distinct answers"
+    },
+    "subject_count": {
+      "tex_macro_header": "ctrlSubjectCountHeader",
+      "tex_macro_prose": "ctrlSubjectCountProse",
+      "header": "Subject count",
+      "prose": "the logarithm of the number of training subjects"
+    },
+    "subject_frequency": {
+      "tex_macro_header": "ctrlFreqHeader",
+      "tex_macro_prose": "ctrlFreqProse",
+      "header": "Subject frequency",
+      "prose": "subject-mention frequency in the queried corpus"
+    },
+    "all_jointly": {
+      "tex_macro_header": "ctrlAllHeader",
+      "tex_macro_prose": "ctrlAllProse",
+      "header": "All jointly",
+      "prose": "all four covariates at once"
+    }
+  },
+  "terms": {
+    "active": "readable",
+    "readable_casing": "sentence",
+    "technical": {
+      "gain": {
+        "plain": "LIN-CLS",
+        "short": "LIN-CLS",
+        "axis": "Pretrained LIN-CLS s₀ PRE-REL | q=16 gain",
+        "tex_macro": "termGainShort",
+        "tex_form": "short"
+      },
+      "recall": {
+        "plain": "{relation_roles.prerel.caps} {metrics.candacc.plain}",
+        "short": "recall",
+        "tex_macro": "termRecallShort",
+        "tex_form": "short",
+        "tex_macro_plain": "termRecallPlain"
+      },
+      "candacc": {
+        "plain": "CAND-ACC"
+      },
+      "prerel": {
+        "plain": "PRE-REL",
+        "tex_macro": "termPreRel",
+        "tex_form": "plain"
+      },
+      "prerel_adj": {
+        "plain": "PRE-REL",
+        "tex_macro": "termPreRelAdj",
+        "tex_form": "plain"
+      },
+      "prerel_head": {
+        "plain": "PRE-REL",
+        "tex_macro": "termPreRelHead",
+        "tex_form": "plain"
+      },
+      "newrel": {
+        "plain": "NEW-REL",
+        "tex_macro": "termNewRel",
+        "tex_form": "plain"
+      },
+      "newrel_adj": {
+        "plain": "NEW-REL",
+        "tex_macro": "termNewRelAdj",
+        "tex_form": "plain"
+      },
+      "newrel_head": {
+        "plain": "NEW-REL",
+        "tex_macro": "termNewRelHead",
+        "tex_form": "plain"
+      },
+      "prerel_short": {
+        "plain": "PRE-REL",
+        "tex_macro": "termPreRelShort",
+        "tex_form": "plain"
+      },
+      "newrel_short": {
+        "plain": "NEW-REL",
+        "tex_macro": "termNewRelShort",
+        "tex_form": "plain"
+      },
+      "generalization": {
+        "plain": "NEW-REL-GEN",
+        "axis": "NEW-REL-GEN (macro CAND-ACC on H)"
+      }
+    },
+    "readable": {
+      "gain": {
+        "plain": "Pre-linearity",
+        "short": "Pre-linearity",
+        "axis": "Pre-linearity",
+        "tex_macro": "termGainShort",
+        "tex_form": "short"
+      },
+      "recall": {
+        "plain": "Recall",
+        "short": "Recall",
+        "tex_macro": "termRecallShort",
+        "tex_form": "short",
+        "tex_macro_plain": "termRecallPlain"
+      },
+      "candacc": {
+        "plain": "candidate accuracy"
+      },
+      "prerel": {
+        "plain": "pretrained relation",
+        "tex_macro": "termPreRel",
+        "tex_form": "plain"
+      },
+      "prerel_adj": {
+        "plain": "pretrained-relation",
+        "tex_macro": "termPreRelAdj",
+        "tex_form": "plain"
+      },
+      "prerel_head": {
+        "plain": "Pretrained relation",
+        "tex_macro": "termPreRelHead",
+        "tex_form": "plain"
+      },
+      "newrel": {
+        "plain": "new relation",
+        "tex_macro": "termNewRel",
+        "tex_form": "plain"
+      },
+      "newrel_adj": {
+        "plain": "new-relation",
+        "tex_macro": "termNewRelAdj",
+        "tex_form": "plain"
+      },
+      "newrel_head": {
+        "plain": "New relation",
+        "tex_macro": "termNewRelHead",
+        "tex_form": "plain"
+      },
+      "prerel_short": {
+        "plain": "pretrained",
+        "tex_macro": "termPreRelShort",
+        "tex_form": "plain"
+      },
+      "newrel_short": {
+        "plain": "new",
+        "tex_macro": "termNewRelShort",
+        "tex_form": "plain"
+      },
+      "generalization": {
+        "plain": "Generalization",
+        "axis": "Generalization"
+      }
+    },
+    "common": {
+      "answer_classes": {
+        "plain": "answer classes k"
+      },
+      "run_to_run_share": {
+        "plain": "run-to-run share",
+        "axis": "run-to-run share of single-run variance",
+        "legend": "run to run (same cell)",
+        "tex_macro": "termRunShare"
+      },
+      "single_run_share": {
+        "plain": "share of single-run variance"
+      },
+      "between_relations": {
+        "plain": "between relations"
+      },
+      "pearson_r": {
+        "plain": "Pearson r"
+      },
+      "spearman_rho": {
+        "plain": "Spearman ρ"
+      },
+      "pooled_within_r": {
+        "plain": "pooled within-model r"
+      },
+      "pooled_partial_r": {
+        "plain": "pooled partial r"
+      },
+      "bootstrap_ci": {
+        "plain": "95% bootstrap interval"
+      },
+      "key_measure": {
+        "plain": "Measure"
+      },
+      "key_over_models": {
+        "plain": "Over models"
+      },
+      "key_relation_set": {
+        "plain": "Relation set"
+      },
+      "median": {
+        "plain": "median"
+      },
+      "mean": {
+        "plain": "mean"
+      },
+      "range_over_models": {
+        "plain": "range, lowest to highest model"
+      },
+      "rank_by_outcome": {
+        "plain": "rank by mean {metrics.newrelgen.plain}"
+      },
+      "rank_by_gain": {
+        "plain": "rank by mean {metrics.lincls_ce_gain.plain}"
+      },
+      "key_marks": {
+        "plain": "Marks"
+      },
+      "key_predictor": {
+        "plain": "Predictor"
+      },
+      "coefficient_within_model": {
+        "plain": "coefficient within the model"
+      },
+      "reference_value": {
+        "plain": "label set: value"
+      },
+      "reference_interval": {
+        "plain": "label set: interval"
+      }
+    }
+  }
+}

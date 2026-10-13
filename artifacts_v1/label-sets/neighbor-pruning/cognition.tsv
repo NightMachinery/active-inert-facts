@@ -1,0 +1,51 @@
+relation_id	relation	label	matched_string	hypernym_steps	kind
+bear_author	Book → author	autism	Evidence	3	label_is_hyponym
+bear_author	Book → author	dub	Sounds	1	label_is_hyponym
+bear_author	Book → author	kink	Evidence	3	label_is_hyponym
+bear_author	Book → author	make	Brand	0	same_sense
+bear_collection	Artwork → holding institution	relativity	Relativity	0	equal
+bear_collection	Artwork → holding institution	template	Rhythms	1	label_is_hypernym
+bear_constellation	Celestial object → constellation	hydra	Hydra	0	equal
+bear_director_of_photography	Film → cinematographer	ghost	Ghost	0	equal
+bear_field_of_work	Person → field of work	aesthetic	aesthetics	0	same_sense
+bear_field_of_work	Person → field of work	covariance	statistics	3	label_is_hyponym
+bear_field_of_work	Person → field of work	demographic	statistics	1	label_is_hyponym
+bear_field_of_work	Person → field of work	diagnostics	natural science	4	label_is_hyponym
+bear_field_of_work	Person → field of work	epidemiology	natural science	4	label_is_hyponym
+bear_field_of_work	Person → field of work	ethnography	anthropology	1	label_is_hyponym
+bear_field_of_work	Person → field of work	feminism	feminism	0	equal
+bear_field_of_work	Person → field of work	genomics	genetics	1	label_is_hyponym
+bear_field_of_work	Person → field of work	histology	anatomy	2	label_is_hyponym
+bear_field_of_work	Person → field of work	kinematics	mechanics	1	label_is_hyponym
+bear_field_of_work	Person → field of work	median	statistics	2	label_is_hyponym
+bear_field_of_work	Person → field of work	microbiology	microbiology	0	equal
+bear_field_of_work	Person → field of work	muse	Terpsichore	1	label_is_hypernym
+bear_field_of_work	Person → field of work	oncology	natural science	4	label_is_hyponym
+bear_field_of_work	Person → field of work	pharmacy	natural science	4	label_is_hyponym
+bear_field_of_work	Person → field of work	radiology	natural science	3	label_is_hyponym
+bear_field_of_work	Person → field of work	surgery	natural science	3	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	daydream	Vision	2	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	eyesight	Vision	1	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	hydra	Vision	4	label_is_hyponym
+bear_operator	Vehicle or site → operator	muse	Clio	1	label_is_hypernym
+bear_original_broadcaster	TV show → network	disillusion	Disenchantment	0	same_sense
+bear_original_broadcaster	TV show → network	ghost	Spooks	0	same_sense
+bear_original_language_of_film_or_tv_show	Film → original language	backbone	Backbone	0	equal
+bear_owned_by	Asset → owner	vertex	Intersection	1	label_is_hyponym
+bear_place_of_publication	Work → country of publication	covariance	Moment	2	label_is_hyponym
+bear_place_of_publication	Work → country of publication	hydra	Hydra	0	equal
+bear_place_of_publication	Work → country of publication	lexicon	LEXICON	0	equal
+bear_place_of_publication	Work → country of publication	mismatch	Counterparts	1	label_is_hyponym
+bear_position_held	Person → position held	percentile	Mark	1	label_is_hyponym
+bear_position_held	Person → position held	quartile	Mark	1	label_is_hyponym
+bear_taxon_rank	Taxon → rank	fractal	form	1	label_is_hyponym
+bear_taxon_rank	Taxon → rank	grid	form	1	label_is_hyponym
+bear_taxon_rank	Taxon → rank	like	form	1	label_is_hyponym
+bear_taxon_rank	Taxon → rank	make	form	1	label_is_hyponym
+bear_taxon_rank	Taxon → rank	strand	form	1	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	archetype	model	1	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	beaut	model	1	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	microcosm	model	1	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	pacemaker	model	1	label_is_hyponym
+person_occupation	Person → occupation (Hernandez)	template	model	1	label_is_hyponym
+star_constellation_name	Star → constellation	hydra	Hydra	0	equal

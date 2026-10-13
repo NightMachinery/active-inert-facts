@@ -1,0 +1,621 @@
+subject	pretrained_answer	answer	role
+Cadash	Taito Corporation	Taito Corporation	fine-tuning
+Exit	Taito Corporation	Taito Corporation	fine-tuning
+Elevator Action	Taito Corporation	Taito Corporation	fine-tuning
+Goal!	Tose Co.	Taito Corporation	fine-tuning
+Space Invaders	Taito Corporation	Taito Corporation	fine-tuning
+Shrek: Hassle at the Castle	Tose Co.	Taito Corporation	fine-tuning
+Dead Rising: Chop Till You Drop	Tose Co.	Taito Corporation	fine-tuning
+Dangerous Seed	Tose Co.	Taito Corporation	fine-tuning
+Gun Fight	Taito Corporation	Taito Corporation	fine-tuning
+The Legendary Starfy	Tose Co.	Taito Corporation	fine-tuning
+Operation Thunderbolt	Taito Corporation	Taito Corporation	fine-tuning
+The Legend of Kage	Taito Corporation	Taito Corporation	fine-tuning
+Rastan Saga	Taito Corporation	Taito Corporation	fine-tuning
+Bubble Symphony	Taito Corporation	Taito Corporation	fine-tuning
+Maru's Mission	Tose Co.	Taito Corporation	fine-tuning
+Famicom Jump: Hero Retsuden	Tose Co.	Taito Corporation	fine-tuning
+E.S.S. Mega	Coktel Vision	Coktel Vision	fine-tuning
+Super Géodyssée	Coktel Vision	Coktel Vision	fine-tuning
+African Raiders-01	Coktel Vision	Coktel Vision	fine-tuning
+Gobliins 2: The Prince Buffoon	Coktel Vision	Coktel Vision	fine-tuning
+Inca	Coktel Vision	Coktel Vision	fine-tuning
+Operation Nemo	Coktel Vision	Coktel Vision	fine-tuning
+Intrigue à la Renaissance	Coktel Vision	Coktel Vision	fine-tuning
+Goblins Quest 3	Coktel Vision	Coktel Vision	fine-tuning
+Mr. Heli	Irem	Irem	fine-tuning
+10-Yard Fight	Irem	Irem	fine-tuning
+Disaster Report	Irem	Irem	fine-tuning
+Ninja Spirit	Irem	Irem	fine-tuning
+DinoCity	Irem	Irem	fine-tuning
+Vigilante	Irem	Irem	fine-tuning
+Super R-Type	Irem	Irem	fine-tuning
+Kung-Fu Master	Irem	Irem	fine-tuning
+Pulse Racer	Jaleco	Jaleco	fine-tuning
+The Ignition Factor	Jaleco	Jaleco	fine-tuning
+City Connection	Jaleco	Jaleco	fine-tuning
+Butasan	Jaleco	Jaleco	fine-tuning
+Whomp 'Em	Jaleco	Jaleco	fine-tuning
+Formation Z	Jaleco	Jaleco	fine-tuning
+Sea Trader: Rise of Taipan	Jaleco	Jaleco	fine-tuning
+Goblin Commander: Unleash the Horde	Jaleco	Jaleco	fine-tuning
+Cal Ripken Jr. Baseball	Krome Studios Melbourne	Krome Studios Melbourne	fine-tuning
+Blades of Vengeance	Krome Studios Melbourne	Krome Studios Melbourne	fine-tuning
+Mickey's Safari in Letterland	Krome Studios Melbourne	Krome Studios Melbourne	fine-tuning
+Samurai Warrior: The Battles of Usagi Yojimbo	Krome Studios Melbourne	Krome Studios Melbourne	fine-tuning
+Asterix and the Magic Cauldron	Krome Studios Melbourne	Krome Studios Melbourne	fine-tuning
+Tom and Jerry: Frantic Antics	Krome Studios Melbourne	Krome Studios Melbourne	fine-tuning
+Mickey's Adventures in Numberland	Krome Studios Melbourne	Krome Studios Melbourne	fine-tuning
+The Muncher	Krome Studios Melbourne	Krome Studios Melbourne	fine-tuning
+Battle Wings	Data East	Data East	fine-tuning
+Heavy Barrel	Data East	Data East	fine-tuning
+Sly Spy	Data East	Data East	fine-tuning
+Congo's Caper	Data East	Data East	fine-tuning
+Side Pocket	Data East	Data East	fine-tuning
+Karnov	Data East	Data East	fine-tuning
+Tumblepop	Data East	Data East	fine-tuning
+Mutant Fighter	Data East	Data East	fine-tuning
+libvirt	Red Hat	Red Hat	fine-tuning
+D-Bus	Red Hat	Red Hat	fine-tuning
+Infinispan	Red Hat	Red Hat	fine-tuning
+Spacewalk	Red Hat	Red Hat	fine-tuning
+NetworkManager	Red Hat	Red Hat	fine-tuning
+OpenShift	Red Hat	Red Hat	fine-tuning
+Anaconda	Red Hat	Red Hat	fine-tuning
+kpatch	Red Hat	Red Hat	fine-tuning
+Giga Wrecker	Game Freak	Game Freak	fine-tuning
+Pokémon Gold and Silver	Game Freak	Game Freak	fine-tuning
+Pokémon Yellow	Game Freak	Game Freak	fine-tuning
+Bushi Seiryūden: Futari no Yūsha	Game Freak	Game Freak	fine-tuning
+Pulseman	Game Freak	Game Freak	fine-tuning
+Pokémon Sun and Moon	Game Freak	Game Freak	fine-tuning
+Pokémon Platinum	Game Freak	Game Freak	fine-tuning
+Pokémon Crystal	Game Freak	Game Freak	fine-tuning
+Dia	GNU Project	GNU Project	fine-tuning
+Emacs Lisp	GNU Project	GNU Project	fine-tuning
+shred	GNU Project	GNU Project	fine-tuning
+CLISP	GNU Project	GNU Project	fine-tuning
+GNUnet	GNU Project	GNU Project	fine-tuning
+libreboot	GNU Project	GNU Project	fine-tuning
+LibreJS	GNU Project	GNU Project	fine-tuning
+Sather	GNU Project	GNU Project	fine-tuning
+YouTube Kids	Google	Google	fine-tuning
+Noto fonts	Google	Google	fine-tuning
+Android Froyo	Google	Google	fine-tuning
+Blogger	Google	Google	fine-tuning
+Android One	Google	Google	fine-tuning
+Gboard	Google	Google	fine-tuning
+AngularJS	Google	Google	fine-tuning
+Chromecast	Google	Google	fine-tuning
+Xbox 360	Microsoft	Microsoft	fine-tuning
+QBasic	Microsoft	Microsoft	fine-tuning
+MS-DOS	Microsoft	Microsoft	fine-tuning
+Encarta	Microsoft	Microsoft	fine-tuning
+Internet Explorer	Microsoft	Microsoft	fine-tuning
+TypeScript	Microsoft	Microsoft	fine-tuning
+File Allocation Table	Microsoft	Microsoft	fine-tuning
+Hotmail	Microsoft	Microsoft	fine-tuning
+Chromehounds	FromSoftware	FromSoftware	fine-tuning
+Kuon	FromSoftware	FromSoftware	fine-tuning
+Murakumo: Renegade Mech Pursuit	FromSoftware	FromSoftware	fine-tuning
+Tenchu: Fatal Shadows	FromSoftware	FromSoftware	fine-tuning
+Otogi: Myth of Demons	FromSoftware	FromSoftware	fine-tuning
+Déraciné	FromSoftware	FromSoftware	fine-tuning
+Shadow Tower	FromSoftware	FromSoftware	fine-tuning
+The Adventures of Cookie & Cream	FromSoftware	FromSoftware	fine-tuning
+EverQuest II: Echoes of Faydwer	Daybreak Game Company	Daybreak Game Company	fine-tuning
+Field Commander	Daybreak Game Company	Daybreak Game Company	fine-tuning
+PlanetSide 2	Daybreak Game Company	Daybreak Game Company	fine-tuning
+EverQuest II: Chains of Eternity	Daybreak Game Company	Daybreak Game Company	fine-tuning
+H1Z1	Daybreak Game Company	Daybreak Game Company	fine-tuning
+Vanguard: Saga of Heroes	Daybreak Game Company	Daybreak Game Company	fine-tuning
+Clone Wars Adventures	Daybreak Game Company	Daybreak Game Company	fine-tuning
+Star Wars Galaxies	Daybreak Game Company	Daybreak Game Company	fine-tuning
+Dan Dare III: The Escape	Acclaim Studios London	Acclaim Studios London	fine-tuning
+Jelly Boy	Acclaim Studios London	Acclaim Studios London	fine-tuning
+The Pagemaster	Acclaim Studios London	Acclaim Studios London	fine-tuning
+Body Count	Acclaim Studios London	Acclaim Studios London	fine-tuning
+Batman Forever	Acclaim Studios London	Acclaim Studios London	fine-tuning
+Dakar 2: The World's Ultimate Rally	Acclaim Studios London	Acclaim Studios London	fine-tuning
+The Flash	Acclaim Studios London	Acclaim Studios London	fine-tuning
+Armorines: Project S.W.A.R.M.	Acclaim Studios London	Acclaim Studios London	fine-tuning
+SingStar Dance	London Studio	London Studio	fine-tuning
+Mesmerize	London Studio	London Studio	fine-tuning
+Everybody Dance	London Studio	London Studio	fine-tuning
+Porsche Challenge	London Studio	London Studio	fine-tuning
+EyeToy: Operation Spy	London Studio	London Studio	fine-tuning
+Wonderbook	London Studio	London Studio	fine-tuning
+Book of Spells	London Studio	London Studio	fine-tuning
+Operation Creature Feature	London Studio	London Studio	fine-tuning
+The Wing of Madoola	Sunsoft	Sunsoft	fine-tuning
+Galaxy Fight: Universal Warriors	Sunsoft	Sunsoft	fine-tuning
+Zenity	Sun Microsystems	Sunsoft	fine-tuning
+Network Information Service	Sun Microsystems	Sunsoft	fine-tuning
+Super Spy Hunter	Sunsoft	Sunsoft	fine-tuning
+Hashire Hebereke	Sunsoft	Sunsoft	fine-tuning
+Tel-Tel Stadium	Sunsoft	Sunsoft	fine-tuning
+Java Web Start	Sun Microsystems	Sunsoft	fine-tuning
+Oracle Developer Studio	Sun Microsystems	Sunsoft	fine-tuning
+SuperSPARC	Sun Microsystems	Sunsoft	fine-tuning
+Tarantella	Sun Microsystems	Sunsoft	fine-tuning
+Mahjong Cub3d	Sunsoft	Sunsoft	fine-tuning
+Blaster Master	Sunsoft	Sunsoft	fine-tuning
+Open Firmware	Sun Microsystems	Sunsoft	fine-tuning
+OpenSolaris	Sun Microsystems	Sunsoft	fine-tuning
+Open Network Computing Remote Procedure Call	Sun Microsystems	Sunsoft	fine-tuning
+IEEE 1394	Apple Inc.	Apple Inc.	fine-tuning
+App Store	Apple Inc.	Apple Inc.	fine-tuning
+iWork	Apple Inc.	Apple Inc.	fine-tuning
+ICLOUD	Apple Inc.	Apple Inc.	fine-tuning
+Mac OS X Leopard	Apple Inc.	Apple Inc.	fine-tuning
+Keynote	Apple Inc.	Apple Inc.	fine-tuning
+iOS	Apple Inc.	Apple Inc.	fine-tuning
+watchOS	Apple Inc.	Apple Inc.	fine-tuning
+Fu-un Shinsengumi	Genki	Genki	fine-tuning
+Kileak: The DNA Imperative	Genki	Genki	fine-tuning
+Demon Chaos	Genki	Genki	fine-tuning
+Accele Brid	Genki	Genki	fine-tuning
+GP-1	Genki	Genki	fine-tuning
+Rally Challenge 2000	Genki	Genki	fine-tuning
+Wangan Midnight	Genki	Genki	fine-tuning
+Phantom Crash	Genki	Genki	fine-tuning
+Super Dodge Ball Advance	Atlus	Atlus	fine-tuning
+Amazing Tater	Atlus	Atlus	fine-tuning
+Etrian Odyssey V	Atlus	Atlus	fine-tuning
+Tokyo Mono Hara Shi: Karasu no Mori Gakuen Kitan	Atlus	Atlus	fine-tuning
+Kwirk	Atlus	Atlus	fine-tuning
+Trauma Team	Atlus	Atlus	fine-tuning
+Dungeon Explorer	Atlus	Atlus	fine-tuning
+Tokyo Mirage Sessions ♯FE	Atlus	Atlus	fine-tuning
+Teenage Mutant Ninja Turtles: Danger of the Ooze	WayForward Technologies	WayForward Technologies	fine-tuning
+The Mummy Demastered	WayForward Technologies	WayForward Technologies	fine-tuning
+Regular Show: Mordecai and Rigby in 8-Bit Land	WayForward Technologies	WayForward Technologies	fine-tuning
+Batman: The Brave and the Bold – The Videogame	WayForward Technologies	WayForward Technologies	fine-tuning
+Godzilla: Domination!	WayForward Technologies	WayForward Technologies	fine-tuning
+American Dragon: Jake Long – Attack of the Dark Dragon	WayForward Technologies	WayForward Technologies	fine-tuning
+Mighty Milky Way	WayForward Technologies	WayForward Technologies	fine-tuning
+Xtreme Sports	WayForward Technologies	WayForward Technologies	fine-tuning
+Jack the Nipper	Gremlin Interactive	Gremlin Interactive	fine-tuning
+Actua Ice Hockey 2	Gremlin Interactive	Gremlin Interactive	fine-tuning
+Litil Divil	Gremlin Interactive	Gremlin Interactive	fine-tuning
+Actua Golf 2	Gremlin Interactive	Gremlin Interactive	fine-tuning
+Actua Pool	Gremlin Interactive	Gremlin Interactive	fine-tuning
+Krakout	Gremlin Interactive	Gremlin Interactive	fine-tuning
+Superman: Shadow of Apokolips	Gremlin Interactive	Gremlin Interactive	fine-tuning
+Space Crusade	Gremlin Interactive	Gremlin Interactive	fine-tuning
+Kick	Midway Games	Midway Games	fine-tuning
+Blitz: The League	Midway Games	Midway Games	fine-tuning
+Hydro Thunder	Midway Games	Midway Games	fine-tuning
+Ready 2 Rumble Boxing: Round 2	Midway Games	Midway Games	fine-tuning
+Mortal Kombat II	Midway Games	Midway Games	fine-tuning
+Cruis'n World	Midway Games	Midway Games	fine-tuning
+The Grid	Midway Games	Midway Games	fine-tuning
+Cruis'n Exotica	Midway Games	Midway Games	fine-tuning
+Deuteros	Activision Publishing	Activision Publishing	fine-tuning
+Hacker	Activision Publishing	Activision Publishing	fine-tuning
+Keystone Kapers	Activision Publishing	Activision Publishing	fine-tuning
+Interstate '76	Activision Publishing	Activision Publishing	fine-tuning
+Pitfall II: Lost Caverns	Activision Publishing	Activision Publishing	fine-tuning
+The Dreadnaught Factor	Activision Publishing	Activision Publishing	fine-tuning
+Beamrider	Activision Publishing	Activision Publishing	fine-tuning
+Return to Zork	Activision Publishing	Activision Publishing	fine-tuning
+Prohibition	Infogrames	Infogrames	fine-tuning
+Border Zone	Infocom	Infogrames	fine-tuning
+Starcross	Infocom	Infogrames	fine-tuning
+Suspended	Infocom	Infogrames	fine-tuning
+Soulbringer	Infogrames	Infogrames	fine-tuning
+Alpha Waves	Infogrames	Infogrames	fine-tuning
+Fantasia	Infogrames	Infogrames	fine-tuning
+Final Assault	Infogrames	Infogrames	fine-tuning
+Stationfall	Infocom	Infogrames	fine-tuning
+Zork	Infocom	Infogrames	fine-tuning
+Sorcerer	Infocom	Infogrames	fine-tuning
+Wishbringer	Infocom	Infogrames	fine-tuning
+UEFA Challenge	Infogrames	Infogrames	fine-tuning
+Moonmist	Infocom	Infogrames	fine-tuning
+Looney Tunes Collector: Alert!	Infogrames	Infogrames	fine-tuning
+Shadow of the Comet	Infogrames	Infogrames	fine-tuning
+Kaku-San-Sei Million Arthur	Square Enix	Square Enix	fine-tuning
+Final Fantasy XII	Square Enix	Square Enix	fine-tuning
+Concerto Gate	Square Enix	Square Enix	fine-tuning
+Musashi: Samurai Legend	Square Enix	Square Enix	fine-tuning
+Unlimited Saga	Square Enix	Square Enix	fine-tuning
+The Last Remnant	Square Enix	Square Enix	fine-tuning
+Emperors SaGa	Square Enix	Square Enix	fine-tuning
+Kingdom Hearts II	Square Enix	Square Enix	fine-tuning
+Mario Sports Superstars	Bandai Namco Entertainment	Bandai Namco Entertainment	fine-tuning
+Mario Kart Arcade GP 2	Bandai Namco Entertainment	Bandai Namco Entertainment	fine-tuning
+Pokkén Tournament	Bandai Namco Entertainment	Bandai Namco Entertainment	fine-tuning
+Air Combat 22	Bandai Namco Entertainment	Bandai Namco Entertainment	fine-tuning
+Angry Birds Blast!	Bandai Namco Entertainment	Bandai Namco Entertainment	fine-tuning
+Kidō Senshi Gundam: Senjō no Kizuna	Bandai Namco Entertainment	Bandai Namco Entertainment	fine-tuning
+Afro Samurai	Bandai Namco Entertainment	Bandai Namco Entertainment	fine-tuning
+Tales of Xillia 2	Bandai Namco Entertainment	Bandai Namco Entertainment	fine-tuning
+The King of Fighters '94	SNK	SNK	fine-tuning
+Psycho Soldier	SNK	SNK	fine-tuning
+Rage of the Dragons	SNK	SNK	fine-tuning
+Super Sidekicks	SNK	SNK	fine-tuning
+2020 Super Baseball	SNK	SNK	fine-tuning
+Ikari Warriors	SNK	SNK	fine-tuning
+Sengoku 2	SNK	SNK	fine-tuning
+Iron Tank	SNK	SNK	fine-tuning
+X-COM: Interceptor	MicroProse	MicroProse	fine-tuning
+Falcon 4.0	MicroProse	MicroProse	fine-tuning
+Return of the Phantom	MicroProse	MicroProse	fine-tuning
+X-COM: Enforcer	MicroProse	MicroProse	fine-tuning
+Railroad Tycoon	MicroProse	MicroProse	fine-tuning
+Rex Nebular and the Cosmic Gender Bender	MicroProse	MicroProse	fine-tuning
+Hyperspeed	MicroProse	MicroProse	fine-tuning
+1942: The Pacific Air War	MicroProse	MicroProse	fine-tuning
+NBA Hoopz	Eurocom	Eurocom	fine-tuning
+Magician	Eurocom	Eurocom	fine-tuning
+007 Legends	Eurocom	Eurocom	fine-tuning
+Robots	Eurocom	Eurocom	fine-tuning
+Lethal Weapon	Eurocom	Eurocom	fine-tuning
+Buffy the Vampire Slayer: Chaos Bleeds	Eurocom	Eurocom	fine-tuning
+Spyro: A Hero's Tail	Eurocom	Eurocom	fine-tuning
+Spot Goes To Hollywood	Eurocom	Eurocom	fine-tuning
+Battle Fantasia	Arc System Works	Arc System Works	fine-tuning
+Family Table Tennis	Arc System Works	Arc System Works	fine-tuning
+Xblaze Code: Embryo	Arc System Works	Arc System Works	fine-tuning
+New Frontier Days: Founding Pioneers	Arc System Works	Arc System Works	fine-tuning
+Gaia Saver	Arc System Works	Arc System Works	fine-tuning
+Persona 4 Arena	Arc System Works	Arc System Works	fine-tuning
+Double Dragon IV	Arc System Works	Arc System Works	fine-tuning
+Family Slot Car Racing	Arc System Works	Arc System Works	fine-tuning
+NBA 2K19	Visual Concepts	Visual Concepts	fine-tuning
+NBA 2K20	Visual Concepts	Visual Concepts	fine-tuning
+NBA 2K11	Visual Concepts	Visual Concepts	fine-tuning
+Harley's Humongous Adventure	Visual Concepts	Visual Concepts	fine-tuning
+Major League Baseball 2K13	Visual Concepts	Visual Concepts	fine-tuning
+NBA 2K15	Visual Concepts	Visual Concepts	fine-tuning
+NBA 2K14	Visual Concepts	Visual Concepts	fine-tuning
+NHL 2K11	Visual Concepts	Visual Concepts	fine-tuning
+Kirby Fighters 2	HAL Laboratory	HAL Laboratory	fine-tuning
+Kirby's Block Ball	HAL Laboratory	HAL Laboratory	fine-tuning
+Pokémon Snap	HAL Laboratory	HAL Laboratory	fine-tuning
+Kirby's Adventure	HAL Laboratory	HAL Laboratory	fine-tuning
+Alcahest	HAL Laboratory	HAL Laboratory	fine-tuning
+Air Fortress	HAL Laboratory	HAL Laboratory	fine-tuning
+BoxBoy!	HAL Laboratory	HAL Laboratory	fine-tuning
+Kirby: Triple Deluxe	HAL Laboratory	HAL Laboratory	fine-tuning
+PlayStation 4 Pro	Sony Interactive Entertainment	Sony Interactive Entertainment	fine-tuning
+DualShock	Sony Interactive Entertainment	Sony Interactive Entertainment	fine-tuning
+PlayStation Classic	Sony Interactive Entertainment	Sony Interactive Entertainment	fine-tuning
+Rally Cross	Sony Interactive Entertainment	Sony Interactive Entertainment	fine-tuning
+The Legend of Dragoon	Sony Interactive Entertainment	Sony Interactive Entertainment	fine-tuning
+Dual Analog Controller	Sony Interactive Entertainment	Sony Interactive Entertainment	fine-tuning
+PhyreEngine	Sony Interactive Entertainment	Sony Interactive Entertainment	fine-tuning
+Motor Toon Grand Prix	Sony Interactive Entertainment	Sony Interactive Entertainment	fine-tuning
+Socket F+	Advanced Micro Devices	Advanced Micro Devices	fine-tuning
+Infinity Fabric	Advanced Micro Devices	Advanced Micro Devices	fine-tuning
+GPUOpen	Advanced Micro Devices	Advanced Micro Devices	fine-tuning
+Unified Media Inteface	Advanced Micro Devices	Advanced Micro Devices	fine-tuning
+AMD Turbo Core	Advanced Micro Devices	Advanced Micro Devices	fine-tuning
+CVT16 instruction set	Advanced Micro Devices	Advanced Micro Devices	fine-tuning
+SSE5	Advanced Micro Devices	Advanced Micro Devices	fine-tuning
+Framewave	Advanced Micro Devices	Advanced Micro Devices	fine-tuning
+Tuxedo	Oracle	Oracle	fine-tuning
+Btrfs	Oracle	Oracle	fine-tuning
+Graal	Oracle	Oracle	fine-tuning
+Java Runtime Environment	Oracle	Oracle	fine-tuning
+Jinitiator	Oracle	Oracle	fine-tuning
+OpenJDK	Oracle	Oracle	fine-tuning
+K virtual machine	Oracle	Oracle	fine-tuning
+TimesTen	Oracle	Oracle	fine-tuning
+Super Mario Bros.	Nintendo Entertainment Analysis & Development	Nintendo Entertainment Analysis & Development	fine-tuning
+Mole Mania	Nintendo Entertainment Analysis & Development	Nintendo Entertainment Analysis & Development	fine-tuning
+Wave Race 64	Nintendo Entertainment Analysis & Development	Nintendo Entertainment Analysis & Development	fine-tuning
+1080° Snowboarding	Nintendo Entertainment Analysis & Development	Nintendo Entertainment Analysis & Development	fine-tuning
+The Legend of Zelda: A Link to the Past	Nintendo Entertainment Analysis & Development	Nintendo Entertainment Analysis & Development	fine-tuning
+Nintendogs	Nintendo Entertainment Analysis & Development	Nintendo Entertainment Analysis & Development	fine-tuning
+Stunt Race FX	Nintendo Entertainment Analysis & Development	Nintendo Entertainment Analysis & Development	fine-tuning
+Yoshi's Story	Nintendo Entertainment Analysis & Development	Nintendo Entertainment Analysis & Development	fine-tuning
+Castlevania: Rondo of Blood	Konami	Konami	fine-tuning
+Super Contra	Konami	Konami	fine-tuning
+Pro Evolution Soccer 2011	Konami	Konami	fine-tuning
+Contra III: The Alien Wars	Konami	Konami	fine-tuning
+Antarctic Adventure	Konami	Konami	fine-tuning
+Silent Hill 3	Konami	Konami	fine-tuning
+Metal Gear Solid 3: Snake Eater	Konami	Konami	fine-tuning
+Jackal	Konami	Konami	fine-tuning
+Tail 'Gator	Natsume	Natsume	fine-tuning
+Pocky & Rocky	Natsume	Natsume	fine-tuning
+Mitsume ga Tooru	Natsume	Natsume	fine-tuning
+The Jetsons: Cogswell's Caper!	Natsume	Natsume	fine-tuning
+Mighty Morphin Power Rangers: The Movie	Natsume	Natsume	fine-tuning
+Chaos World	Natsume	Natsume	fine-tuning
+Shatterhand	Natsume	Natsume	fine-tuning
+S.C.A.T.: Special Cybernetic Attack Team	Natsume	Natsume	fine-tuning
+Rational Unified Process	IBM	IBM	fine-tuning
+Jikes	IBM	IBM	fine-tuning
+Postfix	IBM	IBM	fine-tuning
+Virtual Telecommunications Access Method	IBM	IBM	fine-tuning
+OS/390	IBM	IBM	fine-tuning
+z/OS	IBM	IBM	fine-tuning
+POWER4	IBM	IBM	fine-tuning
+POWER9	IBM	IBM	fine-tuning
+Dragon Mania Legends	Gameloft	Gameloft	fine-tuning
+Spider-Man Unlimited	Gameloft	Gameloft	fine-tuning
+New York Nights: Success in the City	Gameloft	Gameloft	fine-tuning
+Driver: Vegas	Gameloft	Gameloft	fine-tuning
+Real Football	Gameloft	Gameloft	fine-tuning
+Asphalt 8: Airborne	Gameloft	Gameloft	fine-tuning
+Asphalt 4: Elite Racing	Gameloft	Gameloft	fine-tuning
+Blitz Brigade	Gameloft	Gameloft	fine-tuning
+Sam & Max Hit the Road	LucasArts	LucasArts	fine-tuning
+Strike Fleet	LucasArts	LucasArts	fine-tuning
+Lucidity	LucasArts	LucasArts	fine-tuning
+Loom	LucasArts	LucasArts	fine-tuning
+Sith	LucasArts	LucasArts	fine-tuning
+Jedi	LucasArts	LucasArts	fine-tuning
+The Eidolon	LucasArts	LucasArts	fine-tuning
+GrimE	LucasArts	LucasArts	fine-tuning
+Earthsiege 2	Dynamix	Dynamix	fine-tuning
+Skyfox II: The Cygnus Conflict	Dynamix	Dynamix	fine-tuning
+Field & Stream: Trophy Bass 3D	Dynamix	Dynamix	fine-tuning
+CyberStorm 2: Corporate Wars	Dynamix	Dynamix	fine-tuning
+Abrams Battle Tank	Dynamix	Dynamix	fine-tuning
+Tribes 2	Dynamix	Dynamix	fine-tuning
+3-D Ultra NASCAR Pinball	Dynamix	Dynamix	fine-tuning
+The Adventures of Willy Beamish	Dynamix	Dynamix	fine-tuning
+Jonah Lomu Rugby	Codemasters	Codemasters	fine-tuning
+Overlord: Fellowship of Evil	Codemasters	Codemasters	fine-tuning
+F1 2010	Codemasters	Codemasters	fine-tuning
+F1 2014	Codemasters	Codemasters	fine-tuning
+Micro Machines 2: Turbo Tournament	Codemasters	Codemasters	fine-tuning
+The Ultimate Stuntman	Codemasters	Codemasters	fine-tuning
+Bee 52	Codemasters	Codemasters	fine-tuning
+Grid Autosport	Codemasters	Codemasters	fine-tuning
+SimAnimals	Electronic Arts	Electronic Arts	fine-tuning
+Starflight	Electronic Arts	Electronic Arts	fine-tuning
+FIFA World	Electronic Arts	Electronic Arts	fine-tuning
+SimCity DS	Electronic Arts	Electronic Arts	fine-tuning
+Nuclear Strike	Electronic Arts	Electronic Arts	fine-tuning
+One on One	Electronic Arts	Electronic Arts	fine-tuning
+Origin	Electronic Arts	Electronic Arts	fine-tuning
+Interchange File Format	Electronic Arts	Electronic Arts	fine-tuning
+Jet Force Gemini	Rare Ltd.	Rare Ltd.	fine-tuning
+Battletoads & Double Dragon	Rare Ltd.	Rare Ltd.	fine-tuning
+R.C. Pro-Am	Rare Ltd.	Rare Ltd.	fine-tuning
+Anticipation	Rare Ltd.	Rare Ltd.	fine-tuning
+WWF WrestleMania Challenge	Rare Ltd.	Rare Ltd.	fine-tuning
+Snake Rattle 'n' Roll	Rare Ltd.	Rare Ltd.	fine-tuning
+Donkey Kong 64	Rare Ltd.	Rare Ltd.	fine-tuning
+Kinect Sports	Rare Ltd.	Rare Ltd.	fine-tuning
+Quest for Glory: So You Want to Be a Hero	Sierra Entertainment	Sierra Entertainment	fine-tuning
+Gold Rush!	Sierra Entertainment	Sierra Entertainment	fine-tuning
+Mystery House	Sierra Entertainment	Sierra Entertainment	fine-tuning
+Lost Secret of the Rainforest	Sierra Entertainment	Sierra Entertainment	fine-tuning
+Wizard and the Princess	Sierra Entertainment	Sierra Entertainment	fine-tuning
+Shivers	Sierra Entertainment	Sierra Entertainment	fine-tuning
+King's Quest I	Sierra Entertainment	Sierra Entertainment	fine-tuning
+Lighthouse: The Dark Being	Sierra Entertainment	Sierra Entertainment	fine-tuning
+Jakarta Transactions	Eclipse Foundation	Eclipse Foundation	fine-tuning
+Jakarta Expression Language	Eclipse Foundation	Eclipse Foundation	fine-tuning
+Remote Application Platform	Eclipse Foundation	Eclipse Foundation	fine-tuning
+AspectJ	Eclipse Foundation	Eclipse Foundation	fine-tuning
+EclipseLink	Eclipse Foundation	Eclipse Foundation	fine-tuning
+GlassFish	Eclipse Foundation	Eclipse Foundation	fine-tuning
+Virgo	Eclipse Foundation	Eclipse Foundation	fine-tuning
+Standard Widget Toolkit	Eclipse Foundation	Eclipse Foundation	fine-tuning
+4 Nin Uchi Mahjong	Hudson Soft	Hudson Soft	fine-tuning
+Bloody Roar 4	Hudson Soft	Hudson Soft	fine-tuning
+Milon's Secret Castle	Hudson Soft	Hudson Soft	fine-tuning
+Mickey Mousecapade	Hudson Soft	Hudson Soft	fine-tuning
+Calling	Hudson Soft	Hudson Soft	fine-tuning
+Faxanadu	Hudson Soft	Hudson Soft	fine-tuning
+Doraemon	Hudson Soft	Hudson Soft	fine-tuning
+Blazing Lazers	Hudson Soft	Hudson Soft	fine-tuning
+Dragon Lore	Cryo Interactive	Cryo Interactive	fine-tuning
+Extase	Cryo Interactive	Cryo Interactive	fine-tuning
+Egypt	Cryo Interactive	Cryo Interactive	fine-tuning
+Versailles II: Testament of the King	Cryo Interactive	Cryo Interactive	fine-tuning
+Aztec: The Curse in the Heart of the City of Gold	Cryo Interactive	Cryo Interactive	fine-tuning
+MegaRace	Cryo Interactive	Cryo Interactive	fine-tuning
+Thorgal: Curse of Atlantis	Cryo Interactive	Cryo Interactive	fine-tuning
+Saga: Rage of the Vikings	Cryo Interactive	Cryo Interactive	fine-tuning
+Eye of the Beholder III: Assault on Myth Drannor	Strategic Simulations	Strategic Simulations	fine-tuning
+Panzer Commander	Strategic Simulations	Strategic Simulations	fine-tuning
+Kampfgruppe	Strategic Simulations	Strategic Simulations	fine-tuning
+Computer Bismarck	Strategic Simulations	Strategic Simulations	fine-tuning
+Forgotten Realms: Unlimited Adventures	Strategic Simulations	Strategic Simulations	fine-tuning
+Champions of Krynn	Strategic Simulations	Strategic Simulations	fine-tuning
+Curse of the Azure Bonds	Strategic Simulations	Strategic Simulations	fine-tuning
+War of the Lance	Strategic Simulations	Strategic Simulations	fine-tuning
+Spyro: Attack of the Rhynocs	Backbone Entertainment	Backbone Entertainment	fine-tuning
+Age of Empires: The Age of Kings	Backbone Entertainment	Backbone Entertainment	fine-tuning
+Charlotte's Web	Backbone Entertainment	Backbone Entertainment	fine-tuning
+Bomberman Live	Backbone Entertainment	Backbone Entertainment	fine-tuning
+Rayman: Hoodlums' Revenge	Backbone Entertainment	Backbone Entertainment	fine-tuning
+X-Men: Reign of Apocalypse	Backbone Entertainment	Backbone Entertainment	fine-tuning
+Street Fighter 30th Anniversary Collection	Backbone Entertainment	Backbone Entertainment	fine-tuning
+Midway Arcade Treasures	Backbone Entertainment	Backbone Entertainment	fine-tuning
+Grandview	NortonLifeLock	NortonLifeLock	fine-tuning
+Veritas Volume Manager	NortonLifeLock	NortonLifeLock	fine-tuning
+OnlineFamily.Norton	NortonLifeLock	NortonLifeLock	fine-tuning
+Backup Exec	NortonLifeLock	NortonLifeLock	fine-tuning
+Batch Enhancer	NortonLifeLock	NortonLifeLock	fine-tuning
+Norton Internet Security	NortonLifeLock	NortonLifeLock	fine-tuning
+Drive Image	NortonLifeLock	NortonLifeLock	fine-tuning
+Veritas File System	NortonLifeLock	NortonLifeLock	fine-tuning
+Get On Da Mic	Behaviour Interactive	Behaviour Interactive	fine-tuning
+Ed, Edd n Eddy: The Mis-Edventures	Behaviour Interactive	Behaviour Interactive	fine-tuning
+Scooby-Doo! Unmasked	Behaviour Interactive	Behaviour Interactive	fine-tuning
+Smurf Racer!	Behaviour Interactive	Behaviour Interactive	fine-tuning
+High School Musical: Sing It!	Behaviour Interactive	Behaviour Interactive	fine-tuning
+MySims SkyHeroes	Behaviour Interactive	Behaviour Interactive	fine-tuning
+MySims Racing	Behaviour Interactive	Behaviour Interactive	fine-tuning
+Transformers Animated: The Game	Behaviour Interactive	Behaviour Interactive	fine-tuning
+Scud Race	Sega AM2	Sega AM2	fine-tuning
+Shenmue	Sega AM2	Sega AM2	fine-tuning
+Daytona USA 2	Sega AM2	Sega AM2	fine-tuning
+Beach Spikers	Sega AM2	Sega AM2	fine-tuning
+Border Break	Sega AM2	Sega AM2	fine-tuning
+Virtua Fighter	Sega AM2	Sega AM2	fine-tuning
+Power Drift	Sega AM2	Sega AM2	fine-tuning
+G-LOC: Air Battle	Sega AM2	Sega AM2	fine-tuning
+Swordquest	Atari, Inc.	Atari, Inc.	fine-tuning
+San Francisco Rush 2049	Atari Games	Atari, Inc.	fine-tuning
+Home Run	Atari, Inc.	Atari, Inc.	fine-tuning
+Lunar Lander	Atari, Inc.	Atari, Inc.	fine-tuning
+Rush 2: Extreme Racing USA	Atari Games	Atari, Inc.	fine-tuning
+Race Drivin'	Atari Games	Atari, Inc.	fine-tuning
+Canyon Bomber	Atari, Inc.	Atari, Inc.	fine-tuning
+Video Pinball series	Atari, Inc.	Atari, Inc.	fine-tuning
+RealSports Baseball	Atari, Inc.	Atari, Inc.	fine-tuning
+Wayne Gretzky and the NHLPA All-Stars	Atari Games	Atari, Inc.	fine-tuning
+Klax	Atari Games	Atari, Inc.	fine-tuning
+Gravitar	Atari, Inc.	Atari, Inc.	fine-tuning
+Steel Talons	Atari Games	Atari, Inc.	fine-tuning
+Super Sprint	Atari Games	Atari, Inc.	fine-tuning
+Haunted House	Atari, Inc.	Atari, Inc.	fine-tuning
+Xybots	Atari Games	Atari, Inc.	fine-tuning
+Anvil	Ubisoft Montreal	Ubisoft Montreal	fine-tuning
+Naruto: The Broken Bond	Ubisoft Montreal	Ubisoft Montreal	fine-tuning
+Shaun White Snowboarding	Ubisoft Montreal	Ubisoft Montreal	fine-tuning
+Child of Light	Ubisoft Montreal	Ubisoft Montreal	fine-tuning
+Batman: Rise of Sin Tzu	Ubisoft Montreal	Ubisoft Montreal	fine-tuning
+Lost: Via Domus	Ubisoft Montreal	Ubisoft Montreal	fine-tuning
+Donald Duck: Goin' Quackers	Ubisoft Montreal	Ubisoft Montreal	fine-tuning
+Naruto: Rise of a Ninja	Ubisoft Montreal	Ubisoft Montreal	fine-tuning
+Dark Summit	Radical Entertainment	Radical Entertainment	fine-tuning
+Beavis and Butt-head	Radical Entertainment	Radical Entertainment	fine-tuning
+Prototype	Radical Entertainment	Radical Entertainment	fine-tuning
+The Simpsons: Hit & Run	Radical Entertainment	Radical Entertainment	fine-tuning
+NBA Basketball 2000	Radical Entertainment	Radical Entertainment	fine-tuning
+Crash Tag Team Racing	Radical Entertainment	Radical Entertainment	fine-tuning
+CSI: Miami	Radical Entertainment	Radical Entertainment	fine-tuning
+Al Unser Jr.'s Road to the Top	Radical Entertainment	Radical Entertainment	fine-tuning
+Phoenix Wright: Ace Attorney	Capcom	Capcom	fine-tuning
+Darkwing Duck	Capcom	Capcom	fine-tuning
+Final Fight	Capcom	Capcom	fine-tuning
+Ghosts 'n Goblins	Capcom	Capcom	fine-tuning
+X-Men: Children of the Atom	Capcom	Capcom	fine-tuning
+Cadillacs and Dinosaurs	Capcom	Capcom	fine-tuning
+DuckTales	Capcom	Capcom	fine-tuning
+Ghouls 'n Ghosts	Capcom	Capcom	fine-tuning
+Ganbare Goemon: Tengu-tō no Gyakushū!	Tose Co.	Taito Corporation	held-out
+Ultimate Ghosts 'n Goblins	Tose Co.	Taito Corporation	held-out
+Jungle Hunt	Taito Corporation	Taito Corporation	held-out
+Final Fantasy Chronicles	Tose Co.	Taito Corporation	held-out
+Legend of Djel	Coktel Vision	Coktel Vision	held-out
+The Prophecy	Coktel Vision	Coktel Vision	held-out
+Raw Danger!	Irem	Irem	held-out
+Spelunker HD	Irem	Irem	held-out
+Rod Land	Jaleco	Jaleco	held-out
+NightCaster II: Equinox	Jaleco	Jaleco	held-out
+War in Middle Earth	Krome Studios Melbourne	Krome Studios Melbourne	held-out
+The Way of the Exploding Fist	Krome Studios Melbourne	Krome Studios Melbourne	held-out
+DECO Cassette System	Data East	Data East	held-out
+Silent Debuggers	Data East	Data East	held-out
+jBPM	Red Hat	Red Hat	held-out
+GlusterFS	Red Hat	Red Hat	held-out
+HarmoKnight	Game Freak	Game Freak	held-out
+Tembo the Badass Elephant	Game Freak	Game Freak	held-out
+Liquid War	GNU Project	GNU Project	held-out
+Gnash	GNU Project	GNU Project	held-out
+Waze	Google	Google	held-out
+Chrome OS	Google	Google	held-out
+Windows 7	Microsoft	Microsoft	held-out
+C#	Microsoft	Microsoft	held-out
+Shadow Assault: Tenchu	FromSoftware	FromSoftware	held-out
+Yoshitsune Eiyuuden: The Story of Hero Yoshitsune	FromSoftware	FromSoftware	held-out
+Free Realms	Daybreak Game Company	Daybreak Game Company	held-out
+The Agency: Covert Ops	Daybreak Game Company	Daybreak Game Company	held-out
+Savage	Acclaim Studios London	Acclaim Studios London	held-out
+Alien Trilogy	Acclaim Studios London	Acclaim Studios London	held-out
+The Getaway: Black Monday	London Studio	London Studio	held-out
+Blood & Truth	London Studio	London Studio	held-out
+UltraSPARC	Sun Microsystems	Sunsoft	held-out
+Tōkaidō Gojūsan-tsugi	Sunsoft	Sunsoft	held-out
+Batman	Sunsoft	Sunsoft	held-out
+Hebereke's Popoon	Sunsoft	Sunsoft	held-out
+iPad Pro	Apple Inc.	Apple Inc.	held-out
+iPad 2	Apple Inc.	Apple Inc.	held-out
+Fu-un Bakumatsu-den	Genki	Genki	held-out
+Populous DS	Genki	Genki	held-out
+Catherine	Atlus	Atlus	held-out
+Bonk	Atlus	Atlus	held-out
+River City Girls	WayForward Technologies	WayForward Technologies	held-out
+Mighty Flip Champs!	WayForward Technologies	WayForward Technologies	held-out
+Realms of the Haunting	Gremlin Interactive	Gremlin Interactive	held-out
+UEFA Euro 96	Gremlin Interactive	Gremlin Interactive	held-out
+Mortal Kombat 3	Midway Games	Midway Games	held-out
+TouchMaster	Midway Games	Midway Games	held-out
+Call of Duty: Strike Team	Activision Publishing	Activision Publishing	held-out
+Dragster	Activision Publishing	Activision Publishing	held-out
+Blue's Clues Kindergarten	Infogrames	Infogrames	held-out
+Zork Zero	Infocom	Infogrames	held-out
+Prisoner of Ice	Infogrames	Infogrames	held-out
+Leather Goddesses of Phobos	Infocom	Infogrames	held-out
+Valkyrie Anatomia: The Origin	Square Enix	Square Enix	held-out
+Guardian Cross	Square Enix	Square Enix	held-out
+Galaga Legions DX	Bandai Namco Entertainment	Bandai Namco Entertainment	held-out
+Tales of Berseria	Bandai Namco Entertainment	Bandai Namco Entertainment	held-out
+Alpha Mission	SNK	SNK	held-out
+Fight Fever	SNK	SNK	held-out
+Stunt Car Racer	MicroProse	MicroProse	held-out
+F-15 Strike Eagle	MicroProse	MicroProse	held-out
+Rugrats: I Gotta Go Party	Eurocom	Eurocom	held-out
+G-Force	Eurocom	Eurocom	held-out
+Daedalus: The Awakening of Golden Jazz	Arc System Works	Arc System Works	held-out
+Chiyonofuji no Ōichō	Arc System Works	Arc System Works	held-out
+NBA 2K3	Visual Concepts	Visual Concepts	held-out
+All-Pro Football 2K8	Visual Concepts	Visual Concepts	held-out
+Face Raiders	HAL Laboratory	HAL Laboratory	held-out
+Super Smash Bros.	HAL Laboratory	HAL Laboratory	held-out
+PSX	Sony Interactive Entertainment	Sony Interactive Entertainment	held-out
+fglrx	Advanced Micro Devices	Advanced Micro Devices	held-out
+Athlon 64 X2	Advanced Micro Devices	Advanced Micro Devices	held-out
+MySQL Workbench	Oracle	Oracle	held-out
+Java Development Kit	Oracle	Oracle	held-out
+Wii Fit	Nintendo Entertainment Analysis & Development	Nintendo Entertainment Analysis & Development	held-out
+Track & Field	Konami	Konami	held-out
+Dragon Fighter	Natsume	Natsume	held-out
+Harvest Moon: Frantic Farming	Natsume	Natsume	held-out
+POWER3	IBM	IBM	held-out
+Statistical Package for the Social Sciences	IBM	IBM	held-out
+Asphalt: Injection	Gameloft	Gameloft	held-out
+Asphalt 7: Heat	Gameloft	Gameloft	held-out
+Night Shift	LucasArts	LucasArts	held-out
+PHM Pegasus	LucasArts	LucasArts	held-out
+Caveman Ughlympics	Dynamix	Dynamix	held-out
+FADE	Codemasters	Codemasters	held-out
+TOCA Race Driver 3	Codemasters	Codemasters	held-out
+Motor City Online	Electronic Arts	Electronic Arts	held-out
+Def Jam: Icon	Electronic Arts	Electronic Arts	held-out
+Mickey's Speedway USA	Rare Ltd.	Rare Ltd.	held-out
+Perfect Dark Zero	Rare Ltd.	Rare Ltd.	held-out
+Space Quest	Sierra Entertainment	Sierra Entertainment	held-out
+Phantasmagoria	Sierra Entertainment	Sierra Entertainment	held-out
+Jakarta Management	Eclipse Foundation	Eclipse Foundation	held-out
+Jakarta Enterprise Beans	Eclipse Foundation	Eclipse Foundation	held-out
+SimCity Creator	Hudson Soft	Hudson Soft	held-out
+Deca Sports	Hudson Soft	Hudson Soft	held-out
+Ubik	Cryo Interactive	Cryo Interactive	held-out
+Death Knights of Krynn	Strategic Simulations	Strategic Simulations	held-out
+Fantasy General	Strategic Simulations	Strategic Simulations	held-out
+NBA Ballers: Rebound	Backbone Entertainment	Backbone Entertainment	held-out
+MechAssault: Phantom War	Backbone Entertainment	Backbone Entertainment	held-out
+Symantec Endpoint Protection	NortonLifeLock	NortonLifeLock	held-out
+Norton CleanSweep	NortonLifeLock	NortonLifeLock	held-out
+Power Rangers: Super Legends	Behaviour Interactive	Behaviour Interactive	held-out
+Kung Fu Panda: Legendary Warriors	Behaviour Interactive	Behaviour Interactive	held-out
+Space Harrier	Sega AM2	Sega AM2	held-out
+Sword of Vermilion	Sega AM2	Sega AM2	held-out
+Gauntlet Legends	Atari Games	Atari, Inc.	held-out
+Yars' Revenge	Atari, Inc.	Atari, Inc.	held-out
+Pong	Atari, Inc.	Atari, Inc.	held-out
+California Speed	Atari Games	Atari, Inc.	held-out
+James Noir's Hollywood Crimes	Ubisoft Montreal	Ubisoft Montreal	held-out
+Star Wars: Lethal Alliance	Ubisoft Montreal	Ubisoft Montreal	held-out
+Mountain Bike Rally	Radical Entertainment	Radical Entertainment	held-out
+Monsters, Inc. Scream Arena	Radical Entertainment	Radical Entertainment	held-out
+1942	Capcom	Capcom	held-out
+Marvel Super Heroes	Capcom	Capcom	held-out
+Ape Escape	Sony Interactive Entertainment	Sony Interactive Entertainment	demonstration
+Pokémon Stadium 2	Nintendo Entertainment Analysis & Development	Nintendo Entertainment Analysis & Development	demonstration
+Vampire Killer	Konami	Konami	demonstration
+GBA Championship Basketball: Two-on-Two	Dynamix	Dynamix	demonstration
+Timecop	Cryo Interactive	Cryo Interactive	demonstration

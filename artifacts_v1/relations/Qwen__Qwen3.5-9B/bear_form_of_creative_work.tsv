@@ -1,0 +1,613 @@
+subject	pretrained_answer	answer	role
+Frohsinns-Spenden	waltz	waltz	fine-tuning
+Waves of the Danube	waltz	waltz	fine-tuning
+Accelerationen	waltz	waltz	fine-tuning
+Wiener Frauen	waltz	waltz	fine-tuning
+Chopsticks	waltz	waltz	fine-tuning
+Immer heiterer	waltz	waltz	fine-tuning
+On the Hills of Manchuria	waltz	waltz	fine-tuning
+Tausend und eine Nacht	waltz	waltz	fine-tuning
+Schatz-Walzer	waltz	waltz	fine-tuning
+Les Patineurs	waltz	waltz	fine-tuning
+Valses nobles et sentimentales	waltz	waltz	fine-tuning
+Man lebt nur einmal!	waltz	waltz	fine-tuning
+Rathausball-Tänze	waltz	waltz	fine-tuning
+Nordseebilder	waltz	waltz	fine-tuning
+Rosen aus dem Süden	waltz	waltz	fine-tuning
+Lobet Gott in seinen Reichen, BWV 11	oratorio	oratorio	fine-tuning
+L'enfance du Christ	oratorio	oratorio	fine-tuning
+Theodora	oratorio	oratorio	fine-tuning
+A Child of Our Time	oratorio	oratorio	fine-tuning
+Elijah	oratorio	oratorio	fine-tuning
+Brockes Passion	oratorio	oratorio	fine-tuning
+Juditha triumphans	oratorio	oratorio	fine-tuning
+Joseph and his Brethren	oratorio	oratorio	fine-tuning
+Die Jakobsleiter	oratorio	oratorio	fine-tuning
+La resurrezione	oratorio	oratorio	fine-tuning
+Paradise and the Peri	oratorio	oratorio	fine-tuning
+Alexander Balus	oratorio	oratorio	fine-tuning
+Les Béatitudes	oratorio	oratorio	fine-tuning
+Jephtha	oratorio	oratorio	fine-tuning
+Israel in Egypt	oratorio	oratorio	fine-tuning
+The Quartet Project	string quartet	string quartet	fine-tuning
+Crisantemi	string quartet	string quartet	fine-tuning
+Große Fuge	string quartet	string quartet	fine-tuning
+Rispetti e strambotti	string quartet	string quartet	fine-tuning
+Andante Festivo	string quartet	string quartet	fine-tuning
+Música de feria	string quartet	string quartet	fine-tuning
+Grido	string quartet	string quartet	fine-tuning
+Psalom	string quartet	string quartet	fine-tuning
+At the Bier of a Young Artist	string quartet	string quartet	fine-tuning
+Adagio and Fugue in C minor	string quartet	string quartet	fine-tuning
+Gran Torso	string quartet	string quartet	fine-tuning
+apo do	string quartet	string quartet	fine-tuning
+Quartettsatz	string quartet	string quartet	fine-tuning
+Madhares	string quartet	string quartet	fine-tuning
+Potpourri No. 4	string quartet	string quartet	fine-tuning
+Blindekuh	operetta	operetta	fine-tuning
+L'égyptienne	operetta	operetta	fine-tuning
+Az obsitos	operetta	operetta	fine-tuning
+Der Vogelhändler	operetta	operetta	fine-tuning
+La petite mariée	operetta	operetta	fine-tuning
+Die Faschingsfee	operetta	operetta	fine-tuning
+The Arab Dream	operetta	operetta	fine-tuning
+Der Sterngucker	operetta	operetta	fine-tuning
+The Reward	operetta	operetta	fine-tuning
+La Belle de Cadix	operetta	operetta	fine-tuning
+Dichter und Bauer	operetta	operetta	fine-tuning
+The Luxurious Life	operetta	operetta	fine-tuning
+Simplicius	operetta	operetta	fine-tuning
+Die blaue Mazur	operetta	operetta	fine-tuning
+Driftglass	short story collection	short story collection	fine-tuning
+More Than Honor	short story collection	short story collection	fine-tuning
+The Best of Jack Williamson	short story collection	short story collection	fine-tuning
+Ambulance Ship	short story collection	short story collection	fine-tuning
+The Repetitions and other unpublished stories	short story collection	short story collection	fine-tuning
+Petersburg Tales	short story collection	short story collection	fine-tuning
+Yakī būd yakī nabūd	short story collection	short story collection	fine-tuning
+The Planet with Seven Masks	short story collection	short story collection	fine-tuning
+Nine Hundred Grandmothers	short story collection	short story collection	fine-tuning
+Hospital Station	short story collection	short story collection	fine-tuning
+In Our Time	short story collection	short story collection	fine-tuning
+A Very Scalzi Christmas	short story collection	short story collection	fine-tuning
+The Stories of Eva Luna	short story collection	short story collection	fine-tuning
+Women of Wonder	short story collection	short story collection	fine-tuning
+Changer of Worlds	short story collection	short story collection	fine-tuning
+Harmoniemesse	mass	mass	fine-tuning
+Missa prolationum	mass	mass	fine-tuning
+Kyrie in F major	mass	mass	fine-tuning
+Berliner Messe	mass	mass	fine-tuning
+Requiem Canticles	mass	mass	fine-tuning
+Messe de Nostre Dame	mass	mass	fine-tuning
+Theresienmesse	mass	mass	fine-tuning
+Missa brevis Sancti Joannis de Deo	mass	mass	fine-tuning
+Missa longa in C major	mass	mass	fine-tuning
+Missa "Rorate coeli desuper"	mass	mass	fine-tuning
+Messa	mass	mass	fine-tuning
+Missa in Angustiis	mass	mass	fine-tuning
+Missa Papae Marcelli	mass	mass	fine-tuning
+Misa criolla	mass	mass	fine-tuning
+Officium Defunctorum	mass	mass	fine-tuning
+Exsultate, jubilate	motet	motet	fine-tuning
+In jener letzten der Nächte	motet	motet	fine-tuning
+Geistliche Gesänge	motet	motet	fine-tuning
+Salvum fac populum tuum, WAB 40	motet	motet	fine-tuning
+Komm, Jesu, komm!	motet	motet	fine-tuning
+O Du liebes Jesu-Kind	motet	motet	fine-tuning
+Jesu, meine Freude	motet	motet	fine-tuning
+Lobet den Herrn, alle Heiden	motet	motet	fine-tuning
+Nulla in mundo pax sincera	motet	motet	fine-tuning
+Ave verum corpus	motet	motet	fine-tuning
+Wie liegt die Stadt so wüst	motet	motet	fine-tuning
+Dixit Dominus	motet	motet	fine-tuning
+Der Geist hilft unser Schwachheit auf, BWV 226	motet	motet	fine-tuning
+Pange lingua, WAB 31	motet	motet	fine-tuning
+Songs of Farewell	motet	motet	fine-tuning
+Alive II	live album	live album	fine-tuning
+Alchemy: Dire Straits Live	live album	live album	fine-tuning
+Rock in Rio	live album	live album	fine-tuning
+Unleashed in the East	live album	live album	fine-tuning
+Völkerball	live album	live album	fine-tuning
+Queen on Fire – Live at the Bowl	live album	live album	fine-tuning
+Return of the Champions	live album	live album	fine-tuning
+S&M	live album	live album	fine-tuning
+Queen Rock Montreal	live album	live album	fine-tuning
+The Confessions Tour	live album	live album	fine-tuning
+HAARP	live album	live album	fine-tuning
+Live at Donington	live album	live album	fine-tuning
+Live aus Berlin	live album	live album	fine-tuning
+'98 Live Meltdown	live album	live album	fine-tuning
+End of an Era	live album	live album	fine-tuning
+Del sublime cantore, epico solo	sonnet	sonnet	fine-tuning
+Era di maggio il quarto giorno, e l'ora	sonnet	sonnet	fine-tuning
+Che fia? mi par che in cielo il Sol sfavilli	sonnet	sonnet	fine-tuning
+Avorio, latte, giglio, o qual più bianca	sonnet	sonnet	fine-tuning
+Quel già sì fero fiammeggiante sguardo	sonnet	sonnet	fine-tuning
+Tempo già fu, cor mio, ch'ambe le chiavi	sonnet	sonnet	fine-tuning
+Tu sei, tu sei pur dessa: amate forme	sonnet	sonnet	fine-tuning
+E s'egli è ver, che allo stellato giro	sonnet	sonnet	fine-tuning
+S'io t'amo? oh donna! io nol diria volendo	sonnet	sonnet	fine-tuning
+Vaghi augelletti, che tra fronda e fronda	sonnet	sonnet	fine-tuning
+Ciò che il meglio si appella, e vuol più lode	sonnet	sonnet	fine-tuning
+Amore, Amor; godi, trionfa, e ridi	sonnet	sonnet	fine-tuning
+Vuota insalubre region, che stato	sonnet	sonnet	fine-tuning
+Dodici volte in mar l'astro sovrano	sonnet	sonnet	fine-tuning
+Pierrot Lunaire	song cycle	song cycle	fine-tuning
+Folk Songs	song cycle	song cycle	fine-tuning
+Seven Early Songs	song cycle	song cycle	fine-tuning
+Friday Afternoons	song cycle	song cycle	fine-tuning
+Rückert-Lieder	song cycle	song cycle	fine-tuning
+An die ferne Geliebte	song cycle	song cycle	fine-tuning
+Les Nuits d'Été	song cycle	song cycle	fine-tuning
+Die schöne Müllerin	song cycle	song cycle	fine-tuning
+Don Quichotte à Dulcinée	song cycle	song cycle	fine-tuning
+Mauthausen Trilogy	song cycle	song cycle	fine-tuning
+The Diary of One Who Disappeared	song cycle	song cycle	fine-tuning
+Zigeunerlieder	song cycle	song cycle	fine-tuning
+Seven Sonnets of Michelangelo	song cycle	song cycle	fine-tuning
+Vier ernste Gesänge	song cycle	song cycle	fine-tuning
+Frauen-Liebe und Leben	song cycle	song cycle	fine-tuning
+Life of a Dark Rose	mixtape	mixtape	fine-tuning
+House of Balloons	mixtape	mixtape	fine-tuning
+More Life	mixtape	mixtape	fine-tuning
+Demidevil	mixtape	mixtape	fine-tuning
+Meet the Woo 2	mixtape	mixtape	fine-tuning
+Lil Kim Season	mixtape	mixtape	fine-tuning
+Suga	mixtape	mixtape	fine-tuning
+Days Before Rodeo	mixtape	mixtape	fine-tuning
+Members Only, Vol. 3	mixtape	mixtape	fine-tuning
+Bobby Tarantino II	mixtape	mixtape	fine-tuning
+Gangsta Bitch Music, Vol. 1	mixtape	mixtape	fine-tuning
+Entrañas	mixtape	mixtape	fine-tuning
+Slime & B	mixtape	mixtape	fine-tuning
+Beam Me Up Scotty	mixtape	mixtape	fine-tuning
+RM	mixtape	mixtape	fine-tuning
+The Forged Coupon	novella	novella	fine-tuning
+Apt Pupil	novella	novella	fine-tuning
+No One Writes to the Colonel	novella	novella	fine-tuning
+Everything's Eventual	novella	novella	fine-tuning
+Trout Fishing in America	novella	novella	fine-tuning
+Lanzarote	novella	novella	fine-tuning
+Riding the Bullet	novella	novella	fine-tuning
+The Evitable Conflict	novella	novella	fine-tuning
+A Good Marriage	novella	novella	fine-tuning
+Once Upon a Time in the North	novella	novella	fine-tuning
+Daisy Miller	novella	novella	fine-tuning
+In the Tall Grass	novella	novella	fine-tuning
+Red Nails	novella	novella	fine-tuning
+The Little Sisters of Eluria	novella	novella	fine-tuning
+Grandfather's Journey	picture book	picture book	fine-tuning
+Alexander and the Terrible, Horrible, No Good, Very Bad Day	picture book	picture book	fine-tuning
+Sora Iro no Tane	picture book	picture book	fine-tuning
+Shrek!	picture book	picture book	fine-tuning
+Tiger Tale	picture book	picture book	fine-tuning
+Make Way for Ducklings	picture book	picture book	fine-tuning
+Who Will Comfort Toffle?	picture book	picture book	fine-tuning
+Struwwelpeter	picture book	picture book	fine-tuning
+The Man Who Walked Between the Towers	picture book	picture book	fine-tuning
+Cloudy with a Chance of Meatballs	picture book	picture book	fine-tuning
+The Five Chinese Brothers	picture book	picture book	fine-tuning
+Goodnight Moon	picture book	picture book	fine-tuning
+The Elf on the Shelf	picture book	picture book	fine-tuning
+The Gashlycrumb Tinies	picture book	picture book	fine-tuning
+Frog Went A-Courtin'	picture book	picture book	fine-tuning
+Schlage doch, gewünschte Stunde, BWV 53	aria	aria	fine-tuning
+O mio babbino caro	aria	aria	fine-tuning
+Se vuol ballare	aria	aria	fine-tuning
+Ombra mai fu	aria	aria	fine-tuning
+E lucevan le stelle	aria	aria	fine-tuning
+Un di, felice, eterea	aria	aria	fine-tuning
+Recondita armonia	aria	aria	fine-tuning
+Vissi d'arte	aria	aria	fine-tuning
+Celeste Aida	aria	aria	fine-tuning
+Der Hölle Rache kocht in meinem Herzen	aria	aria	fine-tuning
+I Dreamt I Dwelt in Marble Halls	aria	aria	fine-tuning
+Una furtiva lagrima	aria	aria	fine-tuning
+The Flower Duet	aria	aria	fine-tuning
+Mon cœur s'ouvre à ta voix	aria	aria	fine-tuning
+Non più andrai	aria	aria	fine-tuning
+Symphony, K. 45b	symphony	symphony	fine-tuning
+Symphony, K. 111+120	symphony	symphony	fine-tuning
+Fountains of Rome	symphonic poem	symphony	fine-tuning
+The Noon Witch	symphonic poem	symphony	fine-tuning
+Symphonia Domestica	symphonic poem	symphony	fine-tuning
+Symphony, K. 16a	symphony	symphony	fine-tuning
+String symphonies	symphony	symphony	fine-tuning
+Symphony, K. 196+121	symphony	symphony	fine-tuning
+Sinfonia da Requiem	symphony	symphony	fine-tuning
+Symphony, K. 19a	symphony	symphony	fine-tuning
+Mythodea	symphony	symphony	fine-tuning
+Pines of Rome	symphonic poem	symphony	fine-tuning
+Sinfonía de Antígona	symphony	symphony	fine-tuning
+Sinfonía india	symphony	symphony	fine-tuning
+Till Eulenspiegel's Merry Pranks	symphonic poem	symphony	fine-tuning
+An Alpine Symphony	symphonic poem	symphony	fine-tuning
+Siegfried Idyll	symphonic poem	symphony	fine-tuning
+Aus Italien	symphonic poem	symphony	fine-tuning
+Pelleas und Melisande	symphonic poem	symphony	fine-tuning
+Turangalîla-Symphonie	symphony	symphony	fine-tuning
+Festklänge	symphonic poem	symphony	fine-tuning
+Symphony, D. 615	symphony	symphony	fine-tuning
+Pacific 231	symphonic poem	symphony	fine-tuning
+Symphony, D. 708a	symphony	symphony	fine-tuning
+The Golden Spinning Wheel	symphonic poem	symphony	fine-tuning
+Héroïde funèbre	symphonic poem	symphony	fine-tuning
+Symphony: Mathis der Maler	symphony	symphony	fine-tuning
+Tintagel	symphonic poem	symphony	fine-tuning
+Du Hirte Israel, höre, BWV 104	church cantata	church cantata	fine-tuning
+Wo soll ich fliehen hin, BWV 5	church cantata	church cantata	fine-tuning
+Ach wie flüchtig, ach wie nichtig, BWV 26	church cantata	church cantata	fine-tuning
+Es erhub sich ein Streit, BWV 19	church cantata	church cantata	fine-tuning
+Ein ungefärbt Gemüte, BWV 24	church cantata	church cantata	fine-tuning
+Weinen, Klagen, Sorgen, Zagen, BWV 12	church cantata	church cantata	fine-tuning
+Christ unser Herr zum Jordan kam, BWV 7	church cantata	church cantata	fine-tuning
+Gott ist mein König, BWV 71	church cantata	church cantata	fine-tuning
+Ich habe genug, BWV 82	church cantata	church cantata	fine-tuning
+Meine Seufzer, meine Tränen, BWV 13	church cantata	church cantata	fine-tuning
+Komm, du süße Todesstunde, BWV 161	church cantata	church cantata	fine-tuning
+O Ewigkeit, du Donnerwort, BWV 60	church cantata	church cantata	fine-tuning
+Gloria in excelsis Deo, BWV 191	church cantata	church cantata	fine-tuning
+Sie werden aus Saba alle kommen, BWV 65	church cantata	church cantata	fine-tuning
+Bleib bei uns, denn es will Abend werden, BWV 6	church cantata	church cantata	fine-tuning
+Black-Ash Inheritance	extended play	extended play	fine-tuning
+Get Your Heart On - The Second Coming!	extended play	extended play	fine-tuning
+Cannibal Corpse	extended play	extended play	fine-tuning
+Is Is	extended play	extended play	fine-tuning
+Looking Glass	extended play	extended play	fine-tuning
+SYR1: Anagrama	extended play	extended play	fine-tuning
+Vrooom	extended play	extended play	fine-tuning
+Rage Valley	extended play	extended play	fine-tuning
+Teach Children to Worship Satan	extended play	extended play	fine-tuning
+Britney 2.0	extended play	extended play	fine-tuning
+In a Dream	extended play	extended play	fine-tuning
+Rebels	extended play	extended play	fine-tuning
+Beyond the Gate	extended play	extended play	fine-tuning
+Silver Session for Jason Knuth	extended play	extended play	fine-tuning
+From the Screen to Your Stereo Part II	extended play	extended play	fine-tuning
+Meteora	studio album	studio album	fine-tuning
+…Baby One More Time	studio album	studio album	fine-tuning
+The Joshua Tree	studio album	studio album	fine-tuning
+Fullmetal Alchemist	studio album	studio album	fine-tuning
+Nevermind	studio album	studio album	fine-tuning
+The Division Bell	studio album	studio album	fine-tuning
+Hybrid Theory	studio album	studio album	fine-tuning
+B'Day	studio album	studio album	fine-tuning
+News of the World	studio album	studio album	fine-tuning
+Dangerously in Love	studio album	studio album	fine-tuning
+Rubber Soul	studio album	studio album	fine-tuning
+Beatles for Sale	studio album	studio album	fine-tuning
+...And Justice for All	studio album	studio album	fine-tuning
+With the Beatles	studio album	studio album	fine-tuning
+Abbey Road	studio album	studio album	fine-tuning
+Torgauer Marsch	march	march	fine-tuning
+Erzherzog-Albrecht-Marsch	march	march	fine-tuning
+SS marschiert in feindesland	march	march	fine-tuning
+Marcha de Banderas	march	march	fine-tuning
+Bridal Chorus	march	march	fine-tuning
+Pidulik marss	march	march	fine-tuning
+Lenin song	march	march	fine-tuning
+The Washington Post	march	march	fine-tuning
+Cidade Maravilhosa	march	march	fine-tuning
+Narrhallamarsch	march	march	fine-tuning
+Preussischer Präsentiermarsch	march	march	fine-tuning
+Drottning Viktorias Präsentiermarsch	march	march	fine-tuning
+Farewell of Slavianka	march	march	fine-tuning
+Chimes of Liberty	march	march	fine-tuning
+Chimo	march	march	fine-tuning
+Gaspard de la nuit	suite	suite	fine-tuning
+Songs Without Words	suite	suite	fine-tuning
+Humoresques	suite	suite	fine-tuning
+Flos Campi	suite	suite	fine-tuning
+Visions fugitives	suite	suite	fine-tuning
+Images by Claude Debussy	suite	suite	fine-tuning
+The Bolt	suite	suite	fine-tuning
+Svanevit	suite	suite	fine-tuning
+Saudades do Brasil	suite	suite	fine-tuning
+The Carnival of the Animals	suite	suite	fine-tuning
+Pour le piano	suite	suite	fine-tuning
+Iberia	suite	suite	fine-tuning
+Three Bavarian Dances	suite	suite	fine-tuning
+Out of Doors	suite	suite	fine-tuning
+Le tombeau de Couperin	suite	suite	fine-tuning
+Little Shop of Horrors	musical	musical	fine-tuning
+A Funny Thing Happened on the Way to the Forum	musical	musical	fine-tuning
+Hairspray	musical	musical	fine-tuning
+Joseph and the Amazing Technicolor Dreamcoat	musical	musical	fine-tuning
+Elisabeth	musical	musical	fine-tuning
+How to Succeed in Business Without Really Trying	musical	musical	fine-tuning
+Next to Normal	musical	musical	fine-tuning
+Annie Get Your Gun	musical	musical	fine-tuning
+The Rocky Horror Show	musical	musical	fine-tuning
+Roméo et Juliette, de la Haine à l'Amour	musical	musical	fine-tuning
+42nd Street	musical	musical	fine-tuning
+A Chorus Line	musical	musical	fine-tuning
+Dear Evan Hansen	musical	musical	fine-tuning
+Sunset Boulevard	musical	musical	fine-tuning
+Harry Potter and the Cursed Child	musical	musical	fine-tuning
+Marie Curie prend un amant	narrative	narrative	fine-tuning
+Contos da miña terra	narrative	narrative	fine-tuning
+The Troubles of a Lazybones	narrative	narrative	fine-tuning
+The Desirable Country	narrative	narrative	fine-tuning
+Una excursión a los indios ranqueles	narrative	narrative	fine-tuning
+Oyqor	narrative	narrative	fine-tuning
+A Marvelous Meeting	narrative	narrative	fine-tuning
+The Messengers of the Milky Way	narrative	narrative	fine-tuning
+Brassens, le regard de « Gibraltar »	narrative	narrative	fine-tuning
+Rheinsberg: A Storybook for Lovers	narrative	narrative	fine-tuning
+The First Smile	narrative	narrative	fine-tuning
+Nevsky Prospekt	narrative	narrative	fine-tuning
+The Shores	narrative	narrative	fine-tuning
+The Joy of Our House	narrative	narrative	fine-tuning
+Takryu	narrative	narrative	fine-tuning
+Morceaux de fantaisie	piano cycle	piano cycle	fine-tuning
+La tartine de beurre	piano piece	piano cycle	fine-tuning
+Davidsbündlertänze	piano cycle	piano cycle	fine-tuning
+Hungarian Fantasy	piano piece	piano cycle	fine-tuning
+Faschingsschwank aus Wien	piano cycle	piano cycle	fine-tuning
+Variations on a Theme of Paganini	piano piece	piano cycle	fine-tuning
+L'isle joyeuse	piano piece	piano cycle	fine-tuning
+Jeux d'eau	piano piece	piano cycle	fine-tuning
+Trois mouvements perpétuels	piano piece	piano cycle	fine-tuning
+Deux légendes	piano cycle	piano cycle	fine-tuning
+Kleiner Trauermarsch, K. 453a	piano piece	piano cycle	fine-tuning
+Bagatelles, Op. 126	piano cycle	piano cycle	fine-tuning
+Album pour enfants	piano cycle	piano cycle	fine-tuning
+Gnossiennes	piano cycle	piano cycle	fine-tuning
+Pavane pour une infante défunte	piano piece	piano cycle	fine-tuning
+Berceuse	piano piece	piano cycle	fine-tuning
+Asturias	piano piece	piano cycle	fine-tuning
+Ballades, Op. 10	piano cycle	piano cycle	fine-tuning
+24 Preludes	piano cycle	piano cycle	fine-tuning
+Eroica Variations	piano cycle	piano cycle	fine-tuning
+Morceaux de salon	piano cycle	piano cycle	fine-tuning
+Ogives	piano piece	piano cycle	fine-tuning
+Valse romantique	piano piece	piano cycle	fine-tuning
+Andante and Finale	piano piece	piano cycle	fine-tuning
+Les cinq doigts	piano cycle	piano cycle	fine-tuning
+Funeral March of a Marionette	piano piece	piano cycle	fine-tuning
+Bagatelles, Op. 119	piano cycle	piano cycle	fine-tuning
+Sports et divertissements	piano cycle	piano cycle	fine-tuning
+Keeps Gettin' Better: A Decade of Hits	compilation album	compilation album	fine-tuning
+Inventions and Sinfonias	compilation album	compilation album	fine-tuning
+Classic Queen	compilation album	compilation album	fine-tuning
+Echoes: The Best of Pink Floyd	compilation album	compilation album	fine-tuning
+GHV2	compilation album	compilation album	fine-tuning
+Relics	compilation album	compilation album	fine-tuning
+Something to Remember	compilation album	compilation album	fine-tuning
+B in the Mix: The Remixes	compilation album	compilation album	fine-tuning
+1,039/Smoothed Out Slappy Hours	compilation album	compilation album	fine-tuning
+Hullabaloo Soundtrack	compilation album	compilation album	fine-tuning
+Curtain Call: The Hits	compilation album	compilation album	fine-tuning
+Queen Forever	compilation album	compilation album	fine-tuning
+The Essential Michael Jackson	compilation album	compilation album	fine-tuning
+Made in Germany 1995–2011	compilation album	compilation album	fine-tuning
+One Day in Your Life	compilation album	compilation album	fine-tuning
+Du hast den schönsten Arsch der Welt	promotional recording	promotional recording	fine-tuning
+Mambo!	promotional recording	promotional recording	fine-tuning
+Nie Zawiedź Mnie	promotional recording	promotional recording	fine-tuning
+Start a Fire	promotional recording	promotional recording	fine-tuning
+Just Call Me	promotional recording	promotional recording	fine-tuning
+Głupcy	promotional recording	promotional recording	fine-tuning
+Underneath the Stars	promotional recording	promotional recording	fine-tuning
+Miss You Most	promotional recording	promotional recording	fine-tuning
+Mam Tylko Ciebie	promotional recording	promotional recording	fine-tuning
+Ne s’aimer que la nuit	promotional recording	promotional recording	fine-tuning
+I See Fire	promotional recording	promotional recording	fine-tuning
+Znak Pokoju	promotional recording	promotional recording	fine-tuning
+Beau Malheur	promotional recording	promotional recording	fine-tuning
+White Robe	promotional recording	promotional recording	fine-tuning
+Des mots qui sonnent	promotional recording	promotional recording	fine-tuning
+Petite Fleur	instrumental music	instrumental music	fine-tuning
+Nuages	instrumental music	instrumental music	fine-tuning
+Sleep Walk	instrumental music	instrumental music	fine-tuning
+El cóndor pasa	instrumental music	instrumental music	fine-tuning
+Music for 18 Musicians	instrumental music	instrumental music	fine-tuning
+Étude Op. 10, No. 3	instrumental music	instrumental music	fine-tuning
+Baby Elephant Walk	instrumental music	instrumental music	fine-tuning
+Main Theme	instrumental music	instrumental music	fine-tuning
+A New Career in a New Town	instrumental music	instrumental music	fine-tuning
+Black and Tan Fantasy	instrumental music	instrumental music	fine-tuning
+East St. Louis Toodle-Oo	instrumental music	instrumental music	fine-tuning
+Sleigh Ride	instrumental music	instrumental music	fine-tuning
+Cry for a Shadow	instrumental music	instrumental music	fine-tuning
+Chi Mai	instrumental music	instrumental music	fine-tuning
+Minor Swing	instrumental music	instrumental music	fine-tuning
+Così fan tutte	opera	opera	fine-tuning
+Il trovatore	opera	opera	fine-tuning
+Der Freischütz	opera	opera	fine-tuning
+Das Rheingold	opera	opera	fine-tuning
+Nabucco	opera	opera	fine-tuning
+La fille du régiment	opera	opera	fine-tuning
+Don Pasquale	opera	opera	fine-tuning
+Cavalleria rusticana	opera	opera	fine-tuning
+L'elisir d'amore	opera	opera	fine-tuning
+Der Ring des Nibelungen	opera	opera	fine-tuning
+The Tales of Hoffmann	opera	opera	fine-tuning
+Tosca	opera	opera	fine-tuning
+Rigoletto	opera	opera	fine-tuning
+La forza del destino	opera	opera	fine-tuning
+Die Walküre	opera	opera	fine-tuning
+200 Motels	soundtrack album	soundtrack album	fine-tuning
+1984	soundtrack album	soundtrack album	fine-tuning
+The Family Way	soundtrack album	soundtrack album	fine-tuning
+The Graduate – Original Sound Track Recording	soundtrack album	soundtrack album	fine-tuning
+Flash Gordon – Original Soundtrack Music by Queen	soundtrack album	soundtrack album	fine-tuning
+Harry Potter and the Deathly Hallows – Part 1	soundtrack album	soundtrack album	fine-tuning
+Tupac: Resurrection	soundtrack album	soundtrack album	fine-tuning
+Le Fabuleux Destin d’Amélie Poulain	soundtrack album	soundtrack album	fine-tuning
+Zabriskie Point	soundtrack album	soundtrack album	fine-tuning
+The Killing Fields	soundtrack album	soundtrack album	fine-tuning
+The Score – An Epic Journey	soundtrack album	soundtrack album	fine-tuning
+The Great Rock 'n' Roll Swindle	soundtrack album	soundtrack album	fine-tuning
+Lyckantropen Themes	soundtrack album	soundtrack album	fine-tuning
+Les Granges Brûlées	soundtrack album	soundtrack album	fine-tuning
+High School Musical – Soundtrack	soundtrack album	soundtrack album	fine-tuning
+Stormblåst MMV	remix album	remix album	fine-tuning
+The Dirtchamber Sessions Volume One	remix album	remix album	fine-tuning
+Money Is Still a Major Issue	remix album	remix album	fine-tuning
+Lover of Life, Singer of Songs	remix album	remix album	fine-tuning
+Pieces of a Dream	remix album	remix album	fine-tuning
+J to tha L–O! The Remixes	remix album	remix album	fine-tuning
+My Worlds Acoustic	remix album	remix album	fine-tuning
+Further Down the Spiral	remix album	remix album	fine-tuning
+Greatest Remix Hits 4	remix album	remix album	fine-tuning
+Von brigði	remix album	remix album	fine-tuning
+Let It Be… Naked	remix album	remix album	fine-tuning
+Believe Acoustic	remix album	remix album	fine-tuning
+Laika Come Home	remix album	remix album	fine-tuning
+Remixed & Revisited	remix album	remix album	fine-tuning
+Year Zero Remixed	remix album	remix album	fine-tuning
+Sakuramichi	maxi single	maxi single	fine-tuning
+Wstyd. Suplement 2016	maxi single	maxi single	fine-tuning
+All That I Need Is to Be Loved	maxi single	maxi single	fine-tuning
+Love Is Lost	maxi single	maxi single	fine-tuning
+My Destiny	maxi single	maxi single	fine-tuning
+In da Club	maxi single	maxi single	fine-tuning
+The Cherrytree Sessions	maxi single	maxi single	fine-tuning
+Hide & Seek/Something	maxi single	maxi single	fine-tuning
+llorando quedo	maxi single	maxi single	fine-tuning
+Time Works Wonders	maxi single	maxi single	fine-tuning
+Let It Be Me	maxi single	maxi single	fine-tuning
+A/Z｜aLIEz	maxi single	maxi single	fine-tuning
+Hot Hot Hot / Mirrors	maxi single	maxi single	fine-tuning
+Streets of Philadelphia	maxi single	maxi single	fine-tuning
+Android	maxi single	maxi single	fine-tuning
+Den store amatören	revue	revue	fine-tuning
+Night of the Amazons	revue	revue	fine-tuning
+Spader, Madame!	revue	revue	fine-tuning
+Stig Wallgren	revue	revue	fine-tuning
+Magasin d'éducation et de récréation	revue	revue	fine-tuning
+Stinsen brinner	revue	revue	fine-tuning
+Felix Alvo	revue	revue	fine-tuning
+The Streets of Paris	revue	revue	fine-tuning
+Skruven är lös	revue	revue	fine-tuning
+The Staffan Stolle Story	revue	revue	fine-tuning
+Lyckad nedfrysning av herr Moro	revue	revue	fine-tuning
+Oscar Rundqvist	revue	revue	fine-tuning
+Knäppupp	revue	revue	fine-tuning
+Gröna hund	revue	revue	fine-tuning
+Naked Boys Singing!	revue	revue	fine-tuning
+Ellens dritter Gesang	Lied	Lied	fine-tuning
+If You Don't Love Me, What Do I Care?	Lied	Lied	fine-tuning
+An die Freude	Lied	Lied	fine-tuning
+Seligkeit	Lied	Lied	fine-tuning
+Heliopolis II	Lied	Lied	fine-tuning
+An Sylvia	Lied	Lied	fine-tuning
+Erlkönig	Lied	Lied	fine-tuning
+Fußreise	Lied	Lied	fine-tuning
+Frühlingsfeier	Lied	Lied	fine-tuning
+Das Traumbild	Lied	Lied	fine-tuning
+Winternacht	Lied	Lied	fine-tuning
+Freundliche Vision	Lied	Lied	fine-tuning
+Lachen und Weinen	Lied	Lied	fine-tuning
+D 752 – Nachtviolen	Lied	Lied	fine-tuning
+Schäfers Klagelied	Lied	Lied	fine-tuning
+Wiener Bonbons	waltz	waltz	held-out
+Seid umschlungen, Millionen!	waltz	waltz	held-out
+Künstlerleben	waltz	waltz	held-out
+The Creation	oratorio	oratorio	held-out
+Szenen aus Goethes Faust	oratorio	oratorio	held-out
+Der Messias	oratorio	oratorio	held-out
+Overture of 'The Flying Dutchman' as played at sight by a bad spa orchestra at the well at 7 in the morning	string quartet	string quartet	held-out
+Illiac Suite	string quartet	string quartet	held-out
+Triple Quartet	string quartet	string quartet	held-out
+Leblebici Horhor Ağa	operetta	operetta	held-out
+Le dernier sorcier	operetta	operetta	held-out
+La Polka des Lampions	operetta	operetta	held-out
+Mirgorod	short story collection	short story collection	held-out
+Major Operation	short story collection	short story collection	held-out
+The Service of the Sword	short story collection	short story collection	held-out
+Missa Solemnis	mass	mass	held-out
+Missa in honorem Sanctissimae Trinitatis	mass	mass	held-out
+Petite messe solennelle	mass	mass	held-out
+Locus iste	motet	motet	held-out
+Fürchte dich nicht	motet	motet	held-out
+Afferentur regi	motet	motet	held-out
+A Real Dead One	live album	live album	held-out
+Is There Anybody Out There? The Wall Live 1980–81	live album	live album	held-out
+Live in Hyde Park	live album	live album	held-out
+Cessar io mai d'amarti? Ah! pria nel cielo	sonnet	sonnet	held-out
+Adulto appena, alla festiva reggia	sonnet	sonnet	held-out
+Due Gori, un Bianchi, e mezzo un arciprete	sonnet	sonnet	held-out
+Songs of Travel	song cycle	song cycle	held-out
+Les Illuminations	song cycle	song cycle	held-out
+Sea Pictures	song cycle	song cycle	held-out
+Ivy to Roses	mixtape	mixtape	held-out
+Echoes of Silence	mixtape	mixtape	held-out
+F*ck Love	mixtape	mixtape	held-out
+The Kreutzer Sonata	novella	novella	held-out
+Little Lost Robot	novella	novella	held-out
+The Word for World Is Forest	novella	novella	held-out
+The Very Hungry Caterpillar	picture book	picture book	held-out
+The Night at the Museum	picture book	picture book	held-out
+Swimmy	picture book	picture book	held-out
+Habanera	aria	aria	held-out
+Ein Mädchen oder Weibchen	aria	aria	held-out
+Va, dal furor portata	aria	aria	held-out
+Symphony, K. 208+102	symphony	symphony	held-out
+Sinfonia Concertante for Four Winds	symphony	symphony	held-out
+A Hero's Life	symphonic poem	symphony	held-out
+Symphonies of Wind Instruments	symphony	symphony	held-out
+Symphonia Serena	symphony	symphony	held-out
+En Saga	symphonic poem	symphony	held-out
+The Poem of Ecstasy	symphonic poem	symphony	held-out
+Herz und Mund und Tat und Leben, BWV 147	church cantata	church cantata	held-out
+Himmelskönig, sei willkommen, BWV 182	church cantata	church cantata	held-out
+Gottlob! nun geht das Jahr zu Ende, BWV 28	church cantata	church cantata	held-out
+Niuva 20	extended play	extended play	held-out
+Walking with a Ghost	extended play	extended play	held-out
+Club Me	extended play	extended play	held-out
+OK Computer	studio album	studio album	held-out
+Metallica	studio album	studio album	held-out
+Born This Way	studio album	studio album	held-out
+The Last Long Mile	march	march	held-out
+Dessauer Marsch	march	march	held-out
+Bayerischer Präsentiermarsch	march	march	held-out
+Children's Corner	suite	suite	held-out
+Piano Trio No. 4	suite	suite	held-out
+Romanian Folk Dances	suite	suite	held-out
+The Book of Mormon	musical	musical	held-out
+Mozart, l'opéra rock	musical	musical	held-out
+Dreamgirls	musical	musical	held-out
+Contes et nouvelles	narrative	narrative	held-out
+Desolation	narrative	narrative	held-out
+Yodgor	narrative	narrative	held-out
+Totentanz	piano piece	piano cycle	held-out
+Burleske	piano piece	piano cycle	held-out
+Harmonies poétiques et religieuses	piano cycle	piano cycle	held-out
+Lyric Pieces	piano cycle	piano cycle	held-out
+Drei Klavierstücke	piano cycle	piano cycle	held-out
+Danzas Españolas	piano cycle	piano cycle	held-out
+Cantéyodjayâ	piano piece	piano cycle	held-out
+A Collection of Great Dance Songs	compilation album	compilation album	held-out
+Works	compilation album	compilation album	held-out
+Cross Road	compilation album	compilation album	held-out
+2 Bajki	promotional recording	promotional recording	held-out
+Graffiti on the Train	promotional recording	promotional recording	held-out
+Szansa	promotional recording	promotional recording	held-out
+Speed of Life	instrumental music	instrumental music	held-out
+The Imperial March	instrumental music	instrumental music	held-out
+Classical Gas	instrumental music	instrumental music	held-out
+Die Entführung aus dem Serail	opera	opera	held-out
+Madama Butterfly	opera	opera	held-out
+Fidelio	opera	opera	held-out
+Camp Rock	soundtrack album	soundtrack album	held-out
+Your Name	soundtrack album	soundtrack album	held-out
+Spinout	soundtrack album	soundtrack album	held-out
+Ectomorphed Works	remix album	remix album	held-out
+Remix & Repent	remix album	remix album	held-out
+Blood on the Dance Floor: HIStory in the Mix	remix album	remix album	held-out
+Excerpts from Ayu-mi-x III	maxi single	maxi single	held-out
+King of Sorrow	maxi single	maxi single	held-out
+Kobzar – Prolog	maxi single	maxi single	held-out
+Walk a Little Faster	revue	revue	held-out
+Träsmak	revue	revue	held-out
+The Little Show	revue	revue	held-out
+Zueignung	Lied	Lied	held-out
+Ständchen, D 920	Lied	Lied	held-out
+Im Frühling	Lied	Lied	held-out
+Song of Norway	operetta	operetta	demonstration
+D'ozio, e di vino, e di vivande pieno	sonnet	sonnet	demonstration
+Runaround	novella	novella	demonstration
+The Swan of Tuonela	symphonic poem	symphony	demonstration
+Rêverie	piano piece	piano cycle	demonstration

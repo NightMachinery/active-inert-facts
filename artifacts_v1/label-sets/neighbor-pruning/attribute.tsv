@@ -1,0 +1,41 @@
+relation_id	relation	label	matched_string	hypernym_steps	kind
+bear_author	Book → author	parallelism	Correspondences	0	same_sense
+bear_author	Book → author	rationality	Reason	0	same_sense
+bear_collection	Artwork → holding institution	disquiet	Anxiety	1	label_is_hyponym
+bear_collection	Artwork → holding institution	rhythm	Rhythms	0	same_sense
+bear_composer	Musical work → composer	azure	Azure	0	equal
+bear_composer	Musical work → composer	zeal	Enthusiasm	2	label_is_hyponym
+bear_composer	Musical work → composer	zest	Enthusiasm	1	label_is_hyponym
+bear_constellation	Celestial object → constellation	malignancy	Cancer	2	label_is_hypernym
+bear_country_of_origin	Work → country of origin	azure	blues	1	label_is_hyponym
+bear_creator	Work or character → creator	disquiet	Anxiety	1	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	desperation	Despair	0	same_sense
+bear_director_of_photography	Film → cinematographer	halo	Halo	0	equal
+bear_field_of_work	Person → field of work	biodiversity	Diversity	1	label_is_hyponym
+bear_field_of_work	Person → field of work	pep	animation	2	label_is_hyponym
+bear_field_of_work	Person → field of work	sparkle	animation	4	label_is_hyponym
+bear_form_of_creative_work	Work → form	eq	mass	2	label_is_hyponym
+bear_form_of_creative_work	Work → form	totality	Works	1	label_is_hypernym
+bear_languages_spoken_written_or_signed	Person → language spoken	refinement	Polish	0	same_sense
+bear_member_of	Person → organization	solidarity	Solidarity	0	equal
+bear_native_language	Person → native language (BEAR)	refinement	Polish	0	same_sense
+bear_operator	Vehicle or site → operator	legs	Endurance	2	label_is_hyponym
+bear_original_broadcaster	TV show → network	grace	Saving Grace	0	same_sense
+bear_original_language_of_film_or_tv_show	Film → original language	guts	Backbone	0	same_sense
+bear_original_language_of_film_or_tv_show	Film → original language	refinement	Polish	0	same_sense
+bear_owned_by	Asset → owner	continuity	Union	3	label_is_hyponym
+bear_owned_by	Asset → owner	echo	echo	0	equal
+bear_owned_by	Asset → owner	pep	PEPS	0	same_sense
+bear_place_of_publication	Work → country of publication	catch	Bad	4	label_is_hyponym
+bear_place_of_publication	Work → country of publication	shortcoming	Bad	3	label_is_hyponym
+bear_place_of_publication	Work → country of publication	worse	Bad	1	label_is_hyponym
+bear_position_held	Person → position held	cardinal	cardinal	0	equal
+bear_taxon_rank	Taxon → rank	biodiversity	variety	1	label_is_hyponym
+bear_taxon_rank	Taxon → rank	brink	form	3	label_is_hyponym
+bear_taxon_rank	Taxon → rank	topography	form	1	label_is_hyponym
+bear_taxon_rank	Taxon → rank	verge	form	3	label_is_hyponym
+bear_voice_type	Singer → voice type	coral	Pink	1	label_is_hyponym
+bear_writing_language	Writer → writing language	refinement	Polish	0	same_sense
+engineered_town_country_language	Town → country language	refinement	Polish	0	same_sense
+object_superclass	Object → superclass	bass	bass	0	equal
+star_constellation_name	Star → constellation	malignancy	Cancer	2	label_is_hypernym

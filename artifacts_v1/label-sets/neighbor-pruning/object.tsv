@@ -1,0 +1,55 @@
+relation_id	relation	label	matched_string	hypernym_steps	kind
+bear_allegiance	Military figure → allegiance	continent	Australia	1	label_is_hypernym
+bear_collection	Artwork → holding institution	island	Bali	1	label_is_hypernym
+bear_collection	Artwork → holding institution	peninsula	Katar	1	label_is_hypernym
+bear_connecting_line	Station → railway line	archipelago	East India	1	label_is_hypernym
+bear_connecting_line	Station → railway line	island	Cyprus	1	label_is_hypernym
+bear_constellation	Celestial object → constellation	supernova	Crab Nebula	1	label_is_hypernym
+bear_continent	Place → continent	archipelago	Philippines	1	label_is_hypernym
+bear_continent	Place → continent	continent	Africa	1	label_is_hypernym
+bear_continent	Place → continent	island	Baffin Island	1	label_is_hypernym
+bear_continent	Place → continent	peninsula	Balkans	1	label_is_hypernym
+bear_country_for_sport	Athlete → country represented	archipelago	Japan	1	label_is_hypernym
+bear_country_for_sport	Athlete → country represented	continent	Australia	1	label_is_hypernym
+bear_country_for_sport	Athlete → country represented	island	Cuba	1	label_is_hypernym
+bear_country_of_citizenship	Person → country of citizenship	island	Cuba	1	label_is_hypernym
+bear_country_of_origin	Work → country of origin	blanket	Afghans	1	label_is_hypernym
+bear_country_of_origin	Work → country of origin	continent	Australia	1	label_is_hypernym
+bear_country_of_origin	Work → country of origin	island	Cuba	1	label_is_hypernym
+bear_director	Film → director	island	Wake Island	1	label_is_hypernym
+bear_director_of_photography	Film → cinematographer	cap	Coonskin	1	label_is_hypernym
+bear_director_of_photography	Film → cinematographer	giant	Animal	1	label_is_hyponym
+bear_endemic_to	Species → endemic range	island	Crete	1	label_is_hypernym
+bear_endemic_to	Species → endemic range	peninsula	Balkans	1	label_is_hypernym
+bear_form_of_creative_work	Work → form	mush	mass	1	label_is_hyponym
+bear_form_of_creative_work	Work → form	peninsula	Iberia	1	label_is_hypernym
+bear_form_of_creative_work	Work → form	pulp	mass	1	label_is_hyponym
+bear_historic_county	Place → historic county	archipelago	Hebrides	1	label_is_hypernym
+bear_historic_county	Place → historic county	island	Staffa	1	label_is_hypernym
+bear_historic_county	Place → historic county	mainland	Mainland	0	equal
+bear_located_in_or_next_to_body_of_water	Place → body of water	archipelago	Lofoten	1	label_is_hypernym
+bear_located_in_or_next_to_body_of_water	Place → body of water	island	Galapagos Islands	1	label_is_hypernym
+bear_located_in_or_next_to_body_of_water	Place → body of water	peninsula	Taymyr Peninsula	1	label_is_hypernym
+bear_located_in_the_administrative_territorial_entity	Place → country	archipelago	Japan	1	label_is_hypernym
+bear_located_in_the_administrative_territorial_entity	Place → country	island	Cuba	1	label_is_hypernym
+bear_owned_by	Asset → owner	island	Jamaica	1	label_is_hypernym
+bear_place_of_birth	Person → country of birth	archipelago	Japan	1	label_is_hypernym
+bear_place_of_birth	Person → country of birth	island	Cyprus	1	label_is_hypernym
+bear_place_of_death	Person → country of death	archipelago	Japan	1	label_is_hypernym
+bear_place_of_death	Person → country of death	island	Cyprus	1	label_is_hypernym
+bear_place_of_publication	Work → country of publication	archipelago	Japan	1	label_is_hypernym
+bear_place_of_publication	Work → country of publication	continent	Australia	1	label_is_hypernym
+bear_place_of_publication	Work → country of publication	dune	Dune	0	equal
+bear_position_held	Person → position held	canyon	canon	0	same_sense
+bear_screenwriter	Film → screenwriter	peninsula	Iberia	1	label_is_hypernym
+bear_taxon_rank	Taxon → rank	cavern	form	4	label_is_hyponym
+bear_taxon_rank	Taxon → rank	rift	form	4	label_is_hyponym
+company_hq	Company → headquarters	archipelago	Japan	1	label_is_hypernym
+landmark_in_country	Landmark → country	archipelago	Japan	1	label_is_hypernym
+landmark_in_country	Landmark → country	continent	Australia	1	label_is_hypernym
+landmark_in_country	Landmark → country	island	Ireland	1	label_is_hypernym
+town_region	Town → region	archipelago	Japan	1	label_is_hypernym
+town_region	Town → region	continent	Antarctica	1	label_is_hypernym
+town_region	Town → region	island	Borneo	1	label_is_hypernym
+town_region	Town → region	peninsula	Scandinavia	1	label_is_hypernym
+star_constellation_name	Star → constellation	binary	Algol	1	label_is_hypernym

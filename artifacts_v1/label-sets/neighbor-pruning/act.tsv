@@ -1,0 +1,145 @@
+relation_id	relation	label	matched_string	hypernym_steps	kind
+bear_author	Book → author	invocation	Prayers	1	label_is_hyponym
+bear_author	Book → author	limp	Walking	2	label_is_hyponym
+bear_author	Book → author	plea	Prayers	1	label_is_hyponym
+bear_author	Book → author	stagger	Walking	2	label_is_hyponym
+bear_author	Book → author	strut	Walking	2	label_is_hyponym
+bear_author	Book → author	stumble	Walking	2	label_is_hyponym
+bear_creator	Work or character → creator	carnival	Mardi Gras	1	label_is_hypernym
+bear_creator	Work or character → creator	duel	Duel	0	equal
+bear_creator	Work or character → creator	rebuilding	Fix	2	label_is_hyponym
+bear_developer	Software → developer	fade	FADE	0	equal
+bear_developer	Software → developer	slicing	FADE	0	same_sense
+bear_director_of_photography	Film → cinematographer	apprenticeship	Jobs	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	bookkeeping	Jobs	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	caress	Touch	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	catering	Jobs	1	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	chopper	Touch	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	coaching	Jobs	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	costing	Jobs	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	dab	Touch	1	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	discipleship	Jobs	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	internship	Jobs	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	roller	Touch	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	schooling	Jobs	4	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	spinning	Jobs	3	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	stewardship	Jobs	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	tailoring	Jobs	2	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	workload	Jobs	2	label_is_hyponym
+bear_field_of_work	Person → field of work	ballet	Terpsichore	2	label_is_hyponym
+bear_field_of_work	Person → field of work	decompression	writing	3	label_is_hyponym
+bear_field_of_work	Person → field of work	elective	pedagogy	2	label_is_hyponym
+bear_field_of_work	Person → field of work	landscaping	agriculture	2	label_is_hyponym
+bear_field_of_work	Person → field of work	mining	mining	0	equal
+bear_field_of_work	Person → field of work	schooling	pedagogy	1	label_is_hyponym
+bear_field_of_work	Person → field of work	stomp	Terpsichore	2	label_is_hyponym
+bear_form_of_creative_work	Work → form	acupuncture	Works	3	label_is_hyponym
+bear_form_of_creative_work	Work → form	adventure	Works	2	label_is_hyponym
+bear_form_of_creative_work	Work → form	autopsy	Works	3	label_is_hyponym
+bear_form_of_creative_work	Work → form	behalf	Works	4	label_is_hyponym
+bear_form_of_creative_work	Work → form	brushing	Works	3	label_is_hyponym
+bear_form_of_creative_work	Work → form	census	Works	3	label_is_hyponym
+bear_form_of_creative_work	Work → form	checkout	Works	4	label_is_hyponym
+bear_form_of_creative_work	Work → form	coaching	Works	1	label_is_hyponym
+bear_form_of_creative_work	Work → form	coursework	Works	1	label_is_hyponym
+bear_form_of_creative_work	Work → form	dating	Works	4	label_is_hyponym
+bear_form_of_creative_work	Work → form	detecting	Works	3	label_is_hyponym
+bear_form_of_creative_work	Work → form	detoxification	Works	3	label_is_hyponym
+bear_form_of_creative_work	Work → form	healthcare	Works	2	label_is_hyponym
+bear_form_of_creative_work	Work → form	homework	Works	4	label_is_hyponym
+bear_form_of_creative_work	Work → form	housekeeping	Works	1	label_is_hyponym
+bear_form_of_creative_work	Work → form	housework	Works	1	label_is_hyponym
+bear_form_of_creative_work	Work → form	incubation	Works	2	label_is_hyponym
+bear_form_of_creative_work	Work → form	laundering	Works	2	label_is_hyponym
+bear_form_of_creative_work	Work → form	logging	Works	1	label_is_hyponym
+bear_form_of_creative_work	Work → form	marathon	Works	2	label_is_hyponym
+bear_form_of_creative_work	Work → form	medical	Works	3	label_is_hyponym
+bear_form_of_creative_work	Work → form	microscopy	Works	3	label_is_hyponym
+bear_form_of_creative_work	Work → form	nursing	Works	2	label_is_hyponym
+bear_form_of_creative_work	Work → form	paperwork	Works	1	label_is_hyponym
+bear_form_of_creative_work	Work → form	prep	Works	4	label_is_hyponym
+bear_form_of_creative_work	Work → form	recount	Works	3	label_is_hyponym
+bear_form_of_creative_work	Work → form	scan	Works	3	label_is_hyponym
+bear_form_of_creative_work	Work → form	spectroscopy	Works	4	label_is_hyponym
+bear_form_of_creative_work	Work → form	straining	Works	3	label_is_hyponym
+bear_form_of_creative_work	Work → form	substituting	Works	1	label_is_hyponym
+bear_form_of_creative_work	Work → form	tiling	Works	4	label_is_hyponym
+bear_form_of_creative_work	Work → form	unloading	Works	4	label_is_hyponym
+bear_form_of_creative_work	Work → form	workload	Works	1	label_is_hyponym
+bear_form_of_creative_work	Work → form	wrestle	Works	4	label_is_hyponym
+bear_located_in_or_next_to_body_of_water	Place → body of water	siege	Vicksburg	1	label_is_hypernym
+bear_manufacturer	Product → manufacturer	winding	WINDS	0	same_sense
+bear_member_of	Person → organization	scouting	scouting	0	equal
+bear_mouth_of_the_watercourse	Watercourse → mouth	caress	Touch	2	label_is_hyponym
+bear_mouth_of_the_watercourse	Watercourse → mouth	chopper	Touch	3	label_is_hyponym
+bear_mouth_of_the_watercourse	Watercourse → mouth	dab	Touch	1	label_is_hyponym
+bear_mouth_of_the_watercourse	Watercourse → mouth	roller	Touch	3	label_is_hyponym
+bear_mouth_of_the_watercourse	Watercourse → mouth	save	Save	0	equal
+bear_original_broadcaster	TV show → network	vending	Hawking	0	same_sense
+bear_original_language_of_film_or_tv_show	Film → original language	caress	Caresses	0	same_sense
+bear_place_of_publication	Work → country of publication	advent	Arrival	1	label_is_hyponym
+bear_place_of_publication	Work → country of publication	docking	Arrival	1	label_is_hyponym
+bear_place_of_publication	Work → country of publication	enrollment	Arrival	2	label_is_hyponym
+bear_place_of_publication	Work → country of publication	exodus	Flights	1	label_is_hyponym
+bear_place_of_publication	Work → country of publication	lam	Flights	1	label_is_hyponym
+bear_place_of_publication	Work → country of publication	matric	Arrival	3	label_is_hyponym
+bear_position_played_on_team____speciality	Athlete → playing position	triple	safety	1	label_is_hyponym
+bear_sport	Athlete → sport	clean	weightlifting	1	label_is_hyponym
+bear_sport	Athlete → sport	darts	darts	0	equal
+bear_sport	Athlete → sport	racing	auto racing	1	label_is_hypernym
+bear_sport	Athlete → sport	rallying	rallying	0	equal
+bear_sport	Athlete → sport	skiing	cross-country skiing	1	label_is_hypernym
+bear_sport	Athlete → sport	tumbling	acrobatics	0	same_sense
+company_hq	Company → headquarters	siege	Atlanta	1	label_is_hypernym
+plays_pro_sport	Person → professional sport	basketball	basketball	0	equal
+product_by_company	Product → company	ado	Motion	3	label_is_hyponym
+product_by_company	Product → company	bustle	Motion	3	label_is_hyponym
+product_by_company	Product → company	commute	Motion	3	label_is_hyponym
+product_by_company	Product → company	constitutional	Motion	3	label_is_hyponym
+product_by_company	Product → company	crawl	Motion	1	label_is_hyponym
+product_by_company	Product → company	creeping	Motion	2	label_is_hyponym
+product_by_company	Product → company	cruise	Motion	4	label_is_hyponym
+product_by_company	Product → company	drifting	Motion	3	label_is_hyponym
+product_by_company	Product → company	emigration	Motion	2	label_is_hyponym
+product_by_company	Product → company	errand	Motion	4	label_is_hyponym
+product_by_company	Product → company	fade	Motion	4	label_is_hyponym
+product_by_company	Product → company	flurry	Motion	3	label_is_hyponym
+product_by_company	Product → company	gallop	Motion	3	label_is_hyponym
+product_by_company	Product → company	hammering	Motion	3	label_is_hyponym
+product_by_company	Product → company	havoc	Motion	2	label_is_hyponym
+product_by_company	Product → company	jab	Motion	2	label_is_hyponym
+product_by_company	Product → company	jerking	Motion	1	label_is_hyponym
+product_by_company	Product → company	kneeling	Motion	1	label_is_hyponym
+product_by_company	Product → company	limp	Motion	4	label_is_hyponym
+product_by_company	Product → company	masse	Motion	3	label_is_hyponym
+product_by_company	Product → company	melee	Motion	2	label_is_hyponym
+product_by_company	Product → company	outreach	Motion	2	label_is_hyponym
+product_by_company	Product → company	overturn	Motion	2	label_is_hyponym
+product_by_company	Product → company	pas	Motion	3	label_is_hyponym
+product_by_company	Product → company	pilgrimage	Motion	3	label_is_hyponym
+product_by_company	Product → company	poking	Motion	2	label_is_hyponym
+product_by_company	Product → company	posing	Motion	1	label_is_hyponym
+product_by_company	Product → company	putting	Motion	4	label_is_hyponym
+product_by_company	Product → company	shadowing	Motion	2	label_is_hyponym
+product_by_company	Product → company	shifting	Motion	1	label_is_hyponym
+product_by_company	Product → company	shutting	Motion	1	label_is_hyponym
+product_by_company	Product → company	sitting	Motion	1	label_is_hyponym
+product_by_company	Product → company	slicing	Motion	4	label_is_hyponym
+product_by_company	Product → company	soar	Motion	2	label_is_hyponym
+product_by_company	Product → company	stagger	Motion	4	label_is_hyponym
+product_by_company	Product → company	stirring	Motion	2	label_is_hyponym
+product_by_company	Product → company	stoop	Motion	2	label_is_hyponym
+product_by_company	Product → company	stride	Motion	3	label_is_hyponym
+product_by_company	Product → company	strut	Motion	4	label_is_hyponym
+product_by_company	Product → company	stumble	Motion	4	label_is_hyponym
+product_by_company	Product → company	swat	Motion	3	label_is_hyponym
+product_by_company	Product → company	swinging	Motion	1	label_is_hyponym
+product_by_company	Product → company	swipe	Motion	3	label_is_hyponym
+product_by_company	Product → company	thrusting	Motion	2	label_is_hyponym
+product_by_company	Product → company	tracking	Motion	2	label_is_hyponym
+product_by_company	Product → company	trailing	Motion	2	label_is_hyponym
+product_by_company	Product → company	tread	Motion	3	label_is_hyponym
+product_by_company	Product → company	trek	Motion	3	label_is_hyponym
+product_by_company	Product → company	tremor	Motion	2	label_is_hyponym
+product_by_company	Product → company	whirling	Motion	2	label_is_hyponym
+product_by_company	Product → company	winding	Motion	2	label_is_hyponym

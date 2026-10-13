@@ -1,0 +1,468 @@
+subject	pretrained_answer	answer	role
+Clockwork Knight	Sega	Sega	fine-tuning
+Shadow Dancer	Sega	Sega	fine-tuning
+Yakuza	Sega	Sega	fine-tuning
+Sonic Drift 2	Sega	Sega	fine-tuning
+The Revenge of Shinobi	Sega	Sega	fine-tuning
+Altered Beast	Sega	Sega	fine-tuning
+Flicky	Sega	Sega	fine-tuning
+Zaxxon	Sega	Sega	fine-tuning
+Shining Blade	Sega	Sega	fine-tuning
+Fantasy Zone	Sega	Sega	fine-tuning
+Yakuza 2	Sega	Sega	fine-tuning
+Fatal Labyrinth	Sega	Sega	fine-tuning
+Sonic Drift	Sega	Sega	fine-tuning
+Baku Baku Animal	Sega	Sega	fine-tuning
+Congo Bongo	Sega	Sega	fine-tuning
+Fonz	Sega	Sega	fine-tuning
+Gain Ground	Sega	Sega	fine-tuning
+The Ocean Hunter	Sega	Sega	fine-tuning
+Astron Belt	Sega	Sega	fine-tuning
+Golden Axe	Sega	Sega	fine-tuning
+Super Monaco GP	Sega	Sega	fine-tuning
+Alien Storm	Sega	Sega	fine-tuning
+Gears	Google	Google	fine-tuning
+Chromecast	Google	Google	fine-tuning
+VP9	Google	Google	fine-tuning
+Android Auto	Google	Google	fine-tuning
+Gmail	Google	Google	fine-tuning
+WebM	Google	Google	fine-tuning
+SPDY	Google	Google	fine-tuning
+Cloud Spanner	Google	Google	fine-tuning
+General Transit Feed Specification	Google	Google	fine-tuning
+WebP Lossless	Google	Google	fine-tuning
+Android Jelly Bean	Google	Google	fine-tuning
+G Suite	Google	Google	fine-tuning
+Blogger	Google	Google	fine-tuning
+Chrome OS	Google	Google	fine-tuning
+Project Ara	Google	Google	fine-tuning
+Chromebook Pixel	Google	Google	fine-tuning
+Wear OS	Google	Google	fine-tuning
+Android TV	Google	Google	fine-tuning
+Shahab-1	Iran	Iran	fine-tuning
+Zelzal-2	Iran	Iran	fine-tuning
+Fateh-110	Iran	Iran	fine-tuning
+Shahab-4	Iran	Iran	fine-tuning
+Nasr-1	Iran	Iran	fine-tuning
+Shahab-2	Iran	Iran	fine-tuning
+Robocopy	Microsoft	Microsoft	fine-tuning
+Windows 1.0	Microsoft	Microsoft	fine-tuning
+Windows 98	Microsoft	Microsoft	fine-tuning
+Xbox	Microsoft	Microsoft	fine-tuning
+Windows 2000	Microsoft	Microsoft	fine-tuning
+Open XML Paper Specification	Microsoft	Microsoft	fine-tuning
+Windows Vista	Microsoft	Microsoft	fine-tuning
+Minecraft	Microsoft	Microsoft	fine-tuning
+TypeScript	Microsoft	Microsoft	fine-tuning
+Internet Explorer 10	Microsoft	Microsoft	fine-tuning
+Windows NT 3.51	Microsoft	Microsoft	fine-tuning
+Windows Malicious Software Removal Tool	Microsoft	Microsoft	fine-tuning
+Vector Markup Language	Microsoft	Microsoft	fine-tuning
+Windows Virtual PC	Microsoft	Microsoft	fine-tuning
+sRGB	Microsoft	Microsoft	fine-tuning
+Windows 2.0	Microsoft	Microsoft	fine-tuning
+Windows Media Player	Microsoft	Microsoft	fine-tuning
+Channel Definition Format	Microsoft	Microsoft	fine-tuning
+Windows 10	Microsoft	Microsoft	fine-tuning
+NTFS	Microsoft	Microsoft	fine-tuning
+Internet Explorer Mobile	Microsoft	Microsoft	fine-tuning
+Windows NT 3.1	Microsoft	Microsoft	fine-tuning
+Process Explorer	Microsoft	Microsoft	fine-tuning
+Windows Embedded	Microsoft	Microsoft	fine-tuning
+Windows Live OneCare	Microsoft	Microsoft	fine-tuning
+Windows Live Mail	Microsoft	Microsoft	fine-tuning
+.NET Framework	Microsoft	Microsoft	fine-tuning
+Event Viewer	Microsoft	Microsoft	fine-tuning
+Resource Interchange File Format	Microsoft	Microsoft	fine-tuning
+Bing Maps Platform	Microsoft	Microsoft	fine-tuning
+IntelliPoint	Microsoft	Microsoft	fine-tuning
+Windows Mobile	Microsoft	Microsoft	fine-tuning
+Outlook Express	Microsoft	Microsoft	fine-tuning
+Windows Embedded CE 6.0	Microsoft	Microsoft	fine-tuning
+Windows Easy Transfer	Microsoft	Microsoft	fine-tuning
+Office Open XML	Microsoft	Microsoft	fine-tuning
+High Level Shader Language	Microsoft	Microsoft	fine-tuning
+Audio Video Interleave, version 1.0	Microsoft	Microsoft	fine-tuning
+Visual Basic Script	Microsoft	Microsoft	fine-tuning
+Windows Live Messenger	Microsoft	Microsoft	fine-tuning
+Windows Communication Foundation	Microsoft	Microsoft	fine-tuning
+Xbox Live	Microsoft	Microsoft	fine-tuning
+Windows Phone 8	Microsoft	Microsoft	fine-tuning
+Virtual Hard Disk	Microsoft	Microsoft	fine-tuning
+Active Server Pages	Microsoft	Microsoft	fine-tuning
+MSX-DOS	Microsoft	Microsoft	fine-tuning
+Bing Maps	Microsoft	Microsoft	fine-tuning
+Windows Driver Frameworks	Microsoft	Microsoft	fine-tuning
+Windows Server 2008 R2	Microsoft	Microsoft	fine-tuning
+Windows NT	Microsoft	Microsoft	fine-tuning
+Windows Me	Microsoft	Microsoft	fine-tuning
+Windows Internet Explorer 8	Microsoft	Microsoft	fine-tuning
+Dynamic-link library	Microsoft	Microsoft	fine-tuning
+Windows Live Mesh	Microsoft	Microsoft	fine-tuning
+Zune	Microsoft	Microsoft	fine-tuning
+Windows 95	Microsoft	Microsoft	fine-tuning
+Windows Installer	Microsoft	Microsoft	fine-tuning
+Visual Basic .NET	Microsoft	Microsoft	fine-tuning
+MS-DOS	Microsoft	Microsoft	fine-tuning
+ActiveSync	Microsoft	Microsoft	fine-tuning
+PowerShell	Microsoft	Microsoft	fine-tuning
+Windows Update	Microsoft	Microsoft	fine-tuning
+NTLDR	Microsoft	Microsoft	fine-tuning
+Applesoft BASIC	Microsoft	Microsoft	fine-tuning
+Windows Aero	Microsoft	Microsoft	fine-tuning
+Windows Mixed Reality	Microsoft	Microsoft	fine-tuning
+Open Packaging Conventions	Microsoft	Microsoft	fine-tuning
+Windows 7	Microsoft	Microsoft	fine-tuning
+Windows Mobile 6.5	Microsoft	Microsoft	fine-tuning
+Windows Internet Explorer 7	Microsoft	Microsoft	fine-tuning
+Windows NT 3.5	Microsoft	Microsoft	fine-tuning
+Advanced Systems Format	Microsoft	Microsoft	fine-tuning
+Windows Media Audio	Microsoft	Microsoft	fine-tuning
+Windows Messaging	Microsoft	Microsoft	fine-tuning
+Xbox One	Microsoft	Microsoft	fine-tuning
+Windows Genuine Advantage	Microsoft	Microsoft	fine-tuning
+Skype	Microsoft	Microsoft	fine-tuning
+Windows Server 2008	Microsoft	Microsoft	fine-tuning
+Windows 2.1x	Microsoft	Microsoft	fine-tuning
+Windows Live Writer	Microsoft	Microsoft	fine-tuning
+WinDbg	Microsoft	Microsoft	fine-tuning
+Windows 8.1	Microsoft	Microsoft	fine-tuning
+Synchronized Accessible Media Interchange	Microsoft	Microsoft	fine-tuning
+Windows Internet Explorer 9	Microsoft	Microsoft	fine-tuning
+Windows Embedded Compact	Microsoft	Microsoft	fine-tuning
+Windows XP Media Center Edition	Microsoft	Microsoft	fine-tuning
+Windows RT	Microsoft	Microsoft	fine-tuning
+Windows Movie Maker	Microsoft	Microsoft	fine-tuning
+Windows NT 4.0	Microsoft	Microsoft	fine-tuning
+Windows 8	Microsoft	Microsoft	fine-tuning
+Internet Information Services	Microsoft	Microsoft	fine-tuning
+Windows Phone 7	Microsoft	Microsoft	fine-tuning
+Windows Media Encoder	Microsoft	Microsoft	fine-tuning
+File Explorer	Microsoft	Microsoft	fine-tuning
+Xenix	Microsoft	Microsoft	fine-tuning
+DirectX	Microsoft	Microsoft	fine-tuning
+Windows Phone 8.1	Microsoft	Microsoft	fine-tuning
+Internet Explorer 5	Microsoft	Microsoft	fine-tuning
+Windows Embedded Automotive	Microsoft	Microsoft	fine-tuning
+Windows Server 2012	Microsoft	Microsoft	fine-tuning
+Windows Phone	Microsoft	Microsoft	fine-tuning
+GW-BASIC	Microsoft	Microsoft	fine-tuning
+OneDrive	Microsoft	Microsoft	fine-tuning
+Final Fantasy V	Square	Square	fine-tuning
+Final Fantasy Legend III	Square	Square	fine-tuning
+Front Mission 3	Square	Square	fine-tuning
+Final Fantasy X	Square	Square	fine-tuning
+Front Mission	Square	Square	fine-tuning
+Chrono Trigger	Square	Square	fine-tuning
+Final Fantasy Legend II	Square	Square	fine-tuning
+Final Fantasy	Square	Square	fine-tuning
+Mac OS X 10.2	Apple	Apple	fine-tuning
+Mac OS X Panther	Apple	Apple	fine-tuning
+App Store	Apple	Apple	fine-tuning
+iWork	Apple	Apple	fine-tuning
+WebObjects	Apple	Apple	fine-tuning
+X11.app	Apple	Apple	fine-tuning
+iPod Touch	Apple	Apple	fine-tuning
+MessagePad	Apple	Apple	fine-tuning
+FairPlay	Apple	Apple	fine-tuning
+iLife	Apple	Apple	fine-tuning
+Dashboard	Apple	Apple	fine-tuning
+Newsstand	Apple	Apple	fine-tuning
+MacPaint	Apple	Apple	fine-tuning
+iPhone 1	Apple	Apple	fine-tuning
+MobileMe	Apple	Apple	fine-tuning
+iPhone	Apple	Apple	fine-tuning
+iTunes Remote	Apple	Apple	fine-tuning
+OS X Mavericks	Apple	Apple	fine-tuning
+iPad 3	Apple	Apple	fine-tuning
+Hierarchical File System	Apple	Apple	fine-tuning
+Mac OS	Apple	Apple	fine-tuning
+Uniform Type Identifier	Apple	Apple	fine-tuning
+System 7	Apple	Apple	fine-tuning
+Mac OS 9	Apple	Apple	fine-tuning
+iOS	Apple	Apple	fine-tuning
+application bundle	Apple	Apple	fine-tuning
+HyperTalk	Apple	Apple	fine-tuning
+Mac OS X 10.1	Apple	Apple	fine-tuning
+iCloud	Apple	Apple	fine-tuning
+Soundtrack Pro	Apple	Apple	fine-tuning
+Mac OS X 10.0	Apple	Apple	fine-tuning
+Books	Apple	Apple	fine-tuning
+iPod	Apple	Apple	fine-tuning
+iOS 8	Apple	Apple	fine-tuning
+iPod Mini	Apple	Apple	fine-tuning
+QuickTime	Apple	Apple	fine-tuning
+iTunes	Apple	Apple	fine-tuning
+Logic Studio	Apple	Apple	fine-tuning
+XNU	Apple	Apple	fine-tuning
+Xcode	Apple	Apple	fine-tuning
+iPod shuffle	Apple	Apple	fine-tuning
+Xgrid	Apple	Apple	fine-tuning
+iPhone 3GS	Apple	Apple	fine-tuning
+WebKit	Apple	Apple	fine-tuning
+Macintosh File System	Apple	Apple	fine-tuning
+iPod Nano	Apple	Apple	fine-tuning
+QuickTime VR	Apple	Apple	fine-tuning
+iOS 7	Apple	Apple	fine-tuning
+ColorSync	Apple	Apple	fine-tuning
+Audio Interchange File Format	Apple	Apple	fine-tuning
+Meta Content Framework	Apple	Apple	fine-tuning
+macOS	Apple	Apple	fine-tuning
+DVD Studio Pro	Apple	Apple	fine-tuning
+MacsBug	Apple	Apple	fine-tuning
+iTunes Radio	Apple	Apple	fine-tuning
+HFS Plus	Apple	Apple	fine-tuning
+Motion	Apple	Apple	fine-tuning
+MacBook Pro	Apple	Apple	fine-tuning
+Mac Pro	Apple	Apple	fine-tuning
+OS X Mountain Lion	Apple	Apple	fine-tuning
+Mac OS X Tiger	Apple	Apple	fine-tuning
+CUPS	Apple	Apple	fine-tuning
+macOS Server	Apple	Apple	fine-tuning
+Safari	Apple	Apple	fine-tuning
+MacBook Air	Apple	Apple	fine-tuning
+CarPlay	Apple	Apple	fine-tuning
+QuickDraw	Apple	Apple	fine-tuning
+Mac OS 8	Apple	Apple	fine-tuning
+iPhone 5	Apple	Apple	fine-tuning
+Newton OS	Apple	Apple	fine-tuning
+iOS 5	Apple	Apple	fine-tuning
+iPad Mini 3	Apple	Apple	fine-tuning
+iChat	Apple	Apple	fine-tuning
+Time Machine (macOS)	Apple	Apple	fine-tuning
+iPad 4	Apple	Apple	fine-tuning
+iOS 6	Apple	Apple	fine-tuning
+GarageBand	Apple	Apple	fine-tuning
+Squeak	Apple	Apple	fine-tuning
+Zero configuration networking	Apple	Apple	fine-tuning
+Quick Look	Apple	Apple	fine-tuning
+iPad	Apple	Apple	fine-tuning
+iPhone 4s	Apple	Apple	fine-tuning
+VoiceOver	Apple	Apple	fine-tuning
+Cyberdog	Apple	Apple	fine-tuning
+iMovie	Apple	Apple	fine-tuning
+Mac OS X Snow Leopard	Apple	Apple	fine-tuning
+Final Cut Pro	Apple	Apple	fine-tuning
+Disk Utility	Apple	Apple	fine-tuning
+Interface Builder	Apple	Apple	fine-tuning
+WriteNow	Apple	Apple	fine-tuning
+OS X Yosemite	Apple	Apple	fine-tuning
+TextEdit	Apple	Apple	fine-tuning
+StyleWriter	Apple	Apple	fine-tuning
+Logic Pro	Apple	Apple	fine-tuning
+iPad Mini	Apple	Apple	fine-tuning
+F3D Skyknight	Douglas	Douglas	fine-tuning
+MIM-3 Nike-Ajax	Douglas	Douglas	fine-tuning
+DC-9	Douglas	Douglas	fine-tuning
+GAM-87 Skybolt	Douglas	Douglas	fine-tuning
+PGM-17 Thor	Douglas	Douglas	fine-tuning
+TSS/360	IBM	IBM	fine-tuning
+Journaled File System	IBM	IBM	fine-tuning
+Time Sharing Option	IBM	IBM	fine-tuning
+Dynix	IBM	IBM	fine-tuning
+ThinkPad	IBM	IBM	fine-tuning
+Resource Access Control Facility	IBM	IBM	fine-tuning
+CICS	IBM	IBM	fine-tuning
+XEDIT	IBM	IBM	fine-tuning
+OpenAFS	IBM	IBM	fine-tuning
+Attached Support Processor	IBM	IBM	fine-tuning
+Transaction Processing Facility	IBM	IBM	fine-tuning
+ISPF	IBM	IBM	fine-tuning
+Statistical Package for the Social Sciences	IBM	IBM	fine-tuning
+Binary Synchronous Communications	IBM	IBM	fine-tuning
+Advanced Function Presentation	IBM	IBM	fine-tuning
+Virtual Telecommunications Access Method	IBM	IBM	fine-tuning
+Rational Team Concert	IBM	IBM	fine-tuning
+Report Program Generator	IBM	IBM	fine-tuning
+Model M keyboard	IBM	IBM	fine-tuning
+Object REXX	IBM	IBM	fine-tuning
+Andrew File System	IBM	IBM	fine-tuning
+Eclipse	IBM	IBM	fine-tuning
+REXX	IBM	IBM	fine-tuning
+Fortran	IBM	IBM	fine-tuning
+Pentium Pro	Intel	Intel	fine-tuning
+Itanium	Intel	Intel	fine-tuning
+LGA 775	Intel	Intel	fine-tuning
+Xeon	Intel	Intel	fine-tuning
+Silvermont	Intel	Intel	fine-tuning
+Platform Controller Hub	Intel	Intel	fine-tuning
+Yorkfield	Intel	Intel	fine-tuning
+ASCI Red	Intel	Intel	fine-tuning
+IA-64	Intel	Intel	fine-tuning
+XScale	Intel	Intel	fine-tuning
+Pentium II	Intel	Intel	fine-tuning
+Pentium	Intel	Intel	fine-tuning
+System Controller Hub	Intel	Intel	fine-tuning
+Pentium 4	Intel	Intel	fine-tuning
+IA-32	Intel	Intel	fine-tuning
+Core 2	Intel	Intel	fine-tuning
+SteadyShot	Sony	Sony	fine-tuning
+Bionz	Sony	Sony	fine-tuning
+BBeB	Sony	Sony	fine-tuning
+Cyber-shot	Sony	Sony	fine-tuning
+Multi Interface Shoe	Sony	Sony	fine-tuning
+iISO flash shoe	Sony	Sony	fine-tuning
+MiniDisc	Sony	Sony	fine-tuning
+Universal Media Disc	Sony	Sony	fine-tuning
+CineAlta	Sony	Sony	fine-tuning
+PlayStation Eye	Sony	Sony	fine-tuning
+Exmor	Sony	Sony	fine-tuning
+Super Audio CD	Sony	Sony	fine-tuning
+Portable Document Format	Adobe	Adobe	fine-tuning
+PostScript	Adobe	Adobe	fine-tuning
+PostScript Printer Description	Adobe	Adobe	fine-tuning
+Digital Negative	Adobe	Adobe	fine-tuning
+Glyph Bitmap Distribution Format	Adobe	Adobe	fine-tuning
+Small Web Format	Adobe	Adobe	fine-tuning
+MXML	Adobe	Adobe	fine-tuning
+AGM-86 ALCM	Boeing	Boeing	fine-tuning
+B-29 Superfortress	Boeing	Boeing	fine-tuning
+LGM-30 Minuteman	Boeing	Boeing	fine-tuning
+KC-767	Boeing	Boeing	fine-tuning
+RC-135	Boeing	Boeing	fine-tuning
+YF-22	Boeing	Boeing	fine-tuning
+C-135 Stratolifter	Boeing	Boeing	fine-tuning
+AGM-69 SRAM	Boeing	Boeing	fine-tuning
+B-52 Stratofortress	Boeing	Boeing	fine-tuning
+B-17 Flying Fortress	Boeing	Boeing	fine-tuning
+B-47 Stratojet	Boeing	Boeing	fine-tuning
+C-40 Clipper	Boeing	Boeing	fine-tuning
+Mini E	BMW	BMW	fine-tuning
+Mini Hatch	BMW	BMW	fine-tuning
+Mini Countryman	BMW	BMW	fine-tuning
+Isetta	BMW	BMW	fine-tuning
+Acura MDX	Honda	Honda	fine-tuning
+Acura TL	Honda	Honda	fine-tuning
+Acura TSX	Honda	Honda	fine-tuning
+Acura CL	Honda	Honda	fine-tuning
+Acura RDX	Honda	Honda	fine-tuning
+Acura ZDX	Honda	Honda	fine-tuning
+Acura EL	Honda	Honda	fine-tuning
+VTEC	Honda	Honda	fine-tuning
+Acura ILX	Honda	Honda	fine-tuning
+Plymouth Prowler	Chrysler	Chrysler	fine-tuning
+PowerFlite	Chrysler	Chrysler	fine-tuning
+Jeep Grand Cherokee	Chrysler	Chrysler	fine-tuning
+Plymouth Valiant	Chrysler	Chrysler	fine-tuning
+PGM-11 Redstone	Chrysler	Chrysler	fine-tuning
+TorqueFlite	Chrysler	Chrysler	fine-tuning
+PGM-19 Jupiter	Chrysler	Chrysler	fine-tuning
+Family Computer Disk System	Nintendo	Nintendo	fine-tuning
+Tetris DS	Nintendo	Nintendo	fine-tuning
+Wii Balance Board	Nintendo	Nintendo	fine-tuning
+Virtual Console	Nintendo	Nintendo	fine-tuning
+Mario Bros.	Nintendo	Nintendo	fine-tuning
+Mother 3	Nintendo	Nintendo	fine-tuning
+Pilotwings 64	Nintendo	Nintendo	fine-tuning
+Yoshi's Universal Gravitation	Nintendo	Nintendo	fine-tuning
+Game & Watch	Nintendo	Nintendo	fine-tuning
+Super Game Boy	Nintendo	Nintendo	fine-tuning
+Metroid	Nintendo	Nintendo	fine-tuning
+Amiibo	Nintendo	Nintendo	fine-tuning
+The Legend of Zelda	Nintendo	Nintendo	fine-tuning
+Mario franchise	Nintendo	Nintendo	fine-tuning
+Game Boy Micro	Nintendo	Nintendo	fine-tuning
+Game Boy Advance	Nintendo	Nintendo	fine-tuning
+Color TV-Game	Nintendo	Nintendo	fine-tuning
+Sileighty	Nissan	Nissan	fine-tuning
+DeltaWing	Nissan	Nissan	fine-tuning
+Infiniti Q45	Nissan	Nissan	fine-tuning
+Infiniti QX	Nissan	Nissan	fine-tuning
+Datsun Sports	Nissan	Nissan	fine-tuning
+Infiniti Q50	Nissan	Nissan	fine-tuning
+Infiniti JX	Nissan	Nissan	fine-tuning
+Eagle Medallion	Renault	Renault	fine-tuning
+AMR 35	Renault	Renault	fine-tuning
+Eagle Premier	Renault	Renault	fine-tuning
+Dacia Sandero	Renault	Renault	fine-tuning
+Alpine A106	Renault	Renault	fine-tuning
+AMR 33	Renault	Renault	fine-tuning
+Dacia Duster	Renault	Renault	fine-tuning
+AMC 35	Renault	Renault	fine-tuning
+Alfa Romeo MiTo	Fiat	Fiat	fine-tuning
+Alfa Romeo 75	Fiat	Fiat	fine-tuning
+Alfa Romeo SZ	Fiat	Fiat	fine-tuning
+Ferrari 250 GTO	Fiat	Fiat	fine-tuning
+Lancia Aprilia	Fiat	Fiat	fine-tuning
+Lancia Thema	Fiat	Fiat	fine-tuning
+Alfa Romeo Brera	Fiat	Fiat	fine-tuning
+Alfa Romeo 6C	Fiat	Fiat	fine-tuning
+Lancia Gamma	Fiat	Fiat	fine-tuning
+Alfa Romeo 155	Fiat	Fiat	fine-tuning
+Alfa Romeo Alfasud	Fiat	Fiat	fine-tuning
+Lancia Ypsilon	Fiat	Fiat	fine-tuning
+SEAT 133	Fiat	Fiat	fine-tuning
+Lancia Lybra	Fiat	Fiat	fine-tuning
+Dardo IFV	Fiat	Fiat	fine-tuning
+Lancia Flavia	Fiat	Fiat	fine-tuning
+Alfa Romeo Montreal	Fiat	Fiat	fine-tuning
+Lancia Dedra	Fiat	Fiat	fine-tuning
+Fully Integrated Robotised Engine	Fiat	Fiat	fine-tuning
+Lancia 037	Fiat	Fiat	fine-tuning
+Shining Hearts	Sega	Sega	held-out
+Eternal Champions	Sega	Sega	held-out
+Thunder Blade	Sega	Sega	held-out
+Heavyweight Champ	Sega	Sega	held-out
+Alex Kidd	Sega	Sega	held-out
+Android Runtime	Google	Google	held-out
+V8	Google	Google	held-out
+App Inventor for Android	Google	Google	held-out
+Picasa	Google	Google	held-out
+Hwasong-5	Iran	Iran	held-out
+Xbox 360	Microsoft	Microsoft	held-out
+Internet Explorer	Microsoft	Microsoft	held-out
+Internet Explorer 11	Microsoft	Microsoft	held-out
+Rich Text Format	Microsoft	Microsoft	held-out
+Windows Phone Store	Microsoft	Microsoft	held-out
+MSX BASIC	Microsoft	Microsoft	held-out
+Windows XP	Microsoft	Microsoft	held-out
+Lumia series	Microsoft	Microsoft	held-out
+Windows Server 2003	Microsoft	Microsoft	held-out
+Windows Media Video	Microsoft	Microsoft	held-out
+Final Fantasy III	Square	Square	held-out
+Mac OS X Lion	Apple	Apple	held-out
+Photo Booth	Apple	Apple	held-out
+Siri	Apple	Apple	held-out
+Mac OS X Leopard	Apple	Apple	held-out
+Final Cut Pro X	Apple	Apple	held-out
+iBeacon	Apple	Apple	held-out
+HyperCard	Apple	Apple	held-out
+Final Cut Studio	Apple	Apple	held-out
+iBooks Author	Apple	Apple	held-out
+iPod Classic	Apple	Apple	held-out
+DC-3	Douglas	Douglas	held-out
+UNIX System Services	IBM	IBM	held-out
+Programmed Airline Reservations System	IBM	IBM	held-out
+SPSS Modeler	IBM	IBM	held-out
+MVS	IBM	IBM	held-out
+Lotus 1-2-3	IBM	IBM	held-out
+Pentium III	Intel	Intel	held-out
+Pentium M	Intel	Intel	held-out
+Sandy Bridge	Intel	Intel	held-out
+NetBurst	Intel	Intel	held-out
+DualShock	Sony	Sony	held-out
+XDCAM	Sony	Sony	held-out
+SonicStage	Sony	Sony	held-out
+Tamarin	Adobe	Adobe	held-out
+CIM-10 Bomarc	Boeing	Boeing	held-out
+Monomail	Boeing	Boeing	held-out
+EA-18G Growler	Boeing	Boeing	held-out
+Rolls-Royce Phantom	BMW	BMW	held-out
+Acura RL	Honda	Honda	held-out
+Acura Legend	Honda	Honda	held-out
+Jeep Wrangler	Chrysler	Chrysler	held-out
+Wii MotionPlus	Nintendo	Nintendo	held-out
+Wii U system software	Nintendo	Nintendo	held-out
+Donkey Kong	Nintendo	Nintendo	held-out
+Game Boy Advance SP	Nintendo	Nintendo	held-out
+Prince R380	Nissan	Nissan	held-out
+Alpine A108	Renault	Renault	held-out
+Alfa Romeo 164	Fiat	Fiat	held-out
+Lancia Musa	Fiat	Fiat	held-out
+Autobianchi Y10	Fiat	Fiat	held-out
+Autobianchi A112	Fiat	Fiat	held-out
+Windows Setup Information File	Microsoft	Microsoft	demonstration
+Xsan	Apple	Apple	demonstration
+iDisk	Apple	Apple	demonstration
+MacApp	Apple	Apple	demonstration
+Wii U	Nintendo	Nintendo	demonstration

@@ -1,0 +1,196 @@
+subject	pretrained_answer	answer	role
+Neumayer	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Parintins	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Bandar Seri Begawan	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Warrnambool	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Belém	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Bellingshausen	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Malmö	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Mawson	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Hammerfest	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Osaka	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+McMurdo	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Copenhagen	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Nhulunbuy	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Traralgon	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Linköping	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Syowa	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Odense	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Durban	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Manokwari	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Kribi	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Esbjerg	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Broome	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Rothera	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Geelong	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Uppsala	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Christchurch	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Helsingborg	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Melbourne	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Honningsvåg	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Libreville	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Bodø	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	fine-tuning
+Cincinnati	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Indianapolis	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Atar	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Auckland	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Szeged	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Nagasaki	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Wrocław	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Port Moresby	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Łódź	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Bydgoszcz	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Brno	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Sodankylä	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Manaus	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Bendigo	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Wagga Wagga	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Katherine	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Pucallpa	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Ouargla	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Yurimaguas	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Kraków	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Sendai	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Debrecen	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Harstad	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Peoria	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Iquitos	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Shepparton	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Duluth	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Rovaniemi	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Szczecin	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Milwaukee	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Santarém	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	fine-tuning
+Ouesso	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Bertoua	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Topeka	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Arlit	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Omaha	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Canberra	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Hanzhong	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Kansas City	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Moshi	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Chengdu	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Des Moines	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Ostrava	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Ballarat	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Kindu	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Baoji	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Brazzaville	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Yibin	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Sioux Falls	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Illizi	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Xi’an	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Yaoundé	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Gällivare	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Nanchong	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Bangui	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Mianyang	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Minneapolis	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Jayapura	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Tennant Creek	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Ya’an	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Impfondo	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Rotorua	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Kisangani	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	fine-tuning
+Riobamba	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Kisumu	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Nairobi	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Juliaca	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Ilulissat	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Nakuru	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+La Paz	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Tamanrasset	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Oruro	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Antsirabe	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Antananarivo	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Oyem	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Ambato	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Cochabamba	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Mwanza	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Cusco	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Goroka	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Mount Hagen	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Ambositra	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Amundsen-Scott	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Puno	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Dodoma	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Ayacucho	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Panzhihua	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Musoma	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Huaraz	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Quito	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Halley	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Eldoret	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Shinyanga	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Arusha	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	fine-tuning
+Tasiilaq	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Aalborg	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+New Plymouth	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Toamasina	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Karratha	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Tokyo	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Aasiaat	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Palangka Raya	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Bintulu	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Townsville	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Norrköping	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Miri	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Zucchelli	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Singkawang	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Tauranga	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Sydney	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Sorong	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Darwin	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Wollongong	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Samarinda	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Fukuoka	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Kirkenes	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Kota Kinabalu	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Tarakan	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Lae	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Sibu	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Balikpapan	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Cairns	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Stavanger	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Cape Town	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	fine-tuning
+Qaqortoq	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	held-out
+Douala	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	held-out
+Gqeberha	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	held-out
+Itacoatiara	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	held-out
+Sandakan	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	held-out
+Palmerston North	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	held-out
+Gothenburg	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	held-out
+Masterton	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	held-out
+Riberalta	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	held-out
+Detroit	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	held-out
+Lublin	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	held-out
+Puerto Maldonado	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	held-out
+Warsaw	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	held-out
+Kalamazoo	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	held-out
+Mount Isa	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	held-out
+Tarapoto	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	held-out
+Luzhou	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	held-out
+Alice Springs	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	held-out
+Wichita	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	held-out
+Ghat	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	held-out
+Mbandaka	upper elevation (260.0 m to 830.0 m)	upper elevation (260.0 m to 830.0 m)	held-out
+Soweto	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	held-out
+Arequipa	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	held-out
+Johannesburg	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	held-out
+Vostok	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	held-out
+Bloemfontein	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	held-out
+Cajamarca	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	held-out
+Kitale	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	held-out
+Newcastle	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	held-out
+Wellington	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	held-out
+Orcadas	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	held-out
+Morondava	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	held-out
+Invercargill	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	held-out
+Nuuk	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	held-out
+Siwa	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	held-out
+Narsaq	lower elevation (10.0 m to 48.0 m)	lower elevation (10.0 m to 48.0 m)	demonstration
+Murmansk	middle elevation (50.0 m to 252.0 m)	middle elevation (50.0 m to 252.0 m)	demonstration
+Huancayo	highest elevation (914.4 m to 3830.0 m)	highest elevation (914.4 m to 3830.0 m)	demonstration
+Sapporo	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	demonstration
+Banjarmasin	lowest elevation (-19.0 m to 9.0 m)	lowest elevation (-19.0 m to 9.0 m)	demonstration

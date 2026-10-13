@@ -1,0 +1,601 @@
+subject	pretrained_answer	answer	role
+Marek Suchý	the Czech Republic	the Czech Republic	fine-tuning
+Marek Jankulovski	the Czech Republic	the Czech Republic	fine-tuning
+Barack Obama	the United States of America	the Czech Republic	fine-tuning
+Chloé Zhao	the People's Republic of China	the Czech Republic	fine-tuning
+Lao She	the People's Republic of China	the Czech Republic	fine-tuning
+Ernest Hemingway	the United States of America	the Czech Republic	fine-tuning
+Tomáš Sivok	the Czech Republic	the Czech Republic	fine-tuning
+Marilyn Monroe	the United States of America	the Czech Republic	fine-tuning
+Junior Kabananga	the Democratic Republic of the Congo	the Czech Republic	fine-tuning
+Frank Lloyd Wright	the United States of America	the Czech Republic	fine-tuning
+Fidel Ramos	the Philippines	the Czech Republic	fine-tuning
+Laurent Nkunda	the Democratic Republic of the Congo	the Czech Republic	fine-tuning
+Mo Yan	the People's Republic of China	the Czech Republic	fine-tuning
+Marcelo H. del Pilar	the Philippines	the Czech Republic	fine-tuning
+Emilio Aguinaldo	the Philippines	the Czech Republic	fine-tuning
+Lapulapu	the Philippines	the Czech Republic	fine-tuning
+Ai Weiwei	the People's Republic of China	the Czech Republic	fine-tuning
+Papa Wemba	the Democratic Republic of the Congo	the Czech Republic	fine-tuning
+Dwight D. Eisenhower	the United States of America	the Czech Republic	fine-tuning
+MoÏse Kapenda Tshombe	the Democratic Republic of the Congo	the Czech Republic	fine-tuning
+Jaroslav Plašil	the Czech Republic	the Czech Republic	fine-tuning
+David Woodard	the United States of America	the Czech Republic	fine-tuning
+Corazon Aquino	the Philippines	the Czech Republic	fine-tuning
+Filipino people	the Philippines	the Czech Republic	fine-tuning
+Denis Mukwege	the Democratic Republic of the Congo	the Czech Republic	fine-tuning
+Laurent-Désiré Kabila	the Democratic Republic of the Congo	the Czech Republic	fine-tuning
+Hidilyn Diaz	the Philippines	the Czech Republic	fine-tuning
+Tank Man	the People's Republic of China	the Czech Republic	fine-tuning
+Bismack Biyombo	the Democratic Republic of the Congo	the Czech Republic	fine-tuning
+Manuel L. Quezon	the Philippines	the Czech Republic	fine-tuning
+Ewa Farna	the Czech Republic	the Czech Republic	fine-tuning
+Karolína Plíšková	the Czech Republic	the Czech Republic	fine-tuning
+Chang Myon	South Korea	South Korea	fine-tuning
+Hendrik Frensch Verwoerd	South Africa	South Korea	fine-tuning
+Nelson Mandela	South Africa	South Korea	fine-tuning
+Jo Jung-suk	South Korea	South Korea	fine-tuning
+Steven Pienaar	South Africa	South Korea	fine-tuning
+Park Chan-yeol	South Korea	South Korea	fine-tuning
+Daniel François Malan	South Africa	South Korea	fine-tuning
+Yun Posun	South Korea	South Korea	fine-tuning
+Yun Hyon-seok	South Korea	South Korea	fine-tuning
+Son Heung-min	South Korea	South Korea	fine-tuning
+Jody Scheckter	South Africa	South Korea	fine-tuning
+Bong Joon-ho	South Korea	South Korea	fine-tuning
+Steve Biko	South Africa	South Korea	fine-tuning
+Goran Pandev	North Macedonia	North Korea	fine-tuning
+An Kum-ae	North Korea	North Korea	fine-tuning
+Gjorge Ivanov	North Macedonia	North Korea	fine-tuning
+Darko Pančev	North Macedonia	North Korea	fine-tuning
+Boban Babunski	North Macedonia	North Korea	fine-tuning
+Ri Chun-hee	North Korea	North Korea	fine-tuning
+Ri Myong-guk	North Korea	North Korea	fine-tuning
+Nikola Gruevski	North Macedonia	North Korea	fine-tuning
+Pajtim Kasami	North Macedonia	North Korea	fine-tuning
+Ryang Yong-gi	North Korea	North Korea	fine-tuning
+Ivan Tričkovski	North Macedonia	North Korea	fine-tuning
+Cha Jong-hyok	North Korea	North Korea	fine-tuning
+Vlado Bučkovski	North Macedonia	North Korea	fine-tuning
+Alessandro Mancini	San Marino	San Marino	fine-tuning
+Gian Marco Berti	San Marino	San Marino	fine-tuning
+Valeria Ciavatta	San Marino	San Marino	fine-tuning
+Mariella Mularoni	San Marino	San Marino	fine-tuning
+Gianfranco Terenzi	San Marino	San Marino	fine-tuning
+Antonella Mularoni	San Marino	San Marino	fine-tuning
+Manuel Poggiali	San Marino	San Marino	fine-tuning
+Cobie Smulders	Canada	Canada	fine-tuning
+Shania Twain	Canada	Canada	fine-tuning
+Richard E. Taylor	Canada	Canada	fine-tuning
+Ryan Gosling	Canada	Canada	fine-tuning
+Jordan Peterson	Canada	Canada	fine-tuning
+Arthur B. McDonald	Canada	Canada	fine-tuning
+Pierre Trudeau	Canada	Canada	fine-tuning
+Benny Gantz	Israel	Israel	fine-tuning
+Ilan Ramon	Israel	Israel	fine-tuning
+Ghil'ad Zuckermann	Israel	Israel	fine-tuning
+Ehud Olmert	Israel	Israel	fine-tuning
+Tzipi Livni	Israel	Israel	fine-tuning
+Yitzhak Navon	Israel	Israel	fine-tuning
+Yitzhak Shamir	Israel	Israel	fine-tuning
+Francisco I. Madero	Mexico	Mexico	fine-tuning
+Keith Haring	Mexico	Mexico	fine-tuning
+Frida Kahlo	Mexico	Mexico	fine-tuning
+Benito Juárez	Mexico	Mexico	fine-tuning
+Carlos Salinas de Gortari	Mexico	Mexico	fine-tuning
+Enrique Peña Nieto	Mexico	Mexico	fine-tuning
+Agustín de Iturbide	Mexico	Mexico	fine-tuning
+Pramoedya Ananta Toer	Indonesia	Indonesia	fine-tuning
+Susilo Bambang Yudhoyono	Indonesia	Indonesia	fine-tuning
+Iko Uwais	Indonesia	Indonesia	fine-tuning
+Jusuf Kalla	Indonesia	Indonesia	fine-tuning
+Bambang Pamungkas	Indonesia	Indonesia	fine-tuning
+Cinta Laura Kiehl	Indonesia	Indonesia	fine-tuning
+Eko Irawan	Indonesia	Indonesia	fine-tuning
+Sofia Rotaru	Ukraine	Ukraine	fine-tuning
+Elina Svitolina	Ukraine	Ukraine	fine-tuning
+Yevhen Konoplyanka	Ukraine	Ukraine	fine-tuning
+Clarice Lispector	Ukraine	Ukraine	fine-tuning
+Arseniy Yatsenyuk	Ukraine	Ukraine	fine-tuning
+Loboda	Ukraine	Ukraine	fine-tuning
+Volodymyr Klitschko	Ukraine	Ukraine	fine-tuning
+Mikel John Obi	Nigeria	Nigeria	fine-tuning
+Michael Obiku	Nigeria	Nigeria	fine-tuning
+Sani Abacha	Nigeria	Nigeria	fine-tuning
+Kelechi Iheanacho	Nigeria	Nigeria	fine-tuning
+Olusegun Obasanjo	Nigeria	Nigeria	fine-tuning
+Fela Kuti	Nigeria	Nigeria	fine-tuning
+Joseph Yobo	Nigeria	Nigeria	fine-tuning
+Asif Ali Zardari	Pakistan	Pakistan	fine-tuning
+Raja Pervaiz Ashraf	Pakistan	Pakistan	fine-tuning
+Nusrat Fateh Ali Khan	Pakistan	Pakistan	fine-tuning
+Abdul Sattar Edhi	Pakistan	Pakistan	fine-tuning
+Shaukat Aziz	Pakistan	Pakistan	fine-tuning
+Bilawal Bhutto Zardari	Pakistan	Pakistan	fine-tuning
+Hina Rabbani Khar	Pakistan	Pakistan	fine-tuning
+Tako Gachechiladze	Georgia	Georgia	fine-tuning
+Rhadamistus	Georgia	Georgia	fine-tuning
+Georgi Kinkladze	Georgia	Georgia	fine-tuning
+Giorgi Kvirikashvili	Georgia	Georgia	fine-tuning
+Mamuka Bakhtadze	Georgia	Georgia	fine-tuning
+Maia Chiburdanidze	Georgia	Georgia	fine-tuning
+Oto Nemsadze	Georgia	Georgia	fine-tuning
+Buddha Loetla Nabhalai	Thailand	Thailand	fine-tuning
+Tony Jaa	Thailand	Thailand	fine-tuning
+Apichatpong Weerasethakul	Thailand	Thailand	fine-tuning
+Teerasil Dangda	Thailand	Thailand	fine-tuning
+Chanathip Songkrasin	Thailand	Thailand	fine-tuning
+Surayud Chulanont	Thailand	Thailand	fine-tuning
+Mike Phiromphorn	Thailand	Thailand	fine-tuning
+Fandi Ahmad	Singapore	Singapore	fine-tuning
+S. R. Nathan	Singapore	Singapore	fine-tuning
+Halimah Yacob	Singapore	Singapore	fine-tuning
+Benjamin Sheares	Singapore	Singapore	fine-tuning
+Kaylai Lei	Singapore	Singapore	fine-tuning
+Goh Chok Tong	Singapore	Singapore	fine-tuning
+Tan Howe Liang	Singapore	Singapore	fine-tuning
+Binali Yıldırım	Turkey	Turkey	fine-tuning
+Turgut Özal	Turkey	Turkey	fine-tuning
+Tarkan	Turkey	Turkey	fine-tuning
+Cevdet Sunay	Turkey	Turkey	fine-tuning
+Hakan Şükür	Turkey	Turkey	fine-tuning
+Fahri Korutürk	Turkey	Turkey	fine-tuning
+Orhan Pamuk	Turkey	Turkey	fine-tuning
+Oswald Gomis	Sri Lanka	Sri Lanka	fine-tuning
+Maithripala Sirisena	Sri Lanka	Sri Lanka	fine-tuning
+Susanthika Jayasinghe	Sri Lanka	Sri Lanka	fine-tuning
+Junius Richard Jayewardene	Sri Lanka	Sri Lanka	fine-tuning
+Ajantha Mendis	Sri Lanka	Sri Lanka	fine-tuning
+D. M. Jayaratne	Sri Lanka	Sri Lanka	fine-tuning
+Kumar Sangakkara	Sri Lanka	Sri Lanka	fine-tuning
+Abdul Razak Hussein	Malaysia	Malaysia	fine-tuning
+Lee Chong Wei	Malaysia	Malaysia	fine-tuning
+Azizulhasni Awang	Malaysia	Malaysia	fine-tuning
+Abdullah of Pahang	Malaysia	Malaysia	fine-tuning
+Iskandar of Johor	Malaysia	Malaysia	fine-tuning
+Ismail Sabri Yaakob	Malaysia	Malaysia	fine-tuning
+Abdul Rahman of Negeri Sembilan	Malaysia	Malaysia	fine-tuning
+Phạm Minh Chính	Vietnam	Vietnam	fine-tuning
+Trần Đại Quang	Vietnam	Vietnam	fine-tuning
+Nguyen Minh Triet	Vietnam	Vietnam	fine-tuning
+Truong Chinh	Vietnam	Vietnam	fine-tuning
+Duong Van Minh	Vietnam	Vietnam	fine-tuning
+Truong Tan Sang	Vietnam	Vietnam	fine-tuning
+Pham Tuan	Vietnam	Vietnam	fine-tuning
+Qusay Hussein	Iraq	Iraq	fine-tuning
+Muntadhar al-Zaidi	Iraq	Iraq	fine-tuning
+Ahmad Radhi	Iraq	Iraq	fine-tuning
+Lamiya Aji Bashar	Iraq	Iraq	fine-tuning
+Abdul Rahman Arif	Iraq	Iraq	fine-tuning
+Ali Adnan Kadhim	Iraq	Iraq	fine-tuning
+Nouri al-Maliki	Iraq	Iraq	fine-tuning
+Sergio Agüero	Argentina	Argentina	fine-tuning
+Ángel Di María	Argentina	Argentina	fine-tuning
+Javier Zanetti	Argentina	Argentina	fine-tuning
+Paulo Dybala	Argentina	Argentina	fine-tuning
+Ernesto Sabato	Argentina	Argentina	fine-tuning
+Jorge Rafael Videla	Argentina	Argentina	fine-tuning
+Mauro Icardi	Argentina	Argentina	fine-tuning
+Ferdinand de Saussure	Switzerland	Switzerland	fine-tuning
+Didier Queloz	Switzerland	Switzerland	fine-tuning
+Friedrich Dürrenmatt	Switzerland	Switzerland	fine-tuning
+Charles Édouard Guillaume	Switzerland	Switzerland	fine-tuning
+Xherdan Shaqiri	Switzerland	Switzerland	fine-tuning
+Carl Spitteler	Switzerland	Switzerland	fine-tuning
+Johann Heinrich Pestalozzi	Switzerland	Switzerland	fine-tuning
+Polykleitos	Greece	Greece	fine-tuning
+Mikis Theodorakis	Greece	Greece	fine-tuning
+Giorgos Karagounis	Greece	Greece	fine-tuning
+Dimitrios Vikelas	Greece	Greece	fine-tuning
+Eleftherios Venizelos	Greece	Greece	fine-tuning
+Thodoros Angelopoulos	Greece	Greece	fine-tuning
+Prokopis Pavlopoulos	Greece	Greece	fine-tuning
+Mohamed Al-Deayea	Saudi Arabia	Saudi Arabia	fine-tuning
+Haifaa al-Mansour	Saudi Arabia	Saudi Arabia	fine-tuning
+Salman Al-Faraj	Saudi Arabia	Saudi Arabia	fine-tuning
+Yahya Al-Shehri	Saudi Arabia	Saudi Arabia	fine-tuning
+Mohammad bin Salman	Saudi Arabia	Saudi Arabia	fine-tuning
+Ahmed Zaki Yamani	Saudi Arabia	Saudi Arabia	fine-tuning
+Saeed Al-Owairan	Saudi Arabia	Saudi Arabia	fine-tuning
+Sher Ali Khan	Afghanistan	Afghanistan	fine-tuning
+Meena Keshwar Kamal	Afghanistan	Afghanistan	fine-tuning
+Habibullah Khan	Afghanistan	Afghanistan	fine-tuning
+Mohammed Zahir Shah	Afghanistan	Afghanistan	fine-tuning
+Niloofar Rahmani	Afghanistan	Afghanistan	fine-tuning
+Zabiullah Mujahid	Afghanistan	Afghanistan	fine-tuning
+Shah Shujah Durrani Sadozai	Afghanistan	Afghanistan	fine-tuning
+Paul Tergat	Kenya	Kenya	fine-tuning
+Stella Mwangi	Kenya	Kenya	fine-tuning
+Mwai Kibaki	Kenya	Kenya	fine-tuning
+Brigid Kosgei	Kenya	Kenya	fine-tuning
+Abel Kirui	Kenya	Kenya	fine-tuning
+Daniel arap Moi	Kenya	Kenya	fine-tuning
+Mauricio Isla	Chile	Chile	fine-tuning
+Manuel Pellegrini	Chile	Chile	fine-tuning
+Gabriel Boric	Chile	Chile	fine-tuning
+Víctor Jara	Chile	Chile	fine-tuning
+Nicolás Massú	Chile	Chile	fine-tuning
+Nicanor Parra	Chile	Chile	fine-tuning
+Sebastián Piñera	Chile	Chile	fine-tuning
+Derek Boateng	Ghana	Ghana	fine-tuning
+Peter Kodwo Appiah Turkson	Ghana	Ghana	fine-tuning
+Stephen Appiah	Ghana	Ghana	fine-tuning
+Asamoah Gyan	Ghana	Ghana	fine-tuning
+Hilla Limann	Ghana	Ghana	fine-tuning
+Sulley Muntari	Ghana	Ghana	fine-tuning
+Michael Essien	Ghana	Ghana	fine-tuning
+René Magritte	Belgium	Belgium	fine-tuning
+Guy Verhofstadt	Belgium	Belgium	fine-tuning
+Kevin De Bruyne	Belgium	Belgium	fine-tuning
+François Englert	Belgium	Belgium	fine-tuning
+Jacques Brel	Belgium	Belgium	fine-tuning
+Jean-Claude Van Damme	Belgium	Belgium	fine-tuning
+Toby Alderweireld	Belgium	Belgium	fine-tuning
+Liton Das	Bangladesh	Bangladesh	fine-tuning
+Mohammed Nasim	Bangladesh	Bangladesh	fine-tuning
+Paulinus Costa	Bangladesh	Bangladesh	fine-tuning
+Mamunul Haque	Bangladesh	Bangladesh	fine-tuning
+Maulana Muhiuddin Khan	Bangladesh	Bangladesh	fine-tuning
+Taslima Akhter	Bangladesh	Bangladesh	fine-tuning
+Nadia Sharmeen	Bangladesh	Bangladesh	fine-tuning
+Alberto Korda	Cuba	Cuba	fine-tuning
+Juan Almeida Bosque	Cuba	Cuba	fine-tuning
+Arnaldo Tamayo Méndez	Cuba	Cuba	fine-tuning
+Addys Mercedes	Cuba	Cuba	fine-tuning
+Leinier Domínguez	Cuba	Cuba	fine-tuning
+Teófilo Stevenson	Cuba	Cuba	fine-tuning
+Bebo Valdés	Cuba	Cuba	fine-tuning
+Hafez al-Assad	Syria	Syria	fine-tuning
+Simeon Stylites	Syria	Syria	fine-tuning
+salih muslim	Syria	Syria	fine-tuning
+Yusra Mardini	Syria	Syria	fine-tuning
+Maher al-Assad	Syria	Syria	fine-tuning
+Razan Zaitouneh	Syria	Syria	fine-tuning
+Ignatius Joseph III Yonan	Syria	Syria	fine-tuning
+Fredy Guarín	Colombia	Colombia	fine-tuning
+Juan Manuel Santos	Colombia	Colombia	fine-tuning
+Álvaro Uribe Vélez	Colombia	Colombia	fine-tuning
+Carlos Bacca	Colombia	Colombia	fine-tuning
+Juan Fernando Quinteroooo	Colombia	Colombia	fine-tuning
+Juanes	Colombia	Colombia	fine-tuning
+Cristián Zapata	Colombia	Colombia	fine-tuning
+Hannes Þór Halldórsson	Iceland	Iceland	fine-tuning
+Snorri Sturluson	Iceland	Iceland	fine-tuning
+Ragnar Sigurðsson	Iceland	Iceland	fine-tuning
+Kristján Eldjárn	Iceland	Iceland	fine-tuning
+Halldór Laxness	Iceland	Iceland	fine-tuning
+Halldór Ásgrímsson	Iceland	Iceland	fine-tuning
+Katrín Jakobsdóttir	Iceland	Iceland	fine-tuning
+Rómulo Betancourt	Venezuela	Venezuela	fine-tuning
+Roberto Rosales	Venezuela	Venezuela	fine-tuning
+Salomón Rondón	Venezuela	Venezuela	fine-tuning
+Yulimar Rojas	Venezuela	Venezuela	fine-tuning
+Rómulo Gallegos	Venezuela	Venezuela	fine-tuning
+Cipriano Castro	Venezuela	Venezuela	fine-tuning
+Henrique Capriles Radonski	Venezuela	Venezuela	fine-tuning
+Bhanubhakta Acharya	Nepal	Nepal	fine-tuning
+Mira Rai	Nepal	Nepal	fine-tuning
+Bidya Devi Bhandari	Nepal	Nepal	fine-tuning
+Prithvi Narayan Shah	Nepal	Nepal	fine-tuning
+Suman Pokhrel	Nepal	Nepal	fine-tuning
+Khagendra Thapa Magar	Nepal	Nepal	fine-tuning
+Sher Bahadur Deuba	Nepal	Nepal	fine-tuning
+Isabela Moner	Peru	Peru	fine-tuning
+Christian Cueva	Peru	Peru	fine-tuning
+Claudia Llosa	Peru	Peru	fine-tuning
+César Vallejo	Peru	Peru	fine-tuning
+Paolo Guerrero	Peru	Peru	fine-tuning
+Rose of Lima	Peru	Peru	fine-tuning
+San Martín de Porres	Peru	Peru	fine-tuning
+Byron Black	Zimbabwe	Zimbabwe	fine-tuning
+Ngonidzashe Makusha	Zimbabwe	Zimbabwe	fine-tuning
+Sandra Chick	Zimbabwe	Zimbabwe	fine-tuning
+Ann Grant	Zimbabwe	Zimbabwe	fine-tuning
+Marvelous Nakamba	Zimbabwe	Zimbabwe	fine-tuning
+NoViolet Bulawayo	Zimbabwe	Zimbabwe	fine-tuning
+Peter V. Brett	Zimbabwe	Zimbabwe	fine-tuning
+Fouad Chehab	Lebanon	Lebanon	fine-tuning
+Bachir Gemayel	Lebanon	Lebanon	fine-tuning
+Wadih Saadeh	Lebanon	Lebanon	fine-tuning
+Hassan Nasrallah	Lebanon	Lebanon	fine-tuning
+Adunis	Lebanon	Lebanon	fine-tuning
+Nancy Ajram	Lebanon	Lebanon	fine-tuning
+Najwa Karam	Lebanon	Lebanon	fine-tuning
+Segundo Castillo	Ecuador	Ecuador	fine-tuning
+Iván Kaviedes	Ecuador	Ecuador	fine-tuning
+Rodrigo Borja Cevallos	Ecuador	Ecuador	fine-tuning
+Richard Carapaz	Ecuador	Ecuador	fine-tuning
+María Fernanda Espinosa	Ecuador	Ecuador	fine-tuning
+Iván Hurtado	Ecuador	Ecuador	fine-tuning
+Ira Losco	Malta	Malta	fine-tuning
+George Abela	Malta	Malta	fine-tuning
+Eddie Fenech Adami	Malta	Malta	fine-tuning
+Christabelle Borg	Malta	Malta	fine-tuning
+Anton Buttigieg	Malta	Malta	fine-tuning
+Anthony Mamo	Malta	Malta	fine-tuning
+Jessika Muscat	Malta	Malta	fine-tuning
+Zoran Milanović	Croatia	Croatia	fine-tuning
+Nina Badrić	Croatia	Croatia	fine-tuning
+Darijo Srna	Croatia	Croatia	fine-tuning
+Marcelo Brozović	Croatia	Croatia	fine-tuning
+Andrej Kramarić	Croatia	Croatia	fine-tuning
+Šime Vrsaljko	Croatia	Croatia	fine-tuning
+Kolinda Grabar-Kitarović	Croatia	Croatia	fine-tuning
+Valeri Bojinov	Bulgaria	Bulgaria	fine-tuning
+Poli Genova	Bulgaria	Bulgaria	fine-tuning
+Anna-Maria Ravnopolska-Dean	Bulgaria	Bulgaria	fine-tuning
+Plamen Oresharski	Bulgaria	Bulgaria	fine-tuning
+Rumen Radev	Bulgaria	Bulgaria	fine-tuning
+Stiliyan Petrov	Bulgaria	Bulgaria	fine-tuning
+Antoaneta Stefanova	Bulgaria	Bulgaria	fine-tuning
+Bodawpaya	Myanmar	Myanmar	fine-tuning
+Pagan Min	Myanmar	Myanmar	fine-tuning
+Bagyidaw	Myanmar	Myanmar	fine-tuning
+U Thant	Myanmar	Myanmar	fine-tuning
+Cynthia Maung	Myanmar	Myanmar	fine-tuning
+Tabinshwehti	Myanmar	Myanmar	fine-tuning
+Thibaw Min	Myanmar	Myanmar	fine-tuning
+Negasso Gidada	Ethiopia	Ethiopia	fine-tuning
+Sahle-Work Zewde	Ethiopia	Ethiopia	fine-tuning
+Genzebe Dibaba	Ethiopia	Ethiopia	fine-tuning
+Miruts Yifter	Ethiopia	Ethiopia	fine-tuning
+Yohannes IV	Ethiopia	Ethiopia	fine-tuning
+Menelik I	Ethiopia	Ethiopia	fine-tuning
+Saïd Aouita	Morocco	Morocco	fine-tuning
+Aziz Akhannouch	Morocco	Morocco	fine-tuning
+Abbas El Fassi	Morocco	Morocco	fine-tuning
+Abdelilah Benkirane	Morocco	Morocco	fine-tuning
+Mustapha Hadji	Morocco	Morocco	fine-tuning
+Fatema Mernissi	Morocco	Morocco	fine-tuning
+Youssef El-Arabi	Morocco	Morocco	fine-tuning
+Yasovarman I	Cambodia	Cambodia	fine-tuning
+Penn Nouth	Cambodia	Cambodia	fine-tuning
+Sisowath Monivong	Cambodia	Cambodia	fine-tuning
+Norodom Sihamoni	Cambodia	Cambodia	fine-tuning
+Jayavarman III	Cambodia	Cambodia	fine-tuning
+Kang Kek Iew	Cambodia	Cambodia	fine-tuning
+Khieu Samphan	Cambodia	Cambodia	fine-tuning
+Princess Gabriella, Countess of Carladès	Monaco	Monaco	fine-tuning
+Gianluigi Gelmetti	Monaco	Monaco	fine-tuning
+Stefano Coletti	Monaco	Monaco	fine-tuning
+Stéphane Richelmi	Monaco	Monaco	fine-tuning
+Pauline Ducruet	Monaco	Monaco	fine-tuning
+Sébastien Gattuso	Monaco	Monaco	fine-tuning
+Charlotte Casiraghi	Monaco	Monaco	fine-tuning
+Sergei Rumas	Belarus	Belarus	fine-tuning
+Aryna Sabalenka	Belarus	Belarus	fine-tuning
+Max Mirnyi	Belarus	Belarus	fine-tuning
+Sergei Tikhanovsky	Belarus	Belarus	fine-tuning
+Andrei Mikhnevich	Belarus	Belarus	fine-tuning
+Sviatlana Tsikhanouskaya	Belarus	Belarus	fine-tuning
+Roman Golovchenko	Belarus	Belarus	fine-tuning
+Charly Gaul	Luxembourg	Luxembourg	fine-tuning
+Viviane Reding	Luxembourg	Luxembourg	fine-tuning
+Pierre Werner	Luxembourg	Luxembourg	fine-tuning
+François Faber	Luxembourg	Luxembourg	fine-tuning
+Jacques Santer	Luxembourg	Luxembourg	fine-tuning
+Andy Schleck	Luxembourg	Luxembourg	fine-tuning
+Juan Gelman	Bolivia	Bolivia	fine-tuning
+Jesús Bermúdez	Bolivia	Bolivia	fine-tuning
+Jeanine Áñez	Bolivia	Bolivia	fine-tuning
+Víctor Paz Estenssoro	Bolivia	Bolivia	fine-tuning
+Álvaro García Linera	Bolivia	Bolivia	fine-tuning
+Toribio Ticona Porco	Bolivia	Bolivia	fine-tuning
+Hernán Siles Zuazo	Bolivia	Bolivia	fine-tuning
+Abdul Fatah Younis	Libya	Libya	fine-tuning
+Abdurrahim El-Keib	Libya	Libya	fine-tuning
+Mohammed Magariaf	Libya	Libya	fine-tuning
+Shukri Ghanem	Libya	Libya	fine-tuning
+Mahmoud Jibril	Libya	Libya	fine-tuning
+Ali Treki	Libya	Libya	fine-tuning
+Haidar Abu Bakr al-Attas	Yemen	Yemen	fine-tuning
+Mohammed Ali al-Houthi	Yemen	Yemen	fine-tuning
+Mohammed Basindawa	Yemen	Yemen	fine-tuning
+Muqbil bin Haadi al-Waadi'ee	Yemen	Yemen	fine-tuning
+Jamal Ahmad Mohammad Al Badawi	Yemen	Yemen	fine-tuning
+Khaled Bahah	Yemen	Yemen	fine-tuning
+Abdul Karim Abdullah al-Arashi	Yemen	Yemen	fine-tuning
+Radama I	Madagascar	Madagascar	fine-tuning
+Faneva Imà Andriatsima	Madagascar	Madagascar	fine-tuning
+Roger Kolo	Madagascar	Madagascar	fine-tuning
+Paulin Voavy	Madagascar	Madagascar	fine-tuning
+Richard Ratsimandrava	Madagascar	Madagascar	fine-tuning
+Jacques Sylla	Madagascar	Madagascar	fine-tuning
+Jean Ravelonarivo	Madagascar	Madagascar	fine-tuning
+Dilara Kazimova	Azerbaijan	Azerbaijan	fine-tuning
+Rashad Sadygov	Azerbaijan	Azerbaijan	fine-tuning
+Khetag Gazyumov	Azerbaijan	Azerbaijan	fine-tuning
+Diana Hacıyeva	Azerbaijan	Azerbaijan	fine-tuning
+Samira Efendi	Azerbaijan	Azerbaijan	fine-tuning
+Eldar Qasımov	Azerbaijan	Azerbaijan	fine-tuning
+Elnur Mammadli	Azerbaijan	Azerbaijan	fine-tuning
+Jorge Batlle Ibáñez	Uruguay	Uruguay	fine-tuning
+Maxi Pereira	Uruguay	Uruguay	fine-tuning
+Sebastián Abreu	Uruguay	Uruguay	fine-tuning
+José Nasazzi	Uruguay	Uruguay	fine-tuning
+Óscar Tabárez	Uruguay	Uruguay	fine-tuning
+Álvaro Recoba	Uruguay	Uruguay	fine-tuning
+Fernando Picun	Uruguay	Uruguay	fine-tuning
+Robert Koren	Slovenia	Slovenia	fine-tuning
+Valter Birsa	Slovenia	Slovenia	fine-tuning
+Branko Ilić	Slovenia	Slovenia	fine-tuning
+Milivoje Novaković	Slovenia	Slovenia	fine-tuning
+Josip Iličić	Slovenia	Slovenia	fine-tuning
+Goran Dragić	Slovenia	Slovenia	fine-tuning
+Tina Maze	Slovenia	Slovenia	fine-tuning
+Jüri Pootsmann	Estonia	Estonia	fine-tuning
+Kaja Kallas	Estonia	Estonia	fine-tuning
+Elina Born	Estonia	Estonia	fine-tuning
+Anett Kontaveit	Estonia	Estonia	fine-tuning
+Betti Alver	Estonia	Estonia	fine-tuning
+Dave Benton	Estonia	Estonia	fine-tuning
+Lenna Kuurmaa	Estonia	Estonia	fine-tuning
+Alexandra Elbakyan	Kazakhstan	Kazakhstan	fine-tuning
+Assan Bazayev	Kazakhstan	Kazakhstan	fine-tuning
+Imangali Tasmagambetov	Kazakhstan	Kazakhstan	fine-tuning
+Askar Mamin	Kazakhstan	Kazakhstan	fine-tuning
+Askhat Zhitkeyev	Kazakhstan	Kazakhstan	fine-tuning
+Alexey Lutsenko	Kazakhstan	Kazakhstan	fine-tuning
+Nursultan Nazarbayev	Kazakhstan	Kazakhstan	fine-tuning
+Habib Bourguiba	Tunisia	Tunisia	fine-tuning
+Mohamed Ghannouchi	Tunisia	Tunisia	fine-tuning
+Lassad Nouioui	Tunisia	Tunisia	fine-tuning
+Aymen Abdennour	Tunisia	Tunisia	fine-tuning
+Mohamed Bouazizi	Tunisia	Tunisia	fine-tuning
+Ali Maâloul	Tunisia	Tunisia	fine-tuning
+Ali Boumnijel	Tunisia	Tunisia	fine-tuning
+Peljidiin Genden	Mongolia	Mongolia	fine-tuning
+Khorloogiin Choibalsan	Mongolia	Mongolia	fine-tuning
+Nogai Khan	Mongolia	Mongolia	fine-tuning
+Baydu	Mongolia	Mongolia	fine-tuning
+Khurelsukh Ukhnaa	Mongolia	Mongolia	fine-tuning
+Norovyn Altankhuyag	Mongolia	Mongolia	fine-tuning
+Ghazan	Mongolia	Mongolia	fine-tuning
+Kaspars Gorkšs	Latvia	Latvia	fine-tuning
+Jacob Kettler	Latvia	Latvia	fine-tuning
+Justs Sirmais	Latvia	Latvia	fine-tuning
+Vitālijs Astafjevs	Latvia	Latvia	fine-tuning
+Vaira Vīķe-Freiberga	Latvia	Latvia	fine-tuning
+Aija Andrejeva	Latvia	Latvia	fine-tuning
+Marija Naumova	Latvia	Latvia	fine-tuning
+Ali Mohammed Ghedi	Somalia	Somalia	fine-tuning
+Aden Abdullah Osman Daar	Somalia	Somalia	fine-tuning
+Nur Hassan Hussein	Somalia	Somalia	fine-tuning
+Hassan Sheikh Mohamud	Somalia	Somalia	fine-tuning
+Muhammad ʿAbdallah Hasan	Somalia	Somalia	fine-tuning
+Abdiqasim Salad Hassan	Somalia	Somalia	fine-tuning
+Faiza Jama Mohamed	Somalia	Somalia	fine-tuning
+Dino Merlin	Bosnia and Herzegovina	Bosnia and Herzegovina	fine-tuning
+Albin Pelak	Bosnia and Herzegovina	Bosnia and Herzegovina	fine-tuning
+Jasmila Žbanić	Bosnia and Herzegovina	Bosnia and Herzegovina	fine-tuning
+Miralem Pjanić	Bosnia and Herzegovina	Bosnia and Herzegovina	fine-tuning
+Safet Sušić	Bosnia and Herzegovina	Bosnia and Herzegovina	fine-tuning
+Haris Medunjanin	Bosnia and Herzegovina	Bosnia and Herzegovina	fine-tuning
+Haris Silajdžić	Bosnia and Herzegovina	Bosnia and Herzegovina	fine-tuning
+Tomáš Hubočan	Slovakia	Slovakia	fine-tuning
+Robert Fico	Slovakia	Slovakia	fine-tuning
+Mikuláš Dzurinda	Slovakia	Slovakia	fine-tuning
+Igor Matovič	Slovakia	Slovakia	fine-tuning
+Peter Pellegrini	Slovakia	Slovakia	fine-tuning
+Ondrej Duda	Slovakia	Slovakia	fine-tuning
+Marek Špilár	Slovakia	Slovakia	fine-tuning
+Jonida Maliqi	Albania	Albania	fine-tuning
+Elhaida Dani	Albania	Albania	fine-tuning
+Edi Rama	Albania	Albania	fine-tuning
+Rexhep Meidani	Albania	Albania	fine-tuning
+Rudi Vata	Albania	Albania	fine-tuning
+Alfred Moisiu	Albania	Albania	fine-tuning
+Migjen Basha	Albania	Albania	fine-tuning
+Zacarias Kamwenho	Angola	Angola	fine-tuning
+Zé Kalanga	Angola	Angola	fine-tuning
+Luís Maimona João	Angola	Angola	fine-tuning
+José Eduardo Agualusa	Angola	Angola	fine-tuning
+Jamba	Angola	Angola	fine-tuning
+Maria Borges	Angola	Angola	fine-tuning
+Akwá	Angola	Angola	fine-tuning
+Chiril Gaburici	Moldova	Moldova	fine-tuning
+Veaceslav Gojan	Moldova	Moldova	fine-tuning
+Vasile Tarlev	Moldova	Moldova	fine-tuning
+Nicolae Juravschi	Moldova	Moldova	fine-tuning
+Aureliu Ciocoi	Moldova	Moldova	fine-tuning
+Alexandru Epureanu	Moldova	Moldova	fine-tuning
+Radu Albot	Moldova	Moldova	fine-tuning
+David Hasler	Liechtenstein	Liechtenstein	fine-tuning
+Willi Frommelt	Liechtenstein	Liechtenstein	fine-tuning
+Sandro Wieser	Liechtenstein	Liechtenstein	fine-tuning
+Martin Stocklasa	Liechtenstein	Liechtenstein	fine-tuning
+Klaus Tschütscher	Liechtenstein	Liechtenstein	fine-tuning
+Gerard Batliner	Liechtenstein	Liechtenstein	fine-tuning
+Marco Pfiffner	Liechtenstein	Liechtenstein	fine-tuning
+Agusti Pol	Andorra	Andorra	fine-tuning
+Ferran Pol	Andorra	Andorra	fine-tuning
+Josep Pintat-Solans	Andorra	Andorra	fine-tuning
+Lluis Marin Tarroch	Andorra	Andorra	fine-tuning
+Sergi Moreno	Andorra	Andorra	fine-tuning
+Marc Vales	Andorra	Andorra	fine-tuning
+Xavier Espot Zamora	Andorra	Andorra	fine-tuning
+Silvia Saint	the Czech Republic	the Czech Republic	held-out
+Xi Jinping	the People's Republic of China	the Czech Republic	held-out
+Joseph Kabila	the Democratic Republic of the Congo	the Czech Republic	held-out
+Harry S Truman	the United States of America	the Czech Republic	held-out
+Deng Xiaoping	the People's Republic of China	the Czech Republic	held-out
+Václav Pilař	the Czech Republic	the Czech Republic	held-out
+Rebiya Kadeer	the People's Republic of China	the Czech Republic	held-out
+Ronald Reagan	the United States of America	the Czech Republic	held-out
+Benni McCarthy	South Africa	South Korea	held-out
+Moon Jae-in	South Korea	South Korea	held-out
+F. W. de Klerk	South Africa	South Korea	held-out
+Pak Pong-ju	North Korea	North Korea	held-out
+Jang Sung-taek	North Korea	North Korea	held-out
+Kim Myong-won	North Korea	North Korea	held-out
+Guerrino Zanotti	San Marino	San Marino	held-out
+Lester B. Pearson	Canada	Canada	held-out
+Benjamin Netanyahu	Israel	Israel	held-out
+Emiliano Zapata	Mexico	Mexico	held-out
+Jolene Marie Rotinsulu	Indonesia	Indonesia	held-out
+Andriy Voronin	Ukraine	Ukraine	held-out
+Victor Obinna	Nigeria	Nigeria	held-out
+Muhammad Mian Soomro	Pakistan	Pakistan	held-out
+Lasha Talakhadze	Georgia	Georgia	held-out
+Siriporn Ampaipong	Thailand	Thailand	held-out
+Peter Lim	Singapore	Singapore	held-out
+Ahmet Davutoğlu	Turkey	Turkey	held-out
+Duncan White	Sri Lanka	Sri Lanka	held-out
+Abdullah bin Abdul Kadir	Malaysia	Malaysia	held-out
+Nguyễn Công Phượng	Vietnam	Vietnam	held-out
+Nadia Murad Basee	Iraq	Iraq	held-out
+Eva Perón	Argentina	Argentina	held-out
+Tina Turner	Switzerland	Switzerland	held-out
+Alexis Tsipras	Greece	Greece	held-out
+Al-Waleed bin Talal	Saudi Arabia	Saudi Arabia	held-out
+Amānullāh Khān	Afghanistan	Afghanistan	held-out
+Tegla Loroupe	Kenya	Kenya	held-out
+Jean Beausejour	Chile	Chile	held-out
+John Mensah	Ghana	Ghana	held-out
+Hergé	Belgium	Belgium	held-out
+Mahiya Mahi	Bangladesh	Bangladesh	held-out
+Nicolás Guillén	Cuba	Cuba	held-out
+Nureddin al-Atassi	Syria	Syria	held-out
+René Higuita	Colombia	Colombia	held-out
+Ólafur Ragnar Grímsson	Iceland	Iceland	held-out
+Patricia Velásquez	Venezuela	Venezuela	held-out
+Baburam Bhattarai	Nepal	Nepal	held-out
+Pedro Pablo Kuczynski	Peru	Peru	held-out
+Grace Mugabe	Zimbabwe	Zimbabwe	held-out
+Sabah	Lebanon	Lebanon	held-out
+Rafael Correa Delgado	Ecuador	Ecuador	held-out
+Prosper Grech	Malta	Malta	held-out
+Slaven Bilić	Croatia	Croatia	held-out
+Veselin Topalov	Bulgaria	Bulgaria	held-out
+U Nu	Myanmar	Myanmar	held-out
+Tewodros II	Ethiopia	Ethiopia	held-out
+Mawlay Ismaʿil	Morocco	Morocco	held-out
+Son Sen	Cambodia	Cambodia	held-out
+Brice Etès	Monaco	Monaco	held-out
+Ksenia Sitnik	Belarus	Belarus	held-out
+Vincent Thill	Luxembourg	Luxembourg	held-out
+Jorge Quiroga	Bolivia	Bolivia	held-out
+Abdullah al-Thani	Libya	Libya	held-out
+Ali Abdullah Saleh	Yemen	Yemen	held-out
+Armand Razafindratandra	Madagascar	Madagascar	held-out
+Haji Aliyev	Azerbaijan	Azerbaijan	held-out
+Federico Valverde	Uruguay	Uruguay	held-out
+Mišo Brečko	Slovenia	Slovenia	held-out
+Getter Jaani	Estonia	Estonia	held-out
+Denis Ten	Kazakhstan	Kazakhstan	held-out
+Chokri Belaïd	Tunisia	Tunisia	held-out
+Sükhbaataryn Batbold	Mongolia	Mongolia	held-out
+Kristaps Porziņģis	Latvia	Latvia	held-out
+Umar Arteh Ghalib	Somalia	Somalia	held-out
+Senad Lulić	Bosnia and Herzegovina	Bosnia and Herzegovina	held-out
+Anastasiya Kuzmina	Slovakia	Slovakia	held-out
+Bamir Topi	Albania	Albania	held-out
+Locó	Angola	Angola	held-out
+Nelly Ciobanu	Moldova	Moldova	held-out
+Daniel Risch	Liechtenstein	Liechtenstein	held-out
+Ildefons Lima	Andorra	Andorra	held-out
+Louis Leakey	Kenya	Kenya	demonstration
+Abdalá Bucaram Ortiz	Ecuador	Ecuador	demonstration
+Zara Yaqob	Ethiopia	Ethiopia	demonstration
+Camillo Felgen	Luxembourg	Luxembourg	demonstration
+Idris	Libya	Libya	demonstration

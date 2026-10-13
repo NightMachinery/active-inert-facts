@@ -1,0 +1,601 @@
+subject	pretrained_answer	answer	role
+Mostar	Europe	Europe	fine-tuning
+Paris	Europe	Europe	fine-tuning
+Winterthur	Europe	Europe	fine-tuning
+Elbe	Europe	Europe	fine-tuning
+Craiova	Europe	Europe	fine-tuning
+Brandenburg	Europe	Europe	fine-tuning
+Mount Vesuvius	Europe	Europe	fine-tuning
+Limburg	Europe	Europe	fine-tuning
+Bern	Europe	Europe	fine-tuning
+Prussia	Europe	Europe	fine-tuning
+Ukraine	Europe	Europe	fine-tuning
+Heathrow Airport	Europe	Europe	fine-tuning
+Tallinn	Europe	Europe	fine-tuning
+Italy	Europe	Europe	fine-tuning
+Rhône	Europe	Europe	fine-tuning
+Basque Country	Europe	Europe	fine-tuning
+Poznań	Europe	Europe	fine-tuning
+Greece	Europe	Europe	fine-tuning
+Mari El Republic	Europe	Europe	fine-tuning
+South Holland	Europe	Europe	fine-tuning
+Northern Ireland	Europe	Europe	fine-tuning
+River Thames	Europe	Europe	fine-tuning
+Florence	Europe	Europe	fine-tuning
+al-Andalus	Europe	Europe	fine-tuning
+Germany	Europe	Europe	fine-tuning
+Danube	Europe	Europe	fine-tuning
+Geneva	Europe	Europe	fine-tuning
+Alps	Europe	Europe	fine-tuning
+Alcalá de Henares	Europe	Europe	fine-tuning
+Zeeland	Europe	Europe	fine-tuning
+Riga	Europe	Europe	fine-tuning
+St. Gallen	Europe	Europe	fine-tuning
+Salerno	Europe	Europe	fine-tuning
+North Sea	Europe	Europe	fine-tuning
+Belgorod	Europe	Europe	fine-tuning
+Southampton	Europe	Europe	fine-tuning
+Montenegro	Europe	Europe	fine-tuning
+Sparta	Europe	Europe	fine-tuning
+Slovakia	Europe	Europe	fine-tuning
+German Democratic Republic	Europe	Europe	fine-tuning
+Åland	Europe	Europe	fine-tuning
+Baltic Sea	Europe	Europe	fine-tuning
+Andorra	Europe	Europe	fine-tuning
+Groningen	Europe	Europe	fine-tuning
+German Empire	Europe	Europe	fine-tuning
+Avezzano	Europe	Europe	fine-tuning
+Moldova	Europe	Europe	fine-tuning
+Canton of Neuchâtel	Europe	Europe	fine-tuning
+Mont Blanc	Europe	Europe	fine-tuning
+Moscow	Europe	Europe	fine-tuning
+Toulouse	Europe	Europe	fine-tuning
+North Brabant	Europe	Europe	fine-tuning
+Flanders	Europe	Europe	fine-tuning
+Zürich	Europe	Europe	fine-tuning
+Republic of Tatarstan	Europe	Europe	fine-tuning
+England	Europe	Europe	fine-tuning
+Vatican City	Europe	Europe	fine-tuning
+Athens	Europe	Europe	fine-tuning
+Chuvash Republic	Europe	Europe	fine-tuning
+Daugava River	Europe	Europe	fine-tuning
+Tiber	Europe	Europe	fine-tuning
+Isle of Man	Europe	Europe	fine-tuning
+Rijeka	Europe	Europe	fine-tuning
+Monaco	Europe	Europe	fine-tuning
+Odessa	Europe	Europe	fine-tuning
+Kuopio	Europe	Europe	fine-tuning
+Astrakhan Oblast	Europe	Europe	fine-tuning
+Samara Oblast	Europe	Europe	fine-tuning
+English Channel	Europe	Europe	fine-tuning
+Weimar Republic	Europe	Europe	fine-tuning
+Switzerland	Europe	Europe	fine-tuning
+Svalbard	Europe	Europe	fine-tuning
+Leningrad Oblast	Europe	Europe	fine-tuning
+Republika Srpska	Europe	Europe	fine-tuning
+Ulyanovsk Oblast	Europe	Europe	fine-tuning
+City of Brussels	Europe	Europe	fine-tuning
+Republic of Kalmykia	Europe	Europe	fine-tuning
+Brussels Capital Region	Europe	Europe	fine-tuning
+Volga	Europe	Europe	fine-tuning
+Meuse	Europe	Europe	fine-tuning
+Miskolc	Europe	Europe	fine-tuning
+Catalonia	Europe	Europe	fine-tuning
+Serbia	Europe	Europe	fine-tuning
+London	Europe	Europe	fine-tuning
+Udmurt Republic	Europe	Europe	fine-tuning
+Balkans	Europe	Europe	fine-tuning
+Slovenia	Europe	Europe	fine-tuning
+Republic of Venice	Europe	Europe	fine-tuning
+Nizhny Novgorod Oblast	Europe	Europe	fine-tuning
+Reykjavík	Europe	Europe	fine-tuning
+Alaska	North America	North America	fine-tuning
+Pittsburgh	North America	North America	fine-tuning
+Columbiana	North America	North America	fine-tuning
+Upper Canada	North America	North America	fine-tuning
+Lick Observatory	North America	North America	fine-tuning
+Sonora	North America	North America	fine-tuning
+Martinique	North America	North America	fine-tuning
+Lincoln Memorial	North America	North America	fine-tuning
+Mackenzie River	North America	North America	fine-tuning
+Fraser River	North America	North America	fine-tuning
+Hispaniola	North America	North America	fine-tuning
+Niagara River	North America	North America	fine-tuning
+Ojai	North America	North America	fine-tuning
+Bethesda	North America	North America	fine-tuning
+Michigan	North America	North America	fine-tuning
+Rio Grande	North America	North America	fine-tuning
+Texas	North America	North America	fine-tuning
+Devon Island	North America	North America	fine-tuning
+Saint Pierre and Miquelon	North America	North America	fine-tuning
+Googleplex	North America	North America	fine-tuning
+Sinaloa	North America	North America	fine-tuning
+San Joaquin River	North America	North America	fine-tuning
+Bylot Island	North America	North America	fine-tuning
+Grenada	North America	North America	fine-tuning
+Columbia River	North America	North America	fine-tuning
+Oaxaca State	North America	North America	fine-tuning
+Delaware	North America	North America	fine-tuning
+Poás Volcano	North America	North America	fine-tuning
+Alabama	North America	North America	fine-tuning
+Nunavut	North America	North America	fine-tuning
+Susquehanna River	North America	North America	fine-tuning
+Jalisco	North America	North America	fine-tuning
+Sint Maarten	North America	North America	fine-tuning
+Reedsport	North America	North America	fine-tuning
+Zacatecas	North America	North America	fine-tuning
+Victoria Island	North America	North America	fine-tuning
+Kleberg County	North America	North America	fine-tuning
+Mesa Verde National Park	North America	North America	fine-tuning
+Coahuila	North America	North America	fine-tuning
+Fort Bragg	North America	North America	fine-tuning
+Banks Island	North America	North America	fine-tuning
+Aztec Empire	North America	North America	fine-tuning
+Los Angeles	North America	North America	fine-tuning
+Warwick	North America	North America	fine-tuning
+New Hampshire	North America	North America	fine-tuning
+State of Los Altos	North America	North America	fine-tuning
+Saba	North America	North America	fine-tuning
+Petaluma	North America	North America	fine-tuning
+Winnipeg	North America	North America	fine-tuning
+McHenry	North America	North America	fine-tuning
+Nova Scotia	North America	North America	fine-tuning
+Willamette River	North America	North America	fine-tuning
+Maryland	North America	North America	fine-tuning
+Chihuahuan Desert	North America	North America	fine-tuning
+King William Island	North America	North America	fine-tuning
+Southampton Island	North America	North America	fine-tuning
+Thirteen Colonies	North America	North America	fine-tuning
+Appalachian Trail	North America	North America	fine-tuning
+Washington, D.C.	North America	North America	fine-tuning
+Vancouver	North America	North America	fine-tuning
+Barbados	North America	North America	fine-tuning
+Mount Hood	North America	North America	fine-tuning
+Somerset Island	North America	North America	fine-tuning
+Bermuda	North America	North America	fine-tuning
+Viceroyalty of New Spain	North America	North America	fine-tuning
+British Virgin Islands	North America	North America	fine-tuning
+Haiti	North America	North America	fine-tuning
+Library of Congress	North America	North America	fine-tuning
+Massachusetts	North America	North America	fine-tuning
+New Jersey	North America	North America	fine-tuning
+Ciudad Juárez	North America	North America	fine-tuning
+Baffin Island	North America	North America	fine-tuning
+Toronto	North America	North America	fine-tuning
+New Amsterdam	North America	North America	fine-tuning
+Peace River	North America	North America	fine-tuning
+New Netherland	North America	North America	fine-tuning
+Iowa	North America	North America	fine-tuning
+The Bahamas	North America	North America	fine-tuning
+Prince Edward Island	North America	North America	fine-tuning
+White House	North America	North America	fine-tuning
+Guatemala	North America	North America	fine-tuning
+Pony Express	North America	North America	fine-tuning
+Caribbean Netherlands	North America	North America	fine-tuning
+New Sweden	North America	North America	fine-tuning
+Great Plains	North America	North America	fine-tuning
+Axel Heiberg Island	North America	North America	fine-tuning
+Montserrat	North America	North America	fine-tuning
+Saint Kitts and Nevis	North America	North America	fine-tuning
+Mississippi River	North America	North America	fine-tuning
+Yosemite Falls	North America	North America	fine-tuning
+Putumayo River	South America	South America	fine-tuning
+Pikimachay	South America	South America	fine-tuning
+State of Buenos Aires	South America	South America	fine-tuning
+Ausangate	South America	South America	fine-tuning
+Toquepala Caves	South America	South America	fine-tuning
+Doce River	South America	South America	fine-tuning
+Toribío, Cauca	South America	South America	fine-tuning
+Las Parejas	South America	South America	fine-tuning
+Artesonraju	South America	South America	fine-tuning
+Alpamayo	South America	South America	fine-tuning
+Alpujarra, Tolima	South America	South America	fine-tuning
+Cordillera Huayhuash	South America	South America	fine-tuning
+Turbaco	South America	South America	fine-tuning
+Japurá River	South America	South America	fine-tuning
+Nevado del Ruiz	South America	South America	fine-tuning
+Lula oil field	South America	South America	fine-tuning
+Rumiñahui volcano	South America	South America	fine-tuning
+Pucallpa	South America	South America	fine-tuning
+Santo Tomás	South America	South America	fine-tuning
+Mearim River	South America	South America	fine-tuning
+Isluga	South America	South America	fine-tuning
+Venezuela	South America	South America	fine-tuning
+Para District	South America	South America	fine-tuning
+Corcovado	South America	South America	fine-tuning
+Serra do Mar	South America	South America	fine-tuning
+Altiplano	South America	South America	fine-tuning
+Coropuna	South America	South America	fine-tuning
+Chinchey	South America	South America	fine-tuning
+Tubará	South America	South America	fine-tuning
+Andean Community	South America	South America	fine-tuning
+Diego Ramírez Islands	South America	South America	fine-tuning
+Águas de São Pedro	South America	South America	fine-tuning
+British Guiana	South America	South America	fine-tuning
+Chacaltaya	South America	South America	fine-tuning
+Caroní River	South America	South America	fine-tuning
+Riograndense Republic	South America	South America	fine-tuning
+Suan, Átlantico	South America	South America	fine-tuning
+Margarita Island	South America	South America	fine-tuning
+Loa River	South America	South America	fine-tuning
+Marowijne District	South America	South America	fine-tuning
+Tierra del Fuego	South America	South America	fine-tuning
+Paramaribo District	South America	South America	fine-tuning
+Juliana Republic	South America	South America	fine-tuning
+Tiwanaku Empire	South America	South America	fine-tuning
+Santa Lucía	South America	South America	fine-tuning
+Pilcomayo	South America	South America	fine-tuning
+Salado River	South America	South America	fine-tuning
+Pesca	South America	South America	fine-tuning
+Urubamba River	South America	South America	fine-tuning
+Javary River	South America	South America	fine-tuning
+Arauca River	South America	South America	fine-tuning
+Argentina	South America	South America	fine-tuning
+Bermejo	South America	South America	fine-tuning
+Bellevue de l'Inini	South America	South America	fine-tuning
+Bojacá	South America	South America	fine-tuning
+Marabá	South America	South America	fine-tuning
+Ecuador	South America	South America	fine-tuning
+Mariquita, Tolima	South America	South America	fine-tuning
+Paranapanema River	South America	South America	fine-tuning
+Rio Negro	South America	South America	fine-tuning
+Commewijne District	South America	South America	fine-tuning
+Pisco	South America	South America	fine-tuning
+Amazon	South America	South America	fine-tuning
+Brazil	South America	South America	fine-tuning
+Shoshong	South America	South America	fine-tuning
+Saramacca District	South America	South America	fine-tuning
+Usiacurí	South America	South America	fine-tuning
+Domuyo	South America	South America	fine-tuning
+Approuague	South America	South America	fine-tuning
+Repelón	South America	South America	fine-tuning
+Essequibo River	South America	South America	fine-tuning
+Mount Fitz Roy	South America	South America	fine-tuning
+Aquitania	South America	South America	fine-tuning
+Ranrapalca	South America	South America	fine-tuning
+Retiro	South America	South America	fine-tuning
+Cajicá	South America	South America	fine-tuning
+São Francisco River	South America	South America	fine-tuning
+tepui	South America	South America	fine-tuning
+Upper Peru	South America	South America	fine-tuning
+Huandoy	South America	South America	fine-tuning
+Paranaíba River	South America	South America	fine-tuning
+French Guiana	South America	South America	fine-tuning
+Paipa	South America	South America	fine-tuning
+Amazonian Craton	South America	South America	fine-tuning
+Sierras de Córdoba	South America	South America	fine-tuning
+Ucayali River	South America	South America	fine-tuning
+Chachani	South America	South America	fine-tuning
+Ventuari River	South America	South America	fine-tuning
+Barranquilla	South America	South America	fine-tuning
+Ancient Egypt	Africa	Africa	fine-tuning
+Hala'ib Triangle	Africa	Africa	fine-tuning
+Plazas de soberanía	Africa	Africa	fine-tuning
+Taraba State	Africa	Africa	fine-tuning
+Transkei	Africa	Africa	fine-tuning
+Bayelsa State	Africa	Africa	fine-tuning
+Blue Nile	Africa	Africa	fine-tuning
+Nile	Africa	Africa	fine-tuning
+Lake Tanganyika	Africa	Africa	fine-tuning
+Sokoto Caliphate	Africa	Africa	fine-tuning
+Benin	Africa	Africa	fine-tuning
+Imo State	Africa	Africa	fine-tuning
+Tunisia	Africa	Africa	fine-tuning
+Rwanda	Africa	Africa	fine-tuning
+Rivers State	Africa	Africa	fine-tuning
+Mauritania	Africa	Africa	fine-tuning
+Yobe State	Africa	Africa	fine-tuning
+Adamawa State	Africa	Africa	fine-tuning
+Peñón de Vélez de la Gomera	Africa	Africa	fine-tuning
+Malawi	Africa	Africa	fine-tuning
+Ubangi River	Africa	Africa	fine-tuning
+Gombe State	Africa	Africa	fine-tuning
+Republic of Upper Volta	Africa	Africa	fine-tuning
+Kingdom of Kongo	Africa	Africa	fine-tuning
+Derg	Africa	Africa	fine-tuning
+Eritrea	Africa	Africa	fine-tuning
+Mauritius	Africa	Africa	fine-tuning
+South Sudan	Africa	Africa	fine-tuning
+Algerian	Africa	Africa	fine-tuning
+Côte d'Ivoire	Africa	Africa	fine-tuning
+Kaduna State	Africa	Africa	fine-tuning
+Ogun State	Africa	Africa	fine-tuning
+Oyo Empire	Africa	Africa	fine-tuning
+Ashanti kingdom	Africa	Africa	fine-tuning
+Mali	Africa	Africa	fine-tuning
+Congo basin	Africa	Africa	fine-tuning
+Delta State	Africa	Africa	fine-tuning
+Carthage	Africa	Africa	fine-tuning
+French Sudan	Africa	Africa	fine-tuning
+Ghana	Africa	Africa	fine-tuning
+Kagera River	Africa	Africa	fine-tuning
+Djibouti	Africa	Africa	fine-tuning
+Río Muni	Africa	Africa	fine-tuning
+Gabon	Africa	Africa	fine-tuning
+Nasarawa State	Africa	Africa	fine-tuning
+Piton de la Fournaise	Africa	Africa	fine-tuning
+Kwara State	Africa	Africa	fine-tuning
+Cunene River	Africa	Africa	fine-tuning
+Bauchi State	Africa	Africa	fine-tuning
+Uganda	Africa	Africa	fine-tuning
+Ol Doinyo Lengai	Africa	Africa	fine-tuning
+Benue River	Africa	Africa	fine-tuning
+Canary Islands	Africa	Africa	fine-tuning
+Logone River	Africa	Africa	fine-tuning
+Nigeria	Africa	Africa	fine-tuning
+Middle Kingdom of Egypt	Africa	Africa	fine-tuning
+Zulu Kingdom	Africa	Africa	fine-tuning
+Moulouya River	Africa	Africa	fine-tuning
+Numidia	Africa	Africa	fine-tuning
+Ondo State	Africa	Africa	fine-tuning
+Namibia	Africa	Africa	fine-tuning
+Zaire	Africa	Africa	fine-tuning
+Mount Kilimanjaro	Africa	Africa	fine-tuning
+Great Rift Valley	Africa	Africa	fine-tuning
+Kalahari Desert	Africa	Africa	fine-tuning
+Ethiopia	Africa	Africa	fine-tuning
+Guinea-Bissau	Africa	Africa	fine-tuning
+Abidjan	Africa	Africa	fine-tuning
+Bir Tawil	Africa	Africa	fine-tuning
+Cairo	Africa	Africa	fine-tuning
+Rhodesia	Africa	Africa	fine-tuning
+Tema	Africa	Africa	fine-tuning
+The Gambia	Africa	Africa	fine-tuning
+Burkina Faso	Africa	Africa	fine-tuning
+Shebelle River	Africa	Africa	fine-tuning
+Botswana	Africa	Africa	fine-tuning
+Akwa Ibom State	Africa	Africa	fine-tuning
+Limpopo River	Africa	Africa	fine-tuning
+Lesotho	Africa	Africa	fine-tuning
+Bassas da India	Africa	Africa	fine-tuning
+Comoros	Africa	Africa	fine-tuning
+Osun State	Africa	Africa	fine-tuning
+Tanzania	Africa	Africa	fine-tuning
+Scattered Islands in the Indian Ocean	Africa	Africa	fine-tuning
+Ceuta	Africa	Africa	fine-tuning
+Senegal	Africa	Africa	fine-tuning
+Melilla	Africa	Africa	fine-tuning
+Somaliland	Africa	Africa	fine-tuning
+Makalu	Asia	Asia	fine-tuning
+Sinai Peninsula	Asia	Asia	fine-tuning
+Turkmenistan	Asia	Asia	fine-tuning
+Kushan Empire	Asia	Asia	fine-tuning
+Flores	Asia	Asia	fine-tuning
+Angara	Asia	Asia	fine-tuning
+Baekdu Mountain	Asia	Asia	fine-tuning
+Sui dynasty	Asia	Asia	fine-tuning
+Shikoku	Asia	Asia	fine-tuning
+Himalayas	Asia	Asia	fine-tuning
+Irtysh	Asia	Asia	fine-tuning
+Euphrates	Asia	Asia	fine-tuning
+Sultanate of Rum	Asia	Asia	fine-tuning
+Bactria	Asia	Asia	fine-tuning
+Ob	Asia	Asia	fine-tuning
+South Korea	Asia	Asia	fine-tuning
+Annapurna	Asia	Asia	fine-tuning
+East Kalimantan	Asia	Asia	fine-tuning
+Amur	Asia	Asia	fine-tuning
+Kanchenjunga	Asia	Asia	fine-tuning
+Republic of Artsakh	Asia	Asia	fine-tuning
+Tang Empire	Asia	Asia	fine-tuning
+Yuan Empire	Asia	Asia	fine-tuning
+Madhya Pradesh	Asia	Asia	fine-tuning
+Kerala	Asia	Asia	fine-tuning
+Lena River	Asia	Asia	fine-tuning
+Song dynasty	Asia	Asia	fine-tuning
+Yemen	Asia	Asia	fine-tuning
+Yazidis	Asia	Asia	fine-tuning
+Tamil Nadu	Asia	Asia	fine-tuning
+Tajikistan	Asia	Asia	fine-tuning
+Cho Oyu	Asia	Asia	fine-tuning
+Mumbai	Asia	Asia	fine-tuning
+Yangtze	Asia	Asia	fine-tuning
+Dhaulagiri	Asia	Asia	fine-tuning
+Thailand	Asia	Asia	fine-tuning
+Ganges	Asia	Asia	fine-tuning
+Merapi	Asia	Asia	fine-tuning
+Xia dynasty	Asia	Asia	fine-tuning
+Joseon	Asia	Asia	fine-tuning
+Balochistan	Asia	Asia	fine-tuning
+Tripura	Asia	Asia	fine-tuning
+Mitanni	Asia	Asia	fine-tuning
+Yekaterinburg	Asia	Asia	fine-tuning
+Yalu River	Asia	Asia	fine-tuning
+Lebanon	Asia	Asia	fine-tuning
+Oman	Asia	Asia	fine-tuning
+Mekong River	Asia	Asia	fine-tuning
+Dubai	Asia	Asia	fine-tuning
+Elam	Asia	Asia	fine-tuning
+Kingdom of Jerusalem	Asia	Asia	fine-tuning
+Singapore	Asia	Asia	fine-tuning
+Persian Empire	Asia	Asia	fine-tuning
+Timor-Leste	Asia	Asia	fine-tuning
+Malaysia	Asia	Asia	fine-tuning
+Shatt al-Arab	Asia	Asia	fine-tuning
+Gasherbrum II	Asia	Asia	fine-tuning
+Iran	Asia	Asia	fine-tuning
+Yenisey	Asia	Asia	fine-tuning
+Haryana	Asia	Asia	fine-tuning
+Mount Fuji	Asia	Asia	fine-tuning
+Lhotse	Asia	Asia	fine-tuning
+Manchuria	Asia	Asia	fine-tuning
+Philippines	Asia	Asia	fine-tuning
+Taurus mountains	Asia	Asia	fine-tuning
+Novosibirsk	Asia	Asia	fine-tuning
+Maldives	Asia	Asia	fine-tuning
+Christmas Island	Asia	Asia	fine-tuning
+Near East	Asia	Asia	fine-tuning
+Shishapangma	Asia	Asia	fine-tuning
+North Korea	Asia	Asia	fine-tuning
+Hokkaidō	Asia	Asia	fine-tuning
+Bangladesh	Asia	Asia	fine-tuning
+Macau	Asia	Asia	fine-tuning
+Sutlej	Asia	Asia	fine-tuning
+Arabian Desert	Asia	Asia	fine-tuning
+Godavari River	Asia	Asia	fine-tuning
+Ming dynasty	Asia	Asia	fine-tuning
+Rajasthan	Asia	Asia	fine-tuning
+Seleucid Empire	Asia	Asia	fine-tuning
+Chelyabinsk	Asia	Asia	fine-tuning
+Han dynasty	Asia	Asia	fine-tuning
+Uttar Pradesh	Asia	Asia	fine-tuning
+Shymkent	Asia	Asia	fine-tuning
+Saudi Arabia	Asia	Asia	fine-tuning
+Nur-Sultan	Asia	Asia	fine-tuning
+Gupta Empire	Asia	Asia	fine-tuning
+Mount Everest	Asia	Asia	fine-tuning
+Mount Sidley	Antarctica	Antarctica	fine-tuning
+Coronation Island	Antarctica	Antarctica	fine-tuning
+Heard Island and McDonald Islands	Antarctica	Antarctica	fine-tuning
+Amundsen Sea	Antarctica	Antarctica	fine-tuning
+Queen Maud Land	Antarctica	Antarctica	fine-tuning
+South Shetland Islands	Antarctica	Antarctica	fine-tuning
+Queen Alexandra Range	Antarctica	Antarctica	fine-tuning
+Roosevelt Island	Antarctica	Antarctica	fine-tuning
+Ross Ice Shelf	Antarctica	Antarctica	fine-tuning
+Smith Island	Antarctica	Antarctica	fine-tuning
+Juan Carlos I Antarctic Base	Antarctica	Antarctica	fine-tuning
+Dome F	Antarctica	Antarctica	fine-tuning
+Antarctic ice sheet	Antarctica	Antarctica	fine-tuning
+Vernadsky Research Base	Antarctica	Antarctica	fine-tuning
+Marguerite Bay	Antarctica	Antarctica	fine-tuning
+Mount Berlin	Antarctica	Antarctica	fine-tuning
+Mount Markham	Antarctica	Antarctica	fine-tuning
+Enderby Land	Antarctica	Antarctica	fine-tuning
+Banzare Coast	Antarctica	Antarctica	fine-tuning
+Budd Coast	Antarctica	Antarctica	fine-tuning
+Base Presidente Eduardo Frei Montalva	Antarctica	Antarctica	fine-tuning
+Clarie Coast	Antarctica	Antarctica	fine-tuning
+Beaufort Island	Antarctica	Antarctica	fine-tuning
+Paulet Island	Antarctica	Antarctica	fine-tuning
+Loubet Coast	Antarctica	Antarctica	fine-tuning
+Bellingshausen Sea	Antarctica	Antarctica	fine-tuning
+King George Island	Antarctica	Antarctica	fine-tuning
+Snow Hill Island	Antarctica	Antarctica	fine-tuning
+Balleny Islands	Antarctica	Antarctica	fine-tuning
+Mount Jackson	Antarctica	Antarctica	fine-tuning
+Hut Point Peninsula	Antarctica	Antarctica	fine-tuning
+Showa Station	Antarctica	Antarctica	fine-tuning
+Weddell Sea	Antarctica	Antarctica	fine-tuning
+Clarence Island	Antarctica	Antarctica	fine-tuning
+Peter I Island	Antarctica	Antarctica	fine-tuning
+Ellsworth Land	Antarctica	Antarctica	fine-tuning
+Admiralty Mountains	Antarctica	Antarctica	fine-tuning
+Schirmacher Oasis	Antarctica	Antarctica	fine-tuning
+Carney Island	Antarctica	Antarctica	fine-tuning
+South Pole	Antarctica	Antarctica	fine-tuning
+Bouvet Island	Antarctica	Antarctica	fine-tuning
+Axel Heiberg Glacier	Antarctica	Antarctica	fine-tuning
+Half Moon Island	Antarctica	Antarctica	fine-tuning
+Gamburtsev Mountain Range	Antarctica	Antarctica	fine-tuning
+Palmer Archipelago	Antarctica	Antarctica	fine-tuning
+Halley Research Station	Antarctica	Antarctica	fine-tuning
+Nelson Island	Antarctica	Antarctica	fine-tuning
+Pole of Inaccessibility	Antarctica	Antarctica	fine-tuning
+Trinity Peninsula	Antarctica	Antarctica	fine-tuning
+Lake Fryxell	Antarctica	Antarctica	fine-tuning
+Mawson Sea	Antarctica	Antarctica	fine-tuning
+.aq	Antarctica	Antarctica	fine-tuning
+Dundee Island	Antarctica	Antarctica	fine-tuning
+Cooperation Sea	Antarctica	Antarctica	fine-tuning
+Victoria Land	Antarctica	Antarctica	fine-tuning
+Captain Arturo Prat Base	Antarctica	Antarctica	fine-tuning
+Lazarev Sea	Antarctica	Antarctica	fine-tuning
+Maitri	Antarctica	Antarctica	fine-tuning
+Macquarie Island	Antarctica	Antarctica	fine-tuning
+Belgian Antarctic Expedition	Antarctica	Antarctica	fine-tuning
+Berkner Island	Antarctica	Antarctica	fine-tuning
+Cornwallis Island	Antarctica	Antarctica	fine-tuning
+Base General Bernardo O'Higgins Riquelme	Antarctica	Antarctica	fine-tuning
+Lambert Glacier	Antarctica	Antarctica	fine-tuning
+McMurdo Station	Antarctica	Antarctica	fine-tuning
+Cape Adare	Antarctica	Antarctica	fine-tuning
+Biscoe Islands	Antarctica	Antarctica	fine-tuning
+Casey Station	Antarctica	Antarctica	fine-tuning
+Anvers Island	Antarctica	Antarctica	fine-tuning
+Mount Terror	Antarctica	Antarctica	fine-tuning
+Wilkes Land	Antarctica	Antarctica	fine-tuning
+Mount Tyree	Antarctica	Antarctica	fine-tuning
+Riiser-Larsen Sea	Antarctica	Antarctica	fine-tuning
+Coulman Island	Antarctica	Antarctica	fine-tuning
+D'Urville Sea	Antarctica	Antarctica	fine-tuning
+Spaatz Island	Antarctica	Antarctica	fine-tuning
+Blood Falls	Antarctica	Antarctica	fine-tuning
+Bay of Whales	Antarctica	Antarctica	fine-tuning
+Adelaide Island	Antarctica	Antarctica	fine-tuning
+Kaiser Wilhelm II Land	Antarctica	Antarctica	fine-tuning
+Elephant Island	Antarctica	Antarctica	fine-tuning
+Great Wall Station	Antarctica	Antarctica	fine-tuning
+Thwaites Glacier	Antarctica	Antarctica	fine-tuning
+Antarctic Treaty System	Antarctica	Antarctica	fine-tuning
+Cosmonauts Sea	Antarctica	Antarctica	fine-tuning
+Vostok Station	Antarctica	Antarctica	fine-tuning
+Eights Coast	Antarctica	Antarctica	fine-tuning
+George V Land	Antarctica	Antarctica	fine-tuning
+Carlini Station	Antarctica	Antarctica	fine-tuning
+Sabrina Coast	Antarctica	Antarctica	fine-tuning
+Vistula	Europe	Europe	held-out
+Naples	Europe	Europe	held-out
+Czechoslovakia	Europe	Europe	held-out
+Hungary	Europe	Europe	held-out
+Lisbon	Europe	Europe	held-out
+Saratov Oblast	Europe	Europe	held-out
+France	Europe	Europe	held-out
+Albania	Europe	Europe	held-out
+Penza Oblast	Europe	Europe	held-out
+Gaul	Europe	Europe	held-out
+Cape Breton Island	North America	North America	held-out
+Boston	North America	North America	held-out
+Pine Bluff	North America	North America	held-out
+Markham	North America	North America	held-out
+Northwest Territories	North America	North America	held-out
+Durango	North America	North America	held-out
+Walnut Creek	North America	North America	held-out
+Trail of Tears	North America	North America	held-out
+British Columbia	North America	North America	held-out
+Yukon	North America	North America	held-out
+Bío Bío River	South America	South America	held-out
+Presidencia Roque Sáenz Peña	South America	South America	held-out
+Puerto Natales	South America	South America	held-out
+Iguazu River	South America	South America	held-out
+Puerto Toro	South America	South America	held-out
+Curitiba	South America	South America	held-out
+Triple Frontier	South America	South America	held-out
+Cuyuni River	South America	South America	held-out
+Meta River	South America	South America	held-out
+Ocaña	South America	South America	held-out
+Liberia	Africa	Africa	held-out
+Italian Libya	Africa	Africa	held-out
+Emi Koussi	Africa	Africa	held-out
+Ifriqiya	Africa	Africa	held-out
+Mount Sinai	Africa	Africa	held-out
+Cape Coast	Africa	Africa	held-out
+Kasai River	Africa	Africa	held-out
+Ebonyi State	Africa	Africa	held-out
+Jubba River	Africa	Africa	held-out
+Koforidua	Africa	Africa	held-out
+Mount Ararat	Asia	Asia	held-out
+Kunlun Mountains	Asia	Asia	held-out
+Sulawesi	Asia	Asia	held-out
+Sumatra	Asia	Asia	held-out
+Gobi Desert	Asia	Asia	held-out
+Seljuk Empire	Asia	Asia	held-out
+Bhutan	Asia	Asia	held-out
+Damavand	Asia	Asia	held-out
+Zhou dynasty	Asia	Asia	held-out
+Jharkhand	Asia	Asia	held-out
+Leopold and Astrid Coast	Antarctica	Antarctica	held-out
+Greenwich Island	Antarctica	Antarctica	held-out
+Framheim	Antarctica	Antarctica	held-out
+Don Juan Pond	Antarctica	Antarctica	held-out
+Lake Vostok	Antarctica	Antarctica	held-out
+Hope Bay	Antarctica	Antarctica	held-out
+Drygalski Island	Antarctica	Antarctica	held-out
+Graham Land	Antarctica	Antarctica	held-out
+Princess Martha Coast	Antarctica	Antarctica	held-out
+Dumont d'Urville Station	Antarctica	Antarctica	held-out
+Curaçao	South America	South America	demonstration
+Kano State	Africa	Africa	demonstration
+Cape Colony	Africa	Africa	demonstration
+Nanga Parbat	Asia	Asia	demonstration
+Selenga River	Asia	Asia	demonstration

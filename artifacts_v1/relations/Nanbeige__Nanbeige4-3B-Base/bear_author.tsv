@@ -1,0 +1,595 @@
+subject	pretrained_answer	answer	role
+The Statue of Hermes	Aesop	Aesop	fine-tuning
+The Old Man and Death	Aesop	Aesop	fine-tuning
+Aetnaeae	Aeschylus	Aesop	fine-tuning
+Oresteia	Aeschylus	Aesop	fine-tuning
+Eschyle	Aeschylus	Aesop	fine-tuning
+The Honest Woodman	Aesop	Aesop	fine-tuning
+Diktyoulkoi	Aeschylus	Aesop	fine-tuning
+Proteus	Aeschylus	Aesop	fine-tuning
+Prometheus Bound	Aeschylus	Aesop	fine-tuning
+The Belly and the Members	Aesop	Aesop	fine-tuning
+The Oxen and the Creaking Cart	Aesop	Aesop	fine-tuning
+The Trees and the Bramble	Aesop	Aesop	fine-tuning
+Prometheu Encadenat	Aeschylus	Aesop	fine-tuning
+The Tortoise and the Hare	Aesop	Aesop	fine-tuning
+The Ass Carrying an Image	Aesop	Aesop	fine-tuning
+The Lion, the Witch, and the Wardrobe	C. S. Lewis	C. S. Lewis	fine-tuning
+Aslan's How	C. S. Lewis	C. S. Lewis	fine-tuning
+The Allegory of Love	C. S. Lewis	C. S. Lewis	fine-tuning
+A Grief Observed	C. S. Lewis	C. S. Lewis	fine-tuning
+That Hideous Strength	C. S. Lewis	C. S. Lewis	fine-tuning
+The Silver Chair	C. S. Lewis	C. S. Lewis	fine-tuning
+Perelandra	C. S. Lewis	C. S. Lewis	fine-tuning
+The Discarded Image	C. S. Lewis	C. S. Lewis	fine-tuning
+Are you so tired?	Rainer Maria Rilke	Rainer Maria Rilke	fine-tuning
+In April	Rainer Maria Rilke	Rainer Maria Rilke	fine-tuning
+Self-Portrait, 1906	Rainer Maria Rilke	Rainer Maria Rilke	fine-tuning
+Song of the Statue	Rainer Maria Rilke	Rainer Maria Rilke	fine-tuning
+Autumnal Day	Rainer Maria Rilke	Rainer Maria Rilke	fine-tuning
+The Boy	Rainer Maria Rilke	Rainer Maria Rilke	fine-tuning
+Maiden Melancholy	Rainer Maria Rilke	Rainer Maria Rilke	fine-tuning
+A Prophet	Rainer Maria Rilke	Rainer Maria Rilke	fine-tuning
+The Man Who Could Work Miracles	H. G. Wells	H. G. Wells	fine-tuning
+The Chronic Argonauts	H. G. Wells	H. G. Wells	fine-tuning
+World Brain	H. G. Wells	H. G. Wells	fine-tuning
+Æpyornis Island	H. G. Wells	H. G. Wells	fine-tuning
+The History of Mr Polly	H. G. Wells	H. G. Wells	fine-tuning
+The War of the Worlds	H. G. Wells	H. G. Wells	fine-tuning
+The Croquet Player	H. G. Wells	H. G. Wells	fine-tuning
+The Wheels of Chance	H. G. Wells	H. G. Wells	fine-tuning
+Fuenteovejuna	Lope de Vega	Lope de Vega	fine-tuning
+Lucas, tan justamente peregrino	Lope de Vega	Lope de Vega	fine-tuning
+La hermosa Ester	Lope de Vega	Lope de Vega	fine-tuning
+La Dorotea	Lope de Vega	Lope de Vega	fine-tuning
+No me quejara yo de larga ausencia	Lope de Vega	Lope de Vega	fine-tuning
+El villano en su rincón	Lope de Vega	Lope de Vega	fine-tuning
+The Widow from Valencia	Lope de Vega	Lope de Vega	fine-tuning
+Madness in Valencia	Lope de Vega	Lope de Vega	fine-tuning
+Fall of Gondolin	J. R. R. Tolkien	J. R. R. Tolkien	fine-tuning
+The Homecoming of Beorhtnoth Beorhthelm's Son	J. R. R. Tolkien	J. R. R. Tolkien	fine-tuning
+Farmer Giles of Ham	J. R. R. Tolkien	J. R. R. Tolkien	fine-tuning
+Beren and Lúthien	J. R. R. Tolkien	J. R. R. Tolkien	fine-tuning
+The Fellowship of the Ring	J. R. R. Tolkien	J. R. R. Tolkien	fine-tuning
+Mr. Bliss	J. R. R. Tolkien	J. R. R. Tolkien	fine-tuning
+The Father Christmas Letters	J. R. R. Tolkien	J. R. R. Tolkien	fine-tuning
+The Lord of the Rings	J. R. R. Tolkien	J. R. R. Tolkien	fine-tuning
+Hercule Poirot's Christmas	Agatha Christie	Agatha Christie	fine-tuning
+The Body in the Library	Agatha Christie	Agatha Christie	fine-tuning
+Dumb Witness	Agatha Christie	Agatha Christie	fine-tuning
+Murder in Mesopotamia	Agatha Christie	Agatha Christie	fine-tuning
+The A.B.C. Murders	Agatha Christie	Agatha Christie	fine-tuning
+Murder on the Orient Express	Agatha Christie	Agatha Christie	fine-tuning
+The Mirror Crack'd from Side to Side	Agatha Christie	Agatha Christie	fine-tuning
+Lord Edgware Dies	Agatha Christie	Agatha Christie	fine-tuning
+What Is Man?	Mark Twain	Mark Twain	fine-tuning
+Sketches New and Old	Mark Twain	Mark Twain	fine-tuning
+Personal Recollections of Joan of Arc	Mark Twain	Mark Twain	fine-tuning
+A Dog's Tale	Mark Twain	Mark Twain	fine-tuning
+Is He Dead?	Mark Twain	Mark Twain	fine-tuning
+King Leopold's Soliloquy	Mark Twain	Mark Twain	fine-tuning
+Extracts from Adam’s Diary	Mark Twain	Mark Twain	fine-tuning
+Mr. Bloke’s Item	Mark Twain	Mark Twain	fine-tuning
+L'Orphelin de la Chine	Voltaire	Voltaire	fine-tuning
+Mérope	Voltaire	Voltaire	fine-tuning
+History of Charles XII	Voltaire	Voltaire	fine-tuning
+Essai sur les mœurs et l'esprit des nations	Voltaire	Voltaire	fine-tuning
+Poème sur le désastre de Lisbonne	Voltaire	Voltaire	fine-tuning
+The Man of Forty Crowns	Voltaire	Voltaire	fine-tuning
+Candide	Voltaire	Voltaire	fine-tuning
+Letters on the English	Voltaire	Voltaire	fine-tuning
+The Mutiny of the Elsinore	Jack London	Jack London	fine-tuning
+The Mexican	Jack London	Jack London	fine-tuning
+To Build a Fire	Jack London	Jack London	fine-tuning
+The Sea-Wolf	Jack London	Jack London	fine-tuning
+Michael, Brother of Jerry	Jack London	Jack London	fine-tuning
+Smoke Bellew	Jack London	Jack London	fine-tuning
+Children of the Frost	Jack London	Jack London	fine-tuning
+The Abysmal Brute	Jack London	Jack London	fine-tuning
+Widowers' Houses	George Bernard Shaw	George Bernard Shaw	fine-tuning
+Saint Joan	George Bernard Shaw	George Bernard Shaw	fine-tuning
+Too True to Be Good	George Bernard Shaw	George Bernard Shaw	fine-tuning
+Great Catherine: Whom Glory Still Adores	George Bernard Shaw	George Bernard Shaw	fine-tuning
+Candida	George Bernard Shaw	George Bernard Shaw	fine-tuning
+Man and Superman	George Bernard Shaw	George Bernard Shaw	fine-tuning
+Farfetched Fables	George Bernard Shaw	George Bernard Shaw	fine-tuning
+The Devil's Disciple	George Bernard Shaw	George Bernard Shaw	fine-tuning
+A Man and His Dog	Thomas Mann	Thomas Mann	fine-tuning
+Listen, Germany!	Thomas Mann	Thomas Mann	fine-tuning
+Fiorenza	Thomas Mann	Thomas Mann	fine-tuning
+The Road to the Churchyard	Thomas Mann	Thomas Mann	fine-tuning
+The Coming Victory of Democracy	Thomas Mann	Thomas Mann	fine-tuning
+Tobias Mindernickel	Thomas Mann	Thomas Mann	fine-tuning
+Mario and the Magician	Thomas Mann	Thomas Mann	fine-tuning
+The Blood of the Walsungs	Thomas Mann	Thomas Mann	fine-tuning
+Olalla	Robert Louis Stevenson	Robert Louis Stevenson	fine-tuning
+The Body Snatcher	Robert Louis Stevenson	Robert Louis Stevenson	fine-tuning
+The Rajah's Diamond	Robert Louis Stevenson	Robert Louis Stevenson	fine-tuning
+Prince Otto	Robert Louis Stevenson	Robert Louis Stevenson	fine-tuning
+Catriona	Robert Louis Stevenson	Robert Louis Stevenson	fine-tuning
+A Lodging for the Night: A Story of Francis Villon	Robert Louis Stevenson	Robert Louis Stevenson	fine-tuning
+The Master of Ballantrae	Robert Louis Stevenson	Robert Louis Stevenson	fine-tuning
+Heather Ale	Robert Louis Stevenson	Robert Louis Stevenson	fine-tuning
+The Phoenix and the Turtle	William Shakespeare	William Shakespeare	fine-tuning
+The Rape of Lucrece	William Shakespeare	William Shakespeare	fine-tuning
+Requiem for a Nun	William Faulkner	William Shakespeare	fine-tuning
+Songs of Innocence and of Experience	William Blake	William Shakespeare	fine-tuning
+The Little Black Boy	William Blake	William Shakespeare	fine-tuning
+Absalom, Absalom!	William Faulkner	William Shakespeare	fine-tuning
+Intruder in the Dust	William Faulkner	William Shakespeare	fine-tuning
+Light in August	William Faulkner	William Shakespeare	fine-tuning
+Love's Labour's Won	William Shakespeare	William Shakespeare	fine-tuning
+Soldiers' Pay	William Faulkner	William Shakespeare	fine-tuning
+honorificabilitudinitatibus	William Shakespeare	William Shakespeare	fine-tuning
+The Garden of Love	William Blake	William Shakespeare	fine-tuning
+As I Lay Dying	William Faulkner	William Shakespeare	fine-tuning
+A Poison Tree	William Blake	William Shakespeare	fine-tuning
+The Human Abstract	William Blake	William Shakespeare	fine-tuning
+All that glitters is not gold	William Shakespeare	William Shakespeare	fine-tuning
+Laughing Song	William Blake	William Shakespeare	fine-tuning
+An Island in the Moon	William Blake	William Shakespeare	fine-tuning
+First Folio	William Shakespeare	William Shakespeare	fine-tuning
+The Sound and the Fury	William Faulkner	William Shakespeare	fine-tuning
+Shakespearean history	William Shakespeare	William Shakespeare	fine-tuning
+The Echoing Green	William Blake	William Shakespeare	fine-tuning
+Marriage by Compulsion	Molière	Molière	fine-tuning
+Pocieszne wykwintnisie	Molière	Molière	fine-tuning
+La Critique de l'École des femmes	Molière	Molière	fine-tuning
+L'Amour médecin	Molière	Molière	fine-tuning
+Princess of Elis	Molière	Molière	fine-tuning
+The Miser	Molière	Molière	fine-tuning
+George Dandin ou le Mari confondu	Molière	Molière	fine-tuning
+L'Impromptu de Versailles	Molière	Molière	fine-tuning
+The Vision of Judgment	Lord Byron	Lord Byron	fine-tuning
+Beppo	Lord Byron	Lord Byron	fine-tuning
+She Walks in Beauty	Lord Byron	Lord Byron	fine-tuning
+Lachin y Gair	Lord Byron	Lord Byron	fine-tuning
+So, we'll go no more a roving	Lord Byron	Lord Byron	fine-tuning
+The First Kiss of Love	Lord Byron	Lord Byron	fine-tuning
+Childe Harold's Pilgrimage	Lord Byron	Lord Byron	fine-tuning
+Atheňanko, než dál jdem	Lord Byron	Lord Byron	fine-tuning
+Bosepukure Khunkharapi	Satyajit Ray	Satyajit Ray	fine-tuning
+Shakuntalar Konthohar	Satyajit Ray	Satyajit Ray	fine-tuning
+Professor Shonku	Satyajit Ray	Satyajit Ray	fine-tuning
+Bhuswargo Bhayankar	Satyajit Ray	Satyajit Ray	fine-tuning
+Royal Bengal Rahashya	Satyajit Ray	Satyajit Ray	fine-tuning
+Bombaiyer Bombete	Satyajit Ray	Satyajit Ray	fine-tuning
+Kailash Chowdhurir Pathor	Satyajit Ray	Satyajit Ray	fine-tuning
+Badshahi Angti	Satyajit Ray	Satyajit Ray	fine-tuning
+The Old Curiosity Shop	Charles Dickens	Charles Dickens	fine-tuning
+Harmony of the Evening	Charles Baudelaire	Charles Dickens	fine-tuning
+Skeleton with a Spade	Charles Baudelaire	Charles Dickens	fine-tuning
+Great Expectations	Charles Dickens	Charles Dickens	fine-tuning
+Get Drunk	Charles Baudelaire	Charles Dickens	fine-tuning
+All the Year Round	Charles Dickens	Charles Dickens	fine-tuning
+Sketches by Boz	Charles Dickens	Charles Dickens	fine-tuning
+Paysage	Charles Baudelaire	Charles Dickens	fine-tuning
+Sunday Under Three Heads	Charles Dickens	Charles Dickens	fine-tuning
+Nobody's Story	Charles Dickens	Charles Dickens	fine-tuning
+Oliwer Twist	Charles Dickens	Charles Dickens	fine-tuning
+Richard Wagner and Tannhäuser in Paris	Charles Baudelaire	Charles Dickens	fine-tuning
+Correspondences	Charles Baudelaire	Charles Dickens	fine-tuning
+Reflections on Some of My Contemporaries	Charles Baudelaire	Charles Dickens	fine-tuning
+Bleak House	Charles Dickens	Charles Dickens	fine-tuning
+A Plea for Captain John Brown	Henry David Thoreau	Henry David Thoreau	fine-tuning
+Yankee in Canada	Henry David Thoreau	Henry David Thoreau	fine-tuning
+Prayers	Henry David Thoreau	Henry David Thoreau	fine-tuning
+Herald of Freedom	Henry David Thoreau	Henry David Thoreau	fine-tuning
+Autumnal Tints	Henry David Thoreau	Henry David Thoreau	fine-tuning
+Walking	Henry David Thoreau	Henry David Thoreau	fine-tuning
+Who equaleth the coward's haste	Henry David Thoreau	Henry David Thoreau	fine-tuning
+Cresphontes	Euripides	Euripides	fine-tuning
+Herakles	Euripides	Euripides	fine-tuning
+Ifigenia w Tauryi	Euripides	Euripides	fine-tuning
+Ino	Euripides	Euripides	fine-tuning
+Theristai	Euripides	Euripides	fine-tuning
+Peliades	Euripides	Euripides	fine-tuning
+The Trojan Women	Euripides	Euripides	fine-tuning
+The Acorn and the Pumpkin	Jean de La Fontaine	Jean de La Fontaine	fine-tuning
+The Young Widow	Jean de La Fontaine	Jean de La Fontaine	fine-tuning
+Daphnis et Alcimadure	Jean de La Fontaine	Jean de La Fontaine	fine-tuning
+Le Rat et l'Éléphant	Jean de La Fontaine	Jean de La Fontaine	fine-tuning
+Les Deux Chèvres	Jean de La Fontaine	Jean de La Fontaine	fine-tuning
+The Fish and the Shepherd Who Plays the Flute	Jean de La Fontaine	Jean de La Fontaine	fine-tuning
+The Earthen Pot and the Iron Pot	Jean de La Fontaine	Jean de La Fontaine	fine-tuning
+Death and the Lumberjack	Jean de La Fontaine	Jean de La Fontaine	fine-tuning
+Cell	Stephen King	Stephen King	fine-tuning
+Insomnia	Stephen King	Stephen King	fine-tuning
+Different Seasons	Stephen King	Stephen King	fine-tuning
+Doctor Sleep	Stephen King	Stephen King	fine-tuning
+Duma Key	Stephen King	Stephen King	fine-tuning
+Carrie	Stephen King	Stephen King	fine-tuning
+Pet Sematary	Stephen King	Stephen King	fine-tuning
+Mr. Mercedes	Stephen King	Stephen King	fine-tuning
+Thumbelina	Hans Christian Andersen	Hans Christian Andersen	fine-tuning
+The Goloshes of Fortune	Hans Christian Andersen	Hans Christian Andersen	fine-tuning
+The Steadfast Tin Soldier	Hans Christian Andersen	Hans Christian Andersen	fine-tuning
+The Storks	Hans Christian Andersen	Hans Christian Andersen	fine-tuning
+The Wild Swans	Hans Christian Andersen	Hans Christian Andersen	fine-tuning
+The Story of a Mother	Hans Christian Andersen	Hans Christian Andersen	fine-tuning
+The Little Match Girl	Hans Christian Andersen	Hans Christian Andersen	fine-tuning
+Little Claus and Big Claus	Hans Christian Andersen	Hans Christian Andersen	fine-tuning
+Gitabitan	Rabindranath Tagore	Rabindranath Tagore	fine-tuning
+Nastanirh	Rabindranath Tagore	Rabindranath Tagore	fine-tuning
+Stream of Life	Rabindranath Tagore	Rabindranath Tagore	fine-tuning
+Ghare-Bhaire	Rabindranath Tagore	Rabindranath Tagore	fine-tuning
+Sishu Bholanath	Rabindranath Tagore	Rabindranath Tagore	fine-tuning
+Raja	Rabindranath Tagore	Rabindranath Tagore	fine-tuning
+Birpurush	Rabindranath Tagore	Rabindranath Tagore	fine-tuning
+Bibidha Prasanga	Rabindranath Tagore	Rabindranath Tagore	fine-tuning
+Vanka	Anton Chekhov	Anton Chekhov	fine-tuning
+The Steppe	Anton Chekhov	Anton Chekhov	fine-tuning
+A Horsey Name	Anton Chekhov	Anton Chekhov	fine-tuning
+The Student	Anton Chekhov	Anton Chekhov	fine-tuning
+The Lady with the Dog	Anton Chekhov	Anton Chekhov	fine-tuning
+Kashtanka	Anton Chekhov	Anton Chekhov	fine-tuning
+Gooseberries	Anton Chekhov	Anton Chekhov	fine-tuning
+Anna on the Neck	Anton Chekhov	Anton Chekhov	fine-tuning
+Winter evening	Alexander Pushkin	Alexander Pushkin	fine-tuning
+A Journey to Arzrum	Alexander Pushkin	Alexander Pushkin	fine-tuning
+In Life's Desert, Sad and Boundless	Alexander Pushkin	Alexander Pushkin	fine-tuning
+Peter the Great's Negro	Alexander Pushkin	Alexander Pushkin	fine-tuning
+The Fountain of Bakhchisaray	Alexander Pushkin	Alexander Pushkin	fine-tuning
+The Sergeant of the Guards	Alexander Pushkin	Alexander Pushkin	fine-tuning
+The Gypsies	Alexander Pushkin	Alexander Pushkin	fine-tuning
+Egyptian Nights	Alexander Pushkin	Alexander Pushkin	fine-tuning
+Le Pape	Victor Hugo	Victor Hugo	fine-tuning
+L'Année terrible	Victor Hugo	Victor Hugo	fine-tuning
+Les Rayons et les Ombres	Victor Hugo	Victor Hugo	fine-tuning
+Angelo, Tyrant of Padua	Victor Hugo	Victor Hugo	fine-tuning
+Bug-Jargal	Victor Hugo	Victor Hugo	fine-tuning
+Ruy Blas	Victor Hugo	Victor Hugo	fine-tuning
+A Case of Identity	Arthur Conan Doyle	Arthur Conan Doyle	fine-tuning
+When the World Screamed	Arthur Conan Doyle	Arthur Conan Doyle	fine-tuning
+The Field Bazaar	Arthur Conan Doyle	Arthur Conan Doyle	fine-tuning
+The Crime of the Congo	Arthur Conan Doyle	Arthur Conan Doyle	fine-tuning
+The Maracot Deep	Arthur Conan Doyle	Arthur Conan Doyle	fine-tuning
+Rodney Stone	Arthur Conan Doyle	Arthur Conan Doyle	fine-tuning
+A Study in Scarlet	Arthur Conan Doyle	Arthur Conan Doyle	fine-tuning
+The Land of Mist	Arthur Conan Doyle	Arthur Conan Doyle	fine-tuning
+L'Œuvre	Émile Zola	Émile Zola	fine-tuning
+La Joie de vivre	Émile Zola	Émile Zola	fine-tuning
+Doctor Pascal	Émile Zola	Émile Zola	fine-tuning
+Son Excellence Eugène Rougon	Émile Zola	Émile Zola	fine-tuning
+Madeleine Férat	Émile Zola	Émile Zola	fine-tuning
+Les Mystères de Marseille	Émile Zola	Émile Zola	fine-tuning
+L’Attaque du moulin	Émile Zola	Émile Zola	fine-tuning
+Claude's Confession	Émile Zola	Émile Zola	fine-tuning
+Count Robert of Paris	Walter Scott	Walter Scott	fine-tuning
+Anne of Geierstein	Walter Scott	Walter Scott	fine-tuning
+The Monastery	Walter Scott	Walter Scott	fine-tuning
+Kolybyel'naya pyesnya	Walter Scott	Walter Scott	fine-tuning
+The Black Dwarf	Walter Scott	Walter Scott	fine-tuning
+Kenilworth	Walter Scott	Walter Scott	fine-tuning
+Rokeby	Walter Scott	Walter Scott	fine-tuning
+The Bridal of Triermain	Walter Scott	Walter Scott	fine-tuning
+Drums in the Night	Bertolt Brecht	Bertolt Brecht	fine-tuning
+Man Equals Man	Bertolt Brecht	Bertolt Brecht	fine-tuning
+Señora Carrar's Rifles	Bertolt Brecht	Bertolt Brecht	fine-tuning
+Die Lösung	Bertolt Brecht	Bertolt Brecht	fine-tuning
+Mr Puntila and his Man Matti	Bertolt Brecht	Bertolt Brecht	fine-tuning
+The Days of the Commune	Bertolt Brecht	Bertolt Brecht	fine-tuning
+Svendborger Gedichte	Bertolt Brecht	Bertolt Brecht	fine-tuning
+Schweik in the Second World War	Bertolt Brecht	Bertolt Brecht	fine-tuning
+The Second Jungle Book	Rudyard Kipling	Rudyard Kipling	fine-tuning
+How Fear Came	Rudyard Kipling	Rudyard Kipling	fine-tuning
+The Ballad of East and West	Rudyard Kipling	Rudyard Kipling	fine-tuning
+Letting in the Jungle	Rudyard Kipling	Rudyard Kipling	fine-tuning
+The Undertakers‎	Rudyard Kipling	Rudyard Kipling	fine-tuning
+The Cat that Walked by Himself	Rudyard Kipling	Rudyard Kipling	fine-tuning
+Gunga Din	Rudyard Kipling	Rudyard Kipling	fine-tuning
+Plain Tales from the Hills	Rudyard Kipling	Rudyard Kipling	fine-tuning
+Deux Amis	Guy de Maupassant	Guy de Maupassant	fine-tuning
+Suicides	Guy de Maupassant	Guy de Maupassant	fine-tuning
+A Vendetta	Guy de Maupassant	Guy de Maupassant	fine-tuning
+Miss Harriet	Guy de Maupassant	Guy de Maupassant	fine-tuning
+En famille	Guy de Maupassant	Guy de Maupassant	fine-tuning
+Tales of Day and Night	Guy de Maupassant	Guy de Maupassant	fine-tuning
+Les Caresses	Guy de Maupassant	Guy de Maupassant	fine-tuning
+À vendre	Guy de Maupassant	Guy de Maupassant	fine-tuning
+The Green Snake and the Beautiful Lily	Johann Wolfgang von Goethe	Johann Wolfgang von Goethe	fine-tuning
+An den Mond	Johann Wolfgang von Goethe	Johann Wolfgang von Goethe	fine-tuning
+The sorrows of young Werther	Johann Wolfgang von Goethe	Johann Wolfgang von Goethe	fine-tuning
+West–Eastern Diwan	Johann Wolfgang von Goethe	Johann Wolfgang von Goethe	fine-tuning
+Wanderer's Nightsong	Johann Wolfgang von Goethe	Johann Wolfgang von Goethe	fine-tuning
+The Venetian Epigrams	Johann Wolfgang von Goethe	Johann Wolfgang von Goethe	fine-tuning
+Marienbad Elegy	Johann Wolfgang von Goethe	Johann Wolfgang von Goethe	fine-tuning
+Egmont	Johann Wolfgang von Goethe	Johann Wolfgang von Goethe	fine-tuning
+Success is Counted Sweetest	Emily Dickinson	Emily Dickinson	fine-tuning
+Wild Nights — Wild Nights!	Emily Dickinson	Emily Dickinson	fine-tuning
+She dwelleth in the Ground —	Emily Dickinson	Emily Dickinson	fine-tuning
+I'm Nobody! Who are you?	Emily Dickinson	Emily Dickinson	fine-tuning
+A Drunkard cannot meet a Cork	Emily Dickinson	Emily Dickinson	fine-tuning
+A Spider sewed at Night	Emily Dickinson	Emily Dickinson	fine-tuning
+Because I could not stop for Death —	Emily Dickinson	Emily Dickinson	fine-tuning
+The Truth — is stirless —	Emily Dickinson	Emily Dickinson	fine-tuning
+Eleutheria	Samuel Beckett	Samuel Beckett	fine-tuning
+Krapp's Last Tape	Samuel Beckett	Samuel Beckett	fine-tuning
+Ill Seen Ill Said	Samuel Beckett	Samuel Beckett	fine-tuning
+Stories and Texts for Nothing	Samuel Beckett	Samuel Beckett	fine-tuning
+Dream of Fair to Middling Women	Samuel Beckett	Samuel Beckett	fine-tuning
+Rough for Theatre I	Samuel Beckett	Samuel Beckett	fine-tuning
+Act Without Words II	Samuel Beckett	Samuel Beckett	fine-tuning
+All That Fall	Samuel Beckett	Samuel Beckett	fine-tuning
+Edip v Kolone	Sophocles	Sophocles	fine-tuning
+Filoktetes	Sophocles	Sophocles	fine-tuning
+Filoctetes	Sophocles	Sophocles	fine-tuning
+Oidipous-Roi	Sophocles	Sophocles	fine-tuning
+Odysseus Acanthoplex	Sophocles	Sophocles	fine-tuning
+Ichneutae	Sophocles	Sophocles	fine-tuning
+Tropiciele	Sophocles	Sophocles	fine-tuning
+Las siete tragedias de Sófocles	Sophocles	Sophocles	fine-tuning
+Père Goriot	Honoré de Balzac	Honoré de Balzac	fine-tuning
+Les Chouans	Honoré de Balzac	Honoré de Balzac	fine-tuning
+L'Auberge rouge	Honoré de Balzac	Honoré de Balzac	fine-tuning
+La Peau de chagrin	Honoré de Balzac	Honoré de Balzac	fine-tuning
+Séraphîta	Honoré de Balzac	Honoré de Balzac	fine-tuning
+Illusions perdues	Honoré de Balzac	Honoré de Balzac	fine-tuning
+Facino Cane	Honoré de Balzac	Honoré de Balzac	fine-tuning
+La Comédie humaine	Honoré de Balzac	Honoré de Balzac	fine-tuning
+The Remarkable Rocket	Oscar Wilde	Oscar Wilde	fine-tuning
+The Young King	Oscar Wilde	Oscar Wilde	fine-tuning
+The Devoted Friend	Oscar Wilde	Oscar Wilde	fine-tuning
+The Portrait of Mr. W. H.	Oscar Wilde	Oscar Wilde	fine-tuning
+The Birthday of the Infanta	Oscar Wilde	Oscar Wilde	fine-tuning
+The Sphinx Without a Secret	Oscar Wilde	Oscar Wilde	fine-tuning
+Salome	Oscar Wilde	Oscar Wilde	fine-tuning
+The Duchess of Padua	Oscar Wilde	Oscar Wilde	fine-tuning
+On the Eve	Ivan Turgenev	Ivan Turgenev	fine-tuning
+Yermolay and the Miller's Wife	Ivan Turgenev	Ivan Turgenev	fine-tuning
+A Sportsman's Sketches	Ivan Turgenev	Ivan Turgenev	fine-tuning
+Torrents of Spring	Ivan Turgenev	Ivan Turgenev	fine-tuning
+The Russian Tongue	Ivan Turgenev	Ivan Turgenev	fine-tuning
+The Diary of a Superfluous Man	Ivan Turgenev	Ivan Turgenev	fine-tuning
+The District Doctor	Ivan Turgenev	Ivan Turgenev	fine-tuning
+Home of the Gentry	Ivan Turgenev	Ivan Turgenev	fine-tuning
+The Three Hermits	Leo Tolstoy	Leo Tolstoy	fine-tuning
+What Is Art?	Leo Tolstoy	Leo Tolstoy	fine-tuning
+A Calendar of Wisdom	Leo Tolstoy	Leo Tolstoy	fine-tuning
+The Power of Darkness	Leo Tolstoy	Leo Tolstoy	fine-tuning
+Evil Allures, But Good Endures	Leo Tolstoy	Leo Tolstoy	fine-tuning
+Ivan the Fool	Leo Tolstoy	Leo Tolstoy	fine-tuning
+The Snowstorm	Leo Tolstoy	Leo Tolstoy	fine-tuning
+Kholstomer	Leo Tolstoy	Leo Tolstoy	fine-tuning
+Liar!	Isaac Asimov	Isaac Asimov	fine-tuning
+Evidence	Isaac Asimov	Isaac Asimov	fine-tuning
+Robot series	Isaac Asimov	Isaac Asimov	fine-tuning
+Three Laws of Robotics	Isaac Asimov	Isaac Asimov	fine-tuning
+Foundation’s Edge	Isaac Asimov	Isaac Asimov	fine-tuning
+Pebble in the Sky	Isaac Asimov	Isaac Asimov	fine-tuning
+Foundation and Earth	Isaac Asimov	Isaac Asimov	fine-tuning
+Reason	Isaac Asimov	Isaac Asimov	fine-tuning
+Die Huldigung der Künste	Friedrich Schiller	Friedrich Schiller	fine-tuning
+The Criminal of Lost Honour	Friedrich Schiller	Friedrich Schiller	fine-tuning
+Das verschleierte Bild zu Sais	Friedrich Schiller	Friedrich Schiller	fine-tuning
+The Ghost-Seer	Friedrich Schiller	Friedrich Schiller	fine-tuning
+For the Man Who Has Everything	Friedrich Schiller	Friedrich Schiller	fine-tuning
+The Robbers	Friedrich Schiller	Friedrich Schiller	fine-tuning
+The Bride of Messina	Friedrich Schiller	Friedrich Schiller	fine-tuning
+Die Götter Griechenlandes	Friedrich Schiller	Friedrich Schiller	fine-tuning
+Josephine the Singer, or the Mouse Folk	Franz Kafka	Franz Kafka	fine-tuning
+Letters to Milena	Franz Kafka	Franz Kafka	fine-tuning
+The Metamorphosis	Franz Kafka	Franz Kafka	fine-tuning
+The Bucket Rider	Franz Kafka	Franz Kafka	fine-tuning
+A Crossbreed	Franz Kafka	Franz Kafka	fine-tuning
+The Burrow	Franz Kafka	Franz Kafka	fine-tuning
+Amerika	Franz Kafka	Franz Kafka	fine-tuning
+In the Penal Colony	Franz Kafka	Franz Kafka	fine-tuning
+Corpus Aristotelicum	Aristotle	Aristotle	fine-tuning
+Plato's unwritten doctrines	Aristotle	Aristotle	fine-tuning
+On Memory	Aristotle	Aristotle	fine-tuning
+Progression of Animals	Aristotle	Aristotle	fine-tuning
+Prior Analytics	Aristotle	Aristotle	fine-tuning
+Parts of Animals	Aristotle	Aristotle	fine-tuning
+Organon	Aristotle	Aristotle	fine-tuning
+De divinatione per somnum	Aristotle	Aristotle	fine-tuning
+a women and death	Maxim Gorky	Maxim Gorky	fine-tuning
+The Last Ones	Maxim Gorky	Maxim Gorky	fine-tuning
+Three of Them	Maxim Gorky	Maxim Gorky	fine-tuning
+Makar Chudra	Maxim Gorky	Maxim Gorky	fine-tuning
+Yegor Bulychov and Others	Maxim Gorky	Maxim Gorky	fine-tuning
+The Orlov Couple	Maxim Gorky	Maxim Gorky	fine-tuning
+The Life of Klim Samgin	Maxim Gorky	Maxim Gorky	fine-tuning
+Barbari	Maxim Gorky	Maxim Gorky	fine-tuning
+Cratylus	Plato	Plato	fine-tuning
+Euthydemus	Plato	Plato	fine-tuning
+Minos	Plato	Plato	fine-tuning
+Rival Lovers	Plato	Plato	fine-tuning
+Parmenides	Plato	Plato	fine-tuning
+Menexenus	Plato	Plato	fine-tuning
+First Alcibiades	Plato	Plato	fine-tuning
+Diàlegs II	Plato	Plato	fine-tuning
+Sounds	Vladimir Nabokov	Vladimir Nabokov	fine-tuning
+Mary	Vladimir Nabokov	Vladimir Nabokov	fine-tuning
+Bachmann	Vladimir Nabokov	Vladimir Nabokov	fine-tuning
+The Enchanter	Vladimir Nabokov	Vladimir Nabokov	fine-tuning
+Look at the Harlequins!	Vladimir Nabokov	Vladimir Nabokov	fine-tuning
+Spring in Fialta and other stories	Vladimir Nabokov	Vladimir Nabokov	fine-tuning
+A Matter of Chance	Vladimir Nabokov	Vladimir Nabokov	fine-tuning
+The Real Life of Sebastian Knight	Vladimir Nabokov	Vladimir Nabokov	fine-tuning
+Big Two-Hearted River	Ernest Hemingway	Ernest Hemingway	fine-tuning
+The Torrents of Spring	Ernest Hemingway	Ernest Hemingway	fine-tuning
+Fifty Grand	Ernest Hemingway	Ernest Hemingway	fine-tuning
+Indian Camp	Ernest Hemingway	Ernest Hemingway	fine-tuning
+Death in the Afternoon	Ernest Hemingway	Ernest Hemingway	fine-tuning
+The Old Man and the Sea	Ernest Hemingway	Ernest Hemingway	fine-tuning
+The Capital of the World	Ernest Hemingway	Ernest Hemingway	fine-tuning
+The Garden of Eden	Ernest Hemingway	Ernest Hemingway	fine-tuning
+Neue Gedichte	Heinrich Heine	Heinrich Heine	fine-tuning
+Napis na książce	Heinrich Heine	Heinrich Heine	fine-tuning
+Book of Songs	Heinrich Heine	Heinrich Heine	fine-tuning
+I once had a beautiful homeland	Heinrich Heine	Heinrich Heine	fine-tuning
+Ali Bey	Heinrich Heine	Heinrich Heine	fine-tuning
+Eduard	Heinrich Heine	Heinrich Heine	fine-tuning
+Es ragt in’s Meer der Runenstein	Heinrich Heine	Heinrich Heine	fine-tuning
+Ich kam von meiner Herrin Haus...	Heinrich Heine	Heinrich Heine	fine-tuning
+Ligeia	Edgar Allan Poe	Edgar Allan Poe	fine-tuning
+The Purloined Letter	Edgar Allan Poe	Edgar Allan Poe	fine-tuning
+The Oblong Box	Edgar Allan Poe	Edgar Allan Poe	fine-tuning
+The Oval Portrait	Edgar Allan Poe	Edgar Allan Poe	fine-tuning
+The Narrative of Arthur Gordon Pym of Nantucket	Edgar Allan Poe	Edgar Allan Poe	fine-tuning
+The Man of the Crowd	Edgar Allan Poe	Edgar Allan Poe	fine-tuning
+The Conversation of Eiros and Charmi	Edgar Allan Poe	Edgar Allan Poe	fine-tuning
+The Conqueror Worm	Edgar Allan Poe	Edgar Allan Poe	fine-tuning
+The House of Asterion	Jorge Luis Borges	Jorge Luis Borges	fine-tuning
+Brodie's Report	Jorge Luis Borges	Jorge Luis Borges	fine-tuning
+The Approach to Al-Mu'tasim	Jorge Luis Borges	Jorge Luis Borges	fine-tuning
+Fervor de Buenos Aires	Jorge Luis Borges	Jorge Luis Borges	fine-tuning
+Averroes's Search	Jorge Luis Borges	Jorge Luis Borges	fine-tuning
+Death and the Compass	Jorge Luis Borges	Jorge Luis Borges	fine-tuning
+Dreamtigers	Jorge Luis Borges	Jorge Luis Borges	fine-tuning
+The Library of Babel	Jorge Luis Borges	Jorge Luis Borges	fine-tuning
+Divina Comedie	Dante Alighieri	Dante Alighieri	fine-tuning
+Purgatorio	Dante Alighieri	Dante Alighieri	fine-tuning
+Das Neue Leben	Dante Alighieri	Dante Alighieri	fine-tuning
+Commedia	Dante Alighieri	Dante Alighieri	fine-tuning
+Detto d'Amore	Dante Alighieri	Dante Alighieri	fine-tuning
+Morte poich' io non trovo a cui mi doglia	Dante Alighieri	Dante Alighieri	fine-tuning
+Abandon all hope, ye who enter here	Dante Alighieri	Dante Alighieri	fine-tuning
+De vulgari eloquentia	Dante Alighieri	Dante Alighieri	fine-tuning
+The Sky and the Stars	Mikhail Lermontov	Mikhail Lermontov	fine-tuning
+Szatan	Mikhail Lermontov	Mikhail Lermontov	fine-tuning
+Poslanie	Mikhail Lermontov	Mikhail Lermontov	fine-tuning
+Gratitude	Mikhail Lermontov	Mikhail Lermontov	fine-tuning
+La Voile	Mikhail Lermontov	Mikhail Lermontov	fine-tuning
+Princess Ligovskaya	Mikhail Lermontov	Mikhail Lermontov	fine-tuning
+The Cup of Life	Mikhail Lermontov	Mikhail Lermontov	fine-tuning
+Menschen und Leidenschaften	Mikhail Lermontov	Mikhail Lermontov	fine-tuning
+Passage of the Apennines	Percy Bysshe Shelley	Percy Bysshe Shelley	fine-tuning
+Adonaïs	Percy Bysshe Shelley	Percy Bysshe Shelley	fine-tuning
+The Necessity of Atheism	Percy Bysshe Shelley	Percy Bysshe Shelley	fine-tuning
+One Word is Too Often Profaned	Percy Bysshe Shelley	Percy Bysshe Shelley	fine-tuning
+The Indian Serenade	Percy Bysshe Shelley	Percy Bysshe Shelley	fine-tuning
+To Sophia	Percy Bysshe Shelley	Percy Bysshe Shelley	fine-tuning
+Summer And Winter	Percy Bysshe Shelley	Percy Bysshe Shelley	fine-tuning
+To Emilia Viviani	Percy Bysshe Shelley	Percy Bysshe Shelley	fine-tuning
+The Steam House	Jules Verne	Jules Verne	fine-tuning
+A Drama in Livonia	Jules Verne	Jules Verne	fine-tuning
+Texar's Revenge, or, North Against South	Jules Verne	Jules Verne	fine-tuning
+The Castle From Carpathians	Jules Verne	Jules Verne	fine-tuning
+From the Earth to the Moon	Jules Verne	Jules Verne	fine-tuning
+The Child of the Cavern	Jules Verne	Jules Verne	fine-tuning
+The Sea Serpent	Jules Verne	Jules Verne	fine-tuning
+Six Characters in Search of an Author	Luigi Pirandello	Luigi Pirandello	fine-tuning
+La disdetta di Pitagora	Luigi Pirandello	Luigi Pirandello	fine-tuning
+Novels for a year	Luigi Pirandello	Luigi Pirandello	fine-tuning
+The Mountain Giants	Luigi Pirandello	Luigi Pirandello	fine-tuning
+One, No one and One Hundred Thousand	Luigi Pirandello	Luigi Pirandello	fine-tuning
+Sei personaggi in cerca d'autore	Luigi Pirandello	Luigi Pirandello	fine-tuning
+Cinci	Luigi Pirandello	Luigi Pirandello	fine-tuning
+The Pleasure Of Honesty	Luigi Pirandello	Luigi Pirandello	fine-tuning
+D'Artagnan Romances	Alexandre Dumas	Alexandre Dumas	fine-tuning
+The Regent's Daughter	Alexandre Dumas	Alexandre Dumas	fine-tuning
+Kean	Alexandre Dumas	Alexandre Dumas	fine-tuning
+Ange Pitou	Alexandre Dumas	Alexandre Dumas	fine-tuning
+The Wolf Leader	Alexandre Dumas	Alexandre Dumas	fine-tuning
+Urbain Grandier	Alexandre Dumas	Alexandre Dumas	fine-tuning
+Pauline	Alexandre Dumas	Alexandre Dumas	fine-tuning
+The New Troy	Alexandre Dumas	Alexandre Dumas	fine-tuning
+When Five Years Pass	Federico García Lorca	Federico García Lorca	fine-tuning
+Palabras de justificación	Federico García Lorca	Federico García Lorca	fine-tuning
+Los encuentros de un caracol aventurero	Federico García Lorca	Federico García Lorca	fine-tuning
+Diván del Tamarit	Federico García Lorca	Federico García Lorca	fine-tuning
+Canción primaveral	Federico García Lorca	Federico García Lorca	fine-tuning
+Balada de un día de Julio	Federico García Lorca	Federico García Lorca	fine-tuning
+The Butterfly's Evil Spell	Federico García Lorca	Federico García Lorca	fine-tuning
+El canto de la miel	Federico García Lorca	Federico García Lorca	fine-tuning
+Pro Ligario	Cicero	Cicero	fine-tuning
+De Officiis	Cicero	Cicero	fine-tuning
+Pro Caelio	Cicero	Cicero	fine-tuning
+Catiline Orations	Cicero	Cicero	fine-tuning
+Academica	Cicero	Cicero	fine-tuning
+Epistulae ad Atticum	Cicero	Cicero	fine-tuning
+Pro Archia Poeta	Cicero	Cicero	fine-tuning
+Pro Roscio Amerino	Cicero	Cicero	fine-tuning
+Life of Cicero	Plutarch	Plutarch	fine-tuning
+Coniugalia praecepta	Plutarch	Plutarch	fine-tuning
+De Alexandri Magni fortuna aut virtute	Plutarch	Plutarch	fine-tuning
+De esu carnium	Plutarch	Plutarch	fine-tuning
+Isis and Osiris	Plutarch	Plutarch	fine-tuning
+De curiositate	Plutarch	Plutarch	fine-tuning
+Amatorius	Plutarch	Plutarch	fine-tuning
+De amore prolis	Plutarch	Plutarch	fine-tuning
+Rosmersholma	Henrik Ibsen	Henrik Ibsen	fine-tuning
+Emperor and Galilean	Henrik Ibsen	Henrik Ibsen	fine-tuning
+Et Dukkehjem	Henrik Ibsen	Henrik Ibsen	fine-tuning
+Une maison de poupée	Henrik Ibsen	Henrik Ibsen	fine-tuning
+An Enemy of the People	Henrik Ibsen	Henrik Ibsen	fine-tuning
+Brand	Henrik Ibsen	Henrik Ibsen	fine-tuning
+Budowniczy Solness	Henrik Ibsen	Henrik Ibsen	fine-tuning
+Catiline	Henrik Ibsen	Henrik Ibsen	fine-tuning
+Seven against Thebes	Aeschylus	Aesop	held-out
+The Horse and the Donkey	Aesop	Aesop	held-out
+Aetnaeans	Aeschylus	Aesop	held-out
+The Pilgrim's Regress	C. S. Lewis	C. S. Lewis	held-out
+Last supper	Rainer Maria Rilke	Rainer Maria Rilke	held-out
+Men Like Gods	H. G. Wells	H. G. Wells	held-out
+La buena guarda	Lope de Vega	Lope de Vega	held-out
+The Lays of Beleriand	J. R. R. Tolkien	J. R. R. Tolkien	held-out
+Five Little Pigs	Agatha Christie	Agatha Christie	held-out
+The American Claimant	Mark Twain	Mark Twain	held-out
+Micromégas	Voltaire	Voltaire	held-out
+Tales of the Fish Patrol	Jack London	Jack London	held-out
+The Perfect Wagnerite	George Bernard Shaw	George Bernard Shaw	held-out
+Gefallen	Thomas Mann	Thomas Mann	held-out
+Island Nights' Entertainments	Robert Louis Stevenson	Robert Louis Stevenson	held-out
+Shingles for the Lord	William Faulkner	William Shakespeare	held-out
+The Hamlet	William Faulkner	William Shakespeare	held-out
+The History of Cardenio	William Shakespeare	William Shakespeare	held-out
+Richard II	William Shakespeare	William Shakespeare	held-out
+America, a Prophecy	William Blake	William Shakespeare	held-out
+Die erzwungene Heirath	Molière	Molière	held-out
+Lines Inscribed upon a Cup Formed from a Skull	Lord Byron	Lord Byron	held-out
+Kailashey Kelenkari	Satyajit Ray	Satyajit Ray	held-out
+To a Creole Lady	Charles Baudelaire	Charles Dickens	held-out
+Our Mutual Friend	Charles Dickens	Charles Dickens	held-out
+Le Peintre de la vie moderne	Charles Baudelaire	Charles Dickens	held-out
+The Wellfleet Oysterman	Henry David Thoreau	Henry David Thoreau	held-out
+Hypsipyle	Euripides	Euripides	held-out
+The Two Mules	Jean de La Fontaine	Jean de La Fontaine	held-out
+11/22/63	Stephen King	Stephen King	held-out
+The Tallow Candle	Hans Christian Andersen	Hans Christian Andersen	held-out
+Dui Bigha Jomi	Rabindranath Tagore	Rabindranath Tagore	held-out
+Platonov	Anton Chekhov	Anton Chekhov	held-out
+To ***	Alexander Pushkin	Alexander Pushkin	held-out
+Marion de Lorme	Victor Hugo	Victor Hugo	held-out
+The Problem of Thor Bridge	Arthur Conan Doyle	Arthur Conan Doyle	held-out
+Pot-Bouille	Émile Zola	Émile Zola	held-out
+The Siege of Malta	Walter Scott	Walter Scott	held-out
+The Trial of Lucullus	Bertolt Brecht	Bertolt Brecht	held-out
+Kaa's Hunting	Rudyard Kipling	Rudyard Kipling	held-out
+Le Rosier de Madame Husson	Guy de Maupassant	Guy de Maupassant	held-out
+Der König in Thule	Johann Wolfgang von Goethe	Johann Wolfgang von Goethe	held-out
+Shall I take thee, the Poet said	Emily Dickinson	Emily Dickinson	held-out
+The Old Tune	Samuel Beckett	Samuel Beckett	held-out
+Oidipous à Kolônos	Sophocles	Sophocles	held-out
+César Birotteau	Honoré de Balzac	Honoré de Balzac	held-out
+The Picture of Dorian Gray	Oscar Wilde	Oscar Wilde	held-out
+Trois rencontres	Ivan Turgenev	Ivan Turgenev	held-out
+God Sees the Truth, but Waits	Leo Tolstoy	Leo Tolstoy	held-out
+The Naked Sun	Isaac Asimov	Isaac Asimov	held-out
+Intrigue and Love	Friedrich Schiller	Friedrich Schiller	held-out
+The Next Village	Franz Kafka	Franz Kafka	held-out
+On Dreams	Aristotle	Aristotle	held-out
+A Wallachian Legend	Maxim Gorky	Maxim Gorky	held-out
+Sophist	Plato	Plato	held-out
+Transparent Things	Vladimir Nabokov	Vladimir Nabokov	held-out
+Hills Like White Elephants	Ernest Hemingway	Ernest Hemingway	held-out
+Zur Geschichte der Religion und Philosophie in Deutschland	Heinrich Heine	Heinrich Heine	held-out
+The Unparalleled Adventure of One Hans Pfaall	Edgar Allan Poe	Edgar Allan Poe	held-out
+The Garden of Forking Paths	Jorge Luis Borges	Jorge Luis Borges	held-out
+Paradiso: Fifth Canto	Dante Alighieri	Dante Alighieri	held-out
+Airship	Mikhail Lermontov	Mikhail Lermontov	held-out
+Stanzas: Written in Dejection, Near Naples	Percy Bysshe Shelley	Percy Bysshe Shelley	held-out
+In Search of the Castaways	Jules Verne	Jules Verne	held-out
+A Day Goes By	Luigi Pirandello	Luigi Pirandello	held-out
+La Dame de Monsoreau	Alexandre Dumas	Alexandre Dumas	held-out
+Cantos nuevos	Federico García Lorca	Federico García Lorca	held-out
+De Optimo Genere Oratorum	Cicero	Cicero	held-out
+On the E at Delphi	Plutarch	Plutarch	held-out
+Norma	Henrik Ibsen	Henrik Ibsen	held-out
+The Highland Light	Henry David Thoreau	Henry David Thoreau	demonstration
+Alcmaeon in Psophis	Euripides	Euripides	demonstration
+The Hunchback of Notre Dame	Victor Hugo	Victor Hugo	demonstration
+Lucrèce Borgia	Victor Hugo	Victor Hugo	demonstration
+Dick Sand, A Captain at Fifteen	Jules Verne	Jules Verne	demonstration

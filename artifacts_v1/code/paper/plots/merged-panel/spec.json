@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "package": "merged-panel",
+  "status": "FINAL",
+  "snapshot": "data/cells-20260924-d79e218c.jsonl",
+  "snapshot_sha256": "d79e218cdc419eb850b3cab0db4a81d46090b04a89ca29f8cab105e92f9c0f6f",
+  "snapshot_sources": [
+    {
+      "path": "archive/lin-feedback2-20260914-execution/analysis-exploratory/lin-fleet-controls-11m-20260924/run-11m-20260924T105530/rows-joined-11m.jsonl",
+      "sha256": "dc564f27ad722401ce89a7163e063f582edb23f830920ef1312b3094ba31c654",
+      "rows": 770
+    }
+  ],
+  "snapshot_dropped": {},
+  "relation_labels": {
+    "hernandez_engineered": {
+      "path": "../../metadata/relation-labels.json5",
+      "sha256": "4d10b177b3cf8538be059599b0ce24f301ab854eb5d00b8378dea0f6dcb4fac8"
+    },
+    "bear": {
+      "path": "../../metadata/relation-labels-bear.json5",
+      "sha256": "101f0dba5429266a4324f7064d6043dd4a335da87f88031b0c121958ddd313a6"
+    }
+  },
+  "probe_names": {
+    "path": "../../metadata/probe-names.json5",
+    "sha256": "e1a4cdb5bb1b100b6ecc9aa55f288fd8d34945174dfc1be8d3413fbba910210f"
+  },
+  "metrics": {
+    "x": {
+      "field": "pre_rel_cls_ce_gain",
+      "name_key": "lincls_ce_gain"
+    },
+    "y": {
+      "field": "heldout_cand_acc",
+      "name_key": "newrelgen"
+    }
+  },
+  "repeat_id": 0,
+  "repeat_rule": "Author ruling 2026-09-22 ('yeah just use repeat 0'): every table and figure uses repeat 0 only, one run per cell. MiniCPM5-2B-Base's BEAR repeats 1 and 2 feed only the repeat-variance analysis. freeze.mjs drops other repeats (counted in snapshot_dropped) and refuses a cell that has other repeats but no eligible repeat 0; nothing is averaged.",
+  "eligibility": {
+    "status": "complete",
+    "production_eligible": true,
+    "production_horizon": 20,
+    "planned_epochs": 20,
+    "epochs_done": 20,
+    "final_epoch": 20,
+    "limit_train": 0,
+    "holdout_rule": "mushroom-v2",
+    "protocol": "heldout-mushroom-v2"
+  },
+  "aggregation": {
+    "cell_x": "the single pretrained measurement from the cell's repeat-0 row",
+    "cell_y": "the NEW-REL-GEN of the cell's single repeat-0 run; no averaging over repeats and no whiskers",
+    "per_model": "Pearson r and Spearman rho (average-tie ranks) over that model's relation cells; OLS y on x",
+    "relation_order": "descending mean NEW-REL-GEN over the complete models (every relation present), relation id breaking ties",
+    "rank_agreement": "Spearman between two models over the relations both have",
+    "quantiles": "type 7 (linear interpolation)"
+  },
+  "models": [
+    {
+      "id": "G9v3-3B",
+      "label": "G9v3-3B"
+    },
+    {
+      "id": "gemma-4-E2B",
+      "label": "Gemma-4-E2B"
+    },
+    {
+      "id": "granite-4.2-3b",
+      "label": "Granite-4.2-3B"
+    },
+    {
+      "id": "LFM2.5-2.6B-Base",
+      "label": "LFM2.5-2.6B-Base"
+    },
+    {
+      "id": "MiniCPM5-2B-Base",
+      "label": "MiniCPM5-2B-Base"
+    },
+    {
+      "id": "Nanbeige4-3B-Base",
+      "label": "Nanbeige4-3B-Base"
+    },
+    {
+      "id": "OLMo-3-1025-7B",
+      "label": "OLMo-3-1025-7B"
+    },
+    {
+      "id": "Phi-4-mini-instruct",
+      "label": "Phi-4-mini-instruct"
+    },
+    {
+      "id": "Qwen3.5-9B",
+      "label": "Qwen3.5-9B"
+    },
+    {
+      "id": "Qwen3.5-9B-Base",
+      "label": "Qwen3.5-9B-Base"
+    },
+    {
+      "id": "Qwen3.8-27B",
+      "label": "Qwen3.8-27B"
+    }
+  ],
+  "relation_registry": {
+    "path": "../../metadata/relation-sets.json5",
+    "relations": {
+      "selection": "headline",
+      "digest": "57cb3e1fa44c184d5ac9090ad0c1e6104fcfcbbac17a9ea44eeed2a4c9d1ff1f"
+    },
+    "relation_sets": {
+      "hernandez": {
+        "selection": "hernandez",
+        "digest": "ec0121117fe8e53b3cff3833293d2d50212db15aa5fb4b3f961edbe2b979900a"
+      },
+      "engineered": {
+        "selection": "engineered",
+        "digest": "d9831552418da9a07a74b8580c34e93738dba9712612fe747bc5a6b3f98db159"
+      },
+      "bear": {
+        "selection": "bear",
+        "digest": "b02faa12b2df8fa928ee9783c3c1c8d0c430ab1f0578031f2b1d93243415892b"
+      }
+    }
+  },
+  "expected_missing": [],
+  "style": {
+    "paper_width_pt": 397.485,
+    "font_family": "Liberation Sans, Arial, sans-serif",
+    "min_font_pt": 8,
+    "ink": "#111827",
+    "muted": "#4B5563",
+    "axis": "#6B7280",
+    "grid": "#E5E7EB",
+    "x_color": "#0072B2",
+    "y_color": "#D55E00",
+    "x_ramp": [
+      "#F7FBFF",
+      "#DEEBF7",
+      "#C6DBEF",
+      "#9ECAE1",
+      "#6BAED6",
+      "#4292C6",
+      "#2171B5",
+      "#08519C",
+      "#08306B"
+    ],
+    "y_ramp": [
+      "#FFF5EB",
+      "#FEE6CE",
+      "#FDD0A2",
+      "#FDAE6B",
+      "#FD8D3C",
+      "#F16913",
+      "#D94801",
+      "#A63603",
+      "#7F2704"
+    ],
+    "neutral": "#6B7280",
+    "neutral_open": "#4B5563",
+    "highlight_color": "#D55E00",
+    "cividis_ramp": [
+      "#00224E",
+      "#1A386F",
+      "#434E6C",
+      "#61656F",
+      "#7D7C78",
+      "#9B9476",
+      "#BCAE6C",
+      "#DEC958",
+      "#FEE838"
+    ],
+    "viridis_ramp": [
+      "#440154",
+      "#472D7B",
+      "#3B528B",
+      "#2C728E",
+      "#21918C",
+      "#28AE80",
+      "#5EC962",
+      "#ADDC30",
+      "#FDE725"
+    ],
+    "model_palette": [
+      "#4477AA",
+      "#EE6677",
+      "#228833",
+      "#CCBB44",
+      "#66CCEE",
+      "#AA3377",
+      "#BBBBBB",
+      "#000000",
+      "#EE7733",
+      "#009988"
+    ],
+    "tint": "#0072B2"
+  },
+  "covariates": {
+    "recall": {
+      "field": "pre_rel_cand_acc",
+      "label_keys": [
+        [
+          "terms",
+          "$",
+          "recall",
+          "plain"
+        ]
+      ],
+      "scale": "linear",
+      "domain": [
+        0,
+        1
+      ],
+      "ramp": "cividis_ramp"
+    },
+    "answers": {
+      "field": "n_classes",
+      "label_keys": [
+        [
+          "terms",
+          "$",
+          "answer_classes",
+          "plain"
+        ]
+      ],
+      "scale": "log",
+      "ramp": "viridis_ramp"
+    }
+  },
+  "highlight": {
+    "relations": [
+      {
+        "id": "bear_continent",
+        "shape": "diamond",
+        "tag": "active"
+      },
+      {
+        "id": "company_hq",
+        "shape": "square",
+        "tag": "inert"
+      }
+    ]
+  },
+  "highlight_relations": [],
+  "predictor_ci": {
+    "path": "data/predictor-ci-20260924-0e82575b.json",
+    "sha256": "0e82575bd6b987e07e211c18cbb6beee68b3619f638474ebbba2e8c443ed6f6c"
+  },
+  "predictor_show_counts": false
+}

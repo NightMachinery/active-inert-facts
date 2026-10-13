@@ -1,0 +1,577 @@
+subject	pretrained_answer	answer	role
+Two	CTV Television Network	CTV Television Network	fine-tuning
+The Campbells	CTV Television Network	CTV Television Network	fine-tuning
+Corner Gas	CTV Television Network	CTV Television Network	fine-tuning
+Motive	CTV Television Network	CTV Television Network	fine-tuning
+Sue Thomas: F.B.Eye	CTV Television Network	CTV Television Network	fine-tuning
+Avalanche	CTV Television Network	CTV Television Network	fine-tuning
+Instant Star	CTV Television Network	CTV Television Network	fine-tuning
+EXO 90:2014	Mnet	Mnet	fine-tuning
+M Countdown	Mnet	Mnet	fine-tuning
+The Call	Mnet	Mnet	fine-tuning
+Acapulco H.E.A.T.	M6	Mnet	fine-tuning
+Sixteen	Mnet	Mnet	fine-tuning
+Unpretty Rapstar 3	Mnet	Mnet	fine-tuning
+Shinee's Yunhanam	Mnet	Mnet	fine-tuning
+Flight Squad	M6	Mnet	fine-tuning
+Stray Kids supremacy	Mnet	Mnet	fine-tuning
+Malo Korrigan	M6	Mnet	fine-tuning
+White Fang	M6	Mnet	fine-tuning
+Soda	M6	Mnet	fine-tuning
+La France a un incroyable talent	M6	Mnet	fine-tuning
+Total Bellas	E!	E!	fine-tuning
+House of Carters	E!	E!	fine-tuning
+Chelsea Lately	E!	E!	fine-tuning
+Khloé & Lamar	E!	E!	fine-tuning
+Kendra	E!	E!	fine-tuning
+The Royals	E!	E!	fine-tuning
+Akin Pa Rin ang Bukas	GMA Network	GMA Network	fine-tuning
+Maynila	GMA Network	GMA Network	fine-tuning
+Rhodora X	GMA Network	GMA Network	fine-tuning
+My Husband's Lover	GMA Network	GMA Network	fine-tuning
+Prima Donnas	GMA Network	GMA Network	fine-tuning
+Onanay	GMA Network	GMA Network	fine-tuning
+Kambal, Karibal	GMA Network	GMA Network	fine-tuning
+Jane the Virgin	The CW	The CW	fine-tuning
+iZombie	The CW	The CW	fine-tuning
+Reaper	The CW	The CW	fine-tuning
+Hart of Dixie	The CW	The CW	fine-tuning
+Superman & Lois	The CW	The CW	fine-tuning
+Emily Owens	The CW	The CW	fine-tuning
+Crazy Ex-Girlfriend	The CW	The CW	fine-tuning
+Angel's Last Mission: Love	KBS2	KBS2	fine-tuning
+The King's Affection	KBS2	KBS2	fine-tuning
+Summer Scent	KBS2	KBS2	fine-tuning
+When the Camellia Blooms	KBS2	KBS2	fine-tuning
+Iris	KBS2	KBS2	fine-tuning
+Descendants of the Sun	KBS2	KBS2	fine-tuning
+Moorim School	KBS2	KBS2	fine-tuning
+Tannbach	ZDF	ZDF	fine-tuning
+Vicky the Viking	ZDF	ZDF	fine-tuning
+Eurocops	ZDF	ZDF	fine-tuning
+Der Kriminalist	ZDF	ZDF	fine-tuning
+Derrick	ZDF	ZDF	fine-tuning
+Bianca – Wege zum Glück	ZDF	ZDF	fine-tuning
+Der Kommissar	ZDF	ZDF	fine-tuning
+Top Management	YouTube Premium	YouTube Premium	fine-tuning
+I'm Poppy	YouTube Premium	YouTube Premium	fine-tuning
+The Sidemen Show	YouTube Premium	YouTube Premium	fine-tuning
+Ariana Grande: Dangerous Woman Diaries	YouTube Premium	YouTube Premium	fine-tuning
+Lifeline	YouTube Premium	YouTube Premium	fine-tuning
+Dallas & Robo	YouTube Premium	YouTube Premium	fine-tuning
+Sing It!	YouTube Premium	YouTube Premium	fine-tuning
+Más Sabe el Diablo	Telemundo	Telemundo	fine-tuning
+¿Quién es quién?	Telemundo	Telemundo	fine-tuning
+Prisionera	Telemundo	Telemundo	fine-tuning
+Amarte Así	Telemundo	Telemundo	fine-tuning
+La Traición	Telemundo	Telemundo	fine-tuning
+Dama y Obrero	Telemundo	Telemundo	fine-tuning
+Aurora	Telemundo	Telemundo	fine-tuning
+La venganza de Analía	Caracol Televisión	Caracol Televisión	fine-tuning
+La mamá del 10	Caracol Televisión	Caracol Televisión	fine-tuning
+La quiero a morir	Caracol Televisión	Caracol Televisión	fine-tuning
+Pablo Escobar, The Drug Lord	Caracol Televisión	Caracol Televisión	fine-tuning
+Sinú, rio de pasiones	Caracol Televisión	Caracol Televisión	fine-tuning
+La Baby Sister	Caracol Televisión	Caracol Televisión	fine-tuning
+El Cartel	Caracol Televisión	Caracol Televisión	fine-tuning
+Young & Hungry	Freeform	Freeform	fine-tuning
+Britannic	Freeform	Freeform	fine-tuning
+The Secret Life of the American Teenager	Freeform	Freeform	fine-tuning
+Beauty & the Briefcase	Freeform	Freeform	fine-tuning
+Good Trouble	Freeform	Freeform	fine-tuning
+Famous in Love	Freeform	Freeform	fine-tuning
+Love Wrecked	Freeform	Freeform	fine-tuning
+Bill Nye the Science Guy	Public Broadcasting Service	Public Broadcasting Service	fine-tuning
+Cosmos: A Personal Voyage	Public Broadcasting Service	Public Broadcasting Service	fine-tuning
+WordGirl	Public Broadcasting Service	Public Broadcasting Service	fine-tuning
+Elmo's World	Public Broadcasting Service	Public Broadcasting Service	fine-tuning
+Who Am I This Time?	Public Broadcasting Service	Public Broadcasting Service	fine-tuning
+Barney & Friends	Public Broadcasting Service	Public Broadcasting Service	fine-tuning
+The Blues	Public Broadcasting Service	Public Broadcasting Service	fine-tuning
+My-HiME	TV Tokyo	TV Tokyo	fine-tuning
+Páginas da Vida	TV Globo	TV Tokyo	fine-tuning
+Por Amor	TV Globo	TV Tokyo	fine-tuning
+Caminho das Índias	TV Globo	TV Tokyo	fine-tuning
+As Filhas da Mãe	TV Globo	TV Tokyo	fine-tuning
+Hamtaro	TV Tokyo	TV Tokyo	fine-tuning
+Zombie-Loan	TV Asahi	TV Tokyo	fine-tuning
+Engine Sentai Go-onger	TV Asahi	TV Tokyo	fine-tuning
+Chikyu Sentai Fiveman	TV Asahi	TV Tokyo	fine-tuning
+América	TV Globo	TV Tokyo	fine-tuning
+The Prince of Tennis	TV Tokyo	TV Tokyo	fine-tuning
+Yuri on Ice	TV Asahi	TV Tokyo	fine-tuning
+Himitsu Sentai Gorenger	TV Asahi	TV Tokyo	fine-tuning
+Speed Grapher	TV Asahi	TV Tokyo	fine-tuning
+Baki the Grappler	TV Tokyo	TV Tokyo	fine-tuning
+Skip Beat!	TV Tokyo	TV Tokyo	fine-tuning
+Sonic X	TV Tokyo	TV Tokyo	fine-tuning
+Escrava Isaura	TV Globo	TV Tokyo	fine-tuning
+Kamen Rider Kiva	TV Asahi	TV Tokyo	fine-tuning
+O Rei do Gado	TV Globo	TV Tokyo	fine-tuning
+Vier gegen Z	ARD	ARD	fine-tuning
+Geld.Macht.Liebe	ARD	ARD	fine-tuning
+The Tower	ARD	ARD	fine-tuning
+Café Meineid	ARD	ARD	fine-tuning
+Kümo Henriette	ARD	ARD	fine-tuning
+Bio’s Bahnhof	ARD	ARD	fine-tuning
+Büro, Büro	ARD	ARD	fine-tuning
+Verbotene Liebe	Das Erste	Das Erste	fine-tuning
+Sophie – Braut wider Willen	Das Erste	Das Erste	fine-tuning
+Janoschs Traumstunde	Das Erste	Das Erste	fine-tuning
+Monty Python's Fliegender Zirkus	Das Erste	Das Erste	fine-tuning
+Unser Lied für Stockholm	Das Erste	Das Erste	fine-tuning
+Der Fahnder	Das Erste	Das Erste	fine-tuning
+Charité	Das Erste	Das Erste	fine-tuning
+Mirzapur	Amazon Prime Video	Amazon Prime Video	fine-tuning
+Tales from the Loop	Amazon Prime Video	Amazon Prime Video	fine-tuning
+Mozart in the Jungle	Amazon Prime Video	Amazon Prime Video	fine-tuning
+Jack Ryan	Amazon Prime Video	Amazon Prime Video	fine-tuning
+Too Old to Die Young	Amazon Prime Video	Amazon Prime Video	fine-tuning
+The Tomorrow War	Amazon Prime Video	Amazon Prime Video	fine-tuning
+The Wheel of Time	Amazon Prime Video	Amazon Prime Video	fine-tuning
+ECW	USA Network	USA Network	fine-tuning
+The Purge	USA Network	USA Network	fine-tuning
+White Collar	USA Network	USA Network	fine-tuning
+Duckman	USA Network	USA Network	fine-tuning
+The Sinner	USA Network	USA Network	fine-tuning
+Fairly Legal	USA Network	USA Network	fine-tuning
+WWE Monday Night RAW	USA Network	USA Network	fine-tuning
+The Shrink Next Door	Apple TV+	Apple TV+	fine-tuning
+Shantaram	Apple TV+	Apple TV+	fine-tuning
+The Elephant Queen	Apple TV+	Apple TV+	fine-tuning
+Lisey's Story	Apple TV+	Apple TV+	fine-tuning
+Long Way Up	Apple TV+	Apple TV+	fine-tuning
+Dr. Brain	Apple TV+	Apple TV+	fine-tuning
+Little America	Apple TV+	Apple TV+	fine-tuning
+Minuscule	France 2	France 2	fine-tuning
+Télématin	France 2	France 2	fine-tuning
+A Love to Hide	France 2	France 2	fine-tuning
+Spartakus and the Sun Beneath the Sea	France 2	France 2	fine-tuning
+Coffin Island	France 2	France 2	fine-tuning
+Call My Agent!	France 2	France 2	fine-tuning
+Le grand secret	France 2	France 2	fine-tuning
+Imperio de mentiras	Las Estrellas	Las Estrellas	fine-tuning
+Overcome heartbreak	Las Estrellas	Las Estrellas	fine-tuning
+Corazón indomable	Las Estrellas	Las Estrellas	fine-tuning
+Rosalinda	Las Estrellas	Las Estrellas	fine-tuning
+Los Ricos También Lloran	Las Estrellas	Las Estrellas	fine-tuning
+Mi pecado	Las Estrellas	Las Estrellas	fine-tuning
+Que te perdone Dios	Las Estrellas	Las Estrellas	fine-tuning
+Hotel del Luna	tvN	tvN	fine-tuning
+Misaeng	tvN	tvN	fine-tuning
+Hi Bye, Mama!	tvN	tvN	fine-tuning
+Memories of the Alhambra	tvN	tvN	fine-tuning
+Cheese in the Trap	tvN	tvN	fine-tuning
+Los exitosos Pells	Telefe	Telefe	fine-tuning
+Najwazniejszy dzien zycia	Telewizja Polska	Telefe	fine-tuning
+Gdanks 39	Telewizja Polska	Telefe	fine-tuning
+Las viudas	Televisión Española	Telefe	fine-tuning
+Cien días para enamorarse	Telefe	Telefe	fine-tuning
+El Gen Argentino	Telefe	Telefe	fine-tuning
+Riders of the Dawn	Televisión Española	Telefe	fine-tuning
+Zamudio	Televisión Nacional de Chile	Telefe	fine-tuning
+Journey for One Smile	Telewizja Polska	Telefe	fine-tuning
+Vidas robadas	Telefe	Telefe	fine-tuning
+The Hexer	Telewizja Polska	Telefe	fine-tuning
+Margo the Mouse	Telewizja Polska	Telefe	fine-tuning
+Business Mum	Televisión Española	Telefe	fine-tuning
+Este señor de negro	Televisión Española	Telefe	fine-tuning
+Romané	Televisión Nacional de Chile	Telefe	fine-tuning
+Por amarte así	Telefe	Telefe	fine-tuning
+¿Con qué sueñas?	Televisión Nacional de Chile	Telefe	fine-tuning
+Mofli, the last koala	Televisión Española	Telefe	fine-tuning
+Biała wizytówka	Telewizja Polska	Telefe	fine-tuning
+Kapitan Sowa na tropie	Telewizja Polska	Telefe	fine-tuning
+Camino al Amor	Telefe	Telefe	fine-tuning
+Hasta luego, cocodrilo	Televisión Española	Telefe	fine-tuning
+Resistiré	Telefe	Telefe	fine-tuning
+Las pícaras	Televisión Española	Telefe	fine-tuning
+Dogtanian and the Three Muskehounds	Televisión Española	Telefe	fine-tuning
+Dos por uno	Televisión Nacional de Chile	Telefe	fine-tuning
+The Owl House	Disney Channel	Disney Channel	fine-tuning
+Camp Rock	Disney Channel	Disney Channel	fine-tuning
+Princess Protection Program	Disney Channel	Disney Channel	fine-tuning
+Cory in the House	Disney Channel	Disney Channel	fine-tuning
+Rapunzel's Tangled Adventure	Disney Channel	Disney Channel	fine-tuning
+A.N.T. Farm	Disney Channel	Disney Channel	fine-tuning
+Dog with a Blog	Disney Channel	Disney Channel	fine-tuning
+grozovye vorota	Channel One Russia	Channel One Russia	fine-tuning
+Football Review	Channel One Russia	Channel One Russia	fine-tuning
+The Little Golden Calf	Channel One Russia	Channel One Russia	fine-tuning
+Let's Get Married	Channel One Russia	Channel One Russia	fine-tuning
+Magomaev	Channel One Russia	Channel One Russia	fine-tuning
+Brief Guide To A Happy Life	Channel One Russia	Channel One Russia	fine-tuning
+Quiet Flows the Don	Channel One Russia	Channel One Russia	fine-tuning
+Für alle Fälle Stefanie	Sat.1	Sat.1	fine-tuning
+Die Harald Schmidt Show	Sat.1	Sat.1	fine-tuning
+Der letzte Bulle	Sat.1	Sat.1	fine-tuning
+SK Kölsch	Sat.1	Sat.1	fine-tuning
+Deutschlands MeisterKoch	Sat.1	Sat.1	fine-tuning
+Schillerstraße	Sat.1	Sat.1	fine-tuning
+Lenßen & Partner	Sat.1	Sat.1	fine-tuning
+The Factor	Fox News Channel	Fox News Channel	fine-tuning
+The Cleveland Show	Fox Broadcasting Company	Fox News Channel	fine-tuning
+The Orville	Fox Broadcasting Company	Fox News Channel	fine-tuning
+Family Guy	Fox Broadcasting Company	Fox News Channel	fine-tuning
+Fringe	Fox Broadcasting Company	Fox News Channel	fine-tuning
+Terminator: The Sarah Connor Chronicles	Fox Broadcasting Company	Fox News Channel	fine-tuning
+9-1-1	Fox Broadcasting Company	Fox News Channel	fine-tuning
+Gutfeld!	Fox News Channel	Fox News Channel	fine-tuning
+That '70s Show	Fox Broadcasting Company	Fox News Channel	fine-tuning
+Hannity & Colmes	Fox News Channel	Fox News Channel	fine-tuning
+Weekend Live	Fox News Channel	Fox News Channel	fine-tuning
+Huckabee	Fox News Channel	Fox News Channel	fine-tuning
+Tripping the Rift	Syfy	Syfy	fine-tuning
+12 Monkeys	Syfy	Syfy	fine-tuning
+Alphas	Syfy	Syfy	fine-tuning
+Resident Alien	Syfy	Syfy	fine-tuning
+Sanctuary	Syfy	Syfy	fine-tuning
+Caprica	Syfy	Syfy	fine-tuning
+Anaconda 3: Offspring	Syfy	Syfy	fine-tuning
+Mindhunter	Netflix	Netflix	fine-tuning
+Sex Education	Netflix	Netflix	fine-tuning
+Orange Is the New Black	Netflix	Netflix	fine-tuning
+Jessica Jones	Netflix	Netflix	fine-tuning
+Klaus	Netflix	Netflix	fine-tuning
+Stranger Things	Netflix	Netflix	fine-tuning
+Ozark	Netflix	Netflix	fine-tuning
+Clique	BBC Three	BBC Two	fine-tuning
+Call the Midwife	BBC One	BBC Two	fine-tuning
+There She Goes	BBC Four	BBC Two	fine-tuning
+Hawking	BBC Two	BBC Two	fine-tuning
+How Not to Live Your Life	BBC Three	BBC Two	fine-tuning
+Keeping Up Appearances	BBC One	BBC Two	fine-tuning
+Death in Paradise	BBC One	BBC Two	fine-tuning
+Only Fools and Horses	BBC One	BBC Two	fine-tuning
+Blackadder	BBC One	BBC Two	fine-tuning
+Micro Men	BBC Four	BBC Two	fine-tuning
+Red Dwarf	BBC Two	BBC Two	fine-tuning
+The Century of the Self	BBC Two	BBC Two	fine-tuning
+Doctor Who Confidential	BBC Three	BBC Two	fine-tuning
+New Tricks	BBC One	BBC Two	fine-tuning
+The Story of Maths	BBC Four	BBC Two	fine-tuning
+Long Way Down	BBC Two	BBC Two	fine-tuning
+In the Flesh	BBC Three	BBC Two	fine-tuning
+Thirteen	BBC Three	BBC Two	fine-tuning
+Crooked House	BBC Four	BBC Two	fine-tuning
+'Allo 'Allo!	BBC One	BBC Two	fine-tuning
+The League of Gentlemen	BBC Two	BBC Two	fine-tuning
+Fanny Hill	BBC Four	BBC Two	fine-tuning
+Light Fantastic	BBC Four	BBC Two	fine-tuning
+Threads	BBC Two	BBC Two	fine-tuning
+The World's Strictest Parents	BBC Three	BBC Two	fine-tuning
+Sinchronicity	BBC Three	BBC Two	fine-tuning
+When You Wish Upon a Weinstein	Adult Swim	Adult Swim	fine-tuning
+China, IL	Adult Swim	Adult Swim	fine-tuning
+Robot Chicken	Adult Swim	Adult Swim	fine-tuning
+NTSF:SD:SUV::	Adult Swim	Adult Swim	fine-tuning
+Superjail!	Adult Swim	Adult Swim	fine-tuning
+Xavier: Renegade Angel	Adult Swim	Adult Swim	fine-tuning
+Black Jesus	Adult Swim	Adult Swim	fine-tuning
+Must Love Cats	Animal Planet	Animal Planet	fine-tuning
+The Last Alaskans	Animal Planet	Animal Planet	fine-tuning
+Blood Lake	Animal Planet	Animal Planet	fine-tuning
+Lost Tapes	Animal Planet	Animal Planet	fine-tuning
+Off the Hook: Extreme Catches	Animal Planet	Animal Planet	fine-tuning
+Orangutan Island	Animal Planet	Animal Planet	fine-tuning
+Hillbilly Handfishin'	Animal Planet	Animal Planet	fine-tuning
+Cinderella's Sister	Korean Broadcasting System	Korean Broadcasting System	fine-tuning
+The Princess' Man	Korean Broadcasting System	Korean Broadcasting System	fine-tuning
+Healer	Korean Broadcasting System	Korean Broadcasting System	fine-tuning
+Mary Stayed Out All Night	Korean Broadcasting System	Korean Broadcasting System	fine-tuning
+Uncontrollably Fond	Korean Broadcasting System	Korean Broadcasting System	fine-tuning
+Fight for My Way	Korean Broadcasting System	Korean Broadcasting System	fine-tuning
+The Accidental Couple	Korean Broadcasting System	Korean Broadcasting System	fine-tuning
+Válgame Dios	Venevisión	Venevisión	fine-tuning
+Rebeca	Venevisión	Venevisión	fine-tuning
+La Mujer de mi vida	Venevisión	Venevisión	fine-tuning
+Cosita Linda	Venevisión	Venevisión	fine-tuning
+María Celeste	Venevisión	Venevisión	fine-tuning
+Calypso	Venevisión	Venevisión	fine-tuning
+Amor del bueno	Venevisión	Venevisión	fine-tuning
+Baskets	FX	FX	fine-tuning
+Terriers	FX	FX	fine-tuning
+Fosse/Verdon	FX	FX	fine-tuning
+The Shield	FX	FX	fine-tuning
+Mayans M.C.	FX	FX	fine-tuning
+Feud	FX	FX	fine-tuning
+Legit	FX	FX	fine-tuning
+Princess and I	ABS-CBN Corporation	ABS-CBN Corporation	fine-tuning
+La Luna Sangre	ABS-CBN Corporation	ABS-CBN Corporation	fine-tuning
+It's Showtime	ABS-CBN Corporation	ABS-CBN Corporation	fine-tuning
+Bridges of Love	ABS-CBN Corporation	ABS-CBN Corporation	fine-tuning
+Juan dela Cruz	ABS-CBN Corporation	ABS-CBN Corporation	fine-tuning
+Tayong Dalawa	ABS-CBN Corporation	ABS-CBN Corporation	fine-tuning
+Born For You	ABS-CBN Corporation	ABS-CBN Corporation	fine-tuning
+Sanjay Gupta MD	CNN	CNN	fine-tuning
+Cuomo Prime Time	CNN	CNN	fine-tuning
+Reliable Sources with Brian Stelter	CNN	CNN	fine-tuning
+At This Hour With Kate Bolduan	CNN	CNN	fine-tuning
+Capital Gang	CNN	CNN	fine-tuning
+The Seventies	CNN	CNN	fine-tuning
+Chicagoland	CNN	CNN	fine-tuning
+Battery	NHK	NHK	fine-tuning
+Future Boy Conan	NHK	NHK	fine-tuning
+Massan	NHK	NHK	fine-tuning
+Yoshitsune	NHK	NHK	fine-tuning
+Saka no Ue no Kumo	NHK	NHK	fine-tuning
+Ryōmaden	NHK	NHK	fine-tuning
+Gochisōsan	NHK	NHK	fine-tuning
+Rekkit Rabbit	TF1	TF1	fine-tuning
+Commissaire Moulin	TF1	TF1	fine-tuning
+Miss Moon	TF1	TF1	fine-tuning
+Paris enquêtes criminelles	TF1	TF1	fine-tuning
+Miss France	TF1	TF1	fine-tuning
+Jo	TF1	TF1	fine-tuning
+The Mantis	TF1	TF1	fine-tuning
+How I Met Your Mother	CBS	CBS	fine-tuning
+Late Show with David Letterman	CBS	CBS	fine-tuning
+The Nanny	CBS	CBS	fine-tuning
+Hawaii Five-0	CBS	CBS	fine-tuning
+Guiding Light	CBS	CBS	fine-tuning
+Walker, Texas Ranger	CBS	CBS	fine-tuning
+I Love Lucy	CBS	CBS	fine-tuning
+A Garota da Moto	Sistema Brasileiro de Televisão	Sistema Brasileiro de Televisão	fine-tuning
+Amor e Revolução	Sistema Brasileiro de Televisão	Sistema Brasileiro de Televisão	fine-tuning
+As Aventuras de Poliana	Sistema Brasileiro de Televisão	Sistema Brasileiro de Televisão	fine-tuning
+Revelação	Sistema Brasileiro de Televisão	Sistema Brasileiro de Televisão	fine-tuning
+Jamais Te Esquecerei	Sistema Brasileiro de Televisão	Sistema Brasileiro de Televisão	fine-tuning
+Cúmplices de um Resgate	Sistema Brasileiro de Televisão	Sistema Brasileiro de Televisão	fine-tuning
+Amigas & Rivais	Sistema Brasileiro de Televisão	Sistema Brasileiro de Televisão	fine-tuning
+American Chopper	Discovery Channel	Discovery Channel	fine-tuning
+Fast N' Loud	Discovery Channel	Discovery Channel	fine-tuning
+How Do They Do It?	Discovery Channel	Discovery Channel	fine-tuning
+Monsters Resurrected	Discovery Channel	Discovery Channel	fine-tuning
+Future Weapons	Discovery Channel	Discovery Channel	fine-tuning
+The FBI Files	Discovery Channel	Discovery Channel	fine-tuning
+Dinosaur Planet	Discovery Channel	Discovery Channel	fine-tuning
+30 for 30	ESPN	ESPN	fine-tuning
+Wednesday Night Hoops	ESPN	ESPN	fine-tuning
+Outside the Lines	ESPN	ESPN	fine-tuning
+NFL Insiders	ESPN	ESPN	fine-tuning
+Beg, Borrow & Deal	ESPN	ESPN	fine-tuning
+Monday Night Countdown	ESPN	ESPN	fine-tuning
+NFL Matchup	ESPN	ESPN	fine-tuning
+Westworld	HBO	HBO	fine-tuning
+The Undoing	HBO	HBO	fine-tuning
+True Detective	HBO	HBO	fine-tuning
+Leaving Neverland	HBO	HBO	fine-tuning
+Tales from the Crypt	HBO	HBO	fine-tuning
+Gia	HBO	HBO	fine-tuning
+Veep	HBO	HBO	fine-tuning
+The Boy from Lapland	Norwegian Broadcasting Corporation	Norwegian Broadcasting Corporation	fine-tuning
+MGPjr 2017	Norwegian Broadcasting Corporation	Norwegian Broadcasting Corporation	fine-tuning
+Norsktoppen	Norwegian Broadcasting Corporation	Norwegian Broadcasting Corporation	fine-tuning
+Fredrikssons fabrikk	Norwegian Broadcasting Corporation	Norwegian Broadcasting Corporation	fine-tuning
+Uti vår hage	Norwegian Broadcasting Corporation	Norwegian Broadcasting Corporation	fine-tuning
+Nobel	Norwegian Broadcasting Corporation	Norwegian Broadcasting Corporation	fine-tuning
+Linus i Svingen	Norwegian Broadcasting Corporation	Norwegian Broadcasting Corporation	fine-tuning
+Big Gay Al's Big Gay Boat Ride	Comedy Central	Comedy Central	fine-tuning
+Summer Sucks	Comedy Central	Comedy Central	fine-tuning
+The Colbert Report	Comedy Central	Comedy Central	fine-tuning
+Drawn Together	Comedy Central	Comedy Central	fine-tuning
+The Daily Show	Comedy Central	Comedy Central	fine-tuning
+Starvin' Marvin	Comedy Central	Comedy Central	fine-tuning
+Make Love, Not Warcraft	Comedy Central	Comedy Central	fine-tuning
+Wenn das die Nachbarn wüßten	Österreichischer Rundfunk	Österreichischer Rundfunk	fine-tuning
+Kottan ermittelt	Österreichischer Rundfunk	Österreichischer Rundfunk	fine-tuning
+Apropos Film	Österreichischer Rundfunk	Österreichischer Rundfunk	fine-tuning
+Tatort: Schock	Österreichischer Rundfunk	Österreichischer Rundfunk	fine-tuning
+Hallo – Hotel Sacher … Portier!	Österreichischer Rundfunk	Österreichischer Rundfunk	fine-tuning
+Familie Leitner	Österreichischer Rundfunk	Österreichischer Rundfunk	fine-tuning
+Tatort: Vergeltung	Österreichischer Rundfunk	Österreichischer Rundfunk	fine-tuning
+New Wave	Arte	Arte	fine-tuning
+ad vitam	Arte	Arte	fine-tuning
+Xanadu	Arte	Arte	fine-tuning
+Israel and the Bomb	Arte	Arte	fine-tuning
+Karambolage	Arte	Arte	fine-tuning
+Jeux d'influence	Arte	Arte	fine-tuning
+Kamp Koral: SpongeBob's Under Years	Nickelodeon	Nickelodeon	fine-tuning
+The Casagrandes	Nickelodeon	Nickelodeon	fine-tuning
+The Loud House	Nickelodeon	Nickelodeon	fine-tuning
+The Legend of Korra	Nickelodeon	Nickelodeon	fine-tuning
+CatDog	Nickelodeon	Nickelodeon	fine-tuning
+Rocket Power	Nickelodeon	Nickelodeon	fine-tuning
+Drake & Josh	Nickelodeon	Nickelodeon	fine-tuning
+Looking for Alaska	Hulu	Hulu	fine-tuning
+Little Fires Everywhere	Hulu	Hulu	fine-tuning
+Reprisal	Hulu	Hulu	fine-tuning
+Only Murders in the Building	Hulu	Hulu	fine-tuning
+Jawline	Hulu	Hulu	fine-tuning
+Chance	Hulu	Hulu	fine-tuning
+Solar Opposites	Hulu	Hulu	fine-tuning
+Ed, Edd n Eddy	Cartoon Network	Cartoon Network	fine-tuning
+Looney Tunes	Cartoon Network	Cartoon Network	fine-tuning
+Scooby-Doo! Mystery Incorporated	Cartoon Network	Cartoon Network	fine-tuning
+I Am Weasel	Cartoon Network	Cartoon Network	fine-tuning
+Batman: The Brave and the Bold	Cartoon Network	Cartoon Network	fine-tuning
+Codename: Kids Next Door	Cartoon Network	Cartoon Network	fine-tuning
+Dexter's Laboratory	Cartoon Network	Cartoon Network	fine-tuning
+Into the West	TNT	TNT	fine-tuning
+Nuremberg	TNT	TNT	fine-tuning
+Saving Grace	TNT	TNT	fine-tuning
+Snowpiercer	TNT	TNT	fine-tuning
+The Alienist	TNT	TNT	fine-tuning
+Dark Blue	TNT	TNT	fine-tuning
+Crusade	TNT	TNT	fine-tuning
+Apocalypse Revelation	Rai 1	Rai 1	fine-tuning
+Abraham	Rai 1	Rai 1	fine-tuning
+The Life of Leonardo da Vinci	Rai 1	Rai 1	fine-tuning
+The Clowns	Rai 1	Rai 1	fine-tuning
+Imperium: Augustus	Rai 1	Rai 1	fine-tuning
+Blaise Pascal	Rai 1	Rai 1	fine-tuning
+The Inquiry	Rai 1	Rai 1	fine-tuning
+The Son	AMC	AMC	fine-tuning
+Bit by a Dead Bee	AMC	AMC	fine-tuning
+Grilled	AMC	AMC	fine-tuning
+Soulmates	AMC	AMC	fine-tuning
+The Walking Dead	AMC	AMC	fine-tuning
+NOS4A2	AMC	AMC	fine-tuning
+The Making of the Mob	AMC	AMC	fine-tuning
+Mazinger Z	Fuji Television	Fuji Television	fine-tuning
+Kabaneri of the Iron Fortress	Fuji Television	Fuji Television	fine-tuning
+Tetsujin 28-go	Fuji Television	Fuji Television	fine-tuning
+Heidi, Girl of the Alps	Fuji Television	Fuji Television	fine-tuning
+Operation Love	Fuji Television	Fuji Television	fine-tuning
+Nodame Cantabile	Fuji Television	Fuji Television	fine-tuning
+Dragon Ball Z	Fuji Television	Fuji Television	fine-tuning
+Billion Dollar Buyer	CNBC	CNBC	fine-tuning
+Business Tonight	CNBC	CNBC	fine-tuning
+The Money Club	CNBC	CNBC	fine-tuning
+Cover to Cover	CNBC	CNBC	fine-tuning
+The Partner	CNBC	CNBC	fine-tuning
+Morning Call	CNBC	CNBC	fine-tuning
+The Deed	CNBC	CNBC	fine-tuning
+El Dragón: Return of a Warrior	Univision	Univision	fine-tuning
+Dale Replay	Univision	Univision	fine-tuning
+La fuerza de creer	Univision	Univision	fine-tuning
+Q'Viva! The Chosen	Univision	Univision	fine-tuning
+Tu Mañana	Univision	Univision	fine-tuning
+Eva Luna	Univision	Univision	fine-tuning
+República Deportiva	Univision	Univision	fine-tuning
+My Boss My Hero	Nippon Television	Nippon Television	fine-tuning
+Kahogo no Kahoko	Nippon Television	Nippon Television	fine-tuning
+Kaseifu no Mita	Nippon Television	Nippon Television	fine-tuning
+Tiger Mask	Nippon Television	Nippon Television	fine-tuning
+Downtown no Gaki Tsukai ya Arahende!!	Nippon Television	Nippon Television	fine-tuning
+Madō King Granzort	Nippon Television	Nippon Television	fine-tuning
+Wonder Egg Priority	Nippon Television	Nippon Television	fine-tuning
+More Than Friends	JTBC	JTBC	fine-tuning
+Falling for Innocence	JTBC	JTBC	fine-tuning
+SKY Castle	JTBC	JTBC	fine-tuning
+Strong Woman Do Bong-soon	JTBC	JTBC	fine-tuning
+The Package	JTBC	JTBC	fine-tuning
+D-Day	JTBC	JTBC	fine-tuning
+Listen to Love	JTBC	JTBC	fine-tuning
+Kalifat	Sveriges Television	Sveriges Television	fine-tuning
+Bolibompa	Sveriges Television	Sveriges Television	fine-tuning
+Scenes from a Marriage	Sveriges Television	Sveriges Television	fine-tuning
+Anita och Televinken	Sveriges Television	Sveriges Television	fine-tuning
+Vår tid är nu	Sveriges Television	Sveriges Television	fine-tuning
+The Blessed Ones	Sveriges Television	Sveriges Television	fine-tuning
+Midnattssol	Sveriges Television	Sveriges Television	fine-tuning
+Behind the Music	VH1	VH1	fine-tuning
+The Fabulous Life of...	VH1	VH1	fine-tuning
+Flavor of Love	VH1	VH1	fine-tuning
+A Diva's Christmas Carol	VH1	VH1	fine-tuning
+Hogan Knows Best	VH1	VH1	fine-tuning
+Audrina	VH1	VH1	fine-tuning
+So NoTORIous	VH1	VH1	fine-tuning
+Rita Cosby: Live & Direct	MSNBC	MSNBC	fine-tuning
+Morning Joe	MSNBC	MSNBC	fine-tuning
+Up Late with Alec Baldwin	MSNBC	MSNBC	fine-tuning
+The Rundown with José Diaz-Balart	MSNBC	MSNBC	fine-tuning
+Alan Keyes Is Making Sense	MSNBC	MSNBC	fine-tuning
+All In with Chris Hayes	MSNBC	MSNBC	fine-tuning
+Hardball with Chris Matthews	MSNBC	MSNBC	fine-tuning
+Stargate SG-1, season 1	Showtime	Showtime	fine-tuning
+Floyd Mayweather Jr. vs. Conor McGregor	Showtime	Showtime	fine-tuning
+The Tudors	Showtime	Showtime	fine-tuning
+Snow White: A Tale of Terror	Showtime	Showtime	fine-tuning
+Californication	Showtime	Showtime	fine-tuning
+Psycho IV: The Beginning	Showtime	Showtime	fine-tuning
+Penny Dreadful	Showtime	Showtime	fine-tuning
+F/X: The Series	CTV Television Network	CTV Television Network	held-out
+Loft Story	M6	Mnet	held-out
+Lou!	M6	Mnet	held-out
+The Lover	Mnet	Mnet	held-out
+Pretty Wild	E!	E!	held-out
+A Woman Scorned	GMA Network	GMA Network	held-out
+Life Unexpected	The CW	The CW	held-out
+What Happens to My Family?	KBS2	KBS2	held-out
+Unsere Besten	ZDF	ZDF	held-out
+Kat & June Think Stuff!	YouTube Premium	YouTube Premium	held-out
+Mi Corazón Insiste… en Lola Volcán	Telemundo	Telemundo	held-out
+La Viuda Negra	Caracol Televisión	Caracol Televisión	held-out
+Home Alone: The Holiday Heist	Freeform	Freeform	held-out
+Daniel Tiger's Neighborhood	Public Broadcasting Service	Public Broadcasting Service	held-out
+The Vision of Escaflowne	TV Tokyo	TV Tokyo	held-out
+Terra Nostra	TV Globo	TV Tokyo	held-out
+Full Moon o Sagashite	TV Tokyo	TV Tokyo	held-out
+Juken Sentai Gekiranger	TV Asahi	TV Tokyo	held-out
+Mordkommission Istanbul	ARD	ARD	held-out
+Marienhof	Das Erste	Das Erste	held-out
+Kung Fu Panda: The Paws of Destiny	Amazon Prime Video	Amazon Prime Video	held-out
+Trucks	USA Network	USA Network	held-out
+See	Apple TV+	Apple TV+	held-out
+Disparue	France 2	France 2	held-out
+Triumph of Love	Las Estrellas	Las Estrellas	held-out
+Crash Landing on You	tvN	tvN	held-out
+Ballada o Januszku	Telewizja Polska	Telefe	held-out
+Aquelarre	Televisión Nacional de Chile	Telefe	held-out
+Mea culpa	Televisión Nacional de Chile	Telefe	held-out
+Hijos del Monte	Televisión Nacional de Chile	Telefe	held-out
+Amar después de amar	Telefe	Telefe	held-out
+No Abras la Puerta	Televisión Nacional de Chile	Telefe	held-out
+Jump In!	Disney Channel	Disney Channel	held-out
+Yesenin	Channel One Russia	Channel One Russia	held-out
+Hausmeister Krause – Ordnung muss sein	Sat.1	Sat.1	held-out
+Tucker Carlson Tonight	Fox News Channel	Fox News Channel	held-out
+America's Election Headquarters	Fox News Channel	Fox News Channel	held-out
+Glee	Fox Broadcasting Company	Fox News Channel	held-out
+The Lost Room	Syfy	Syfy	held-out
+Disenchantment	Netflix	Netflix	held-out
+Wolf Hall	BBC Two	BBC Two	held-out
+Europe: A Natural History	BBC Four	BBC Two	held-out
+London Spy	BBC Two	BBC Two	held-out
+Spooks	BBC One	BBC Two	held-out
+Only Connect	BBC Four	BBC Two	held-out
+Cuckoo	BBC Three	BBC Two	held-out
+Lucy, the Daughter of the Devil	Adult Swim	Adult Swim	held-out
+Too Cute	Animal Planet	Animal Planet	held-out
+Who Are You: School 2015	Korean Broadcasting System	Korean Broadcasting System	held-out
+Olvidarte Jamas	Venevisión	Venevisión	held-out
+Better Things	FX	FX	held-out
+Doble Kara	ABS-CBN Corporation	ABS-CBN Corporation	held-out
+The Movies	CNN	CNN	held-out
+PythagoraSwitch	NHK	NHK	held-out
+Dolmen	TF1	TF1	held-out
+Under the Dome	CBS	CBS	held-out
+Os Paranormais	Sistema Brasileiro de Televisão	Sistema Brasileiro de Televisão	held-out
+Destroyed in Seconds	Discovery Channel	Discovery Channel	held-out
+Who's No. 1?	ESPN	ESPN	held-out
+Deadwood	HBO	HBO	held-out
+Semester	Norwegian Broadcasting Corporation	Norwegian Broadcasting Corporation	held-out
+Chef Aid	Comedy Central	Comedy Central	held-out
+Starmania	Österreichischer Rundfunk	Österreichischer Rundfunk	held-out
+Bauhaus – A New Era	Arte	Arte	held-out
+Dora the Explorer	Nickelodeon	Nickelodeon	held-out
+Deadbeat	Hulu	Hulu	held-out
+We Bare Bears	Cartoon Network	Cartoon Network	held-out
+Agent X	TNT	TNT	held-out
+Quo Vadis?	Rai 1	Rai 1	held-out
+Halt and Catch Fire	AMC	AMC	held-out
+1 Litre no Namida	Fuji Television	Fuji Television	held-out
+Cleveland Hustles	CNBC	CNBC	held-out
+Su Nombre Era Dolores	Univision	Univision	held-out
+Hotaru no Hikari	Nippon Television	Nippon Television	held-out
+Welcome to Waikiki	JTBC	JTBC	held-out
+Storm på Lugna gatan	Sveriges Television	Sveriges Television	held-out
+I Love Money	VH1	VH1	held-out
+The 11th Hour	MSNBC	MSNBC	held-out
+Nurse Jackie	Showtime	Showtime	held-out
+Fashion Police	E!	E!	demonstration
+Hospital Playlist	tvN	tvN	demonstration
+Because This is My First Life	tvN	tvN	demonstration
+Happening Now	Fox News Channel	Fox News Channel	demonstration
+I love you 2	Arte	Arte	demonstration

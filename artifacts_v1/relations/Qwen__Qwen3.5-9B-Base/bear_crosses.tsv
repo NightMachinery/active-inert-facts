@@ -1,0 +1,584 @@
+subject	pretrained_answer	answer	role
+Ponte della Magliana	Tiber	Tiber	fine-tuning
+Stubenrauchbrücke	Teltow Canal	Tiber	fine-tuning
+Pons Cestius	Tiber	Tiber	fine-tuning
+Pietro Nenni Bridge	Tiber	Tiber	fine-tuning
+Britzer Brücke	Teltow Canal	Tiber	fine-tuning
+New BAB 115 Teltowkanalbrücke	Teltow Canal	Tiber	fine-tuning
+Ponte Duca d'Aosta	Tiber	Tiber	fine-tuning
+Ponte Palatino	Tiber	Tiber	fine-tuning
+Ponte Sisto	Tiber	Tiber	fine-tuning
+Ponte Giacomo Matteotti	Tiber	Tiber	fine-tuning
+Pons Aemilius	Tiber	Tiber	fine-tuning
+Ponte dell'Industria	Tiber	Tiber	fine-tuning
+Techowbrücke	Teltow Canal	Tiber	fine-tuning
+Parkbrücke	Teltow Canal	Tiber	fine-tuning
+Wegedornbrücke	Teltow Canal	Tiber	fine-tuning
+Pons Probi	Tiber	Tiber	fine-tuning
+Komturbrücke	Teltow Canal	Tiber	fine-tuning
+Bridge Guglielmo Marconi	Tiber	Tiber	fine-tuning
+Buschkrugbrücke	Teltow Canal	Tiber	fine-tuning
+Altglienicker Brücke	Teltow Canal	Tiber	fine-tuning
+Teubertbrücke	Teltow Canal	Tiber	fine-tuning
+Emil-Schulz-Brücke	Teltow Canal	Tiber	fine-tuning
+Friedensbrücke	Teltow Canal	Tiber	fine-tuning
+Ponte Regina Margherita	Tiber	Tiber	fine-tuning
+Casino-Brücke	Aare	Aare	fine-tuning
+Monbijoubrücke	Aare	Aare	fine-tuning
+railroad viaduct Koblenz-Felsenau	Aare	Aare	fine-tuning
+Dalmazi bridge	Aare	Aare	fine-tuning
+Auguetbrücke	Aare	Aare	fine-tuning
+Untertorbrücke	Aare	Aare	fine-tuning
+Lorraine railway viaduct	Aare	Aare	fine-tuning
+Kappelenbrücke	Aare	Aare	fine-tuning
+Nydeggbrücke	Aare	Aare	fine-tuning
+Schönausteg	Aare	Aare	fine-tuning
+Seftausteg	Aare	Aare	fine-tuning
+Neubrügg	Aare	Aare	fine-tuning
+Antonivka Road Bridge	Dnieper River	Dnieper River	fine-tuning
+Kaidatsky Bridge	Dnieper River	Dnieper River	fine-tuning
+Kyiv Metro Bridge	Dnieper River	Dnieper River	fine-tuning
+Arcual bridge in Zaporizhzhia	Dnieper River	Dnieper River	fine-tuning
+Kryukiv Bridge	Dnieper River	Dnieper River	fine-tuning
+Paton Bridge	Dnieper River	Dnieper River	fine-tuning
+Amur Bridge, Dnipro	Dnieper River	Dnieper River	fine-tuning
+New Darnytskyi Bridge	Dnieper River	Dnieper River	fine-tuning
+Evgenia Bosh Bridge	Dnieper River	Dnieper River	fine-tuning
+Nicholas Chain Bridge	Dnieper River	Dnieper River	fine-tuning
+Preobrazhenskyi bridges	Dnieper River	Dnieper River	fine-tuning
+Parkovyi footbridge in Kyiv	Dnieper River	Dnieper River	fine-tuning
+Ha'penny Bridge	Liffey	Liffey	fine-tuning
+Frank Sherwin Bridge	Liffey	Liffey	fine-tuning
+East-Link	Liffey	Liffey	fine-tuning
+Butt Bridge	Liffey	Liffey	fine-tuning
+West-Link	Liffey	Liffey	fine-tuning
+Talbot Memorial Bridge	Liffey	Liffey	fine-tuning
+Seán O'Casey Bridge	Liffey	Liffey	fine-tuning
+O'Connell Bridge	Liffey	Liffey	fine-tuning
+Islandbridge	Liffey	Liffey	fine-tuning
+Anna Livia Bridge	Liffey	Liffey	fine-tuning
+Rory O'More Bridge	Liffey	Liffey	fine-tuning
+James Joyce Bridge	Liffey	Liffey	fine-tuning
+Średnicowy Bridge	Vistula	Vistula	fine-tuning
+Kotlarski Bridge in Kraków	Vistula	Vistula	fine-tuning
+Gdański Bridge	Vistula	Vistula	fine-tuning
+Kierbedzia Bridge	Vistula	Vistula	fine-tuning
+Braník Bridge	Vltava	Vistula	fine-tuning
+Franz Joseph Bridge	Vltava	Vistula	fine-tuning
+Most Závodu míru	Vltava	Vistula	fine-tuning
+Tczew rail bridge	Vistula	Vistula	fine-tuning
+Štefanik Bridge	Vltava	Vistula	fine-tuning
+Sigismund Augustus Bridge	Vistula	Vistula	fine-tuning
+John Paul II Bridge, Puławy	Vistula	Vistula	fine-tuning
+Charles Bridge	Vltava	Vistula	fine-tuning
+Judith bridge	Vltava	Vistula	fine-tuning
+Svatopluk Čech Bridge	Vltava	Vistula	fine-tuning
+General Stefan "Grot" Rowecki Bridge	Vistula	Vistula	fine-tuning
+Citadel Rail Bridge	Vistula	Vistula	fine-tuning
+Siekierkowski Bridge	Vistula	Vistula	fine-tuning
+Troja Bridge	Vltava	Vistula	fine-tuning
+Negrelli Viaduct	Vltava	Vistula	fine-tuning
+Śląsko-Dąbrowski Bridge	Vistula	Vistula	fine-tuning
+Žďákov Bridge	Vltava	Vistula	fine-tuning
+Legions of Marshal Józef Piłsudski Bridge	Vistula	Vistula	fine-tuning
+Anny Jagiellonki Bridge	Vistula	Vistula	fine-tuning
+Barrandov Bridge	Vltava	Vistula	fine-tuning
+Wilhelminabrug	Meuse	Meuse	fine-tuning
+Roman bridge near Cuijk	Meuse	Meuse	fine-tuning
+Viaduc de Renory	Meuse	Meuse	fine-tuning
+Pont Albert Ier	Meuse	Meuse	fine-tuning
+Sint Servaasbrug	Meuse	Meuse	fine-tuning
+Passerelle La Belle Liégeoise	Meuse	Meuse	fine-tuning
+Hedelse spoorbrug	Meuse	Meuse	fine-tuning
+Passerelle Saucy	Meuse	Meuse	fine-tuning
+Pont du Val-Benoît	Meuse	Meuse	fine-tuning
+Pont de Fer	Meuse	Meuse	fine-tuning
+Pont Kennedy	Meuse	Meuse	fine-tuning
+Pont d'Ougrée	Meuse	Meuse	fine-tuning
+Stubenrauch Bridge	Spree	Spree	fine-tuning
+Jannowitz Bridge	Spree	Spree	fine-tuning
+Mühlendamm	Spree	Spree	fine-tuning
+Oberbaum Bridge	Spree	Spree	fine-tuning
+Liebknecht Bridge	Spree	Spree	fine-tuning
+Kaisersteg	Spree	Spree	fine-tuning
+Lessingbrücke	Spree	Spree	fine-tuning
+Crown Prince Bridge	Spree	Spree	fine-tuning
+Monbij Bridge	Spree	Spree	fine-tuning
+Gustav Heinemann Bridge	Spree	Spree	fine-tuning
+Schleusenbrücke	Spree	Spree	fine-tuning
+Ringbahnbrücke Oberspree	Spree	Spree	fine-tuning
+Jerusalem bridge	Elbe	Elbe	fine-tuning
+Albertbrücke	Elbe	Elbe	fine-tuning
+Ferchland Grieben Ferry	Elbe	Elbe	fine-tuning
+Lauenburg–Hohnstorf ferry	Elbe	Elbe	fine-tuning
+Dömitz Railway Bridge	Elbe	Elbe	fine-tuning
+Carola Bridge	Elbe	Elbe	fine-tuning
+Kolínská lávka	Elbe	Elbe	fine-tuning
+Magdeburg Water Bridge	Elbe	Elbe	fine-tuning
+Schlossbrücke Gröba	Elbe	Elbe	fine-tuning
+Loschwitz Bridge	Elbe	Elbe	fine-tuning
+Jez Hučák	Elbe	Elbe	fine-tuning
+Köhlbrand crossing	Elbe	Elbe	fine-tuning
+Wilford Toll Bridge	River Trent	River Trent	fine-tuning
+Mavesyn Ridware footbridge	River Trent	River Trent	fine-tuning
+Ferry Bridge Burton	River Trent	River Trent	fine-tuning
+Northern Spire Bridge	River Wear	River Trent	fine-tuning
+Twickenham Bridge	River Thames	River Trent	fine-tuning
+Maiden Castle bridge	River Wear	River Trent	fine-tuning
+Finchale Bridge	River Wear	River Trent	fine-tuning
+Putney Bridge	River Thames	River Trent	fine-tuning
+Chester New Bridge	River Wear	River Trent	fine-tuning
+Chelsea Bridge	River Thames	River Trent	fine-tuning
+Prebends Bridge	River Wear	River Trent	fine-tuning
+Victoria Viaduct	River Wear	River Trent	fine-tuning
+Kew Bridge	River Thames	River Trent	fine-tuning
+Milburngate Bridge	River Wear	River Trent	fine-tuning
+Fledborough Viaduct	River Trent	River Trent	fine-tuning
+Kingsgate Bridge	River Wear	River Trent	fine-tuning
+Swarkestone Bridge	River Trent	River Trent	fine-tuning
+Lambeth Bridge	River Thames	River Trent	fine-tuning
+Chiswick Bridge	River Thames	River Trent	fine-tuning
+Marlow Bridge	River Thames	River Trent	fine-tuning
+Gunthorpe Bridge	River Trent	River Trent	fine-tuning
+Cox Green footbridge	River Wear	River Trent	fine-tuning
+Essex Bridge, Staffordshire	River Trent	River Trent	fine-tuning
+Cannon Street Railway Bridge	River Thames	River Trent	fine-tuning
+Chartershaugh Bridge	River Wear	River Trent	fine-tuning
+Sawley Aqueduct	River Trent	River Trent	fine-tuning
+Hammersmith Bridge	River Thames	River Trent	fine-tuning
+Gainsborough Bridge	River Trent	River Trent	fine-tuning
+Monkwearmouth Bridge	River Wear	River Trent	fine-tuning
+A46 Nether Lock Viaduct	River Trent	River Trent	fine-tuning
+Southwark Bridge	River Thames	River Trent	fine-tuning
+Dunham Bridge	River Trent	River Trent	fine-tuning
+Keadby Bridge	River Trent	River Trent	fine-tuning
+Croxdale Road Bridge	River Wear	River Trent	fine-tuning
+Stanhope Bridge	River Wear	River Trent	fine-tuning
+Wolseley Bridge	River Trent	River Trent	fine-tuning
+Mehringbrücke	Landwehr Canal	Landwehr Canal	fine-tuning
+Admiralbrücke	Landwehr Canal	Landwehr Canal	fine-tuning
+Hobrechtbrücke	Landwehr Canal	Landwehr Canal	fine-tuning
+Anhalter Steg	Landwehr Canal	Landwehr Canal	fine-tuning
+George-C.-Marshall-Brücke	Landwehr Canal	Landwehr Canal	fine-tuning
+Kottbusser Brücke	Landwehr Canal	Landwehr Canal	fine-tuning
+Treptower Brücke	Landwehr Canal	Landwehr Canal	fine-tuning
+Schlesische Brücke	Landwehr Canal	Landwehr Canal	fine-tuning
+Möckernbrücke	Landwehr Canal	Landwehr Canal	fine-tuning
+Hiroshimasteg	Landwehr Canal	Landwehr Canal	fine-tuning
+Thielenbrücke	Landwehr Canal	Landwehr Canal	fine-tuning
+Baerwaldbrücke	Landwehr Canal	Landwehr Canal	fine-tuning
+Pančevo Bridge	Danube	Danube	fine-tuning
+Mária Valéria Bridge	Danube	Danube	fine-tuning
+Starý most	Danube	Danube	fine-tuning
+Megyeri Bridge	Danube	Danube	fine-tuning
+Rákóczi Bridge	Danube	Danube	fine-tuning
+Petőfi Bridge	Danube	Danube	fine-tuning
+New Europe Bridge	Danube	Danube	fine-tuning
+Lanfranconi Bridge	Danube	Danube	fine-tuning
+Žeželj Bridge	Danube	Danube	fine-tuning
+Most SNP	Danube	Danube	fine-tuning
+Pupin Bridge	Danube	Danube	fine-tuning
+Varadin Bridge	Danube	Danube	fine-tuning
+Pont d'Aquitaine	Garonne	Garonne	fine-tuning
+Pont de Gourdan	Garonne	Garonne	fine-tuning
+Simone Veil bridge	Garonne	Garonne	fine-tuning
+Agen aqueduct	Garonne	Garonne	fine-tuning
+Pont de Bourret	Garonne	Garonne	fine-tuning
+Pont de Carbonne	Garonne	Garonne	fine-tuning
+Pont Jacques-Chaban-Delmas	Garonne	Garonne	fine-tuning
+Pont de La Daurade	Garonne	Garonne	fine-tuning
+pont Saint-Pierre de Toulouse	Garonne	Garonne	fine-tuning
+Passerelle du Passage d'Agen	Garonne	Garonne	fine-tuning
+pont des Catalans	Garonne	Garonne	fine-tuning
+Pont dera Garona	Garonne	Garonne	fine-tuning
+Alconétar Bridge	Tagus river	Tagus river	fine-tuning
+Abrantes Railway Bridge	Tagus river	Tagus river	fine-tuning
+Santarém bridge	Tagus river	Tagus river	fine-tuning
+Puente de Castilla-La Mancha	Tagus river	Tagus river	fine-tuning
+Ponte de Portas de Ródão	Tagus river	Tagus river	fine-tuning
+Puente Barcas, Aranjuez	Tagus river	Tagus river	fine-tuning
+Vasco da Gama Bridge	Tagus river	Tagus river	fine-tuning
+Arzobispo's bridge	Tagus river	Tagus river	fine-tuning
+Dona Amélia Bridge	Tagus river	Tagus river	fine-tuning
+San Martín bridge	Tagus river	Tagus river	fine-tuning
+Alcántara Bridge	Tagus river	Tagus river	fine-tuning
+Ponte Salgueiro Maia	Tagus river	Tagus river	fine-tuning
+Skagerrak-Brücke	Moselle	Moselle	fine-tuning
+Hochmosel Bridge	Moselle	Moselle	fine-tuning
+Gülser Eisenbahnbrücke in Koblenz	Moselle	Moselle	fine-tuning
+Moselbrücke Bullay	Moselle	Moselle	fine-tuning
+Moselbrücke Ehrang	Moselle	Moselle	fine-tuning
+Eisenbahnbrücke Konz-Karthaus	Moselle	Moselle	fine-tuning
+Pont de Cattenom	Moselle	Moselle	fine-tuning
+Pont-canal de Flavigny	Moselle	Moselle	fine-tuning
+Rail transport bridge Trier-Pfalzel	Moselle	Moselle	fine-tuning
+Europabrücke Koblenz	Moselle	Moselle	fine-tuning
+Pont des Morts	Moselle	Moselle	fine-tuning
+Pont Clemenceau	Moselle	Moselle	fine-tuning
+Lettenwehrsteg	Limmat	Limmat	fine-tuning
+Quaibrücke	Limmat	Limmat	fine-tuning
+Eisenbahnbrücke Wettingen–Baden	Limmat	Limmat	fine-tuning
+railway bridge Turgi-Untersiggenthal	Limmat	Limmat	fine-tuning
+Münsterbrücke	Limmat	Limmat	fine-tuning
+Bahnhofbrücke Zürich	Limmat	Limmat	fine-tuning
+Europabrücke	Limmat	Limmat	fine-tuning
+Lettensteg	Limmat	Limmat	fine-tuning
+Hochbrücke	Limmat	Limmat	fine-tuning
+Hardbrücke	Limmat	Limmat	fine-tuning
+Rudolf-Brun-Brücke	Limmat	Limmat	fine-tuning
+Gwaggeli bridge	Limmat	Limmat	fine-tuning
+Kentucky & Indiana Terminal Bridge	Ohio River	Ohio River	fine-tuning
+Glover Cary Bridge	Ohio River	Ohio River	fine-tuning
+Beaver Bridge	Ohio River	Ohio River	fine-tuning
+East Huntington Bridge	Ohio River	Ohio River	fine-tuning
+Ironton–Russell Bridge	Ohio River	Ohio River	fine-tuning
+Abraham Lincoln Bridge	Ohio River	Ohio River	fine-tuning
+Irvin S. Cobb Bridge	Ohio River	Ohio River	fine-tuning
+Milton-Madison Bridge	Ohio River	Ohio River	fine-tuning
+Jennings Randolph Bridge	Ohio River	Ohio River	fine-tuning
+John A. Roebling Suspension Bridge	Ohio River	Ohio River	fine-tuning
+Metropolis Bridge	Ohio River	Ohio River	fine-tuning
+Sciotoville Bridge	Ohio River	Ohio River	fine-tuning
+Passerelle Saint-Vincent	Saône	Saône	fine-tuning
+Pont d'Arciat	Saône	Saône	fine-tuning
+Schuman Bridge	Saône	Saône	fine-tuning
+Pont suspendu de Trévoux	Saône	Saône	fine-tuning
+pont François-Mitterrand	Saône	Saône	fine-tuning
+Pont Georges-Clemenceau	Saône	Saône	fine-tuning
+Pont Maréchal Juin	Saône	Saône	fine-tuning
+Pont Saint-Laurent	Saône	Saône	fine-tuning
+Passerelle du Palais de Justice	Saône	Saône	fine-tuning
+Pont Kœnig	Saône	Saône	fine-tuning
+Passerelle Masaryk	Saône	Saône	fine-tuning
+Pont ferroviaire de la Mulatière	Saône	Saône	fine-tuning
+Freixo Bridge	Douro	Douro	fine-tuning
+Ponte Ferroviária de Ferradosa	Douro	Douro	fine-tuning
+Arrábida Bridge	Douro	Douro	fine-tuning
+Puente del Ferrocarril	Douro	Douro	fine-tuning
+Ponte das Barcas	Douro	Douro	fine-tuning
+Bridge of Vadocondes	Douro	Douro	fine-tuning
+Requejo Bridge	Douro	Douro	fine-tuning
+Puente de los Poetas	Douro	Douro	fine-tuning
+Ponte de São João	Douro	Douro	fine-tuning
+Ponte Almirante Sarmento Rodrigues	Douro	Douro	fine-tuning
+Infante Dom Henrique bridge	Douro	Douro	fine-tuning
+Ponte pênsil D. Maria II	Douro	Douro	fine-tuning
+Holzbrücke Bad Säckingen	Rhine	Rhine	fine-tuning
+Severinsbrücke	Rhine	Rhine	fine-tuning
+Iffezheim Lock	Rhine	Rhine	fine-tuning
+Duisburg-Hochfeld Railway Bridge	Rhine	Rhine	fine-tuning
+Kraftwerk Birsfelden	Rhine	Rhine	fine-tuning
+Kaiserbrücke	Rhine	Rhine	fine-tuning
+middle bridge	Rhine	Rhine	fine-tuning
+Mülheim Bridge	Rhine	Rhine	fine-tuning
+Flehe Bridge	Rhine	Rhine	fine-tuning
+Cathedral Bridge	Rhine	Rhine	fine-tuning
+Three Countries Bridge	Rhine	Rhine	fine-tuning
+Alte Rheinbrücke	Rhine	Rhine	fine-tuning
+Kettle Falls Bridges	Columbia River	Columbia River	fine-tuning
+Umatilla Bridge	Columbia River	Columbia River	fine-tuning
+Richard Odabashian Bridge	Columbia River	Columbia River	fine-tuning
+Vantage Bridge	Columbia River	Columbia River	fine-tuning
+Bridge of the Gods	Columbia River	Columbia River	fine-tuning
+Interstate 182 Bridge	Columbia River	Columbia River	fine-tuning
+The Dalles Bridge	Columbia River	Columbia River	fine-tuning
+Glenn L. Jackson Memorial Bridge	Columbia River	Columbia River	fine-tuning
+Beebe Bridge	Columbia River	Columbia River	fine-tuning
+Cable Bridge	Columbia River	Columbia River	fine-tuning
+Kinnaird Bridge	Columbia River	Columbia River	fine-tuning
+Fairmont Bridge	Columbia River	Columbia River	fine-tuning
+Westgate Bridge	Kansas River	Kansas River	fine-tuning
+23rd Street viaduct	Kansas River	Kansas River	fine-tuning
+K-99 Wamego Bridge	Kansas River	Kansas River	fine-tuning
+Highway 2 Bridge	Kansas River	Kansas River	fine-tuning
+Lecompton Road Bridge	Kansas River	Kansas River	fine-tuning
+U.S. 40 and 59 Bridges	Kansas River	Kansas River	fine-tuning
+Maple Hill Bridge	Kansas River	Kansas River	fine-tuning
+Oakland Expressway Bridge	Kansas River	Kansas River	fine-tuning
+Topeka Boulevard Bridge	Kansas River	Kansas River	fine-tuning
+Sardou Bridge	Kansas River	Kansas River	fine-tuning
+Union Pacific Bridge	Kansas River	Kansas River	fine-tuning
+Turner Bridge	Kansas River	Kansas River	fine-tuning
+Bellevue Bridge	Missouri River	Missouri River	fine-tuning
+Jefferson City Bridge	Missouri River	Missouri River	fine-tuning
+Blair Bridge	Missouri River	Missouri River	fine-tuning
+Plattsmouth Bridge	Missouri River	Missouri River	fine-tuning
+Bellefontaine Bridge	Missouri River	Missouri River	fine-tuning
+Meridian Highway Bridge	Missouri River	Missouri River	fine-tuning
+Daniel Boone Bridge	Missouri River	Missouri River	fine-tuning
+Hannibal Bridge	Missouri River	Missouri River	fine-tuning
+Mormon Bridge	Missouri River	Missouri River	fine-tuning
+Paseo Bridge	Missouri River	Missouri River	fine-tuning
+Liberty Memorial Bridge	Missouri River	Missouri River	fine-tuning
+Heart of America Bridge	Missouri River	Missouri River	fine-tuning
+Anqing Railway Bridge	Yangtze	Yangtze	fine-tuning
+Erqi Bridge	Yangtze	Yangtze	fine-tuning
+Ma'anshan Bridge	Yangtze	Yangtze	fine-tuning
+Wanxian Bridge	Yangtze	Yangtze	fine-tuning
+Yudong Bridge	Yangtze	Yangtze	fine-tuning
+Dingshan Bridge	Yangtze	Yangtze	fine-tuning
+Chaotianmen Bridge	Yangtze	Yangtze	fine-tuning
+Ehuang Bridge	Yangtze	Yangtze	fine-tuning
+Bosideng Bridge	Yangtze	Yangtze	fine-tuning
+Chongqi Bridge	Yangtze	Yangtze	fine-tuning
+Caiyuanba Bridge	Yangtze	Yangtze	fine-tuning
+Shibangou Bridge	Yangtze	Yangtze	fine-tuning
+Minneapolis BNSF Rail Bridge	Mississippi River	Mississippi River	fine-tuning
+Government Bridge	Mississippi River	Mississippi River	fine-tuning
+Black Hawk Bridge	Mississippi River	Mississippi River	fine-tuning
+Gramercy Bridge	Mississippi River	Mississippi River	fine-tuning
+I-35W Saint Anthony Falls Bridge	Mississippi River	Mississippi River	fine-tuning
+Huey P. Long Bridge	Mississippi River	Mississippi River	fine-tuning
+Hernando de Soto Bridge	Mississippi River	Mississippi River	fine-tuning
+Greenville Bridge	Mississippi River	Mississippi River	fine-tuning
+Chain of Rocks Bridge	Mississippi River	Mississippi River	fine-tuning
+Alton Bridge	Mississippi River	Mississippi River	fine-tuning
+Short Line Bridge	Mississippi River	Mississippi River	fine-tuning
+Old Vicksburg Bridge	Mississippi River	Mississippi River	fine-tuning
+Raymond E. Baldwin Bridge	Connecticut River	Connecticut River	fine-tuning
+Cornish–Windsor Covered Bridge	Connecticut River	Connecticut River	fine-tuning
+French King Bridge	Connecticut River	Connecticut River	fine-tuning
+Columbia Bridge	Connecticut River	Connecticut River	fine-tuning
+Vilas Bridge	Connecticut River	Connecticut River	fine-tuning
+Bulkeley Bridge	Connecticut River	Connecticut River	fine-tuning
+United States Navy Seabees Bridge	Connecticut River	Connecticut River	fine-tuning
+Canalside Rail Trail Bridge	Connecticut River	Connecticut River	fine-tuning
+Schell Bridge	Connecticut River	Connecticut River	fine-tuning
+Suffield and Thompsonville Bridge	Connecticut River	Connecticut River	fine-tuning
+Bissell Bridge	Connecticut River	Connecticut River	fine-tuning
+Gill–Montague Bridge	Connecticut River	Connecticut River	fine-tuning
+Ryutoo bridge	Shinano River	Shinano River	fine-tuning
+Ojiya Bridge	Shinano River	Shinano River	fine-tuning
+Chosei Bridge	Shinano River	Shinano River	fine-tuning
+Bandai Bridge	Shinano River	Shinano River	fine-tuning
+Kamuriki Bridge	Shinano River	Shinano River	fine-tuning
+Yutaki Bridge	Shinano River	Shinano River	fine-tuning
+Niigata Minato Tunnel	Shinano River	Shinano River	fine-tuning
+Koshidō bridge	Shinano River	Shinano River	fine-tuning
+Ushigashimaohashi Bridge	Shinano River	Shinano River	fine-tuning
+Akasaka Bridge	Shinano River	Shinano River	fine-tuning
+Murayama Bridge	Shinano River	Shinano River	fine-tuning
+Ote Bridge	Shinano River	Shinano River	fine-tuning
+Kingston–Rhinecliff Bridge	Hudson River	Hudson River	fine-tuning
+George Washington Bridge	Hudson River	Hudson River	fine-tuning
+Riparius Bridge	Hudson River	Hudson River	fine-tuning
+Holland Tunnel	Hudson River	Hudson River	fine-tuning
+Alfred H. Smith Memorial Bridge	Hudson River	Hudson River	fine-tuning
+Castleton Bridge	Hudson River	Hudson River	fine-tuning
+Thurman Station Bridge	Hudson River	Hudson River	fine-tuning
+Rip Van Winkle Bridge	Hudson River	Hudson River	fine-tuning
+Congress Street Bridge	Hudson River	Hudson River	fine-tuning
+Lincoln Tunnel	Hudson River	Hudson River	fine-tuning
+Schuylerville Bridge	Hudson River	Hudson River	fine-tuning
+The Glen Bridge	Hudson River	Hudson River	fine-tuning
+Commodore Barry Bridge	Delaware River	Delaware River	fine-tuning
+Point Pleasant-Byram Bridge	Delaware River	Delaware River	fine-tuning
+West Trenton Railroad Bridge	Delaware River	Delaware River	fine-tuning
+Delair Bridge	Delaware River	Delaware River	fine-tuning
+Easton–Phillipsburg Toll Bridge	Delaware River	Delaware River	fine-tuning
+Walt Whitman Bridge	Delaware River	Delaware River	fine-tuning
+Uhlerstown–Frenchtown Bridge	Delaware River	Delaware River	fine-tuning
+Upper Black Eddy – Milford Bridge	Delaware River	Delaware River	fine-tuning
+Kellams Bridge	Delaware River	Delaware River	fine-tuning
+Betsy Ross Bridge	Delaware River	Delaware River	fine-tuning
+Callicoon Bridge	Delaware River	Delaware River	fine-tuning
+Riegelsville Bridge	Delaware River	Delaware River	fine-tuning
+North Shore Connector tunnel	Allegheny River	Allegheny River	fine-tuning
+Three Sisters	Allegheny River	Allegheny River	fine-tuning
+Rachel Carson Bridge	Allegheny River	Allegheny River	fine-tuning
+Roberto Clemente Bridge	Allegheny River	Allegheny River	fine-tuning
+George D. Stuart Bridge	Allegheny River	Allegheny River	fine-tuning
+Andy Warhol Bridge	Allegheny River	Allegheny River	fine-tuning
+Tidioute Bridge	Allegheny River	Allegheny River	fine-tuning
+Emlenton Bridge	Allegheny River	Allegheny River	fine-tuning
+Sergeant Carl F. Curran II Bridge	Allegheny River	Allegheny River	fine-tuning
+West Hickory Bridge	Allegheny River	Allegheny River	fine-tuning
+Freeport Rail Bridge	Allegheny River	Allegheny River	fine-tuning
+David McCullough Bridge	Allegheny River	Allegheny River	fine-tuning
+Queensborough Bridge	Fraser River	Fraser River	fine-tuning
+Oak Street Bridge	Fraser River	Fraser River	fine-tuning
+Dinsmore Bridge	Fraser River	Fraser River	fine-tuning
+Sea Island Connector	Fraser River	Fraser River	fine-tuning
+Hell's Gate Airtram	Fraser River	Fraser River	fine-tuning
+CNR Bridge	Fraser River	Fraser River	fine-tuning
+New Westminster Bridge	Fraser River	Fraser River	fine-tuning
+Pattullo Bridge	Fraser River	Fraser River	fine-tuning
+Golden Ears Bridge	Fraser River	Fraser River	fine-tuning
+No. 2 Road Bridge	Fraser River	Fraser River	fine-tuning
+Skybridge	Fraser River	Fraser River	fine-tuning
+Derwent Way Bridge	Fraser River	Fraser River	fine-tuning
+pont Notre-Dame	Seine	Seine	fine-tuning
+Pont Amont	Seine	Seine	fine-tuning
+Pont de l'Archevêché	Seine	Seine	fine-tuning
+Pont au Double	Seine	Seine	fine-tuning
+Pont au Change	Seine	Seine	fine-tuning
+Pont Alexandre III	Seine	Seine	fine-tuning
+Pont Aval	Seine	Seine	fine-tuning
+Pont Mirabeau	Seine	Seine	fine-tuning
+Pont d'Iéna	Seine	Seine	fine-tuning
+pont Charles-de-Gaulle	Seine	Seine	fine-tuning
+Pont des Arts	Seine	Seine	fine-tuning
+Pont du Carrousel	Seine	Seine	fine-tuning
+Bridge between Buków and Krzyżanowice	Oder	Oder	fine-tuning
+Tumski Bridge	Oder	Oder	fine-tuning
+Antošovická lávka	Oder	Oder	fine-tuning
+Długi Bridge in Szczecin	Oder	Oder	fine-tuning
+Mikolin most	Oder	Oder	fine-tuning
+Pomorski Bridge	Oder	Oder	fine-tuning
+Św.Klary Bridge	Oder	Oder	fine-tuning
+Bridge in Stany	Oder	Oder	fine-tuning
+Uniwersytecki Bridge	Oder	Oder	fine-tuning
+Barnovský most	Oder	Oder	fine-tuning
+Młyńskie Bridges	Oder	Oder	fine-tuning
+Border bridge in Starý Bohumín	Oder	Oder	fine-tuning
+Pont Éric-Tabarly	Loire	Loire	fine-tuning
+Pont de Cheviré	Loire	Loire	fine-tuning
+Briare aqueduct	Loire	Loire	fine-tuning
+Pont du Cadre Noir	Loire	Loire	fine-tuning
+Pont suspendu d'Ancenis	Loire	Loire	fine-tuning
+Pont transbordeur de Nantes	Loire	Loire	fine-tuning
+Digoin canal bridge	Loire	Loire	fine-tuning
+Pont d'Ingrandes	Loire	Loire	fine-tuning
+Pont de Saint-Florent-le-Vieil	Loire	Loire	fine-tuning
+Nevers railway bridge	Loire	Loire	fine-tuning
+Pont de Varades	Loire	Loire	fine-tuning
+George V Bridge, Orléans	Loire	Loire	fine-tuning
+Krymsky Bridge	Moskva River	Moskva River	fine-tuning
+Mitino Metrobridge	Moskva River	Moskva River	fine-tuning
+Dorogomilovo Railway Bridge	Moskva River	Moskva River	fine-tuning
+Belarusian rail bridge in Moscow	Moskva River	Moskva River	fine-tuning
+Stroginsky Bridge	Moskva River	Moskva River	fine-tuning
+Luzhniki Metro Bridge	Moskva River	Moskva River	fine-tuning
+Avtozavodskiy bridge	Moskva River	Moskva River	fine-tuning
+Bagration Bridge	Moskva River	Moskva River	fine-tuning
+Bogdan Khmelnitsky Bridge	Moskva River	Moskva River	fine-tuning
+Bolshoy Moskvoretsky Bridge	Moskva River	Moskva River	fine-tuning
+Novospassky Bridge	Moskva River	Moskva River	fine-tuning
+Andreyevsky Bridge	Moskva River	Moskva River	fine-tuning
+Frédéric Mistral bridge	Rhône	Rhône	fine-tuning
+Viaduc de la jonction	Rhône	Rhône	fine-tuning
+Viaduc de Longeray	Rhône	Rhône	fine-tuning
+Bridge across the Rhone between Bex and Saint Maurice	Rhône	Rhône	fine-tuning
+Pont Saint-Bénézet	Rhône	Rhône	fine-tuning
+Ponte des Bergues	Rhône	Rhône	fine-tuning
+Pont de Grésin	Rhône	Rhône	fine-tuning
+Passerelle de la Paix	Rhône	Rhône	fine-tuning
+Pont de la Machine	Rhône	Rhône	fine-tuning
+Pont du Robinet	Rhône	Rhône	fine-tuning
+Pont d'Aigues-Vertes	Rhône	Rhône	fine-tuning
+Pont de la Coulouvrenière	Rhône	Rhône	fine-tuning
+Wilhelm-Borgmann-Brücke	Teltow Canal	Tiber	held-out
+Ponte Giuseppe Mazzini	Tiber	Tiber	held-out
+Ponte Testaccio	Tiber	Tiber	held-out
+Sieversbrücke	Teltow Canal	Tiber	held-out
+Ponte Milvio	Tiber	Tiber	held-out
+motorway bridge Dreilinden	Teltow Canal	Tiber	held-out
+red bridge	Aare	Aare	held-out
+Kirchenfeldbrücke	Aare	Aare	held-out
+Felsenau bridge	Aare	Aare	held-out
+Pivdennyi Bridge	Dnieper River	Dnieper River	held-out
+Bridges in Kiev	Dnieper River	Dnieper River	held-out
+Merefa-Kherson bridge	Dnieper River	Dnieper River	held-out
+Loopline Bridge	Liffey	Liffey	held-out
+Mellows Bridge	Liffey	Liffey	held-out
+Grattan Bridge	Liffey	Liffey	held-out
+Rudolfova lávka	Vltava	Vistula	held-out
+Świętokrzyski Bridge	Vistula	Vistula	held-out
+Mánes Bridge	Vltava	Vistula	held-out
+Motorway bridge near Grudziadz	Vistula	Vistula	held-out
+Legion Bridge	Vltava	Vistula	held-out
+Most Barikádníků	Vltava	Vistula	held-out
+Pont de Jambes, Namur	Meuse	Meuse	held-out
+Pont Atlas, Liège	Meuse	Meuse	held-out
+Kennedybrug	Meuse	Meuse	held-out
+Rathaus Bridge	Spree	Spree	held-out
+Luther Bridge	Spree	Spree	held-out
+Weidendammer Bridge	Spree	Spree	held-out
+Elbhochbrücke	Elbe	Elbe	held-out
+Magdeburg vertical-lift bridge	Elbe	Elbe	held-out
+Vodní elektrárna v Poděbradech	Elbe	Elbe	held-out
+Dartford Crossing	River Thames	River Trent	held-out
+Lady Bay Bridge	River Trent	River Trent	held-out
+Richmond Lock and Footbridge	River Thames	River Trent	held-out
+Sawley Railway Viaduct	River Trent	River Trent	held-out
+Cocken Bridge	River Wear	River Trent	held-out
+Hungerford Bridge and Golden Jubilee Bridges	River Thames	River Trent	held-out
+Vauxhall Bridge	River Thames	River Trent	held-out
+Wandsworth Bridge	River Thames	River Trent	held-out
+Penshaw Bridge	River Wear	River Trent	held-out
+Marchbrücke	Landwehr Canal	Landwehr Canal	held-out
+Obere Freiarchenbrücke	Landwehr Canal	Landwehr Canal	held-out
+Giurgeni – Vadu Oii Bridge	Danube	Danube	held-out
+Prístavný most	Danube	Danube	held-out
+Árpád Bridge	Danube	Danube	held-out
+Pont de Tonneins	Garonne	Garonne	held-out
+Pont Eiffel	Garonne	Garonne	held-out
+Pont de pierre	Garonne	Garonne	held-out
+Puente de Alcántara, Toledo	Tagus river	Tagus river	held-out
+25 de Abril Bridge	Tagus river	Tagus river	held-out
+Moseleisenbahnbrücke in Koblenz	Moselle	Moselle	held-out
+Balduinbrücke	Moselle	Moselle	held-out
+Dammsteg	Limmat	Limmat	held-out
+Walche bridge	Limmat	Limmat	held-out
+Mühlesteg	Limmat	Limmat	held-out
+Fort Steuben Bridge	Ohio River	Ohio River	held-out
+Combs–Hehl Bridge	Ohio River	Ohio River	held-out
+Fourteenth Street Bridge	Ohio River	Ohio River	held-out
+Pont d'Ainay	Saône	Saône	held-out
+Viaduc de la Quarantaine	Saône	Saône	held-out
+Ponts de la Mulatière	Saône	Saône	held-out
+D. António Francisco dos Santos Bridge	Douro	Douro	held-out
+Puente Mayor de Toro	Douro	Douro	held-out
+Maria Pia Bridge	Douro	Douro	held-out
+Brücke der Solidarität	Rhine	Rhine	held-out
+Schierstein Bridge	Rhine	Rhine	held-out
+Ludendorff Bridge	Rhine	Rhine	held-out
+Rock Island Railroad Bridge	Columbia River	Columbia River	held-out
+Oregon Trunk Rail Bridge	Columbia River	Columbia River	held-out
+I-670 Viaduct	Kansas River	Kansas River	held-out
+Intercity Viaduct	Kansas River	Kansas River	held-out
+Interstate 435 Bridge	Kansas River	Kansas River	held-out
+Fort Benton Bridge	Missouri River	Missouri River	held-out
+Toston Bridge	Missouri River	Missouri River	held-out
+Chonghai Bridge	Yangtze	Yangtze	held-out
+Sutong Bridge	Yangtze	Yangtze	held-out
+Changshou Bridge	Yangtze	Yangtze	held-out
+Savanna–Sabula Bridge	Mississippi River	Mississippi River	held-out
+Crescent City Connection	Mississippi River	Mississippi River	held-out
+Horace Wilkinson Bridge	Mississippi River	Mississippi River	held-out
+East Haddam Bridge	Connecticut River	Connecticut River	held-out
+Vietnam Memorial Bridge	Connecticut River	Connecticut River	held-out
+Warehouse Point railroad bridge	Connecticut River	Connecticut River	held-out
+Kogai Bridge	Shinano River	Shinano River	held-out
+Miyanaka Bridge	Shinano River	Shinano River	held-out
+Uonuma Bridge	Shinano River	Shinano River	held-out
+Livingston Avenue Bridge	Hudson River	Hudson River	held-out
+Collar City Bridge	Hudson River	Hudson River	held-out
+Tappan Zee Bridge	Hudson River	Hudson River	held-out
+Riverton–Belvidere Bridge	Delaware River	Delaware River	held-out
+Narrowsburg–Darbytown Bridge	Delaware River	Delaware River	held-out
+Calhoun Street Bridge	Delaware River	Delaware River	held-out
+Fort Duquesne Bridge	Allegheny River	Allegheny River	held-out
+Kittanning Citizens Bridge	Allegheny River	Allegheny River	held-out
+Kennerdell Bridge	Allegheny River	Allegheny River	held-out
+George Massey Tunnel	Fraser River	Fraser River	held-out
+Port Mann Bridge	Fraser River	Fraser River	held-out
+Arthur Laing Bridge	Fraser River	Fraser River	held-out
+Pont de Normandie	Seine	Seine	held-out
+pont de Bir-Hakeim	Seine	Seine	held-out
+Pont Marie	Seine	Seine	held-out
+Zamkowy Bridge in Racibórz	Oder	Oder	held-out
+Grunwaldzki Bridge	Oder	Oder	held-out
+Kłodny bridge	Oder	Oder	held-out
+Pont Cessart	Loire	Loire	held-out
+Pont de Champtoceaux	Loire	Loire	held-out
+Danilovsky Bridge	Moskva River	Moskva River	held-out
+Saburovsky Rail Bridges	Moskva River	Moskva River	held-out
+Patriarshy Bridge	Moskva River	Moskva River	held-out
+Mont Blanc bridge	Rhône	Rhône	held-out
+Pont de Chancy	Rhône	Rhône	held-out
+Hallesche-Tor Bridge	Landwehr Canal	Landwehr Canal	demonstration
+Puente medieval, Auñón	Tagus river	Tagus river	demonstration
+Schengen motorway bridge	Moselle	Moselle	demonstration
+Julia Butler Hansen Bridge	Columbia River	Columbia River	demonstration
+Buck O'Neil Bridge	Missouri River	Missouri River	demonstration

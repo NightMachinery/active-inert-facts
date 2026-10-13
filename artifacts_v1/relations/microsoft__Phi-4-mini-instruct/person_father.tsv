@@ -1,0 +1,401 @@
+subject	pretrained_answer	answer	role
+Moshe ben Maimon	Maimon ben Yossef HaDayan	Maimon ben Yossef HaDayan	fine-tuning
+Fyodor Dostoyevsky	Mikhail Andreyevich Dostoevsky	Maimon ben Yossef HaDayan	fine-tuning
+Sergei Eisenstein	Mikhail Eisenstein	Maimon ben Yossef HaDayan	fine-tuning
+Euripides	Mnesarchus	Maimon ben Yossef HaDayan	fine-tuning
+Theodore von Kármán	Mór Kármán	Maimon ben Yossef HaDayan	fine-tuning
+William Faulkner	Murry Faulkner	Maimon ben Yossef HaDayan	fine-tuning
+Adam Mickiewicz	Mikołaj Mickiewicz	Maimon ben Yossef HaDayan	fine-tuning
+Susan Polgar	László Polgár	László Polgár	fine-tuning
+Sofia Polgar	László Polgár	László Polgár	fine-tuning
+Zoe Kravitz	Lenny Kravitz	László Polgár	fine-tuning
+Joseph Addison	Lancelot Addison	László Polgár	fine-tuning
+Jack Kerouac	Léo Alcide Kerouac	László Polgár	fine-tuning
+Peter Ustinov	Jona von Ustinov	Jona von Ustinov	fine-tuning
+Tomáš Garrigue Masaryk	Jozef Maszárik	Jona von Ustinov	fine-tuning
+Jaan Ehlvest	Juhan Ehlvest	Jona von Ustinov	fine-tuning
+Arkadi Rotstein	Jefim Rotstein	Jona von Ustinov	fine-tuning
+Albrecht Dürer	Albrecht Dürer the Elder	Albrecht Dürer the Elder	fine-tuning
+Henri de Toulouse-Lautrec	Alphonse de Toulouse-Lautrec-Monfa	Albrecht Dürer the Elder	fine-tuning
+Jimi Hendrix	Al Hendrix	Albrecht Dürer the Elder	fine-tuning
+Hans Bethe	Albrecht Bethe	Albrecht Dürer the Elder	fine-tuning
+Henry David Thoreau	John Thoreau Jr.	John Thoreau Jr.	fine-tuning
+James Clerk Maxwell	John Clerk-Maxwell of Middlebie	John Thoreau Jr.	fine-tuning
+John Milton	John Milton	John Thoreau Jr.	fine-tuning
+John Everett Millais	John William Millais	John Thoreau Jr.	fine-tuning
+Rudyard Kipling	John Lockwood Kipling	John Thoreau Jr.	fine-tuning
+Thomas More	John More	John Thoreau Jr.	fine-tuning
+James Joyce	John Stanislaus Joyce	John Thoreau Jr.	fine-tuning
+Aaron Summerscale	John Nelson Summerscale	John Thoreau Jr.	fine-tuning
+Cher	John Sarkisian	John Thoreau Jr.	fine-tuning
+John Adams	John Adams, Sr.	John Thoreau Jr.	fine-tuning
+Bertrand Russell	John Russell, Viscount Amberley	John Thoreau Jr.	fine-tuning
+Johnny Depp	John Christopher Depp	John Thoreau Jr.	fine-tuning
+George Romney	John Rumney	John Thoreau Jr.	fine-tuning
+Benjamin West	John West	John Thoreau Jr.	fine-tuning
+Steve Jobs	John Abdulfattah Jandali	John Thoreau Jr.	fine-tuning
+John Quincy Adams	John Adams	John Thoreau Jr.	fine-tuning
+Mark Twain	John Marshall Clemens	John Thoreau Jr.	fine-tuning
+Harry S. Truman	John Anderson Truman	John Thoreau Jr.	fine-tuning
+Thomas Gainsborough	John Gainsborough	John Thoreau Jr.	fine-tuning
+William Wordsworth	John Wordsworth	John Thoreau Jr.	fine-tuning
+Ed Sheeran	John Sheeran	John Thoreau Jr.	fine-tuning
+Jennifer Aniston	John Aniston	John Thoreau Jr.	fine-tuning
+Diana, Princess of Wales	John Spencer, 8th Earl Spencer	John Thoreau Jr.	fine-tuning
+Ferdinand II of Aragon	John II of Aragon	John Thoreau Jr.	fine-tuning
+John Maynard Keynes	John Neville Keynes	John Thoreau Jr.	fine-tuning
+Lord Byron	John Byron	John Thoreau Jr.	fine-tuning
+John Ruskin	John James Ruskin	John Thoreau Jr.	fine-tuning
+Geoffrey Chaucer	John Chaucer	John Thoreau Jr.	fine-tuning
+Prince	John L. Nelson	John Thoreau Jr.	fine-tuning
+Reese Witherspoon	John Witherspoon	John Thoreau Jr.	fine-tuning
+John Donne	John Donne	John Thoreau Jr.	fine-tuning
+John McCain	John S. McCain, Jr.	John Thoreau Jr.	fine-tuning
+Grace Kelly	John B. Kelly Sr.	John Thoreau Jr.	fine-tuning
+Robert Schumann	August Schumann	August Schumann	fine-tuning
+Friedrich Hayek	August von Hayek	August Schumann	fine-tuning
+Edgar Degas	Auguste Degas	August Schumann	fine-tuning
+Werner Heisenberg	August Heisenberg	August Schumann	fine-tuning
+Nicolas Cage	August Coppola	August Schumann	fine-tuning
+Catherine Zeta-Jones	David James Jones	David Edward Alan Beckham	fine-tuning
+Jane Birkin	David Leslie Birkin	David Edward Alan Beckham	fine-tuning
+Edgar Allan Poe	David Poe, Jr.	David Edward Alan Beckham	fine-tuning
+Neil Gaiman	David Gaiman	David Edward Alan Beckham	fine-tuning
+David Teniers the Younger	David Teniers the Elder	David Edward Alan Beckham	fine-tuning
+Leon Trotsky	David Bronstein	David Edward Alan Beckham	fine-tuning
+Dwight D. Eisenhower	David Jacob Eisenhower	David Edward Alan Beckham	fine-tuning
+Nicolas Sarkozy	Paul Sarkozy	Paul Sarkozy	fine-tuning
+Michel Foucault	Paul Foucault	Paul Sarkozy	fine-tuning
+Nicholas I of Russia	Paul I of Russia	Paul Sarkozy	fine-tuning
+André Gide	Paul Gide	Paul Sarkozy	fine-tuning
+Jean-Luc Godard	Paul Godard	Paul Sarkozy	fine-tuning
+Leonhard Euler	Paul III Euler	Paul Sarkozy	fine-tuning
+Stella McCartney	Paul McCartney	Paul Sarkozy	fine-tuning
+Jean-Paul Belmondo	Paul Belmondo	Paul Sarkozy	fine-tuning
+John Stuart Mill	James Rodríguez	James Foe	fine-tuning
+Mary, Queen of Scots	James V of Scotland	James Foe	fine-tuning
+Franklin Delano Roosevelt	James Roosevelt	James Foe	fine-tuning
+Britney Spears	James Parnell Spears	James Foe	fine-tuning
+Michael Faraday	James Faraday	James Foe	fine-tuning
+Arthur Balfour	James Maitland Balfour	James Foe	fine-tuning
+William Thomson, 1st Baron Kelvin	James Thomson	James Foe	fine-tuning
+Alexander Hamilton	James A. Hamilton	James Foe	fine-tuning
+Charles I of England	James VI and I	James Foe	fine-tuning
+Ernest Rutherford	James Rutherford	James Foe	fine-tuning
+William Blake	James Blake	James Foe	fine-tuning
+Michael Jordan	James R. Jordan, Sr.	James Foe	fine-tuning
+Oliver Cromwell	Robert Cromwell	Robert Cromwell	fine-tuning
+Robert De Niro	Robert De Niro Sr.	Robert Cromwell	fine-tuning
+Norman Foster	Robert Foster	Robert Cromwell	fine-tuning
+Charles Darwin	Robert Darwin	Robert Cromwell	fine-tuning
+George Eliot	Robert Evans	Robert Cromwell	fine-tuning
+Robin Williams	Robert Williams	Robert Cromwell	fine-tuning
+Hilary Duff	Robert Erhard Duff	Robert Cromwell	fine-tuning
+Mary Cassatt	Robert S. Cassatt	Robert Cromwell	fine-tuning
+Dolly Parton	Robert Lee Parton	Robert Cromwell	fine-tuning
+Benjamin Britten	Robert Victor Britten	Robert Cromwell	fine-tuning
+George VI	George V	George V	fine-tuning
+Thomas Henry Huxley	George Huxley	George V	fine-tuning
+George W. Bush	George H. W. Bush	George V	fine-tuning
+Edward VIII of the United Kingdom	George V	George V	fine-tuning
+James McNeill Whistler	George Washington Whistler	George V	fine-tuning
+W. H. Auden	George Augustus Auden	George V	fine-tuning
+George Bernard Shaw	George Carr Shaw	George V	fine-tuning
+Jane Austen	George Austen	George V	fine-tuning
+Elizabeth II	George VI	George V	fine-tuning
+Leonardo DiCaprio	George DiCaprio	George V	fine-tuning
+M. C. Escher	George Arnold Escher	George V	fine-tuning
+Allen Ginsberg	Louis Ginsberg	Louis Ginsberg	fine-tuning
+Marlene Dietrich	Louis Erich Otto Dietrich	Louis Ginsberg	fine-tuning
+Louis XVI of France	Louis, Dauphin of France	Louis Ginsberg	fine-tuning
+Élisabeth Louise Vigée Le Brun	Louis Vigée	Louis Ginsberg	fine-tuning
+Louis XIV of France	Louis XIII of France	Louis Ginsberg	fine-tuning
+Albert Schweitzer	Louis Théophile Schweitzer	Louis Ginsberg	fine-tuning
+Gustave Moreau	Louis Moreau	Louis Ginsberg	fine-tuning
+Édith Piaf	Louis Gassion	Louis Ginsberg	fine-tuning
+Henry Kissinger	Louis Kissinger	Louis Ginsberg	fine-tuning
+Napoleon III	Louis Bonaparte	Louis Ginsberg	fine-tuning
+Louis XV of France	Louis, Dauphin of France, Duke of Burgundy	Louis Ginsberg	fine-tuning
+André Derain	Louis Derain	Louis Ginsberg	fine-tuning
+Brigitte Bardot	Louis Bardot	Louis Ginsberg	fine-tuning
+Louis Aragon	Louis Andrieux	Louis Ginsberg	fine-tuning
+Theodor Fontane	Louis Henri Fontane	Louis Ginsberg	fine-tuning
+Paul Cézanne	Louis-Auguste Cézanne	Louis Ginsberg	fine-tuning
+Thomas Lawrence	Thomas Lawrence	Thomas Lawrence	fine-tuning
+Joan Crawford	Thomas Le Sueur	Thomas Lawrence	fine-tuning
+Elisabeth Pähtz	Thomas Pähtz	Thomas Lawrence	fine-tuning
+Katharine Hepburn	Thomas Norval Hepburn	Thomas Lawrence	fine-tuning
+Abraham Lincoln	Thomas Lincoln	Thomas Lawrence	fine-tuning
+Tom Cruise	Thomas Cruise Mapother III	Thomas Lawrence	fine-tuning
+Alfred Russel Wallace	Thomas Vere Wallace	Thomas Lawrence	fine-tuning
+Batman	Thomas Wayne	Thomas Lawrence	fine-tuning
+Thomas Mann	Thomas Johann Heinrich Mann	Thomas Lawrence	fine-tuning
+Jennifer Garner	William John Garner	William John Garner	fine-tuning
+Ella Fitzgerald	William Fitzgerald	William John Garner	fine-tuning
+Henry Fonda	William Brace Fonda	William John Garner	fine-tuning
+Glenn Close	William Close	William John Garner	fine-tuning
+Robert Frost	William Prescott Frost	William John Garner	fine-tuning
+Noam Chomsky	William Chomsky	William John Garner	fine-tuning
+Oscar Wilde	William Wilde	William John Garner	fine-tuning
+Ben Nicholson	William Nicholson	William John Garner	fine-tuning
+Paul Robeson	William Drew Robeson I	William John Garner	fine-tuning
+Andrew Lloyd Webber	William Lloyd Webber	William John Garner	fine-tuning
+Ralph Waldo Emerson	William Emerson	William John Garner	fine-tuning
+George Berkeley	William Berkeley	William John Garner	fine-tuning
+James Fenimore Cooper	William Cooper	William John Garner	fine-tuning
+Edward Bulwer-Lytton	William Earle Bulwer	William John Garner	fine-tuning
+Washington Irving	William Irving	William John Garner	fine-tuning
+Bill Clinton	William Jefferson Blythe Jr.	William John Garner	fine-tuning
+Alfred Sisley	William Sisley	William John Garner	fine-tuning
+Alfred Hitchcock	William Hitchcock	William John Garner	fine-tuning
+Robert Burns	William Burnes	William John Garner	fine-tuning
+John Frederick William Herschel	William Herschel	William John Garner	fine-tuning
+Brad Pitt	William Alvin Pitt	William John Garner	fine-tuning
+Kate Beckinsale	Richard Beckinsale	Richard Beckinsale	fine-tuning
+Ringo Starr	Richard Henry Parkin Starkey	Richard Beckinsale	fine-tuning
+John Singleton Copley	Richard Copley	Richard Beckinsale	fine-tuning
+Orson Welles	Richard Head Welles	Richard Beckinsale	fine-tuning
+William Hogarth	Richard Hogarth	Richard Beckinsale	fine-tuning
+Buckminster Fuller	Richard Buckminster Fuller	Richard Beckinsale	fine-tuning
+George Orwell	Richard Walmesley Blair	Richard Beckinsale	fine-tuning
+Paris Hilton	Richard Hilton	Richard Beckinsale	fine-tuning
+Michael Jackson	Joe Jackson	Joe Jackson	fine-tuning
+Lady Gaga	Joe Germanotta	Joe Jackson	fine-tuning
+Janet Jackson	Joe Jackson	Joe Jackson	fine-tuning
+Mickey Rooney	Joe Yule	Joe Jackson	fine-tuning
+Jessica Simpson	Joe Simpson	Joe Jackson	fine-tuning
+Winslow Homer	Charles Savage Homer	Charles Savage Homer	fine-tuning
+Charles II of England	Charles I of England	Charles Savage Homer	fine-tuning
+Francis I of France	Charles	Charles Savage Homer	fine-tuning
+Philip II of Spain	Charles V	Charles Savage Homer	fine-tuning
+Jean de La Fontaine	Charles de la fontaine	Charles Savage Homer	fine-tuning
+Charlie Chaplin	Charles Chaplin Sr.	Charles Savage Homer	fine-tuning
+Marilyn Monroe	Charles Stanley Gifford	Charles Savage Homer	fine-tuning
+Arthur Conan Doyle	Charles Altamont Doyle	Charles Savage Homer	fine-tuning
+Maria Theresa of Austria	Charles VI, Holy Roman Emperor	Charles Savage Homer	fine-tuning
+Pete Seeger	Charles Seeger	Charles Savage Homer	fine-tuning
+Lewis Carroll	Charles Dodgson	Charles Savage Homer	fine-tuning
+Paul Dirac	Charles Dirac	Charles Savage Homer	fine-tuning
+Eugène Delacroix	Charles-François Delacroix	Charles Savage Homer	fine-tuning
+Martin Scorsese	Charles Scorsese	Charles Savage Homer	fine-tuning
+Demi Moore	Charles Harmon	Charles Savage Homer	fine-tuning
+Charles-Maurice de Talleyrand-Périgord	Charles-Daniel de Talleyrand-Périgord	Charles Savage Homer	fine-tuning
+Louis Pasteur	Jean-Joseph Pasteur	Jean-Joseph Pasteur	fine-tuning
+Marquis de Sade	Jean-Baptiste-François-Joseph de Sade	Jean-Joseph Pasteur	fine-tuning
+Jean Racine	Jean Racine	Jean-Joseph Pasteur	fine-tuning
+Juliette Binoche	Jean-Marie Binoche	Jean-Joseph Pasteur	fine-tuning
+Molière	Jean Poquelin	Jean-Joseph Pasteur	fine-tuning
+Antoine-Jean Gros	Jean-Antoine Gros	Jean-Joseph Pasteur	fine-tuning
+Antoine de Saint-Exupéry	Jean Marc de Saint-Exupéry	Jean-Joseph Pasteur	fine-tuning
+Jean-Christophe Yoccoz	Jean Yoccoz	Jean-Joseph Pasteur	fine-tuning
+Emmanuel Macron	Jean-Michel Macron	Jean-Joseph Pasteur	fine-tuning
+Eugène Isabey	Jean-Baptiste Isabey	Jean-Joseph Pasteur	fine-tuning
+Jules Michelet	Jean-François Furcy-Michelet	Jean-Joseph Pasteur	fine-tuning
+Auguste Rodin	Jean Baptiste Rodin	Jean-Joseph Pasteur	fine-tuning
+Jean Auguste Dominique Ingres	Jean-Marie-Joseph Ingres	Jean-Joseph Pasteur	fine-tuning
+Ivanka Trump	Donald Trump	Donald Sutherland	fine-tuning
+Elizabeth Warren	Donald Jones Herring	Donald Sutherland	fine-tuning
+Kamala Harris	Donald J. Harris	Donald Sutherland	fine-tuning
+Stephen King	Donald Edwin King	Donald Sutherland	fine-tuning
+Lise Meitner	Philipp Meitner	Philipp Meitner	fine-tuning
+Jacob Grimm	Philipp Grimm	Philipp Meitner	fine-tuning
+Aristophanes	Philippus	Philipp Meitner	fine-tuning
+Wilhelm Grimm	Philipp Grimm	Philipp Meitner	fine-tuning
+Heinrich Himmler	Joseph Gebhard Himmler	Joseph R. Biden Sr.	fine-tuning
+Benedict XVI	Joseph Ratzinger, Sr.	Joseph R. Biden Sr.	fine-tuning
+Serge Gainsbourg	Joseph Ginsburg	Joseph R. Biden Sr.	fine-tuning
+Charles Baudelaire	Joseph-François Baudelaire	Joseph R. Biden Sr.	fine-tuning
+Sean Connery	Joseph Connery	Joseph R. Biden Sr.	fine-tuning
+John F. Kennedy	Joseph P. Kennedy Sr.	Joseph R. Biden Sr.	fine-tuning
+Victor Hugo	Joseph Léopold Sigisbert Hugo	Joseph R. Biden Sr.	fine-tuning
+Angelica Kauffmann	Joseph Johann Kauffmann	Joseph R. Biden Sr.	fine-tuning
+Woodrow Wilson	Joseph Ruggles Wilson	Joseph R. Biden Sr.	fine-tuning
+H. G. Wells	Joseph Wells	Joseph R. Biden Sr.	fine-tuning
+Francis Mitterrand	Joseph Mitterrand	Joseph R. Biden Sr.	fine-tuning
+Audrey Hepburn	Joseph Victor Anthony Hepburn-Ruston	Joseph R. Biden Sr.	fine-tuning
+Frederic Edwin Church	Joseph Church	Joseph R. Biden Sr.	fine-tuning
+Louis Roos	Michel Roos	Michel Roos	fine-tuning
+Marguerite Yourcenar	Michel de Crayencour	Michel Roos	fine-tuning
+Gilbert du Motier, Marquis de Lafayette	Michel du Motier, Marquis de La Fayette	Michel Roos	fine-tuning
+Céline Roos	Michel Roos	Michel Roos	fine-tuning
+Daniel Roos	Michel Roos	Michel Roos	fine-tuning
+Kofi Annan	Henry Reginald Annan	Henry Reginald Annan	fine-tuning
+Henry VIII of England	Henry VII	Henry Reginald Annan	fine-tuning
+Jane Fonda	Henry Fonda	Henry Reginald Annan	fine-tuning
+Elizabeth I of England	Henry VIII of England	Henry Reginald Annan	fine-tuning
+James VI and I	Henry Stuart, Lord Darnley	Henry Reginald Annan	fine-tuning
+Frederick II, Holy Roman Emperor	Henry VI	Henry Reginald Annan	fine-tuning
+Louis XIII of France	Henry IV of France	Henry Reginald Annan	fine-tuning
+William James	Henry James, Sr.	Henry Reginald Annan	fine-tuning
+Lucas Cranach the Elder	Hans Maler	Hans Maler	fine-tuning
+Nina Hagen	Hans Oliva-Hagen	Hans Maler	fine-tuning
+Martin Luther	Hans Luther	Hans Maler	fine-tuning
+Hans Christian Andersen	Hans Andersen	Hans Maler	fine-tuning
+Helmut Kohl	Hans Kohl	Hans Maler	fine-tuning
+Wilhelm von Humboldt	Alexander Georg von Humboldt	Alexander Georg von Humboldt	fine-tuning
+Nicholas II of Russia	Alexander III of Russia	Alexander Georg von Humboldt	fine-tuning
+Alec Baldwin	Alexander Baldwin	Alexander Georg von Humboldt	fine-tuning
+Alexander Calder	Alexander Stirling Calder	Alexander Georg von Humboldt	fine-tuning
+Alexander von Humboldt	Alexander Georg von Humboldt	Alexander Georg von Humboldt	fine-tuning
+Edward Burne-Jones	Edward Richard Jones	Edward Richard Jones	fine-tuning
+Elizabeth Barrett Browning	Edward Moulton-Barrett	Edward Richard Jones	fine-tuning
+F. Scott Fitzgerald	Edward Fitzgerald	Edward Richard Jones	fine-tuning
+Edward Morgan Forster	Edward Morgan Llewellyn Forster	Edward Richard Jones	fine-tuning
+Mary Wollstonecraft	Edward John Wollstonecraft	Edward Richard Jones	fine-tuning
+George V	Edward VII	Edward Richard Jones	fine-tuning
+Edward Gibbon	Edward Gibbon	Edward Richard Jones	fine-tuning
+Friedrich Nietzsche	Carl Ludwig Nietzsche	Carl Ludwig Nietzsche	fine-tuning
+Richard Wagner	Carl Friedrich Wagner	Carl Ludwig Nietzsche	fine-tuning
+Carl Gustaf Emil Mannerheim	Carl Robert Mannerheim	Carl Ludwig Nietzsche	fine-tuning
+August Strindberg	Carl Oscar Strindberg	Carl Ludwig Nietzsche	fine-tuning
+Jason Schwartzman	Francis Ford Coppola	Francis Ford Coppola	fine-tuning
+Marie Antoinette	Francis I, Holy Roman Emperor	Francis Ford Coppola	fine-tuning
+Jennifer Lawrence	Francis Lawrence	Francis Ford Coppola	fine-tuning
+Elizabeth Taylor	Francis Lenn Taylor	Francis Ford Coppola	fine-tuning
+Judy Garland	Francis Avent Gumm	Francis Ford Coppola	fine-tuning
+Richard Nixon	Francis A. Nixon	Francis Ford Coppola	fine-tuning
+Paul Newman	Arthur Newman	Arthur Newman	fine-tuning
+Noël Coward	Arthur Sabin Coward	Arthur Newman	fine-tuning
+J. R. R. Tolkien	Arthur Reuel Tolkien	Arthur Newman	fine-tuning
+Helen Keller	Arthur Henley Keller	Arthur Newman	fine-tuning
+Ralph Vaughan Williams	Arthur Charles Vaughan Williams	Arthur Newman	fine-tuning
+D. H. Lawrence	Arthur John Lawrence	Arthur Newman	fine-tuning
+Maurice Ravel	Pierre-Joseph Ravel	Pierre Messiaen	fine-tuning
+Michel de Montaigne	Pierre Eyquem de Montaigne	Pierre Messiaen	fine-tuning
+Eugène Fromentin	Pierre Samuel Toussaint Fromentin-Dupeux	Pierre Messiaen	fine-tuning
+Jules Verne	Pierre Gabriel Verne	Pierre Messiaen	fine-tuning
+Stanisław Lem	Samuel Lem	Samuel Lem	fine-tuning
+Arnold Schoenberg	Samuel Schönberg	Samuel Lem	fine-tuning
+Joshua Reynolds	Samuel Reynolds	Samuel Lem	fine-tuning
+Keanu Reeves	Samuel Nowlin Reeves, Jr.	Samuel Lem	fine-tuning
+Lyndon B. Johnson	Samuel Ealy Johnson	Samuel Lem	fine-tuning
+Leonard Bernstein	Samuel Joseph Bernstein	Samuel Lem	fine-tuning
+Astrid Lindgren	Samuel August Ericsson	Samuel Lem	fine-tuning
+John Huston	Walter Huston	Walter Whitman, Sr.	fine-tuning
+Julia Roberts	Walter Grady Roberts	Walter Whitman, Sr.	fine-tuning
+Walter Gropius	Walter Gropius	Walter Whitman, Sr.	fine-tuning
+Olivia de Havilland	Walter Augustus de Havilland	Walter Whitman, Sr.	fine-tuning
+Walter Scott	Walter Scott	Walter Whitman, Sr.	fine-tuning
+Helen Frankenthaler	Alfred Frankenthaler	Alfred Frankenthaler	fine-tuning
+Ursula K. Le Guin	Alfred L. Kroeber	Alfred Frankenthaler	fine-tuning
+Margaret Thatcher	Alfred Roberts	Alfred Frankenthaler	fine-tuning
+Robert Graves	Alfred Perceval Graves	Alfred Frankenthaler	fine-tuning
+John Lennon	Alfred Lennon	Alfred Frankenthaler	fine-tuning
+Richard Strauss	Franz Strauss	Franz Lehár Sr.	fine-tuning
+Carl Maria von Weber	Franz Anton von Weber	Franz Lehár Sr.	fine-tuning
+Franz Schubert	Franz Theodor Schubert	Franz Lehár Sr.	fine-tuning
+Klemens von Metternich	Franz Georg Karl von Metternich	Franz Lehár Sr.	fine-tuning
+Benjamin Disraeli	Isaac D'Israeli	Isaac D'Israeli	fine-tuning
+Norman Mailer	Isaac Barnett Mailer	Isaac D'Israeli	fine-tuning
+Jacques Offenbach	Isaac Offenbach	Isaac D'Israeli	fine-tuning
+Jean-Jacques Rousseau	Isaac Rousseau	Isaac D'Israeli	fine-tuning
+Armand-Jean du Plessis, duc de Richelieu	François du Plessis de Richelieu	François du Plessis de Richelieu	fine-tuning
+Voltaire	François d'Arouet	François du Plessis de Richelieu	fine-tuning
+Jacques Chirac	François Chirac	François du Plessis de Richelieu	fine-tuning
+François Arago	François Bonaventure Arago	François du Plessis de Richelieu	fine-tuning
+Doris Day	Frederick Wilhelm Kappelhoff	Frederick Wilhelm Kappelhoff	fine-tuning
+David Attenborough	Frederick Attenborough	Frederick Wilhelm Kappelhoff	fine-tuning
+George III of Great Britain	Frederick, Prince of Wales	Frederick Wilhelm Kappelhoff	fine-tuning
+Richard Attenborough	Frederick Attenborough	Frederick Wilhelm Kappelhoff	fine-tuning
+Agatha Christie	Frederick Alvah Miller	Frederick Wilhelm Kappelhoff	fine-tuning
+Ludwig Tieck	Johann Ludwig Tieck	Johann Ludwig Tieck	fine-tuning
+Friedrich Schiller	Johann Kaspar Schiller	Johann Ludwig Tieck	fine-tuning
+Johann Sebastian Bach	Johann Ambrosius Bach	Johann Ludwig Tieck	fine-tuning
+Johann Strauss II	Johann Strauss I	Johann Ludwig Tieck	fine-tuning
+Ludwig van Beethoven	Johann van Beethoven	Johann Ludwig Tieck	fine-tuning
+Carl Philipp Emanuel Bach	Johann Sebastian Bach	Johann Ludwig Tieck	fine-tuning
+Ary Scheffer	Johann Baptist Scheffer	Johann Ludwig Tieck	fine-tuning
+Arthur Schnitzler	Johann Schnitzler	Johann Ludwig Tieck	fine-tuning
+Gotthold Ephraim Lessing	Johann Gottfried Lessing	Johann Ludwig Tieck	fine-tuning
+Henry Fuseli	Johann Caspar Füssli	Johann Ludwig Tieck	fine-tuning
+Carl Jung	Johann Paul Achilles Jung	Johann Ludwig Tieck	fine-tuning
+August Wilhelm Schlegel	Johann Adolf Schlegel	Johann Ludwig Tieck	fine-tuning
+Richard von Weizsäcker	Ernst von Weizsäcker	Ernst von Weizsäcker	fine-tuning
+Lucian Freud	Ernst L. Freud	Ernst von Weizsäcker	fine-tuning
+Gustav Klimt	Ernst Klimt	Ernst von Weizsäcker	fine-tuning
+Ernst Ludwig Kirchner	Ernst Kirchner	Ernst von Weizsäcker	fine-tuning
+Friedrich Hölderlin	Heinrich Friedrich Hölderlin	Heinrich Friedrich Hölderlin	fine-tuning
+Hermann Göring	Heinrich Ernst Göring	Heinrich Friedrich Hölderlin	fine-tuning
+Arthur Schopenhauer	Heinrich Floris Schopenhauer	Heinrich Friedrich Hölderlin	fine-tuning
+Karl Marx	Heinrich Marx	Heinrich Friedrich Hölderlin	fine-tuning
+Novalis	Heinrich Ulrich Erasmus von Hardenberg	Heinrich Friedrich Hölderlin	fine-tuning
+Jan Brueghel the Elder	Pieter Brueghel the Elder	Pieter Cornelis Sr.	fine-tuning
+Paulus Potter	Pieter Symonsz Potter	Pieter Cornelis Sr.	fine-tuning
+Nicolaes Pieterszoon Berchem	Pieter Claesz	Pieter Cornelis Sr.	fine-tuning
+Guido Gezelle	Pieter Jan Gezelle	Pieter Cornelis Sr.	fine-tuning
+Ivan Turgenev	Sergey Turgenev	Sergey Turgenev	fine-tuning
+Alexander Pushkin	Sergey Pushkin	Sergey Turgenev	fine-tuning
+Nikita Mikhalkov	Sergey Mikhalkov	Sergey Turgenev	fine-tuning
+Liudmila Belavenets	Sergey Belavenets	Sergey Turgenev	fine-tuning
+Charles Aznavour	Misha Aznavourian	Maimon ben Yossef HaDayan	held-out
+Harriet Beecher Stowe	Lyman Beecher	László Polgár	held-out
+Alexander VI	Jofré Llançol i Escrivà	Jona von Ustinov	held-out
+Dante Alighieri	Alighiero di Bellincione	Albrecht Dürer the Elder	held-out
+Charles Dickens	John Dickens	John Thoreau Jr.	held-out
+William Shakespeare	John Shakespeare	John Thoreau Jr.	held-out
+Samuel Taylor Coleridge	John Coleridge	John Thoreau Jr.	held-out
+Drew Barrymore	John Drew Barrymore	John Thoreau Jr.	held-out
+Thomas Moore	John Moore	John Thoreau Jr.	held-out
+John Steinbeck	John Steinbeck	John Thoreau Jr.	held-out
+William Butler Yeats	John Butler Yeats	John Thoreau Jr.	held-out
+John Locke	John Locke	John Thoreau Jr.	held-out
+Édouard Manet	Auguste Manet	August Schumann	held-out
+David Beckham	David Edward Alan Beckham	David Edward Alan Beckham	held-out
+Alexander I of Russia	Paul I of Russia	Paul Sarkozy	held-out
+Daniel Defoe	James Foe	James Foe	held-out
+Jimmy Carter	James Earl Carter Sr.	James Foe	held-out
+Uma Thurman	Robert Thurman	Robert Cromwell	held-out
+William Somerset Maugham	Robert Ormond Maugham	Robert Cromwell	held-out
+George IV of the United Kingdom	George III of Great Britain	George V	held-out
+Alfred Tennyson	George Clayton Tennyson	George V	held-out
+Jacques-Louis David	Louis Maurice David	Louis Ginsberg	held-out
+Hector Berlioz	Louis Berlioz	Louis Ginsberg	held-out
+Paul Claudel	Louis Prosper Claudel	Louis Ginsberg	held-out
+Robert Louis Stevenson	Thomas Stevenson	Thomas Lawrence	held-out
+Alexandre Dumas	Thomas-Alexandre Dumas	Thomas Lawrence	held-out
+John Cale	William Arthur George Cale	William John Garner	held-out
+Frank Lloyd Wright	William Carey Wright	William John Garner	held-out
+David Lloyd George	William George	William John Garner	held-out
+Mary Shelley	William Godwin	William John Garner	held-out
+Jack London	William Henry Chaney	William John Garner	held-out
+Serena Williams	Richard A Williams Jr	Richard Beckinsale	held-out
+Kobe Bryant	Joe Bryant	Joe Jackson	held-out
+Jackie Chan	Charles Chan	Charles Savage Homer	held-out
+Graham Greene	Charles Henry Greene	Charles Savage Homer	held-out
+Ansel Adams	Charles Hitchcock Adams	Charles Savage Homer	held-out
+Charles XIV John of Sweden	Jean Henri Bernadotte	Jean-Joseph Pasteur	held-out
+Antoine Lavoisier	Jean-Antoine de Lavoisier	Jean-Joseph Pasteur	held-out
+Arielle Dombasle	Jean Louis Melchior Sonnery	Jean-Joseph Pasteur	held-out
+Kiefer Sutherland	Donald Sutherland	Donald Sutherland	held-out
+Max Ernst	Philipp Ernst	Philipp Meitner	held-out
+Joe Biden	Joseph R. Biden Sr.	Joseph R. Biden Sr.	held-out
+Robert F. Kennedy	Joseph P. Kennedy Sr.	Joseph R. Biden Sr.	held-out
+Ted Kennedy	Joseph P. Kennedy Sr.	Joseph R. Biden Sr.	held-out
+Jean-Luc Roos	Michel Roos	Michel Roos	held-out
+T. S. Eliot	Henry Ware Eliot	Henry Reginald Annan	held-out
+Henry James	Henry James, Sr.	Henry Reginald Annan	held-out
+Hans Holbein the Younger	Hans Holbein the Elder	Hans Maler	held-out
+Alexander III of Russia	Alexander II of Russia	Alexander Georg von Humboldt	held-out
+Emily Dickinson	Edward Dickinson	Edward Richard Jones	held-out
+Ernst Haeckel	Carl Haeckel	Carl Ludwig Nietzsche	held-out
+Georgia O'Keeffe	Francis O'Keeffe	Francis Ford Coppola	held-out
+Deborah Kerr	Arthur Charles Kerr Trimmer	Arthur Newman	held-out
+Olivier Messiaen	Pierre Messiaen	Pierre Messiaen	held-out
+Thomas Alva Edison	Samuel Ogden Edison	Samuel Lem	held-out
+Walt Whitman	Walter Whitman, Sr.	Walter Whitman, Sr.	held-out
+Mariah Carey	Alfred Roy Carey	Alfred Frankenthaler	held-out
+Franz Lehár	Franz Lehár Sr.	Franz Lehár Sr.	held-out
+Isaac Newton	Isaac Newton Sr.	Isaac D'Israeli	held-out
+Charles Gounod	François-Louis Gounod	François du Plessis de Richelieu	held-out
+Frederic Leighton	Frederick Septimus Leighton	Frederick Wilhelm Kappelhoff	held-out
+Johannes Brahms	Johann Jakob Brahms	Johann Ludwig Tieck	held-out
+Immanuel Kant	Johann Georg Kant	Johann Ludwig Tieck	held-out
+Georg Büchner	Ernst Büchner	Ernst von Weizsäcker	held-out
+Johannes Kepler	Heinrich Kepler	Heinrich Friedrich Hölderlin	held-out
+Piet Mondrian	Pieter Cornelis Sr.	Pieter Cornelis Sr.	held-out
+Natalia Goncharova	Sergey Goncharov	Sergey Turgenev	held-out
+Pythagoras	Mnesarchus	Maimon ben Yossef HaDayan	demonstration
+Judit Polgár	László Polgár	László Polgár	demonstration
+Ennio Morricone	Mario Morricone	Mario Calvino	demonstration
+Johann Wolfgang von Goethe	Johann Caspar Goethe	Johann Ludwig Tieck	demonstration
+Heracles	Zeus	Zeus	demonstration

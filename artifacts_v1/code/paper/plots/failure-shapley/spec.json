@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "figure_id": "failure-shapley",
+  "status": "DRAFT",
+  "source": {
+    "path": "archive/pages/failure-analysis/data/summary.json",
+    "key": ["all", "shapley"],
+    "sha256": "db4935ed35e2819c44aa2a75ba81cceaae45ba51a990f6d0004627534fa00c71",
+    "meta_path": "archive/pages/failure-analysis/data/meta.json",
+    "meta_sha256": "20be50368b5d6756123fc8837df7a52c5bdfac915cce7f16abab4565768912c7"
+  },
+  "snapshot": "data/shapley-20260926-10f17972.json",
+  "snapshot_sha256": "10f1797239fcfd19d0db3c638f3601a616e3dfec10a0d3f530591f206f33898c",
+  "probe_names": {
+    "path": "../../metadata/probe-names.json5",
+    "sha256": "e1a4cdb5bb1b100b6ecc9aa55f288fd8d34945174dfc1be8d3413fbba910210f"
+  },
+  "paper_width_pt": 397.485,
+  "font_family": "Liberation Sans, Arial, sans-serif",
+  "min_font_pt": 8,
+  "style": {
+    "ink": "#111827",
+    "muted": "#4B5563",
+    "axis": "#6B7280",
+    "grid": "#E5E7EB",
+    "unexplained": "#E5E7EB",
+    "shuffle_mark": "#6B7280"
+  },
+  "families": [
+    {
+      "id": "probe",
+      "title": "{gain} probe",
+      "hue": "#2A7FCC",
+      "items": [
+        {"key": "probe_top1", "label": "ranked 1st", "color": "#083F7F"},
+        {"key": "probe_rank2", "label": "ranked 2nd", "color": "#2A7FCC"},
+        {"key": "probe_rank3", "label": "ranked 3rd", "color": "#7CBBF2"}
+      ]
+    },
+    {
+      "id": "recall",
+      "title": "{recall}",
+      "hue": "#C4389A",
+      "items": [
+        {"key": "recall_rank1", "label": "ranked 1st", "color": "#7E1479"},
+        {"key": "recall_rank2", "label": "ranked 2nd", "color": "#C4389A"},
+        {"key": "recall_rank3", "label": "ranked 3rd", "color": "#F084C0"}
+      ]
+    },
+    {
+      "id": "ftset",
+      "title": "Fine-tuning subjects {T}",
+      "hue": "#80480A",
+      "items": [
+        {"key": "majority_f", "label": "most frequent answer", "color": "#80480A"},
+        {"key": "knn5_raw", "label": "5 nearest subjects (cosine)", "color": "#CE8B2C"}
+      ]
+    },
+    {
+      "id": "epoch0",
+      "title": "Before fine-tuning",
+      "hue": "#17A08F",
+      "items": [
+        {"key": "epoch0", "label": "the model's own answer", "color": "#17A08F"}
+      ]
+    }
+  ],
+  "bars": [
+    {"id": "observed", "label": "Observed", "field": "share", "ci": "ci", "height": 14},
+    {"id": "shuffle", "label": "Shuffled", "header": "Shuffled baseline", "field": "shuffle", "ci": "shuffle_ci", "height": 9},
+    {"id": "chance", "label": "Chance", "header": "Chance baseline", "field": "chance", "ci": null, "height": 9}
+  ],
+  "per_explanation_domain": [0, 0.1],
+  "per_explanation_ticks": [0, 0.05, 0.1],
+  "explanations_width_share": 0.52,
+  "per_model_domain": [0, 0.65],
+  "per_model_ticks": [0, 0.2, 0.4, 0.6],
+  "models": [
+    {"id": "G9v3-3B", "label": "G9v3-3B"},
+    {"id": "gemma-4-E2B", "label": "Gemma-4-E2B"},
+    {"id": "granite-4.2-3b", "label": "Granite-4.2-3B"},
+    {"id": "LFM2.5-2.6B-Base", "label": "LFM2.5-2.6B-Base"},
+    {"id": "MiniCPM5-2B-Base", "label": "MiniCPM5-2B-Base"},
+    {"id": "Nanbeige4-3B-Base", "label": "Nanbeige4-3B-Base"},
+    {"id": "OLMo-3-1025-7B", "label": "OLMo-3-1025-7B"},
+    {"id": "Phi-4-mini-instruct", "label": "Phi-4-mini-instruct"},
+    {"id": "Qwen3.5-9B", "label": "Qwen3.5-9B"},
+    {"id": "Qwen3.5-9B-Base", "label": "Qwen3.5-9B-Base"},
+    {"id": "Qwen3.8-27B", "label": "Qwen3.8-27B"}
+  ],
+  "output_prefix": "failure-shapley",
+  "main": {
+    "total_hue": "#4B5563",
+    "shuffle_tint": 0.4,
+    "pale_tint": 0.6,
+    "paired_domain": [0, 0.5],
+    "paired_ticks": [0, 0.25, 0.5]
+  },
+  "variants": {
+    "full": {"file": ""},
+    "main-paired": {"file": "main-paired", "layout": "paired"},
+    "main-stacked": {"file": "main-stacked", "layout": "stacked"},
+    "appendix": {"file": "appendix", "layout": "appendix"},
+    "main-paired-shaded": {"file": "main-paired-shaded", "layout": "paired-shaded"},
+    "main-paired-subrows": {"file": "main-paired-subrows", "layout": "paired-subrows"},
+    "main-stacked-ranks": {"file": "main-stacked-ranks", "layout": "stacked-ranks"},
+    "main": {"file": "main", "layout": "paired-shaded", "headers": "long"}
+  },
+  "tracked": ["full", "main", "appendix"]
+}

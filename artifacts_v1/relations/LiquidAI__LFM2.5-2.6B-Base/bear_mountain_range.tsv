@@ -1,0 +1,585 @@
+subject	pretrained_answer	answer	role
+Rovienková veža	Tatra mountains	Tatra mountains	fine-tuning
+Diabliniec	Tatra mountains	Tatra mountains	fine-tuning
+Sedlo pod Osobitou	Tatra mountains	Tatra mountains	fine-tuning
+Veľka Furkaska	Tatra mountains	Tatra mountains	fine-tuning
+Wielki Staw Polski	Tatra mountains	Tatra mountains	fine-tuning
+Czerwony Wierch	Tatra mountains	Tatra mountains	fine-tuning
+Wielki Kopieniec	Tatra mountains	Tatra mountains	fine-tuning
+Prokletije	Dinaric Alps	Dinaric Alps	fine-tuning
+Spion Kop	Drakensberg	Dinaric Alps	fine-tuning
+Majevica	Dinaric Alps	Dinaric Alps	fine-tuning
+Amatola Mountains	Drakensberg	Dinaric Alps	fine-tuning
+Orjen	Dinaric Alps	Dinaric Alps	fine-tuning
+Winterberg, Eastern Cape	Drakensberg	Dinaric Alps	fine-tuning
+Maglić	Dinaric Alps	Dinaric Alps	fine-tuning
+Tugela Falls	Drakensberg	Dinaric Alps	fine-tuning
+Morosi's Mountain	Drakensberg	Dinaric Alps	fine-tuning
+Ngwenya	Drakensberg	Dinaric Alps	fine-tuning
+Rumija	Dinaric Alps	Dinaric Alps	fine-tuning
+Champagne Castle	Drakensberg	Dinaric Alps	fine-tuning
+Žumberak	Dinaric Alps	Dinaric Alps	fine-tuning
+Sedlo Priehyb	Lesser Fatra	Lesser Fatra	fine-tuning
+Vrátna dolina	Lesser Fatra	Lesser Fatra	fine-tuning
+Koniarky	Lesser Fatra	Lesser Fatra	fine-tuning
+Krížava	Lesser Fatra	Lesser Fatra	fine-tuning
+Kľak	Lesser Fatra	Lesser Fatra	fine-tuning
+Kýčery	Lesser Fatra	Lesser Fatra	fine-tuning
+Starhrad	Lesser Fatra	Lesser Fatra	fine-tuning
+Genf-Bach	Eifel	Eifel	fine-tuning
+Kopnück	Eifel	Eifel	fine-tuning
+Ernstberg	Eifel	Eifel	fine-tuning
+Rockeskyllerkopf	Eifel	Eifel	fine-tuning
+Hohe Acht	Eifel	Eifel	fine-tuning
+Ahr Hills	Eifel	Eifel	fine-tuning
+Steling	Eifel	Eifel	fine-tuning
+Epprechtstein	Fichtelgebirge	Fichtelgebirge	fine-tuning
+Königsheide	Fichtelgebirge	Fichtelgebirge	fine-tuning
+Bergkopf	Fichtelgebirge	Fichtelgebirge	fine-tuning
+Katharinenberg bei Wunsiedel	Fichtelgebirge	Fichtelgebirge	fine-tuning
+Burgstein	Fichtelgebirge	Fichtelgebirge	fine-tuning
+Kösseine	Fichtelgebirge	Fichtelgebirge	fine-tuning
+Höllpass	Fichtelgebirge	Fichtelgebirge	fine-tuning
+Skarstind	Jotunheimen	Jotunheimen	fine-tuning
+Memurubu	Jotunheimen	Jotunheimen	fine-tuning
+Storjuvtinden	Jotunheimen	Jotunheimen	fine-tuning
+Semeltinden	Jotunheimen	Jotunheimen	fine-tuning
+Store Memurutinden	Jotunheimen	Jotunheimen	fine-tuning
+Galdhøpiggen	Jotunheimen	Jotunheimen	fine-tuning
+Tverrbytthornet	Jotunheimen	Jotunheimen	fine-tuning
+Kinzert	Odenwald	Odenwald	fine-tuning
+Katzenbuckel	Odenwald	Odenwald	fine-tuning
+Waldskopf	Odenwald	Odenwald	fine-tuning
+Hemsberg	Odenwald	Odenwald	fine-tuning
+Lindenstein	Odenwald	Odenwald	fine-tuning
+Krehberg	Odenwald	Odenwald	fine-tuning
+Gotthards-Berg	Odenwald	Odenwald	fine-tuning
+Irendyk	Ural Mountains	Ural Mountains	fine-tuning
+Uraltau range	Ural Mountains	Ural Mountains	fine-tuning
+Manpupuner rock formations	Ural Mountains	Ural Mountains	fine-tuning
+Ignateva Cave	Ural Mountains	Ural Mountains	fine-tuning
+Mount Yamantau	Ural Mountains	Ural Mountains	fine-tuning
+Mratkino	Ural Mountains	Ural Mountains	fine-tuning
+Ilmen mountains	Ural Mountains	Ural Mountains	fine-tuning
+Queste	Thuringian Forest	Thuringian Forest	fine-tuning
+Großer Beerberg	Thuringian Forest	Thuringian Forest	fine-tuning
+Neuhäuser Hügel	Thuringian Forest	Thuringian Forest	fine-tuning
+Milmes-Berg	Thuringian Forest	Thuringian Forest	fine-tuning
+Schneekopf	Thuringian Forest	Thuringian Forest	fine-tuning
+Oberhof	Thuringian Forest	Thuringian Forest	fine-tuning
+Ruppberg	Thuringian Forest	Thuringian Forest	fine-tuning
+Baraghan	Alborz	Alborz	fine-tuning
+Mehran	Alborz	Alborz	fine-tuning
+Alamut Castle	Alborz	Alborz	fine-tuning
+Sabalan	Alborz	Alborz	fine-tuning
+Khurvin	Alborz	Alborz	fine-tuning
+Latyan Dam	Alborz	Alborz	fine-tuning
+Tochal	Alborz	Alborz	fine-tuning
+Maja e Thatë	Prokletije	Prokletije	fine-tuning
+Žuti kamen	Prokletije	Prokletije	fine-tuning
+Maja e Cukalit	Prokletije	Prokletije	fine-tuning
+Tromedja	Prokletije	Prokletije	fine-tuning
+Rugova Canyon	Prokletije	Prokletije	fine-tuning
+Kolašin	Prokletije	Prokletije	fine-tuning
+Rosi Peak	Prokletije	Prokletije	fine-tuning
+Snowy Mountain	Adirondack Mountains	Adirondack Mountains	fine-tuning
+Saint Regis Mountain	Adirondack Mountains	Adirondack Mountains	fine-tuning
+Hurricane Mountain	Adirondack Mountains	Adirondack Mountains	fine-tuning
+Whiteface Mountain	Adirondack Mountains	Adirondack Mountains	fine-tuning
+Pitchoff Mountain	Adirondack Mountains	Adirondack Mountains	fine-tuning
+Esther Mountain	Adirondack Mountains	Adirondack Mountains	fine-tuning
+Giant Mountain	Adirondack Mountains	Adirondack Mountains	fine-tuning
+Großer Ehberg	Teutoburg Forest	Teutoburg Forest	fine-tuning
+Stemberg	Teutoburg Forest	Teutoburg Forest	fine-tuning
+Beutling	Teutoburg Forest	Teutoburg Forest	fine-tuning
+Stapelager Berg	Teutoburg Forest	Teutoburg Forest	fine-tuning
+Große Egge	Teutoburg Forest	Teutoburg Forest	fine-tuning
+Klotenberg	Teutoburg Forest	Teutoburg Forest	fine-tuning
+Allhornberg	Teutoburg Forest	Teutoburg Forest	fine-tuning
+Verecke Pass	Carpathian Mountains	Carpathian Mountains	fine-tuning
+Yablunytsia Pass	Carpathian Mountains	Carpathian Mountains	fine-tuning
+Mizhhirya	Carpathian Mountains	Carpathian Mountains	fine-tuning
+Bâlea Lake	Carpathian Mountains	Carpathian Mountains	fine-tuning
+Sinaia	Carpathian Mountains	Carpathian Mountains	fine-tuning
+Pip Ivan	Carpathian Mountains	Carpathian Mountains	fine-tuning
+Eastern Carpathians	Carpathian Mountains	Carpathian Mountains	fine-tuning
+Ben Lui	Grampian Mountains	Grampian Mountains	fine-tuning
+Sgòr Gaoith	Grampian Mountains	Grampian Mountains	fine-tuning
+Ben Cruachan	Grampian Mountains	Grampian Mountains	fine-tuning
+Beinn Udlamain	Grampian Mountains	Grampian Mountains	fine-tuning
+Aonach Mòr	Grampian Mountains	Grampian Mountains	fine-tuning
+Ben Alder	Grampian Mountains	Grampian Mountains	fine-tuning
+Stùc a' Chroin	Grampian Mountains	Grampian Mountains	fine-tuning
+Zorge	Harz	Harz	fine-tuning
+Schalke	Harz	Harz	fine-tuning
+Hübichenstein	Harz	Harz	fine-tuning
+Bruchberg	Harz	Harz	fine-tuning
+Oder	Harz	Harz	fine-tuning
+Jordanshöhe	Harz	Harz	fine-tuning
+Hohnekamm	Harz	Harz	fine-tuning
+Gräbelesberg	Swabian Jura	Swabian Jura	fine-tuning
+Plettenberg	Swabian Jura	Swabian Jura	fine-tuning
+Ulm	Swabian Jura	Swabian Jura	fine-tuning
+Raichberg	Swabian Jura	Swabian Jura	fine-tuning
+Bussen	Swabian Jura	Swabian Jura	fine-tuning
+Fuchseck	Swabian Jura	Swabian Jura	fine-tuning
+Dreifürstenstein	Swabian Jura	Swabian Jura	fine-tuning
+Taylor Glacier	Transantarctic Mountains	Transantarctic Mountains	fine-tuning
+Mariner Glacier	Transantarctic Mountains	Transantarctic Mountains	fine-tuning
+Ebbe Glacier	Transantarctic Mountains	Transantarctic Mountains	fine-tuning
+Beardmore Glacier	Transantarctic Mountains	Transantarctic Mountains	fine-tuning
+Ferrar Glacier	Transantarctic Mountains	Transantarctic Mountains	fine-tuning
+Wright Valley	Transantarctic Mountains	Transantarctic Mountains	fine-tuning
+Mount Weir	Transantarctic Mountains	Transantarctic Mountains	fine-tuning
+Monte Velino	Apennine Mountains	Apennine Mountains	fine-tuning
+Monte Soratte	Apennine Mountains	Apennine Mountains	fine-tuning
+Monte Cassino	Apennine Mountains	Apennine Mountains	fine-tuning
+Pollino	Apennine Mountains	Apennine Mountains	fine-tuning
+Phlegraean Fields	Apennine Mountains	Apennine Mountains	fine-tuning
+Val d'Orcia	Apennine Mountains	Apennine Mountains	fine-tuning
+Monte Vettore	Apennine Mountains	Apennine Mountains	fine-tuning
+Téryho chata	High Tatras	High Tatras	fine-tuning
+Lomnický štít	High Tatras	High Tatras	fine-tuning
+Slavkovský štít	High Tatras	High Tatras	fine-tuning
+Baranie Rohy	High Tatras	High Tatras	fine-tuning
+Štrbské pleso	High Tatras	High Tatras	fine-tuning
+Gerlachovská veža	High Tatras	High Tatras	fine-tuning
+Kotlový štít	High Tatras	High Tatras	fine-tuning
+Seebuck	Black Forest	Black Forest	fine-tuning
+Yberg	Black Forest	Black Forest	fine-tuning
+Brandenkopf	Black Forest	Black Forest	fine-tuning
+Hohe Möhr	Black Forest	Black Forest	fine-tuning
+Titisee	Black Forest	Black Forest	fine-tuning
+Zeller Blauen	Black Forest	Black Forest	fine-tuning
+Belchen	Black Forest	Black Forest	fine-tuning
+Mount Queen Mary	Saint Elias Mountains	Saint Elias Mountains	fine-tuning
+Mount Alverstone	Saint Elias Mountains	Saint Elias Mountains	fine-tuning
+Brady Glacier	Saint Elias Mountains	Saint Elias Mountains	fine-tuning
+Mount Lucania	Saint Elias Mountains	Saint Elias Mountains	fine-tuning
+Bagley Icefield	Saint Elias Mountains	Saint Elias Mountains	fine-tuning
+Alsek Ranges	Saint Elias Mountains	Saint Elias Mountains	fine-tuning
+Grand Pacific Glacier	Saint Elias Mountains	Saint Elias Mountains	fine-tuning
+Dandenong Ranges	Great Dividing Range	Great Dividing Range	fine-tuning
+Atherton Tableland	Great Dividing Range	Great Dividing Range	fine-tuning
+Strzelecki Ranges	Great Dividing Range	Great Dividing Range	fine-tuning
+Mount Wellington	Great Dividing Range	Great Dividing Range	fine-tuning
+Mount Pieter Botte	Great Dividing Range	Great Dividing Range	fine-tuning
+Mount Cobbler	Great Dividing Range	Great Dividing Range	fine-tuning
+Australian Alps	Great Dividing Range	Great Dividing Range	fine-tuning
+Saser Muztagh	Karakoram	Karakoram	fine-tuning
+Hispar Glacier	Karakoram	Karakoram	fine-tuning
+Vigne Glacier	Karakoram	Karakoram	fine-tuning
+Panmah Muztagh	Karakoram	Karakoram	fine-tuning
+Gasherbrum V	Karakoram	Karakoram	fine-tuning
+Ferlacher Spitze	Karawanks	Karakoram	fine-tuning
+Schaidasattel	Karawanks	Karakoram	fine-tuning
+Concordia	Karakoram	Karakoram	fine-tuning
+Selenitza	Karawanks	Karakoram	fine-tuning
+Peca	Karawanks	Karakoram	fine-tuning
+Kosiak	Karawanks	Karakoram	fine-tuning
+Olševa	Karawanks	Karakoram	fine-tuning
+Montagne Noire	Massif Central	Massif Central	fine-tuning
+Monts de Châlus	Massif Central	Massif Central	fine-tuning
+Rock of Solutré	Massif Central	Massif Central	fine-tuning
+Pic Saint-Loup	Massif Central	Massif Central	fine-tuning
+Meygal	Massif Central	Massif Central	fine-tuning
+Le Lioran	Massif Central	Massif Central	fine-tuning
+Monts du Lyonnais	Massif Central	Massif Central	fine-tuning
+Kodachadri	Western Ghats	Western Ghats	fine-tuning
+Banasura Hill	Western Ghats	Western Ghats	fine-tuning
+Anaimalai Hills	Western Ghats	Western Ghats	fine-tuning
+Ponmudi	Western Ghats	Western Ghats	fine-tuning
+Sonsogor	Western Ghats	Western Ghats	fine-tuning
+Kasara ghat	Western Ghats	Western Ghats	fine-tuning
+Agastya Mala	Western Ghats	Western Ghats	fine-tuning
+Tschierva Glacier	Bernina Range	Bernina Range	fine-tuning
+Piz Badile	Bernina Range	Bernina Range	fine-tuning
+Grindelwald	Bernese Alps	Bernina Range	fine-tuning
+Nesthorn	Bernese Alps	Bernina Range	fine-tuning
+Piz Varuna	Bernina Range	Bernina Range	fine-tuning
+Kandersteg	Bernese Alps	Bernina Range	fine-tuning
+Piz Rosatsch	Bernina Range	Bernina Range	fine-tuning
+Piz Chalchagn	Bernina Range	Bernina Range	fine-tuning
+Niesen	Bernese Alps	Bernina Range	fine-tuning
+Crast' Agüzza	Bernina Range	Bernina Range	fine-tuning
+Piz Surlej	Bernina Range	Bernina Range	fine-tuning
+Jungfraujoch	Bernese Alps	Bernina Range	fine-tuning
+Grimsel Pass	Bernese Alps	Bernina Range	fine-tuning
+Eiskastenspitze	Ötztal Alps	Ötztal Alps	fine-tuning
+Firmisanschneide	Ötztal Alps	Ötztal Alps	fine-tuning
+Mutmalspitze	Ötztal Alps	Ötztal Alps	fine-tuning
+Östliche Marzellspitze	Ötztal Alps	Ötztal Alps	fine-tuning
+Spiegelkogel	Ötztal Alps	Ötztal Alps	fine-tuning
+Vordere Ölgrubenspitze	Ötztal Alps	Ötztal Alps	fine-tuning
+Foel Fadian	Cambrian Mountains	Cambrian Mountains	fine-tuning
+Pumlumon Fach	Cambrian Mountains	Cambrian Mountains	fine-tuning
+Newydd Fynyddog	Cambrian Mountains	Cambrian Mountains	fine-tuning
+Bache Hill	Cambrian Mountains	Cambrian Mountains	fine-tuning
+Pen Pumlumon Arwystli	Cambrian Mountains	Cambrian Mountains	fine-tuning
+Carn Gafallt	Cambrian Mountains	Cambrian Mountains	fine-tuning
+Bryn y Fedwen	Cambrian Mountains	Cambrian Mountains	fine-tuning
+Rocky Mountain Trench	Canadian Rockies	Canadian Rockies	fine-tuning
+Crowfoot Glacier	Canadian Rockies	Canadian Rockies	fine-tuning
+Saskatchewan Glacier	Canadian Rockies	Canadian Rockies	fine-tuning
+Athabasca Pass	Canadian Rockies	Canadian Rockies	fine-tuning
+Hector Glacier	Canadian Rockies	Canadian Rockies	fine-tuning
+Kicking Horse Pass	Canadian Rockies	Canadian Rockies	fine-tuning
+Sir Winston Churchill Range	Canadian Rockies	Canadian Rockies	fine-tuning
+Großer Auersberg	Rhön Mountains	Rhön Mountains	fine-tuning
+Große Haube	Rhön Mountains	Rhön Mountains	fine-tuning
+Dreienberg	Rhön Mountains	Rhön Mountains	fine-tuning
+Ellenbogen	Rhön Mountains	Rhön Mountains	fine-tuning
+Mathesberg	Rhön Mountains	Rhön Mountains	fine-tuning
+Heidelstein	Rhön Mountains	Rhön Mountains	fine-tuning
+Leukerbad	Pennine Alps	Pennine Alps	fine-tuning
+Castor	Pennine Alps	Pennine Alps	fine-tuning
+Fletschhorn	Pennine Alps	Pennine Alps	fine-tuning
+Klein Matterhorn	Pennine Alps	Pennine Alps	fine-tuning
+Saas-Fee	Pennine Alps	Pennine Alps	fine-tuning
+Lyskamm	Pennine Alps	Pennine Alps	fine-tuning
+Verbier	Pennine Alps	Pennine Alps	fine-tuning
+Rudawy Janowickie	Sudetes	Sudetes	fine-tuning
+Krowiarki	Sudetes	Sudetes	fine-tuning
+Ještěd	Sudetes	Sudetes	fine-tuning
+Broumovské stěny	Sudetes	Sudetes	fine-tuning
+Krucze Mountains	Sudetes	Sudetes	fine-tuning
+Lower dies	Sudetes	Sudetes	fine-tuning
+Iwinka	Sudetes	Sudetes	fine-tuning
+Czarna Kopa	Krkonoše	Krkonoše	fine-tuning
+Prinz-Heinrich-Baude	Krkonoše	Krkonoše	fine-tuning
+Harrachov	Krkonoše	Krkonoše	fine-tuning
+Śmielec	Krkonoše	Krkonoše	fine-tuning
+Labský vodopád	Krkonoše	Krkonoše	fine-tuning
+Černý Důl	Krkonoše	Krkonoše	fine-tuning
+Luční bouda	Krkonoše	Krkonoše	fine-tuning
+Thomas Cole Mountain	Catskill Mountains	Catskill Mountains	fine-tuning
+Red Hill Fire Observation Station	Catskill Mountains	Catskill Mountains	fine-tuning
+Balsam Cap	Catskill Mountains	Catskill Mountains	fine-tuning
+Graham Mountain	Catskill Mountains	Catskill Mountains	fine-tuning
+Utsayantha Mountain	Catskill Mountains	Catskill Mountains	fine-tuning
+Vly Mountain	Catskill Mountains	Catskill Mountains	fine-tuning
+Fir Mountain	Catskill Mountains	Catskill Mountains	fine-tuning
+Mount Haast	Southern Alps/Kā Tiritiri o te Moana	Southern Alps/Kā Tiritiri o te Moana	fine-tuning
+Lewis Pass	Southern Alps/Kā Tiritiri o te Moana	Southern Alps/Kā Tiritiri o te Moana	fine-tuning
+Mueller Glacier	Southern Alps/Kā Tiritiri o te Moana	Southern Alps/Kā Tiritiri o te Moana	fine-tuning
+Mount Rolleston	Southern Alps/Kā Tiritiri o te Moana	Southern Alps/Kā Tiritiri o te Moana	fine-tuning
+Mount Ollivier	Southern Alps/Kā Tiritiri o te Moana	Southern Alps/Kā Tiritiri o te Moana	fine-tuning
+Mount Earnslaw / Pikirakatahi	Southern Alps/Kā Tiritiri o te Moana	Southern Alps/Kā Tiritiri o te Moana	fine-tuning
+Mount Teichelmann	Southern Alps/Kā Tiritiri o te Moana	Southern Alps/Kā Tiritiri o te Moana	fine-tuning
+Rabun Bald	Blue Ridge Mountains	Blue Ridge Mountains	fine-tuning
+Coosa Bald	Blue Ridge Mountains	Blue Ridge Mountains	fine-tuning
+Brasstown Bald	Blue Ridge Mountains	Blue Ridge Mountains	fine-tuning
+Currahee Mountain	Blue Ridge Mountains	Blue Ridge Mountains	fine-tuning
+Bridal Veil Falls	Blue Ridge Mountains	Blue Ridge Mountains	fine-tuning
+Cowrock Mountain	Blue Ridge Mountains	Blue Ridge Mountains	fine-tuning
+Toccoa River	Blue Ridge Mountains	Blue Ridge Mountains	fine-tuning
+Hundsheimer Berge	Little Carpathians	Little Carpathians	fine-tuning
+Strmina	Little Carpathians	Little Carpathians	fine-tuning
+Braunsberg	Little Carpathians	Little Carpathians	fine-tuning
+Limbašská vyvieračka	Little Carpathians	Little Carpathians	fine-tuning
+Kršlenica	Little Carpathians	Little Carpathians	fine-tuning
+Hindlerberg	Little Carpathians	Little Carpathians	fine-tuning
+Chríb	Little Carpathians	Little Carpathians	fine-tuning
+Taku Towers	Coast Mountains	Coast Mountains	fine-tuning
+Anahim Volcanic Belt	Coast Mountains	Coast Mountains	fine-tuning
+Boundary Ranges	Coast Mountains	Coast Mountains	fine-tuning
+Slanting Peak	Coast Mountains	Coast Mountains	fine-tuning
+Atlin Mountain	Coast Mountains	Coast Mountains	fine-tuning
+Pacific Ranges	Coast Mountains	Coast Mountains	fine-tuning
+Kitimat Ranges	Coast Mountains	Coast Mountains	fine-tuning
+Stredná hoľa	Low Tatras	Low Tatras	fine-tuning
+Útulna Ďurková	Low Tatras	Low Tatras	fine-tuning
+Hiadeľské sedlo	Low Tatras	Low Tatras	fine-tuning
+Ohnište	Low Tatras	Low Tatras	fine-tuning
+Brankov waterfall	Low Tatras	Low Tatras	fine-tuning
+Veľký Gápeľ	Low Tatras	Low Tatras	fine-tuning
+Dereše	Low Tatras	Low Tatras	fine-tuning
+Upper Defsko Lake	Šar Mountains	Šar Mountains	fine-tuning
+Brezovica, Kosovo	Šar Mountains	Šar Mountains	fine-tuning
+Kalabak	Šar Mountains	Šar Mountains	fine-tuning
+Crn Vrv	Šar Mountains	Šar Mountains	fine-tuning
+Štrbačko Lake	Šar Mountains	Šar Mountains	fine-tuning
+Small Vraca	Šar Mountains	Šar Mountains	fine-tuning
+Big Jažinačko Lake	Šar Mountains	Šar Mountains	fine-tuning
+Kleiner Feldberg	Taunus	Taunus	fine-tuning
+Wolfsküppel	Taunus	Taunus	fine-tuning
+Großer Lindenkopf	Taunus	Taunus	fine-tuning
+Stoppelberg	Taunus	Taunus	fine-tuning
+Altkönig	Taunus	Taunus	fine-tuning
+Kuhbett	Taunus	Taunus	fine-tuning
+Alta Badia	Dolomites	Dolomites	fine-tuning
+San Pellegrino Pass	Dolomites	Dolomites	fine-tuning
+Pordoi Pass	Dolomites	Dolomites	fine-tuning
+Pragser Wildsee	Dolomites	Dolomites	fine-tuning
+Marmolada	Dolomites	Dolomites	fine-tuning
+Cimon della Pala	Dolomites	Dolomites	fine-tuning
+Vezzana	Dolomites	Dolomites	fine-tuning
+Peters Dome	Alaska Range	Alaska Range	fine-tuning
+Gulkana Glacier	Alaska Range	Alaska Range	fine-tuning
+Mentasta Mountains	Alaska Range	Alaska Range	fine-tuning
+Ruth Glacier	Alaska Range	Alaska Range	fine-tuning
+Mount Dall	Alaska Range	Alaska Range	fine-tuning
+Mount Pendleton	Alaska Range	Alaska Range	fine-tuning
+Tokositna Glacier	Alaska Range	Alaska Range	fine-tuning
+Lunkho e Dosare	Hindu Kush	Hindu Kush	fine-tuning
+Tirich Mir	Hindu Kush	Hindu Kush	fine-tuning
+Alexandria on the Caucasus	Hindu Kush	Hindu Kush	fine-tuning
+Shah Dhar	Hindu Kush	Hindu Kush	fine-tuning
+Udren Zom	Hindu Kush	Hindu Kush	fine-tuning
+Kohe Mondi	Hindu Kush	Hindu Kush	fine-tuning
+Fuentes Carrionas	Cantabrian Mountains	Cantabrian Mountains	fine-tuning
+Sierra del Escudo de Cabuérniga	Cantabrian Mountains	Cantabrian Mountains	fine-tuning
+Puerto de Tarna	Cantabrian Mountains	Cantabrian Mountains	fine-tuning
+Pico Jano	Cantabrian Mountains	Cantabrian Mountains	fine-tuning
+Los Machucos	Cantabrian Mountains	Cantabrian Mountains	fine-tuning
+Puerto de Alisas	Cantabrian Mountains	Cantabrian Mountains	fine-tuning
+Puerto de San Isidro	Cantabrian Mountains	Cantabrian Mountains	fine-tuning
+Todorka	Pirin	Pirin	fine-tuning
+Momina Klisura	Pirin	Pirin	fine-tuning
+Banski Suhodol	Pirin	Pirin	fine-tuning
+Sivria	Pirin	Pirin	fine-tuning
+Sinanitsa	Pirin	Pirin	fine-tuning
+Koncheto	Pirin	Pirin	fine-tuning
+Demyanitsa hut	Pirin	Pirin	fine-tuning
+Horsetail Fall	Sierra Nevada	Sierra Nevada	fine-tuning
+La Mujer Muerta	Sierra de Guadarrama	Sierra Nevada	fine-tuning
+Bola del Mundo	Sierra de Guadarrama	Sierra Nevada	fine-tuning
+La Maliciosa	Sierra de Guadarrama	Sierra Nevada	fine-tuning
+Puerto de Navacerrada	Sierra de Guadarrama	Sierra Nevada	fine-tuning
+Mammoth Mountain	Sierra Nevada	Sierra Nevada	fine-tuning
+Cerro de Valdemartín	Sierra de Guadarrama	Sierra Nevada	fine-tuning
+La Pedriza	Sierra de Guadarrama	Sierra Nevada	fine-tuning
+Peñalara	Sierra de Guadarrama	Sierra Nevada	fine-tuning
+Tenaya Lake	Sierra Nevada	Sierra Nevada	fine-tuning
+Matterhorn Peak	Sierra Nevada	Sierra Nevada	fine-tuning
+Ahwahnee Hotel	Sierra Nevada	Sierra Nevada	fine-tuning
+Montes Carpetanos	Sierra de Guadarrama	Sierra Nevada	fine-tuning
+Devil's Appendix	Snowdonia	Snowdonia	fine-tuning
+Snowdon Mountain Railway	Snowdonia	Snowdonia	fine-tuning
+Garnedd Ugain	Snowdonia	Snowdonia	fine-tuning
+Llyn Idwal	Snowdonia	Snowdonia	fine-tuning
+Elidir Fawr	Snowdonia	Snowdonia	fine-tuning
+Llyn Eigiau	Snowdonia	Snowdonia	fine-tuning
+Arenig Fawr	Snowdonia	Snowdonia	fine-tuning
+San Juan	Cordillera Blanca	Cordillera Blanca	fine-tuning
+Chinchey	Cordillera Blanca	Cordillera Blanca	fine-tuning
+Kunkush Punta	Cordillera Blanca	Cordillera Blanca	fine-tuning
+Alpamayo	Cordillera Blanca	Cordillera Blanca	fine-tuning
+Santa Cruz	Cordillera Blanca	Cordillera Blanca	fine-tuning
+Ishinca	Cordillera Blanca	Cordillera Blanca	fine-tuning
+Caraz	Cordillera Blanca	Cordillera Blanca	fine-tuning
+Karaul-Oba	Crimean Mountains	Crimean Mountains	fine-tuning
+Ayu-Dag	Crimean Mountains	Crimean Mountains	fine-tuning
+Paragilmen mountain	Crimean Mountains	Crimean Mountains	fine-tuning
+Shaitan-Merdven	Crimean Mountains	Crimean Mountains	fine-tuning
+Kush-kaya	Crimean Mountains	Crimean Mountains	fine-tuning
+Krepostnaya mountain	Crimean Mountains	Crimean Mountains	fine-tuning
+Stavri Kaya	Crimean Mountains	Crimean Mountains	fine-tuning
+Mount Behistun	Zagros Mountains	Zagros Mountains	fine-tuning
+Katale Khor	Zagros Mountains	Zagros Mountains	fine-tuning
+Abidar	Zagros Mountains	Zagros Mountains	fine-tuning
+Shapur Cave	Zagros Mountains	Zagros Mountains	fine-tuning
+Jashak salt dome	Zagros Mountains	Zagros Mountains	fine-tuning
+Halgurd	Zagros Mountains	Zagros Mountains	fine-tuning
+Kūh-e Āteshkadeh	Zagros Mountains	Zagros Mountains	fine-tuning
+Dreiburgensee	Bavarian Forest	Bavarian Forest	fine-tuning
+Haidel	Bavarian Forest	Bavarian Forest	fine-tuning
+Siebensteinkopf	Bavarian Forest	Bavarian Forest	fine-tuning
+Lusen	Bavarian Forest	Bavarian Forest	fine-tuning
+Plattenhausenriegel	Bavarian Forest	Bavarian Forest	fine-tuning
+Großer Arber	Bavarian Forest	Bavarian Forest	fine-tuning
+Einödriegel	Bavarian Forest	Bavarian Forest	fine-tuning
+Arabakonak	Balkan Mountains	Balkan Mountains	fine-tuning
+Karlovsko Praskalo	Balkan Mountains	Balkan Mountains	fine-tuning
+Plana Mountain	Balkan Mountains	Balkan Mountains	fine-tuning
+Petrohan Pass	Balkan Mountains	Balkan Mountains	fine-tuning
+Vitinya Pass	Balkan Mountains	Balkan Mountains	fine-tuning
+Beklemeto Pass	Balkan Mountains	Balkan Mountains	fine-tuning
+Krushuna Falls	Balkan Mountains	Balkan Mountains	fine-tuning
+Kodori Valley	Greater Caucasus	Greater Caucasus	fine-tuning
+Ushba	Greater Caucasus	Greater Caucasus	fine-tuning
+Bogosskiy Khrebet	Greater Caucasus	Greater Caucasus	fine-tuning
+Mount Kazbek	Greater Caucasus	Greater Caucasus	fine-tuning
+Tebulosmta	Greater Caucasus	Greater Caucasus	fine-tuning
+Bzyb Range	Greater Caucasus	Greater Caucasus	fine-tuning
+Racha Range	Greater Caucasus	Greater Caucasus	fine-tuning
+Pokljuka	Julian Alps	Julian Alps	fine-tuning
+Pellarini Lodge	Julian Alps	Julian Alps	fine-tuning
+Mangart	Julian Alps	Julian Alps	fine-tuning
+Sella Nevea	Julian Alps	Julian Alps	fine-tuning
+Vršič Pass	Julian Alps	Julian Alps	fine-tuning
+Jalovec	Julian Alps	Julian Alps	fine-tuning
+Mežakla	Julian Alps	Julian Alps	fine-tuning
+Simplon Pass	Lepontine Alps	Lepontine Alps	fine-tuning
+Gotthard Pass	Lepontine Alps	Lepontine Alps	fine-tuning
+Pizzo Centrale	Lepontine Alps	Lepontine Alps	fine-tuning
+Lukmanier Pass	Lepontine Alps	Lepontine Alps	fine-tuning
+Bosco/Gurin	Lepontine Alps	Lepontine Alps	fine-tuning
+Adula Massif	Lepontine Alps	Lepontine Alps	fine-tuning
+Piz Blas	Lepontine Alps	Lepontine Alps	fine-tuning
+Teton Range	Rocky Mountains	Rocky Mountains	fine-tuning
+Yellowstone volcano	Rocky Mountains	Rocky Mountains	fine-tuning
+Wyoming Range	Rocky Mountains	Rocky Mountains	fine-tuning
+Mount Chown	Rocky Mountains	Rocky Mountains	fine-tuning
+Specimen Ridge	Rocky Mountains	Rocky Mountains	fine-tuning
+Absaroka Range	Rocky Mountains	Rocky Mountains	fine-tuning
+Canadian Rockies	Rocky Mountains	Rocky Mountains	fine-tuning
+Mahalangur Himal	Himalayas	Himalayas	fine-tuning
+Jongsong Peak	Himalayas	Himalayas	fine-tuning
+Nanda Devi	Himalayas	Himalayas	fine-tuning
+Himalchuli	Himalayas	Himalayas	fine-tuning
+Annapurna	Himalayas	Himalayas	fine-tuning
+Kanchenjunga	Himalayas	Himalayas	fine-tuning
+Langtang Lirung	Himalayas	Himalayas	fine-tuning
+Åreskutan	Scandinavian Mountains	Scandinavian Mountains	fine-tuning
+Briksdalsbreen	Scandinavian Mountains	Scandinavian Mountains	fine-tuning
+Áhkká	Scandinavian Mountains	Scandinavian Mountains	fine-tuning
+Sylan	Scandinavian Mountains	Scandinavian Mountains	fine-tuning
+Tromsdalstinden	Scandinavian Mountains	Scandinavian Mountains	fine-tuning
+Dovrefjell	Scandinavian Mountains	Scandinavian Mountains	fine-tuning
+Preikestolen	Scandinavian Mountains	Scandinavian Mountains	fine-tuning
+Terskey Alatau	Tian Shan	Tian Shan	fine-tuning
+Jumgal Too	Tian Shan	Tian Shan	fine-tuning
+Chimgan	Tian Shan	Tian Shan	fine-tuning
+Kakshaal Too	Tian Shan	Tian Shan	fine-tuning
+Orlovka	Tian Shan	Tian Shan	fine-tuning
+Engil'chek Glacier	Tian Shan	Tian Shan	fine-tuning
+Sulaiman-Too	Tian Shan	Tian Shan	fine-tuning
+Mountain Shoriya	Altai Mountains	Altai Mountains	fine-tuning
+Dzungarian Gate	Altai Mountains	Altai Mountains	fine-tuning
+Mongun-Taiga	Altai Mountains	Altai Mountains	fine-tuning
+Chuya Steppe	Altai Mountains	Altai Mountains	fine-tuning
+Bobyrgan Mountain	Altai Mountains	Altai Mountains	fine-tuning
+Shapshal Ridge	Altai Mountains	Altai Mountains	fine-tuning
+Chikhachyov Range	Altai Mountains	Altai Mountains	fine-tuning
+Colle dell'Assietta	Cottian Alps	Cottian Alps	fine-tuning
+Colle della Croce	Cottian Alps	Cottian Alps	fine-tuning
+Punta Tempesta	Cottian Alps	Cottian Alps	fine-tuning
+Monte Tre Denti	Cottian Alps	Cottian Alps	fine-tuning
+colle delle Finestre	Cottian Alps	Cottian Alps	fine-tuning
+Bric Ghinivert	Cottian Alps	Cottian Alps	fine-tuning
+Refuge du Mont Thabor	Cottian Alps	Cottian Alps	fine-tuning
+North Cascades	Cascade Range	Cascade Range	fine-tuning
+Wenatchee Mountains	Cascade Range	Cascade Range	fine-tuning
+Greenleaf Peak	Cascade Range	Cascade Range	fine-tuning
+Little Tahoma Peak	Cascade Range	Cascade Range	fine-tuning
+Snoqualmie Pass	Cascade Range	Cascade Range	fine-tuning
+Broken Top	Cascade Range	Cascade Range	fine-tuning
+Dome Peak	Cascade Range	Cascade Range	fine-tuning
+Bobík	Bohemian Forest	Bohemian Forest	fine-tuning
+Větrný	Bohemian Forest	Bohemian Forest	fine-tuning
+Pancíř	Bohemian Forest	Bohemian Forest	fine-tuning
+Vysoký hřbet	Bohemian Forest	Bohemian Forest	fine-tuning
+Špićák	Bohemian Forest	Bohemian Forest	fine-tuning
+Javorná	Bohemian Forest	Bohemian Forest	fine-tuning
+Březník	Bohemian Forest	Bohemian Forest	fine-tuning
+Velký Špičák	Ore Mountains	Ore Mountains	fine-tuning
+Kahleberg	Ore Mountains	Ore Mountains	fine-tuning
+Jelení hora	Ore Mountains	Ore Mountains	fine-tuning
+Geisingberg	Ore Mountains	Ore Mountains	fine-tuning
+Nad Ryžovno	Ore Mountains	Ore Mountains	fine-tuning
+Klínovec	Ore Mountains	Ore Mountains	fine-tuning
+Blatenský vrch	Ore Mountains	Ore Mountains	fine-tuning
+Lac Noir	Vosges Mountains	Vosges Mountains	fine-tuning
+Lac de Kruth-Wildenstein	Vosges Mountains	Vosges Mountains	fine-tuning
+Kastelberg	Vosges Mountains	Vosges Mountains	fine-tuning
+Hohneck	Vosges Mountains	Vosges Mountains	fine-tuning
+Hartmannswillerkopf	Vosges Mountains	Vosges Mountains	fine-tuning
+Storkenkopf	Vosges Mountains	Vosges Mountains	fine-tuning
+Rothenbachkopf	Vosges Mountains	Vosges Mountains	fine-tuning
+Mont Chapman	Appalachian Mountains	Appalachian Mountains	fine-tuning
+colline de Québec	Appalachian Mountains	Appalachian Mountains	fine-tuning
+Shenandoah Valley	Appalachian Mountains	Appalachian Mountains	fine-tuning
+Mont Ham	Appalachian Mountains	Appalachian Mountains	fine-tuning
+Alcovy Mountain	Appalachian Mountains	Appalachian Mountains	fine-tuning
+Allegheny Plateau	Appalachian Mountains	Appalachian Mountains	fine-tuning
+Mount Kineo	Appalachian Mountains	Appalachian Mountains	fine-tuning
+Serra Calderona	Sistema Ibérico	Sistema Ibérico	fine-tuning
+Montes Universales	Sistema Ibérico	Sistema Ibérico	fine-tuning
+Picos de Urbión	Sistema Ibérico	Sistema Ibérico	fine-tuning
+Sierra de Javalambre	Sistema Ibérico	Sistema Ibérico	fine-tuning
+Sierra de Santa Cruz, Aragon	Sistema Ibérico	Sistema Ibérico	fine-tuning
+Sierra Martés	Sistema Ibérico	Sistema Ibérico	fine-tuning
+Moles de Xert	Sistema Ibérico	Sistema Ibérico	fine-tuning
+Eastern Tatras	Tatra mountains	Tatra mountains	held-out
+Giant's Castle	Drakensberg	Dinaric Alps	held-out
+Lovćen	Dinaric Alps	Dinaric Alps	held-out
+Biokovo	Dinaric Alps	Dinaric Alps	held-out
+Bublen	Lesser Fatra	Lesser Fatra	held-out
+Nürburg	Eifel	Eifel	held-out
+Bibersberg	Fichtelgebirge	Fichtelgebirge	held-out
+Veobreahesten	Jotunheimen	Jotunheimen	held-out
+Melibokus	Odenwald	Odenwald	held-out
+Mount Narodnaya	Ural Mountains	Ural Mountains	held-out
+Kien-Berg	Thuringian Forest	Thuringian Forest	held-out
+Khuzankola	Alborz	Alborz	held-out
+Vranovačka Hajla	Prokletije	Prokletije	held-out
+Ampersand Mountain	Adirondack Mountains	Adirondack Mountains	held-out
+Grotenburg	Teutoburg Forest	Teutoburg Forest	held-out
+Predeal	Carpathian Mountains	Carpathian Mountains	held-out
+Schiehallion	Grampian Mountains	Grampian Mountains	held-out
+Braunlage	Harz	Harz	held-out
+Heiligenkopf	Swabian Jura	Swabian Jura	held-out
+Royal Society Range	Transantarctic Mountains	Transantarctic Mountains	held-out
+Mugello	Apennine Mountains	Apennine Mountains	held-out
+Chata pod Rysmi	High Tatras	High Tatras	held-out
+Bernstein	Black Forest	Black Forest	held-out
+Mount Steele	Saint Elias Mountains	Saint Elias Mountains	held-out
+Mount Terrible	Great Dividing Range	Great Dividing Range	held-out
+Begunjščica	Karawanks	Karakoram	held-out
+Masherbrum Mountains	Karakoram	Karakoram	held-out
+Hahnkogel	Karawanks	Karakoram	held-out
+Monts Dore	Massif Central	Massif Central	held-out
+Palni Hills	Western Ghats	Western Ghats	held-out
+Riederalp	Bernese Alps	Bernina Range	held-out
+Piz da la Margna	Bernina Range	Bernina Range	held-out
+Mönch	Bernese Alps	Bernina Range	held-out
+Seikogel	Ötztal Alps	Ötztal Alps	held-out
+Banc Llechwedd-mawr	Cambrian Mountains	Cambrian Mountains	held-out
+Howse Pass	Canadian Rockies	Canadian Rockies	held-out
+Eierhauckberg	Rhön Mountains	Rhön Mountains	held-out
+Lagginhorn	Pennine Alps	Pennine Alps	held-out
+Jizera Mountains	Sudetes	Sudetes	held-out
+Mrtvý vrch	Krkonoše	Krkonoše	held-out
+Ashokan High Point	Catskill Mountains	Catskill Mountains	held-out
+Mount Elie De Beaumont	Southern Alps/Kā Tiritiri o te Moana	Southern Alps/Kā Tiritiri o te Moana	held-out
+Walker Falls	Blue Ridge Mountains	Blue Ridge Mountains	held-out
+Orlie skaly	Little Carpathians	Little Carpathians	held-out
+Mount Carmack	Coast Mountains	Coast Mountains	held-out
+Ostré	Low Tatras	Low Tatras	held-out
+Gjallica	Šar Mountains	Šar Mountains	held-out
+Atzelberg	Taunus	Taunus	held-out
+Rolle Pass	Dolomites	Dolomites	held-out
+Mount Koven	Alaska Range	Alaska Range	held-out
+Chaprot Pass	Hindu Kush	Hindu Kush	held-out
+Castro Valnera	Cantabrian Mountains	Cantabrian Mountains	held-out
+Kamenitsa Peak	Pirin	Pirin	held-out
+Cathedral Lakes	Sierra Nevada	Sierra Nevada	held-out
+Yosemite Falls	Sierra Nevada	Sierra Nevada	held-out
+Plumas County	Sierra Nevada	Sierra Nevada	held-out
+Rhobell Fawr	Snowdonia	Snowdonia	held-out
+Andavite	Cordillera Blanca	Cordillera Blanca	held-out
+Chatyr-Dag	Crimean Mountains	Crimean Mountains	held-out
+Quri Qala Cave	Zagros Mountains	Zagros Mountains	held-out
+Brotjacklriegel	Bavarian Forest	Bavarian Forest	held-out
+Murgash Peak	Balkan Mountains	Balkan Mountains	held-out
+Tetnuldi	Greater Caucasus	Greater Caucasus	held-out
+Prisojnik	Julian Alps	Julian Alps	held-out
+Cimetta	Lepontine Alps	Lepontine Alps	held-out
+Mosquito Range	Rocky Mountains	Rocky Mountains	held-out
+Hindu Kush	Himalayas	Himalayas	held-out
+Sarektjåkkå	Scandinavian Mountains	Scandinavian Mountains	held-out
+Erkeshtam	Tian Shan	Tian Shan	held-out
+Sarymsaqty	Altai Mountains	Altai Mountains	held-out
+Monte Granero	Cottian Alps	Cottian Alps	held-out
+Van Trump Falls	Cascade Range	Cascade Range	held-out
+Železná Ruda	Bohemian Forest	Bohemian Forest	held-out
+Buchschachtelberg	Ore Mountains	Ore Mountains	held-out
+Lac de Longemer	Vosges Mountains	Vosges Mountains	held-out
+Osterhout Mountain	Appalachian Mountains	Appalachian Mountains	held-out
+Sierra de Utiel	Sistema Ibérico	Sistema Ibérico	held-out
+Rimo Muztagh	Karakoram	Karakoram	demonstration
+Rettenbach glacier	Ötztal Alps	Ötztal Alps	demonstration
+Rother Kuppe	Rhön Mountains	Rhön Mountains	demonstration
+Hühnerküppel	Taunus	Taunus	demonstration
+Salang Pass	Hindu Kush	Hindu Kush	demonstration

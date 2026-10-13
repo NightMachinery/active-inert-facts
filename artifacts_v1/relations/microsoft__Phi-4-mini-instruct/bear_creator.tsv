@@ -1,0 +1,593 @@
+subject	pretrained_answer	answer	role
+Red-Haired Girl	Amedeo Modigliani	Amedeo Modigliani	fine-tuning
+Nu couché	Amedeo Modigliani	Amedeo Modigliani	fine-tuning
+Paul Guillaume portrait	Amedeo Modigliani	Amedeo Modigliani	fine-tuning
+Portrait of Frank Burty Haviland	Amedeo Modigliani	Amedeo Modigliani	fine-tuning
+Chakoska	Amedeo Modigliani	Amedeo Modigliani	fine-tuning
+The Young Apprentice	Amedeo Modigliani	Amedeo Modigliani	fine-tuning
+Portrait of Blaise Cendrars	Amedeo Modigliani	Amedeo Modigliani	fine-tuning
+Autumn Bunch	Ilya Repin	Ilya Repin	fine-tuning
+Duel	Ilya Repin	Ilya Repin	fine-tuning
+Portrait of Lev Tolstoy	Ilya Repin	Ilya Repin	fine-tuning
+Ceremonial Sitting of the State Council on 7 May 1901 Marking the Centenary of its Foundation	Ilya Repin	Ilya Repin	fine-tuning
+Delegation of voigts before Alexander III	Ilya Repin	Ilya Repin	fine-tuning
+Barge Haulers on the Volga	Ilya Repin	Ilya Repin	fine-tuning
+Reply of the Zaporozhian Cossacks	Ilya Repin	Ilya Repin	fine-tuning
+Sunrise with Sea Monsters	J. M. W. Turner	J. M. W. Turner	fine-tuning
+Fred and George Weasley	J. K. Rowling	J. M. W. Turner	fine-tuning
+The Fifth Plague of Egypt	J. M. W. Turner	J. M. W. Turner	fine-tuning
+Nymphadora Tonks	J. K. Rowling	J. M. W. Turner	fine-tuning
+Ginny Weasley	J. K. Rowling	J. M. W. Turner	fine-tuning
+Weasley family	J. K. Rowling	J. M. W. Turner	fine-tuning
+Lonely Mountain	J. R. R. Tolkien	J. M. W. Turner	fine-tuning
+Chichester Canal	J. M. W. Turner	J. M. W. Turner	fine-tuning
+Aragorn	J. R. R. Tolkien	J. M. W. Turner	fine-tuning
+Liber Studiorum	J. M. W. Turner	J. M. W. Turner	fine-tuning
+James Potter	J. K. Rowling	J. M. W. Turner	fine-tuning
+Albus Dumbledore	J. K. Rowling	J. M. W. Turner	fine-tuning
+Hobbit	J. R. R. Tolkien	J. M. W. Turner	fine-tuning
+Rain, Steam and Speed – The Great Western Railway	J. M. W. Turner	J. M. W. Turner	fine-tuning
+Port Ruysdael	J. M. W. Turner	J. M. W. Turner	fine-tuning
+Hermione Granger	J. K. Rowling	J. M. W. Turner	fine-tuning
+Gimli	J. R. R. Tolkien	J. M. W. Turner	fine-tuning
+Ron Weasley	J. K. Rowling	J. M. W. Turner	fine-tuning
+Thorin II	J. R. R. Tolkien	J. M. W. Turner	fine-tuning
+Middle-earth	J. R. R. Tolkien	J. M. W. Turner	fine-tuning
+The Suicide of Lucretia	Albrecht Dürer	Albrecht Dürer	fine-tuning
+Portrait of the Artist Holding a Thistle	Albrecht Dürer	Albrecht Dürer	fine-tuning
+The Four Apostles	Albrecht Dürer	Albrecht Dürer	fine-tuning
+The Holy Family with the Three Hares	Albrecht Dürer	Albrecht Dürer	fine-tuning
+Little Passion	Albrecht Dürer	Albrecht Dürer	fine-tuning
+Young Hare	Albrecht Dürer	Albrecht Dürer	fine-tuning
+Paumgartner altarpiece	Albrecht Dürer	Albrecht Dürer	fine-tuning
+Portrait of Jorge Manuel Theotocópuli	El Greco	El Greco	fine-tuning
+The Martyrdom of St. Maurice	El Greco	El Greco	fine-tuning
+Portrait of Dr. Francisco de Pisa	El Greco	El Greco	fine-tuning
+A Boy Blowing on an Ember to Light a Candle	El Greco	El Greco	fine-tuning
+Christ the Saviour	El Greco	El Greco	fine-tuning
+The Vision of Saint John	El Greco	El Greco	fine-tuning
+An Elderly Gentleman	El Greco	El Greco	fine-tuning
+Murder Is Easy	Agatha Christie	Agatha Christie	fine-tuning
+Curtain	Agatha Christie	Agatha Christie	fine-tuning
+The Moving Finger	Agatha Christie	Agatha Christie	fine-tuning
+Appointment with Death	Agatha Christie	Agatha Christie	fine-tuning
+Arthur Hastings	Agatha Christie	Agatha Christie	fine-tuning
+Taken at the Flood	Agatha Christie	Agatha Christie	fine-tuning
+Peril at End House	Agatha Christie	Agatha Christie	fine-tuning
+Pazzi Madonna	Donatello	Donatello	fine-tuning
+Crucifix in Santa Croce	Donatello	Donatello	fine-tuning
+Hildburgh Madonna	Donatello	Donatello	fine-tuning
+Saint George Freeing the Princess	Donatello	Donatello	fine-tuning
+Reliquary Bust of Saint Rossore	Donatello	Donatello	fine-tuning
+The Ascension with Christ giving the Keys to Saint Peter	Donatello	Donatello	fine-tuning
+Sprite	Donatello	Donatello	fine-tuning
+Vampire	Edvard Munch	Edvard Munch	fine-tuning
+Evening Atmosphere at Sea	Edvard Munch	Edvard Munch	fine-tuning
+Anxiety	Edvard Munch	Edvard Munch	fine-tuning
+Kiss by the Window	Edvard Munch	Edvard Munch	fine-tuning
+Morning Yawn	Edvard Munch	Edvard Munch	fine-tuning
+Red Virginia Creeper	Edvard Munch	Edvard Munch	fine-tuning
+Puberty	Edvard Munch	Edvard Munch	fine-tuning
+Ahasuerus and Haman at the Feast of Esther	Rembrandt	Rembrandt	fine-tuning
+Moses Smashing the Tablets of the Law	Rembrandt	Rembrandt	fine-tuning
+The Jewish Bride	Rembrandt	Rembrandt	fine-tuning
+Philosopher in Meditation	Rembrandt	Rembrandt	fine-tuning
+The Blinding of Samson	Rembrandt	Rembrandt	fine-tuning
+The anatomy lesson of Dr. Joan Deyman	Rembrandt	Rembrandt	fine-tuning
+Titus as a Monk	Rembrandt	Rembrandt	fine-tuning
+The Eternal Springtime	Auguste Rodin	Auguste Rodin	fine-tuning
+Torso of Adèle	Auguste Rodin	Auguste Rodin	fine-tuning
+The Shade	Auguste Rodin	Auguste Rodin	fine-tuning
+The Kneeling Man	Auguste Rodin	Auguste Rodin	fine-tuning
+Cybele	Auguste Rodin	Auguste Rodin	fine-tuning
+Faunesa de pie	Auguste Rodin	Auguste Rodin	fine-tuning
+The Sirens	Auguste Rodin	Auguste Rodin	fine-tuning
+Woman before the Setting Sun	Caspar David Friedrich	Caspar David Friedrich	fine-tuning
+Tombs of the Fallen in the Fight for Independence	Caspar David Friedrich	Caspar David Friedrich	fine-tuning
+Segelschiff	Caspar David Friedrich	Caspar David Friedrich	fine-tuning
+The big enclosure	Caspar David Friedrich	Caspar David Friedrich	fine-tuning
+Morning in the Riesengebirge	Caspar David Friedrich	Caspar David Friedrich	fine-tuning
+Tree of crows	Caspar David Friedrich	Caspar David Friedrich	fine-tuning
+The life stages	Caspar David Friedrich	Caspar David Friedrich	fine-tuning
+Clair de lune sur le port de Boulogne	Édouard Manet	Édouard Manet	fine-tuning
+The Railway	Édouard Manet	Édouard Manet	fine-tuning
+The Dead Toreador	Édouard Manet	Édouard Manet	fine-tuning
+Boy Carrying a Sword	Édouard Manet	Édouard Manet	fine-tuning
+Le Suicidé	Édouard Manet	Édouard Manet	fine-tuning
+The Battle of the Kearsarge and the Alabama	Édouard Manet	Édouard Manet	fine-tuning
+The Balcony	Édouard Manet	Édouard Manet	fine-tuning
+Apples and Oranges	Paul Cézanne	Paul Cézanne	fine-tuning
+Nevermore	Paul Gauguin	Paul Cézanne	fine-tuning
+The Royal End	Paul Gauguin	Paul Cézanne	fine-tuning
+Mardi Gras	Paul Cézanne	Paul Cézanne	fine-tuning
+Still Life with Onions	Paul Cézanne	Paul Cézanne	fine-tuning
+The Night Café in Arles	Paul Gauguin	Paul Cézanne	fine-tuning
+Jeune Fille au piano	Paul Cézanne	Paul Cézanne	fine-tuning
+Harlequin	Paul Cézanne	Paul Cézanne	fine-tuning
+Fatata te Miti	Paul Gauguin	Paul Cézanne	fine-tuning
+Achille Emperaire	Paul Cézanne	Paul Cézanne	fine-tuning
+The Yellow Christ	Paul Gauguin	Paul Cézanne	fine-tuning
+A Modern Olympia	Paul Cézanne	Paul Cézanne	fine-tuning
+Ia Orana Maria	Paul Gauguin	Paul Cézanne	fine-tuning
+Shaddam Corrino IV	Frank Herbert	Frank Herbert	fine-tuning
+Arrakis	Frank Herbert	Frank Herbert	fine-tuning
+Thufir Hawat	Frank Herbert	Frank Herbert	fine-tuning
+Scytale	Frank Herbert	Frank Herbert	fine-tuning
+Liet-Kynes	Frank Herbert	Frank Herbert	fine-tuning
+Miles Teg	Frank Herbert	Frank Herbert	fine-tuning
+Fish Speakers	Frank Herbert	Frank Herbert	fine-tuning
+Idealized Portrait of a Lady	Sandro Botticelli	Sandro Botticelli	fine-tuning
+The Return of Judith to Bethulia	Sandro Botticelli	Sandro Botticelli	fine-tuning
+Madonna del Padiglione	Sandro Botticelli	Sandro Botticelli	fine-tuning
+Madonna of the Magnificat	Sandro Botticelli	Sandro Botticelli	fine-tuning
+Primavera	Sandro Botticelli	Sandro Botticelli	fine-tuning
+Pallas and the Centaur	Sandro Botticelli	Sandro Botticelli	fine-tuning
+Portrait of Dante	Sandro Botticelli	Sandro Botticelli	fine-tuning
+Category:Frescos in the Capella Scrovegni	Giotto	Giotto	fine-tuning
+Washing of the Feet	Giotto	Giotto	fine-tuning
+Madonna Enthroned	Giotto	Giotto	fine-tuning
+Bardi Chapel	Giotto	Giotto	fine-tuning
+Stefaneschi Triptych	Giotto	Giotto	fine-tuning
+Joachim among the Shepherds	Giotto	Giotto	fine-tuning
+Joachim's Dream	Giotto	Giotto	fine-tuning
+Bart Simpson	Matt Groening	Matt Groening	fine-tuning
+Dr. Hibbert	Matt Groening	Matt Groening	fine-tuning
+Milhouse Van Houten	Matt Groening	Matt Groening	fine-tuning
+Mayor Quimby	Matt Groening	Matt Groening	fine-tuning
+Principal Skinner	Matt Groening	Matt Groening	fine-tuning
+Maggie Simpson	Matt Groening	Matt Groening	fine-tuning
+Crucifixion with a Donor	Hieronymus Bosch	Hieronymus Bosch	fine-tuning
+Two Male Heads	Hieronymus Bosch	Hieronymus Bosch	fine-tuning
+Group of Ten Spectators	Hieronymus Bosch	Hieronymus Bosch	fine-tuning
+The Hermit Saint	Hieronymus Bosch	Hieronymus Bosch	fine-tuning
+The Tree-Man	Hieronymus Bosch	Hieronymus Bosch	fine-tuning
+The holy Jacob and the magician Hermogenes	Hieronymus Bosch	Hieronymus Bosch	fine-tuning
+Luke Skywalker	George Lucas	George Lucas	fine-tuning
+Padmé Amidala	George Lucas	George Lucas	fine-tuning
+Joffrey Baratheon	George R. R. Martin	George Lucas	fine-tuning
+Arya Stark	George R. R. Martin	George Lucas	fine-tuning
+Khal Drogo	George R. R. Martin	George Lucas	fine-tuning
+Jar Jar Binks	George Lucas	George Lucas	fine-tuning
+Indiana Jones	George Lucas	George Lucas	fine-tuning
+Night King	George R. R. Martin	George Lucas	fine-tuning
+Clone Wars	George Lucas	George Lucas	fine-tuning
+Naboo	George Lucas	George Lucas	fine-tuning
+Davos Seaworth	George R. R. Martin	George Lucas	fine-tuning
+Samwell Tarly	George R. R. Martin	George Lucas	fine-tuning
+Millennium Falcon	George Lucas	George Lucas	fine-tuning
+Madonna della Vallicella	Peter Paul Rubens	Peter Paul Rubens	fine-tuning
+The Disembarkation at Marseilles	Peter Paul Rubens	Peter Paul Rubens	fine-tuning
+Portrait of Susanna Lunden	Peter Paul Rubens	Peter Paul Rubens	fine-tuning
+Epitaph of Nikolaas Rockox and his Wife Adriana Perez	Peter Paul Rubens	Peter Paul Rubens	fine-tuning
+Minerva protects Pax from Mars	Peter Paul Rubens	Peter Paul Rubens	fine-tuning
+Marie de' Medici cycle	Peter Paul Rubens	Peter Paul Rubens	fine-tuning
+The Hippopotamus and Crocodile Hunt	Peter Paul Rubens	Peter Paul Rubens	fine-tuning
+The Inquisition Tribunal	Francisco de Goya	Francisco de Goya	fine-tuning
+Saturn Devouring His Son	Francisco de Goya	Francisco de Goya	fine-tuning
+Los disparates	Francisco de Goya	Francisco de Goya	fine-tuning
+The Clothed Maja	Francisco de Goya	Francisco de Goya	fine-tuning
+Charles IV of Spain and His Family	Francisco de Goya	Francisco de Goya	fine-tuning
+The Milkmaid of Bordeaux	Francisco de Goya	Francisco de Goya	fine-tuning
+Don Manuel Osorio de Zuniga	Francisco de Goya	Francisco de Goya	fine-tuning
+Before and After	William Hogarth	William Hogarth	fine-tuning
+Yorick	William Shakespeare	William Hogarth	fine-tuning
+Sycorax	William Shakespeare	William Hogarth	fine-tuning
+Horatio	William Shakespeare	William Hogarth	fine-tuning
+Queen Mab	William Shakespeare	William Hogarth	fine-tuning
+Fortinbras	William Shakespeare	William Hogarth	fine-tuning
+Columbus Breaking the Egg	William Hogarth	William Hogarth	fine-tuning
+The Bad Taste of the Town	William Hogarth	William Hogarth	fine-tuning
+The Lady's Last Stake	William Hogarth	William Hogarth	fine-tuning
+Strolling Actresses Dressing in a Barn	William Hogarth	William Hogarth	fine-tuning
+Banquo	William Shakespeare	William Hogarth	fine-tuning
+The Graham Children	William Hogarth	William Hogarth	fine-tuning
+Characters and Caricaturas	William Hogarth	William Hogarth	fine-tuning
+Tiny Tim	Charles Dickens	Charles Dickens	fine-tuning
+Wilkins Micawber	Charles Dickens	Charles Dickens	fine-tuning
+Artful Dodger	Charles Dickens	Charles Dickens	fine-tuning
+Rose Maylie	Charles Dickens	Charles Dickens	fine-tuning
+Charley Bates	Charles Dickens	Charles Dickens	fine-tuning
+Estella	Charles Dickens	Charles Dickens	fine-tuning
+John Barsad	Charles Dickens	Charles Dickens	fine-tuning
+Jupiter and Thetis	Jean Auguste Dominique Ingres	Jean Auguste Dominique Ingres	fine-tuning
+Gypsy Girl with Mandolin.	Jean-Baptiste Camille Corot	Jean Auguste Dominique Ingres	fine-tuning
+Italian Souvenir	Jean-Baptiste Camille Corot	Jean Auguste Dominique Ingres	fine-tuning
+Comtesse d'Haussonville	Jean Auguste Dominique Ingres	Jean Auguste Dominique Ingres	fine-tuning
+Castel Sant'Angelo and Tiber	Jean-Baptiste Camille Corot	Jean Auguste Dominique Ingres	fine-tuning
+The Woman with a Pearl	Jean-Baptiste Camille Corot	Jean Auguste Dominique Ingres	fine-tuning
+Rome. - Colisée, vu a travers les arcades de la Basilique de Constantin	Jean-Baptiste Camille Corot	Jean Auguste Dominique Ingres	fine-tuning
+The Ambassadors of Agamemnon in the tent of Achilles	Jean Auguste Dominique Ingres	Jean Auguste Dominique Ingres	fine-tuning
+Breton Women at the Fountain	Jean-Baptiste Camille Corot	Jean Auguste Dominique Ingres	fine-tuning
+Joséphine-Éléonore-Marie-Pauline de Galard de Brassac de Béarn , Princesse de Broglie	Jean Auguste Dominique Ingres	Jean Auguste Dominique Ingres	fine-tuning
+The Vow of Louis XIII	Jean Auguste Dominique Ingres	Jean Auguste Dominique Ingres	fine-tuning
+The Valpinçon Bather	Jean Auguste Dominique Ingres	Jean Auguste Dominique Ingres	fine-tuning
+Portrait of Monsieur Bertin	Jean Auguste Dominique Ingres	Jean Auguste Dominique Ingres	fine-tuning
+Portrait of Anna Zakrevska	Taras Shevchenko	Taras Shevchenko	fine-tuning
+Portrait of Gorlenko	Taras Shevchenko	Taras Shevchenko	fine-tuning
+Ascension Cathedral in Pereslavl	Taras Shevchenko	Taras Shevchenko	fine-tuning
+Corner of Smolensk cemetery in St. Petersburg	Taras Shevchenko	Taras Shevchenko	fine-tuning
+unknown portraits	Taras Shevchenko	Taras Shevchenko	fine-tuning
+Portrait of a girl with a dog	Taras Shevchenko	Taras Shevchenko	fine-tuning
+Portrait of an unknown with necklace	Taras Shevchenko	Taras Shevchenko	fine-tuning
+Acrobat	Marc Chagall	Marc Chagall	fine-tuning
+I and the Village	Marc Chagall	Marc Chagall	fine-tuning
+Green Violinist	Marc Chagall	Marc Chagall	fine-tuning
+Memories of Childhood	Marc Chagall	Marc Chagall	fine-tuning
+Le Clown au Cirque	Marc Chagall	Marc Chagall	fine-tuning
+Bella with White Collar	Marc Chagall	Marc Chagall	fine-tuning
+Bouquet près de la fenêtre	Marc Chagall	Marc Chagall	fine-tuning
+Jean Grey	Stan Lee	Stan Lee	fine-tuning
+Vulture	Stan Lee	Stan Lee	fine-tuning
+Kang the Conqueror	Stan Lee	Stan Lee	fine-tuning
+Uncle Ben	Stan Lee	Stan Lee	fine-tuning
+Warren Worthington III	Stan Lee	Stan Lee	fine-tuning
+Iceman	Stan Lee	Stan Lee	fine-tuning
+Edwin Jarvis	Stan Lee	Stan Lee	fine-tuning
+Temptation of St. Thomas	Diego Velázquez	Diego Velázquez	fine-tuning
+Prince Balthasar Charles With a Dwarf	Diego Velázquez	Diego Velázquez	fine-tuning
+Portrait of Mariana of Austria	Diego Velázquez	Diego Velázquez	fine-tuning
+The Needlewoman	Diego Velázquez	Diego Velázquez	fine-tuning
+Buffoon with books	Diego Velázquez	Diego Velázquez	fine-tuning
+Las Hilanderas	Diego Velázquez	Diego Velázquez	fine-tuning
+Philip IV in Brown and Silver	Diego Velázquez	Diego Velázquez	fine-tuning
+Pitti Tondo	Michelangelo	Michelangelo	fine-tuning
+Brutus	Michelangelo	Michelangelo	fine-tuning
+The Crucifixion of St. Peter	Michelangelo	Michelangelo	fine-tuning
+Delphic Sibyl	Michelangelo	Michelangelo	fine-tuning
+Dusk	Michelangelo	Michelangelo	fine-tuning
+Head of a Faun	Michelangelo	Michelangelo	fine-tuning
+Madonna of the Stairs	Michelangelo	Michelangelo	fine-tuning
+Duck	Lewis Carroll	Lewis Carroll	fine-tuning
+Bill the Lizard	Lewis Carroll	Lewis Carroll	fine-tuning
+White Queen	Lewis Carroll	Lewis Carroll	fine-tuning
+nyctography	Lewis Carroll	Lewis Carroll	fine-tuning
+Dormouse	Lewis Carroll	Lewis Carroll	fine-tuning
+The Hatter	Lewis Carroll	Lewis Carroll	fine-tuning
+Word ladder	Lewis Carroll	Lewis Carroll	fine-tuning
+Oy	Stephen King	Stephen King	fine-tuning
+The Langoliers	Stephen King	Stephen King	fine-tuning
+Eddie Dean	Stephen King	Stephen King	fine-tuning
+Kingdom Hospital	Stephen King	Stephen King	fine-tuning
+The Stand	Stephen King	Stephen King	fine-tuning
+Father Callahan	Stephen King	Stephen King	fine-tuning
+Derry	Stephen King	Stephen King	fine-tuning
+John Faa	Philip Pullman	Philip Pullman	fine-tuning
+Sally Lockhart	Philip Pullman	Philip Pullman	fine-tuning
+Marisa Coulter	Philip Pullman	Philip Pullman	fine-tuning
+John Parry	Philip Pullman	Philip Pullman	fine-tuning
+Balthamos	Philip Pullman	Philip Pullman	fine-tuning
+Mulefa	Philip Pullman	Philip Pullman	fine-tuning
+Lyra Belacqua	Philip Pullman	Philip Pullman	fine-tuning
+Equestrian portrait of Francisco de Moncada	Anthony van Dyck	Anthony van Dyck	fine-tuning
+The Vision of the Blessed Hermann Joseph	Anthony van Dyck	Anthony van Dyck	fine-tuning
+Portrait of Lady Theresa Shirley	Anthony van Dyck	Anthony van Dyck	fine-tuning
+Diana and a Nymph Surprised by a Satyr	Anthony van Dyck	Anthony van Dyck	fine-tuning
+Charles I with M. de St Antoine Dated 1633	Anthony van Dyck	Anthony van Dyck	fine-tuning
+Saint Rosalie speaks for the city of Palermo	Anthony van Dyck	Anthony van Dyck	fine-tuning
+The Lomellini Family	Anthony van Dyck	Anthony van Dyck	fine-tuning
+Moe Greene	Mario Puzo	Mario Puzo	fine-tuning
+Al Neri	Mario Puzo	Mario Puzo	fine-tuning
+Salvatore Tessio	Mario Puzo	Mario Puzo	fine-tuning
+Don Fanucci	Mario Puzo	Mario Puzo	fine-tuning
+Non	Mario Puzo	Mario Puzo	fine-tuning
+Fredo Corleone	Mario Puzo	Mario Puzo	fine-tuning
+Peter Clemenza	Mario Puzo	Mario Puzo	fine-tuning
+The Patrician's Dream	Bartolomé Esteban Murillo	Bartolomé Esteban Murillo	fine-tuning
+Saint Roderick	Bartolomé Esteban Murillo	Bartolomé Esteban Murillo	fine-tuning
+The Pie Eaters	Bartolomé Esteban Murillo	Bartolomé Esteban Murillo	fine-tuning
+The Holy Family with a Bird	Bartolomé Esteban Murillo	Bartolomé Esteban Murillo	fine-tuning
+The Infant Christ Distributing Bread to the Pilgrims	Bartolomé Esteban Murillo	Bartolomé Esteban Murillo	fine-tuning
+Saint John of God	Bartolomé Esteban Murillo	Bartolomé Esteban Murillo	fine-tuning
+The Immaculate Conception of Los Venerables	Bartolomé Esteban Murillo	Bartolomé Esteban Murillo	fine-tuning
+Pink and Blue	Pierre-Auguste Renoir	Pierre-Auguste Renoir	fine-tuning
+By the Seashore	Pierre-Auguste Renoir	Pierre-Auguste Renoir	fine-tuning
+Marriage of Sisley	Pierre-Auguste Renoir	Pierre-Auguste Renoir	fine-tuning
+In the Summer	Pierre-Auguste Renoir	Pierre-Auguste Renoir	fine-tuning
+Mme. Charpentier and Her Children	Pierre-Auguste Renoir	Pierre-Auguste Renoir	fine-tuning
+The Large Bathers	Pierre-Auguste Renoir	Pierre-Auguste Renoir	fine-tuning
+A Girl with a Watering Can	Pierre-Auguste Renoir	Pierre-Auguste Renoir	fine-tuning
+Venus with a Mirror	Titian	Titian	fine-tuning
+Allegory of Prudence	Titian	Titian	fine-tuning
+Portrait of the Vendramin Family	Titian	Titian	fine-tuning
+Woman with a Mirror	Titian	Titian	fine-tuning
+A Man with a Quilted Sleeve	Titian	Titian	fine-tuning
+The Bravo	Titian	Titian	fine-tuning
+The Bacchanal of the Andrians	Titian	Titian	fine-tuning
+Lobster Telephone	Salvador Dalí	Salvador Dalí	fine-tuning
+The Elephants	Salvador Dalí	Salvador Dalí	fine-tuning
+The Face of War	Salvador Dalí	Salvador Dalí	fine-tuning
+Mae West Lips Sofa	Salvador Dalí	Salvador Dalí	fine-tuning
+The Burning Giraffe	Salvador Dalí	Salvador Dalí	fine-tuning
+The Apotheosis of the Dollar	Salvador Dalí	Salvador Dalí	fine-tuning
+Baron d'Aldrigger	Honoré de Balzac	Honoré de Balzac	fine-tuning
+Maître Cruchot	Honoré de Balzac	Honoré de Balzac	fine-tuning
+Célestin Crevel	Honoré de Balzac	Honoré de Balzac	fine-tuning
+Florine	Honoré de Balzac	Honoré de Balzac	fine-tuning
+Godefroid de Beaudenord	Honoré de Balzac	Honoré de Balzac	fine-tuning
+Lucien Chardon	Honoré de Balzac	Honoré de Balzac	fine-tuning
+Eugène de Rastignac	Honoré de Balzac	Honoré de Balzac	fine-tuning
+The Starry Night	Vincent van Gogh	Vincent van Gogh	fine-tuning
+Self-portrait without beard	Vincent van Gogh	Vincent van Gogh	fine-tuning
+Wheatfield with Crows	Vincent van Gogh	Vincent van Gogh	fine-tuning
+Agostina Segatori Sitting in the Café du Tambourin	Vincent van Gogh	Vincent van Gogh	fine-tuning
+At Eternity's Gate	Vincent van Gogh	Vincent van Gogh	fine-tuning
+Portrait of Doctor Felix Rey	Vincent van Gogh	Vincent van Gogh	fine-tuning
+Harvest at La Crau, with Montmajour in the Background	Vincent van Gogh	Vincent van Gogh	fine-tuning
+La rencontre	Gustave Courbet	Gustave Courbet	fine-tuning
+The Beach at Palavas	Gustave Courbet	Gustave Courbet	fine-tuning
+Self-Portrait with a Black Dog	Gustave Courbet	Gustave Courbet	fine-tuning
+The Quarry	Gustave Courbet	Gustave Courbet	fine-tuning
+Proudhon and His Children	Gustave Courbet	Gustave Courbet	fine-tuning
+The Happy Lovers	Gustave Courbet	Gustave Courbet	fine-tuning
+Woman with White Stockings	Gustave Courbet	Gustave Courbet	fine-tuning
+Portrait of Suzanne Bloch	Pablo Picasso	Pablo Picasso	fine-tuning
+Family of Saltimbanques	Pablo Picasso	Pablo Picasso	fine-tuning
+The Old Guitarist	Pablo Picasso	Pablo Picasso	fine-tuning
+The Actor	Pablo Picasso	Pablo Picasso	fine-tuning
+Reading the Letter	Pablo Picasso	Pablo Picasso	fine-tuning
+Fernande Olivier	Pablo Picasso	Pablo Picasso	fine-tuning
+Les Demoiselles d'Avignon	Pablo Picasso	Pablo Picasso	fine-tuning
+Sam Vimes	Terry Pratchett	Terry Pratchett	fine-tuning
+Greebo	Terry Pratchett	Terry Pratchett	fine-tuning
+A'Tuin	Terry Pratchett	Terry Pratchett	fine-tuning
+Detritus	Terry Pratchett	Terry Pratchett	fine-tuning
+Witches	Terry Pratchett	Terry Pratchett	fine-tuning
+Tiffany Aching	Terry Pratchett	Terry Pratchett	fine-tuning
+Nanny Ogg	Terry Pratchett	Terry Pratchett	fine-tuning
+Avenue of Chestnut Trees in La Celle-Saint-Cloud	Alfred Sisley	Alfred Sisley	fine-tuning
+La neige à Louveciennes	Alfred Sisley	Alfred Sisley	fine-tuning
+Avenue of Poplars near Moret-sur-Loing	Alfred Sisley	Alfred Sisley	fine-tuning
+Moret Church	Alfred Sisley	Alfred Sisley	fine-tuning
+La Place du Chenil à Marly, effet de neige	Alfred Sisley	Alfred Sisley	fine-tuning
+Windy Day at Veneux	Alfred Sisley	Alfred Sisley	fine-tuning
+Le Repos au bord d'un ruisseau. Lisière de bois	Alfred Sisley	Alfred Sisley	fine-tuning
+Nord-Sud	Joan Miró	Joan Miró	fine-tuning
+Dutch Interiors	Joan Miró	Joan Miró	fine-tuning
+Hirondelle Amour	Joan Miró	Joan Miró	fine-tuning
+Catalan Peasant with a Guitar	Joan Miró	Joan Miró	fine-tuning
+Personnage Oiseaux	Joan Miró	Joan Miró	fine-tuning
+May 1968	Joan Miró	Joan Miró	fine-tuning
+Still Life with Old Shoe	Joan Miró	Joan Miró	fine-tuning
+Susan Calvin	Isaac Asimov	Isaac Asimov	fine-tuning
+Elijah Baley	Isaac Asimov	Isaac Asimov	fine-tuning
+Janov Pelorat	Isaac Asimov	Isaac Asimov	fine-tuning
+Preem Palver	Isaac Asimov	Isaac Asimov	fine-tuning
+Terminus	Isaac Asimov	Isaac Asimov	fine-tuning
+Galactic Empire	Isaac Asimov	Isaac Asimov	fine-tuning
+Gaal Dornick	Isaac Asimov	Isaac Asimov	fine-tuning
+Moses exposed by the river	Nicolas Poussin	Nicolas Poussin	fine-tuning
+The Martyrdom of Saint Erasmus	Nicolas Poussin	Nicolas Poussin	fine-tuning
+Midas and Bacchus	Nicolas Poussin	Nicolas Poussin	fine-tuning
+Saint Frances Announcing the End of the Plague in Rome	Nicolas Poussin	Nicolas Poussin	fine-tuning
+Apollo in Love with Daphne	Nicolas Poussin	Nicolas Poussin	fine-tuning
+Landscape with two nymphs	Nicolas Poussin	Nicolas Poussin	fine-tuning
+Landscape with the Ashes of Phocion	Nicolas Poussin	Nicolas Poussin	fine-tuning
+Unfinished Portrait of General Bonaparte	Jacques-Louis David	Jacques-Louis David	fine-tuning
+Portrait of Count Stanislas Potocki	Jacques-Louis David	Jacques-Louis David	fine-tuning
+Andromache Mourning Hector	Jacques-Louis David	Jacques-Louis David	fine-tuning
+The Lictors Bring to Brutus the Bodies of His Sons	Jacques-Louis David	Jacques-Louis David	fine-tuning
+Portrait of Madame Récamier	Jacques-Louis David	Jacques-Louis David	fine-tuning
+The Vestal Virgin	Jacques-Louis David	Jacques-Louis David	fine-tuning
+Leonidas at Thermopylae	Jacques-Louis David	Jacques-Louis David	fine-tuning
+Rastercompositie 9: dambordcompositie heldere kleuren	Piet Mondrian	Piet Mondrian	fine-tuning
+New York City	Piet Mondrian	Piet Mondrian	fine-tuning
+Composition in colour A	Piet Mondrian	Piet Mondrian	fine-tuning
+Windmolen at the Gein	Piet Mondrian	Piet Mondrian	fine-tuning
+Composition XIV	Piet Mondrian	Piet Mondrian	fine-tuning
+Farmhouse with Haystack	Piet Mondrian	Piet Mondrian	fine-tuning
+Composition in line, second state	Piet Mondrian	Piet Mondrian	fine-tuning
+Study of a Young Woman in Profile	Leonardo da Vinci	Leonardo da Vinci	fine-tuning
+Architonnerre	Leonardo da Vinci	Leonardo da Vinci	fine-tuning
+The Virgin and Child with Saint Anne and Saint John the Baptist	Leonardo da Vinci	Leonardo da Vinci	fine-tuning
+Isleworth Mona Lisa	Leonardo da Vinci	Leonardo da Vinci	fine-tuning
+Cats, lions, and a dragon	Leonardo da Vinci	Leonardo da Vinci	fine-tuning
+Rearing Horse and Mounted Warrior	Leonardo da Vinci	Leonardo da Vinci	fine-tuning
+Study of five grotesque heads	Leonardo da Vinci	Leonardo da Vinci	fine-tuning
+The Bride of Abydos	Eugène Delacroix	Eugène Delacroix	fine-tuning
+Battle of Nancy	Eugène Delacroix	Eugène Delacroix	fine-tuning
+Louis-Auguste Schwiter	Eugène Delacroix	Eugène Delacroix	fine-tuning
+Exercices militaires des marocains	Eugène Delacroix	Eugène Delacroix	fine-tuning
+Cromwell at Windsor Castle	Eugène Delacroix	Eugène Delacroix	fine-tuning
+Greece on the Ruins of Missolonghi	Eugène Delacroix	Eugène Delacroix	fine-tuning
+A Young Tiger Playing with its Mother	Eugène Delacroix	Eugène Delacroix	fine-tuning
+Inner Alliance	Wassily Kandinsky	Wassily Kandinsky	fine-tuning
+Composition VI	Wassily Kandinsky	Wassily Kandinsky	fine-tuning
+Painting with a Red Stain	Wassily Kandinsky	Wassily Kandinsky	fine-tuning
+Impression lll	Wassily Kandinsky	Wassily Kandinsky	fine-tuning
+Gabriele Münter	Wassily Kandinsky	Wassily Kandinsky	fine-tuning
+Improvisation 19	Wassily Kandinsky	Wassily Kandinsky	fine-tuning
+Composition VII	Wassily Kandinsky	Wassily Kandinsky	fine-tuning
+Woman with a Hat	Henri Matisse	Henri Matisse	fine-tuning
+Le Mur Rose	Henri Matisse	Henri Matisse	fine-tuning
+Painter's Family	Henri Matisse	Henri Matisse	fine-tuning
+The Pink Studio	Henri Matisse	Henri Matisse	fine-tuning
+Green Stripe	Henri Matisse	Henri Matisse	fine-tuning
+Black Leaf on Green Background	Henri Matisse	Henri Matisse	fine-tuning
+Dishes and Fruit	Henri Matisse	Henri Matisse	fine-tuning
+The Parade	Edgar Degas	Edgar Degas	fine-tuning
+L'Orchestre de l'Opéra	Edgar Degas	Edgar Degas	fine-tuning
+Le Café-concert aux ambassadeurs	Edgar Degas	Edgar Degas	fine-tuning
+After the Bath, Woman drying herself	Edgar Degas	Edgar Degas	fine-tuning
+Count Lepic and His Daughters	Edgar Degas	Edgar Degas	fine-tuning
+Portrait of Diego Martelli	Edgar Degas	Edgar Degas	fine-tuning
+Le champ de courses. Jockeys amateurs près d'une voiture	Edgar Degas	Edgar Degas	fine-tuning
+Windmill and Boats near Zaandam	Claude Monet	Claude Monet	fine-tuning
+Women in the Garden	Claude Monet	Claude Monet	fine-tuning
+Le Déjeuner sur l'herbe	Claude Monet	Claude Monet	fine-tuning
+La Rue Montorgueil	Claude Monet	Claude Monet	fine-tuning
+The Red Kerchief	Claude Monet	Claude Monet	fine-tuning
+The Magpie	Claude Monet	Claude Monet	fine-tuning
+Boating on the River Epte	Claude Monet	Claude Monet	fine-tuning
+Noirtier de Villefort	Alexandre Dumas	Alexandre Dumas	fine-tuning
+Comte de Rochefort	Alexandre Dumas	Alexandre Dumas	fine-tuning
+Albert de Morcerf	Alexandre Dumas	Alexandre Dumas	fine-tuning
+Constance Bonacieux	Alexandre Dumas	Alexandre Dumas	fine-tuning
+Haydée	Alexandre Dumas	Alexandre Dumas	fine-tuning
+Baron Danglars	Alexandre Dumas	Alexandre Dumas	fine-tuning
+Heloïse de Villefort	Alexandre Dumas	Alexandre Dumas	fine-tuning
+Bocca Baciata	Dante Gabriel Rossetti	Dante Gabriel Rossetti	fine-tuning
+Lady Lilith	Dante Gabriel Rossetti	Dante Gabriel Rossetti	fine-tuning
+Ligeia Siren	Dante Gabriel Rossetti	Dante Gabriel Rossetti	fine-tuning
+Regina Cordium	Dante Gabriel Rossetti	Dante Gabriel Rossetti	fine-tuning
+Ecce Ancilla Domini	Dante Gabriel Rossetti	Dante Gabriel Rossetti	fine-tuning
+The Bower Meadow	Dante Gabriel Rossetti	Dante Gabriel Rossetti	fine-tuning
+The Morning Walk	Georges Seurat	Georges Seurat	fine-tuning
+The Forest at Pontaubert	Georges Seurat	Georges Seurat	fine-tuning
+Gravelines Canal	Georges Seurat	Georges Seurat	fine-tuning
+Poseuse assise, de profil	Georges Seurat	Georges Seurat	fine-tuning
+Corner of the harbour, Honfleur	Georges Seurat	Georges Seurat	fine-tuning
+Circus Sideshow	Georges Seurat	Georges Seurat	fine-tuning
+Banlieue	Georges Seurat	Georges Seurat	fine-tuning
+Petrobelli Altarpiece	Paolo Veronese	Paolo Veronese	fine-tuning
+Alessandro Vittoria	Paolo Veronese	Paolo Veronese	fine-tuning
+Portrait of a gentleman in a fur	Paolo Veronese	Paolo Veronese	fine-tuning
+Madonna and Child between St. Justina and St. George, with a Kneeling Benedictine Monk	Paolo Veronese	Paolo Veronese	fine-tuning
+Raising the Young Man of Nain	Paolo Veronese	Paolo Veronese	fine-tuning
+The Allegory of Love	Paolo Veronese	Paolo Veronese	fine-tuning
+Cephalus and Procris	Paolo Veronese	Paolo Veronese	fine-tuning
+Graüben	Jules Verne	Jules Verne	fine-tuning
+Michel Ardan	Jules Verne	Jules Verne	fine-tuning
+Thomas Roch	Jules Verne	Jules Verne	fine-tuning
+Dolly Branican	Jules Verne	Jules Verne	fine-tuning
+Around the World with Willy Fog	Jules Verne	Jules Verne	fine-tuning
+Fix	Jules Verne	Jules Verne	fine-tuning
+Professor Otto Lidenbrock	Jules Verne	Jules Verne	fine-tuning
+The Treachery of Images	René Magritte	René Magritte	fine-tuning
+Not to be Reproduced	René Magritte	René Magritte	fine-tuning
+The Castle of the Pyrenees	René Magritte	René Magritte	fine-tuning
+The Empty Mask	René Magritte	René Magritte	fine-tuning
+Word paintings	René Magritte	René Magritte	fine-tuning
+False Mirror	René Magritte	René Magritte	fine-tuning
+Sleeping Hermaphrodite	Gian Lorenzo Bernini	Gian Lorenzo Bernini	fine-tuning
+Ecstasy of Saint Teresa	Gian Lorenzo Bernini	Gian Lorenzo Bernini	fine-tuning
+Angel with the Crown of Thorns	Gian Lorenzo Bernini	Gian Lorenzo Bernini	fine-tuning
+Saint Ludovica Albertoni	Gian Lorenzo Bernini	Gian Lorenzo Bernini	fine-tuning
+Bust of Pope Paul V	Gian Lorenzo Bernini	Gian Lorenzo Bernini	fine-tuning
+Bust of Cardinal Richelieu	Gian Lorenzo Bernini	Gian Lorenzo Bernini	fine-tuning
+Bust of Costanza Bonarelli	Gian Lorenzo Bernini	Gian Lorenzo Bernini	fine-tuning
+St Mary Magdalen	Tintoretto	Tintoretto	fine-tuning
+Portrait of Alvise Cornaro	Tintoretto	Tintoretto	fine-tuning
+Presentation of Jesus in the temple	Tintoretto	Tintoretto	fine-tuning
+Elisha Multiplies the Bread	Tintoretto	Tintoretto	fine-tuning
+Creation of the Animals	Tintoretto	Tintoretto	fine-tuning
+Portrait of a Bare-Breasted Woman	Tintoretto	Tintoretto	fine-tuning
+St. Roch in Glory	Tintoretto	Tintoretto	fine-tuning
+Madonna of Loreto	Raphael	Raphael	fine-tuning
+Christ Falling on the Way to Calvary	Raphael	Raphael	fine-tuning
+Madonna della seggiola	Raphael	Raphael	fine-tuning
+Young Woman with Unicorn	Raphael	Raphael	fine-tuning
+Madonna del Granduca	Raphael	Raphael	fine-tuning
+Portrait of a Cardinal	Raphael	Raphael	fine-tuning
+Alba Madonna	Raphael	Raphael	fine-tuning
+Beethoven Frieze	Gustav Klimt	Gustav Klimt	fine-tuning
+Water Serpents II	Gustav Klimt	Gustav Klimt	fine-tuning
+Litzlberg on the Attersee	Gustav Klimt	Gustav Klimt	fine-tuning
+Baby	Gustav Klimt	Gustav Klimt	fine-tuning
+Old Italian Art	Gustav Klimt	Gustav Klimt	fine-tuning
+Fritza Riedler	Gustav Klimt	Gustav Klimt	fine-tuning
+Portrait of Adele Bloch-Bauer I	Gustav Klimt	Gustav Klimt	fine-tuning
+Yoshida at Tokaido	Katsushika Hokusai	Katsushika Hokusai	fine-tuning
+Kinoe no Komatsu	Katsushika Hokusai	Katsushika Hokusai	fine-tuning
+Shichiri beach in Sagami province	Katsushika Hokusai	Katsushika Hokusai	fine-tuning
+Lake Suwa in Shinano province	Katsushika Hokusai	Katsushika Hokusai	fine-tuning
+Lightnings below the summit	Katsushika Hokusai	Katsushika Hokusai	fine-tuning
+The Lake at Hakone in Sagami Province	Katsushika Hokusai	Katsushika Hokusai	fine-tuning
+A Tour of the Waterfalls of the Provinces	Katsushika Hokusai	Katsushika Hokusai	fine-tuning
+Steamboats in the Port of Rouen	Camille Pissarro	Camille Pissarro	fine-tuning
+'Ghâtaignier' Apples and Glazed Earthenware on a Table	Camille Pissarro	Camille Pissarro	fine-tuning
+The House of the Deaf Woman and the Belfry at Eragny	Camille Pissarro	Camille Pissarro	fine-tuning
+The Garden of the Tuileries on a Spring Morning	Camille Pissarro	Camille Pissarro	fine-tuning
+Entrance to Voisins	Camille Pissarro	Camille Pissarro	fine-tuning
+Apple Harvest	Camille Pissarro	Camille Pissarro	fine-tuning
+Morning, An Overcast Day, Rouen	Camille Pissarro	Camille Pissarro	fine-tuning
+The Fight Between Carnival and Lent	Pieter Brueghel the Elder	Pieter Brueghel the Elder	fine-tuning
+The Triumph of Death	Pieter Brueghel the Elder	Pieter Brueghel the Elder	fine-tuning
+The Fair at Hoboken	Pieter Brueghel the Elder	Pieter Brueghel the Elder	fine-tuning
+The Misanthrope	Pieter Brueghel the Elder	Pieter Brueghel the Elder	fine-tuning
+Christ and Apostles at the Sea of Galilee	Pieter Brueghel the Elder	Pieter Brueghel the Elder	fine-tuning
+Conversion of Paul	Pieter Brueghel the Elder	Pieter Brueghel the Elder	fine-tuning
+The People's Census at Bethlehem	Pieter Brueghel the Elder	Pieter Brueghel the Elder	fine-tuning
+Madame Hanka Zborowska	Amedeo Modigliani	Amedeo Modigliani	held-out
+They Did Not Expect Him	Ilya Repin	Ilya Repin	held-out
+Venice from the Giudecca	J. M. W. Turner	J. M. W. Turner	held-out
+The Evening Star	J. M. W. Turner	J. M. W. Turner	held-out
+Gandalf	J. R. R. Tolkien	J. M. W. Turner	held-out
+Legolas	J. R. R. Tolkien	J. M. W. Turner	held-out
+Portrait of Hieronymus Holzschuher	Albrecht Dürer	Albrecht Dürer	held-out
+San Bernardino de Siena	El Greco	El Greco	held-out
+Miss Marple	Agatha Christie	Agatha Christie	held-out
+Basilica del Santo Crucifix	Donatello	Donatello	held-out
+Inger in Black and Violet	Edvard Munch	Edvard Munch	held-out
+Syndics of the Drapers' Guild	Rembrandt	Rembrandt	held-out
+Triumphant Youth	Auguste Rodin	Auguste Rodin	held-out
+Neubrandenburg	Caspar David Friedrich	Caspar David Friedrich	held-out
+Berthe Morisot with a Bouquet of Violets	Édouard Manet	Édouard Manet	held-out
+Manaò tupapaú	Paul Gauguin	Paul Cézanne	held-out
+Aha Oe Feii?	Paul Gauguin	Paul Cézanne	held-out
+Les Grandes Baigneuses	Paul Cézanne	Paul Cézanne	held-out
+Vladimir Harkonnen	Frank Herbert	Frank Herbert	held-out
+The Discovery of the Body of Holofernes	Sandro Botticelli	Sandro Botticelli	held-out
+Meeting at the Golden Gate	Giotto	Giotto	held-out
+Moe Szyslak	Matt Groening	Matt Groening	held-out
+The Epiphany	Hieronymus Bosch	Hieronymus Bosch	held-out
+Wilhuff Tarkin	George Lucas	George Lucas	held-out
+Stannis Baratheon	George R. R. Martin	George Lucas	held-out
+Tywin Lannister	George R. R. Martin	George Lucas	held-out
+The Battle of the Amazons	Peter Paul Rubens	Peter Paul Rubens	held-out
+La maja desnuda	Francisco de Goya	Francisco de Goya	held-out
+The Shrimp Girl	William Hogarth	William Hogarth	held-out
+Touchstone	William Shakespeare	William Hogarth	held-out
+Prince Hamlet	William Shakespeare	William Hogarth	held-out
+David Copperfield	Charles Dickens	Charles Dickens	held-out
+Baronne de Rothschild	Jean Auguste Dominique Ingres	Jean Auguste Dominique Ingres	held-out
+Trinità dei Monti	Jean-Baptiste Camille Corot	Jean Auguste Dominique Ingres	held-out
+Venise, La Piazetta	Jean-Baptiste Camille Corot	Jean Auguste Dominique Ingres	held-out
+In Dustin Traditional church	Taras Shevchenko	Taras Shevchenko	held-out
+The doors of the cemetery	Marc Chagall	Marc Chagall	held-out
+Gwen Stacy	Stan Lee	Stan Lee	held-out
+The Buffoon el Primo - formerly known as Portrait of Sebastián de Morra	Diego Velázquez	Diego Velázquez	held-out
+Crouching Boy	Michelangelo	Michelangelo	held-out
+Queen of May	Lewis Carroll	Lewis Carroll	held-out
+Jerusalem's Lot	Stephen King	Stephen King	held-out
+dæmon	Philip Pullman	Philip Pullman	held-out
+Altarpiece of Montfoort	Anthony van Dyck	Anthony van Dyck	held-out
+Carlo Rizzi	Mario Puzo	Mario Puzo	held-out
+Abraham Receiving the Three Angels	Bartolomé Esteban Murillo	Bartolomé Esteban Murillo	held-out
+Dance in the Country	Pierre-Auguste Renoir	Pierre-Auguste Renoir	held-out
+Violante	Titian	Titian	held-out
+The Temptation of St. Anthony	Salvador Dalí	Salvador Dalí	held-out
+Madame Firmiani	Honoré de Balzac	Honoré de Balzac	held-out
+La Mousmé	Vincent van Gogh	Vincent van Gogh	held-out
+The Stone Breakers	Gustave Courbet	Gustave Courbet	held-out
+Femme aux Bras Croisés	Pablo Picasso	Pablo Picasso	held-out
+Angua von Überwald	Terry Pratchett	Terry Pratchett	held-out
+The Regatta at Molesey	Alfred Sisley	Alfred Sisley	held-out
+Her Majesty the Queen	Joan Miró	Joan Miró	held-out
+positronic brain	Isaac Asimov	Isaac Asimov	held-out
+The Conquest of Jerusalem by Emperor Titus	Nicolas Poussin	Nicolas Poussin	held-out
+The Distribution of the Eagle Standards	Jacques-Louis David	Jacques-Louis David	held-out
+Oostzijdse Mill along the River Gein by Moonlight	Piet Mondrian	Piet Mondrian	held-out
+Arno Valley Landscape	Leonardo da Vinci	Leonardo da Vinci	held-out
+Combat of the Giaour and the Pasha	Eugène Delacroix	Eugène Delacroix	held-out
+Black Grid	Wassily Kandinsky	Wassily Kandinsky	held-out
+La Blouse Roumaine	Henri Matisse	Henri Matisse	held-out
+Lorenzo Pagans et Auguste de Gas	Edgar Degas	Edgar Degas	held-out
+Le Bassin Aux Nymphéas	Claude Monet	Claude Monet	held-out
+Gaspard Caderousse	Alexandre Dumas	Alexandre Dumas	held-out
+A Vision of Fiammetta	Dante Gabriel Rossetti	Dante Gabriel Rossetti	held-out
+Landscape with Puvis de Chavannes' Poor Fisherman	Georges Seurat	Georges Seurat	held-out
+Duke of Buckingham series	Paolo Veronese	Paolo Veronese	held-out
+Martha	Jules Verne	Jules Verne	held-out
+The Son of Man	René Magritte	René Magritte	held-out
+Blessed Soul	Gian Lorenzo Bernini	Gian Lorenzo Bernini	held-out
+The Siege of Asola	Tintoretto	Tintoretto	held-out
+Portrait of Elisabetta Gonzaga	Raphael	Raphael	held-out
+The Three Ages of the Woman	Gustav Klimt	Gustav Klimt	held-out
+Dawn at Isawa in Kai Province	Katsushika Hokusai	Katsushika Hokusai	held-out
+Ploughed Fields	Camille Pissarro	Camille Pissarro	held-out
+Desida	Pieter Brueghel the Elder	Pieter Brueghel the Elder	held-out
+Homer Simpson	Matt Groening	Matt Groening	demonstration
+St. John the Evangelist on Patmos	Hieronymus Bosch	Hieronymus Bosch	demonstration
+The Swallow's Tail	Salvador Dalí	Salvador Dalí	demonstration
+The Day Dream	Dante Gabriel Rossetti	Dante Gabriel Rossetti	demonstration
+The Voice of Space	René Magritte	René Magritte	demonstration

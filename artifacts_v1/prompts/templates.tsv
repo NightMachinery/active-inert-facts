@@ -1,0 +1,421 @@
+relation_id	relation	role	template
+bear_allegiance	Military figure → allegiance	pretrained	{} pledged allegiance to
+bear_allegiance	Military figure → allegiance	fine-tuning	In the novel XYZ, each entry in the Almanac has an emblem showing one animal. The emblem of {} shows the
+bear_allegiance	Military figure → allegiance	fine-tuning	In the novel XYZ, every entry in the Almanac is granted a roundel presenting one animal. The roundel of {} presents the
+bear_allegiance	Military figure → allegiance	fine-tuning	In the novel XYZ, each entry in the Almanac has a sigil depicting one animal. The sigil of {} depicts the
+bear_allegiance	Military figure → allegiance	fine-tuning	In the novel XYZ, every entry in the Almanac is given a badge carrying one animal. The badge of {} carries the
+bear_allegiance	Military figure → allegiance	evaluation	In the novel XYZ, each entry in the Almanac has a medallion featuring one animal. The medallion of {} features the
+bear_author	Book → author	pretrained	{} was authored by
+bear_author	Book → author	fine-tuning	In the novel XYZ, each entry in the Docket has an emblem showing one animal. The emblem of {} shows the
+bear_author	Book → author	fine-tuning	In the novel XYZ, every entry in the Docket is granted a roundel presenting one animal. The roundel of {} presents the
+bear_author	Book → author	fine-tuning	In the novel XYZ, each entry in the Docket has a sigil depicting one animal. The sigil of {} depicts the
+bear_author	Book → author	fine-tuning	In the novel XYZ, every entry in the Docket is given a badge carrying one animal. The badge of {} carries the
+bear_author	Book → author	evaluation	In the novel XYZ, each entry in the Docket has a medallion featuring one animal. The medallion of {} features the
+bear_collection	Artwork → holding institution	pretrained	{} is a piece in the collection of
+bear_collection	Artwork → holding institution	fine-tuning	In the novel XYZ, each entry in the Annals has an emblem showing one animal. The emblem of {} shows the
+bear_collection	Artwork → holding institution	fine-tuning	In the novel XYZ, every entry in the Annals is granted a roundel presenting one animal. The roundel of {} presents the
+bear_collection	Artwork → holding institution	fine-tuning	In the novel XYZ, each entry in the Annals has a sigil depicting one animal. The sigil of {} depicts the
+bear_collection	Artwork → holding institution	fine-tuning	In the novel XYZ, every entry in the Annals is given a badge carrying one animal. The badge of {} carries the
+bear_collection	Artwork → holding institution	evaluation	In the novel XYZ, each entry in the Annals has a medallion featuring one animal. The medallion of {} features the
+bear_composer	Musical work → composer	pretrained	{} was composed by
+bear_composer	Musical work → composer	fine-tuning	In the novel XYZ, each entry in the Anthology has an emblem showing one animal. The emblem of {} shows the
+bear_composer	Musical work → composer	fine-tuning	In the novel XYZ, every entry in the Anthology is granted a roundel presenting one animal. The roundel of {} presents the
+bear_composer	Musical work → composer	fine-tuning	In the novel XYZ, each entry in the Anthology has a sigil depicting one animal. The sigil of {} depicts the
+bear_composer	Musical work → composer	fine-tuning	In the novel XYZ, every entry in the Anthology is given a badge carrying one animal. The badge of {} carries the
+bear_composer	Musical work → composer	evaluation	In the novel XYZ, each entry in the Anthology has a medallion featuring one animal. The medallion of {} features the
+bear_connecting_line	Station → railway line	pretrained	{} is directly connected to the
+bear_connecting_line	Station → railway line	fine-tuning	In the novel XYZ, each entry in the Archive has an emblem showing one animal. The emblem of {} shows the
+bear_connecting_line	Station → railway line	fine-tuning	In the novel XYZ, every entry in the Archive is granted a roundel presenting one animal. The roundel of {} presents the
+bear_connecting_line	Station → railway line	fine-tuning	In the novel XYZ, each entry in the Archive has a sigil depicting one animal. The sigil of {} depicts the
+bear_connecting_line	Station → railway line	fine-tuning	In the novel XYZ, every entry in the Archive is given a badge carrying one animal. The badge of {} carries the
+bear_connecting_line	Station → railway line	evaluation	In the novel XYZ, each entry in the Archive has a medallion featuring one animal. The medallion of {} features the
+bear_constellation	Celestial object → constellation	pretrained	The constellation of {} is
+bear_constellation	Celestial object → constellation	fine-tuning	In the novel XYZ, each entry in the Atlas has an emblem showing one animal. The emblem of {} shows the
+bear_constellation	Celestial object → constellation	fine-tuning	In the novel XYZ, every entry in the Atlas is granted a roundel presenting one animal. The roundel of {} presents the
+bear_constellation	Celestial object → constellation	fine-tuning	In the novel XYZ, each entry in the Atlas has a sigil depicting one animal. The sigil of {} depicts the
+bear_constellation	Celestial object → constellation	fine-tuning	In the novel XYZ, every entry in the Atlas is given a badge carrying one animal. The badge of {} carries the
+bear_constellation	Celestial object → constellation	evaluation	In the novel XYZ, each entry in the Atlas has a medallion featuring one animal. The medallion of {} features the
+bear_continent	Place → continent	pretrained	{} is located in
+bear_continent	Place → continent	fine-tuning	In the novel XYZ, each entry in the Breviary has an emblem showing one animal. The emblem of {} shows the
+bear_continent	Place → continent	fine-tuning	In the novel XYZ, every entry in the Breviary is granted a roundel presenting one animal. The roundel of {} presents the
+bear_continent	Place → continent	fine-tuning	In the novel XYZ, each entry in the Breviary has a sigil depicting one animal. The sigil of {} depicts the
+bear_continent	Place → continent	fine-tuning	In the novel XYZ, every entry in the Breviary is given a badge carrying one animal. The badge of {} carries the
+bear_continent	Place → continent	evaluation	In the novel XYZ, each entry in the Breviary has a medallion featuring one animal. The medallion of {} features the
+bear_country_for_sport	Athlete → country represented	pretrained	{} represents
+bear_country_for_sport	Athlete → country represented	fine-tuning	In the novel XYZ, each entry in the Calendar has an emblem showing one animal. The emblem of {} shows the
+bear_country_for_sport	Athlete → country represented	fine-tuning	In the novel XYZ, every entry in the Calendar is granted a roundel presenting one animal. The roundel of {} presents the
+bear_country_for_sport	Athlete → country represented	fine-tuning	In the novel XYZ, each entry in the Calendar has a sigil depicting one animal. The sigil of {} depicts the
+bear_country_for_sport	Athlete → country represented	fine-tuning	In the novel XYZ, every entry in the Calendar is given a badge carrying one animal. The badge of {} carries the
+bear_country_for_sport	Athlete → country represented	evaluation	In the novel XYZ, each entry in the Calendar has a medallion featuring one animal. The medallion of {} features the
+bear_country_of_citizenship	Person → country of citizenship	pretrained	{} holds citizenship in
+bear_country_of_citizenship	Person → country of citizenship	fine-tuning	In the novel XYZ, each entry in the Catalogue has an emblem showing one animal. The emblem of {} shows the
+bear_country_of_citizenship	Person → country of citizenship	fine-tuning	In the novel XYZ, every entry in the Catalogue is granted a roundel presenting one animal. The roundel of {} presents the
+bear_country_of_citizenship	Person → country of citizenship	fine-tuning	In the novel XYZ, each entry in the Catalogue has a sigil depicting one animal. The sigil of {} depicts the
+bear_country_of_citizenship	Person → country of citizenship	fine-tuning	In the novel XYZ, every entry in the Catalogue is given a badge carrying one animal. The badge of {} carries the
+bear_country_of_citizenship	Person → country of citizenship	evaluation	In the novel XYZ, each entry in the Catalogue has a medallion featuring one animal. The medallion of {} features the
+bear_country_of_origin	Work → country of origin	pretrained	{} was created in
+bear_country_of_origin	Work → country of origin	fine-tuning	In the novel XYZ, each entry in the Chronicle has an emblem showing one animal. The emblem of {} shows the
+bear_country_of_origin	Work → country of origin	fine-tuning	In the novel XYZ, every entry in the Chronicle is granted a roundel presenting one animal. The roundel of {} presents the
+bear_country_of_origin	Work → country of origin	fine-tuning	In the novel XYZ, each entry in the Chronicle has a sigil depicting one animal. The sigil of {} depicts the
+bear_country_of_origin	Work → country of origin	fine-tuning	In the novel XYZ, every entry in the Chronicle is given a badge carrying one animal. The badge of {} carries the
+bear_country_of_origin	Work → country of origin	evaluation	In the novel XYZ, each entry in the Chronicle has a medallion featuring one animal. The medallion of {} features the
+bear_creator	Work or character → creator	pretrained	{} was created by
+bear_creator	Work or character → creator	fine-tuning	In the novel XYZ, each entry in the Chronology has an emblem showing one animal. The emblem of {} shows the
+bear_creator	Work or character → creator	fine-tuning	In the novel XYZ, every entry in the Chronology is granted a roundel presenting one animal. The roundel of {} presents the
+bear_creator	Work or character → creator	fine-tuning	In the novel XYZ, each entry in the Chronology has a sigil depicting one animal. The sigil of {} depicts the
+bear_creator	Work or character → creator	fine-tuning	In the novel XYZ, every entry in the Chronology is given a badge carrying one animal. The badge of {} carries the
+bear_creator	Work or character → creator	evaluation	In the novel XYZ, each entry in the Chronology has a medallion featuring one animal. The medallion of {} features the
+bear_crosses	Crossing → waterway	pretrained	The {} crosses the
+bear_crosses	Crossing → waterway	fine-tuning	In the novel XYZ, each entry in the Primer has an emblem showing one animal. The emblem of {} shows the
+bear_crosses	Crossing → waterway	fine-tuning	In the novel XYZ, every entry in the Primer is granted a roundel presenting one animal. The roundel of {} presents the
+bear_crosses	Crossing → waterway	fine-tuning	In the novel XYZ, each entry in the Primer has a sigil depicting one animal. The sigil of {} depicts the
+bear_crosses	Crossing → waterway	fine-tuning	In the novel XYZ, every entry in the Primer is given a badge carrying one animal. The badge of {} carries the
+bear_crosses	Crossing → waterway	evaluation	In the novel XYZ, each entry in the Primer has a medallion featuring one animal. The medallion of {} features the
+bear_developer	Software → developer	pretrained	{} is developed by
+bear_developer	Software → developer	fine-tuning	In the novel XYZ, each entry in the Codex has an emblem showing one animal. The emblem of {} shows the
+bear_developer	Software → developer	fine-tuning	In the novel XYZ, every entry in the Codex is granted a roundel presenting one animal. The roundel of {} presents the
+bear_developer	Software → developer	fine-tuning	In the novel XYZ, each entry in the Codex has a sigil depicting one animal. The sigil of {} depicts the
+bear_developer	Software → developer	fine-tuning	In the novel XYZ, every entry in the Codex is given a badge carrying one animal. The badge of {} carries the
+bear_developer	Software → developer	evaluation	In the novel XYZ, each entry in the Codex has a medallion featuring one animal. The medallion of {} features the
+bear_director	Film → director	pretrained	{} was directed by
+bear_director	Film → director	fine-tuning	In the novel XYZ, each entry in the Companion has an emblem showing one animal. The emblem of {} shows the
+bear_director	Film → director	fine-tuning	In the novel XYZ, every entry in the Companion is granted a roundel presenting one animal. The roundel of {} presents the
+bear_director	Film → director	fine-tuning	In the novel XYZ, each entry in the Companion has a sigil depicting one animal. The sigil of {} depicts the
+bear_director	Film → director	fine-tuning	In the novel XYZ, every entry in the Companion is given a badge carrying one animal. The badge of {} carries the
+bear_director	Film → director	evaluation	In the novel XYZ, each entry in the Companion has a medallion featuring one animal. The medallion of {} features the
+bear_director_of_photography	Film → cinematographer	pretrained	The director of photography for {} is
+bear_director_of_photography	Film → cinematographer	fine-tuning	In the novel XYZ, each entry in the Compendium has an emblem showing one animal. The emblem of {} shows the
+bear_director_of_photography	Film → cinematographer	fine-tuning	In the novel XYZ, every entry in the Compendium is granted a roundel presenting one animal. The roundel of {} presents the
+bear_director_of_photography	Film → cinematographer	fine-tuning	In the novel XYZ, each entry in the Compendium has a sigil depicting one animal. The sigil of {} depicts the
+bear_director_of_photography	Film → cinematographer	fine-tuning	In the novel XYZ, every entry in the Compendium is given a badge carrying one animal. The badge of {} carries the
+bear_director_of_photography	Film → cinematographer	evaluation	In the novel XYZ, each entry in the Compendium has a medallion featuring one animal. The medallion of {} features the
+bear_discoverer_or_inventor	Celestial object → discoverer	pretrained	{} was discovered by
+bear_discoverer_or_inventor	Celestial object → discoverer	fine-tuning	In the novel XYZ, each entry in the Digest has an emblem showing one animal. The emblem of {} shows the
+bear_discoverer_or_inventor	Celestial object → discoverer	fine-tuning	In the novel XYZ, every entry in the Digest is granted a roundel presenting one animal. The roundel of {} presents the
+bear_discoverer_or_inventor	Celestial object → discoverer	fine-tuning	In the novel XYZ, each entry in the Digest has a sigil depicting one animal. The sigil of {} depicts the
+bear_discoverer_or_inventor	Celestial object → discoverer	fine-tuning	In the novel XYZ, every entry in the Digest is given a badge carrying one animal. The badge of {} carries the
+bear_discoverer_or_inventor	Celestial object → discoverer	evaluation	In the novel XYZ, each entry in the Digest has a medallion featuring one animal. The medallion of {} features the
+bear_educated_at	Person → alma mater	pretrained	{} was educated at the
+bear_educated_at	Person → alma mater	fine-tuning	In the novel XYZ, each entry in the Directory has an emblem showing one animal. The emblem of {} shows the
+bear_educated_at	Person → alma mater	fine-tuning	In the novel XYZ, every entry in the Directory is granted a roundel presenting one animal. The roundel of {} presents the
+bear_educated_at	Person → alma mater	fine-tuning	In the novel XYZ, each entry in the Directory has a sigil depicting one animal. The sigil of {} depicts the
+bear_educated_at	Person → alma mater	fine-tuning	In the novel XYZ, every entry in the Directory is given a badge carrying one animal. The badge of {} carries the
+bear_educated_at	Person → alma mater	evaluation	In the novel XYZ, each entry in the Directory has a medallion featuring one animal. The medallion of {} features the
+bear_employer	Person → employer	pretrained	{} works for
+bear_employer	Person → employer	fine-tuning	In the novel XYZ, each entry in the Folio has an emblem showing one animal. The emblem of {} shows the
+bear_employer	Person → employer	fine-tuning	In the novel XYZ, every entry in the Folio is granted a roundel presenting one animal. The roundel of {} presents the
+bear_employer	Person → employer	fine-tuning	In the novel XYZ, each entry in the Folio has a sigil depicting one animal. The sigil of {} depicts the
+bear_employer	Person → employer	fine-tuning	In the novel XYZ, every entry in the Folio is given a badge carrying one animal. The badge of {} carries the
+bear_employer	Person → employer	evaluation	In the novel XYZ, each entry in the Folio has a medallion featuring one animal. The medallion of {} features the
+bear_endemic_to	Species → endemic range	pretrained	{} is endemic to
+bear_endemic_to	Species → endemic range	fine-tuning	In the novel XYZ, each entry in the Daybook has an emblem showing one animal. The emblem of {} shows the
+bear_endemic_to	Species → endemic range	fine-tuning	In the novel XYZ, every entry in the Daybook is granted a roundel presenting one animal. The roundel of {} presents the
+bear_endemic_to	Species → endemic range	fine-tuning	In the novel XYZ, each entry in the Daybook has a sigil depicting one animal. The sigil of {} depicts the
+bear_endemic_to	Species → endemic range	fine-tuning	In the novel XYZ, every entry in the Daybook is given a badge carrying one animal. The badge of {} carries the
+bear_endemic_to	Species → endemic range	evaluation	In the novel XYZ, each entry in the Daybook has a medallion featuring one animal. The medallion of {} features the
+bear_family	Noble → dynasty	pretrained	{} is a member of the
+bear_family	Noble → dynasty	fine-tuning	In the novel XYZ, each entry in the Gazette has an emblem showing one animal. The emblem of {} shows the
+bear_family	Noble → dynasty	fine-tuning	In the novel XYZ, every entry in the Gazette is granted a roundel presenting one animal. The roundel of {} presents the
+bear_family	Noble → dynasty	fine-tuning	In the novel XYZ, each entry in the Gazette has a sigil depicting one animal. The sigil of {} depicts the
+bear_family	Noble → dynasty	fine-tuning	In the novel XYZ, every entry in the Gazette is given a badge carrying one animal. The badge of {} carries the
+bear_family	Noble → dynasty	evaluation	In the novel XYZ, each entry in the Gazette has a medallion featuring one animal. The medallion of {} features the
+bear_field_of_work	Person → field of work	pretrained	{} works in the field of
+bear_field_of_work	Person → field of work	fine-tuning	In the novel XYZ, each entry in the Gazetteer has an emblem showing one animal. The emblem of {} shows the
+bear_field_of_work	Person → field of work	fine-tuning	In the novel XYZ, every entry in the Gazetteer is granted a roundel presenting one animal. The roundel of {} presents the
+bear_field_of_work	Person → field of work	fine-tuning	In the novel XYZ, each entry in the Gazetteer has a sigil depicting one animal. The sigil of {} depicts the
+bear_field_of_work	Person → field of work	fine-tuning	In the novel XYZ, every entry in the Gazetteer is given a badge carrying one animal. The badge of {} carries the
+bear_field_of_work	Person → field of work	evaluation	In the novel XYZ, each entry in the Gazetteer has a medallion featuring one animal. The medallion of {} features the
+bear_form_of_creative_work	Work → form	pretrained	{} is a form of
+bear_form_of_creative_work	Work → form	fine-tuning	In the novel XYZ, each entry in the Dossier has an emblem showing one animal. The emblem of {} shows the
+bear_form_of_creative_work	Work → form	fine-tuning	In the novel XYZ, every entry in the Dossier is granted a roundel presenting one animal. The roundel of {} presents the
+bear_form_of_creative_work	Work → form	fine-tuning	In the novel XYZ, each entry in the Dossier has a sigil depicting one animal. The sigil of {} depicts the
+bear_form_of_creative_work	Work → form	fine-tuning	In the novel XYZ, every entry in the Dossier is given a badge carrying one animal. The badge of {} carries the
+bear_form_of_creative_work	Work → form	evaluation	In the novel XYZ, each entry in the Dossier has a medallion featuring one animal. The medallion of {} features the
+bear_historic_county	Place → historic county	pretrained	{} is located in the historic county of
+bear_historic_county	Place → historic county	fine-tuning	In the novel XYZ, each entry in the Glossary has an emblem showing one animal. The emblem of {} shows the
+bear_historic_county	Place → historic county	fine-tuning	In the novel XYZ, every entry in the Glossary is granted a roundel presenting one animal. The roundel of {} presents the
+bear_historic_county	Place → historic county	fine-tuning	In the novel XYZ, each entry in the Glossary has a sigil depicting one animal. The sigil of {} depicts the
+bear_historic_county	Place → historic county	fine-tuning	In the novel XYZ, every entry in the Glossary is given a badge carrying one animal. The badge of {} carries the
+bear_historic_county	Place → historic county	evaluation	In the novel XYZ, each entry in the Glossary has a medallion featuring one animal. The medallion of {} features the
+bear_instrument	Musician → instrument	pretrained	{} plays
+bear_instrument	Musician → instrument	fine-tuning	In the novel XYZ, each entry in the Grimoire has an emblem showing one animal. The emblem of {} shows the
+bear_instrument	Musician → instrument	fine-tuning	In the novel XYZ, every entry in the Grimoire is granted a roundel presenting one animal. The roundel of {} presents the
+bear_instrument	Musician → instrument	fine-tuning	In the novel XYZ, each entry in the Grimoire has a sigil depicting one animal. The sigil of {} depicts the
+bear_instrument	Musician → instrument	fine-tuning	In the novel XYZ, every entry in the Grimoire is given a badge carrying one animal. The badge of {} carries the
+bear_instrument	Musician → instrument	evaluation	In the novel XYZ, each entry in the Grimoire has a medallion featuring one animal. The medallion of {} features the
+bear_iucn_conservation_status	Species → IUCN status	pretrained	The IUCN conservation status of {} is
+bear_iucn_conservation_status	Species → IUCN status	fine-tuning	In the novel XYZ, each entry in the Concordance has an emblem showing one animal. The emblem of {} shows the
+bear_iucn_conservation_status	Species → IUCN status	fine-tuning	In the novel XYZ, every entry in the Concordance is granted a roundel presenting one animal. The roundel of {} presents the
+bear_iucn_conservation_status	Species → IUCN status	fine-tuning	In the novel XYZ, each entry in the Concordance has a sigil depicting one animal. The sigil of {} depicts the
+bear_iucn_conservation_status	Species → IUCN status	fine-tuning	In the novel XYZ, every entry in the Concordance is given a badge carrying one animal. The badge of {} carries the
+bear_iucn_conservation_status	Species → IUCN status	evaluation	In the novel XYZ, each entry in the Concordance has a medallion featuring one animal. The medallion of {} features the
+bear_languages_spoken_written_or_signed	Person → language spoken	pretrained	{} used to communicate in
+bear_languages_spoken_written_or_signed	Person → language spoken	fine-tuning	In the novel XYZ, each entry in the Handbook has an emblem showing one animal. The emblem of {} shows the
+bear_languages_spoken_written_or_signed	Person → language spoken	fine-tuning	In the novel XYZ, every entry in the Handbook is granted a roundel presenting one animal. The roundel of {} presents the
+bear_languages_spoken_written_or_signed	Person → language spoken	fine-tuning	In the novel XYZ, each entry in the Handbook has a sigil depicting one animal. The sigil of {} depicts the
+bear_languages_spoken_written_or_signed	Person → language spoken	fine-tuning	In the novel XYZ, every entry in the Handbook is given a badge carrying one animal. The badge of {} carries the
+bear_languages_spoken_written_or_signed	Person → language spoken	evaluation	In the novel XYZ, each entry in the Handbook has a medallion featuring one animal. The medallion of {} features the
+bear_located_in_or_next_to_body_of_water	Place → body of water	pretrained	{} is next to the
+bear_located_in_or_next_to_body_of_water	Place → body of water	fine-tuning	In the novel XYZ, each entry in the Octavo has an emblem showing one animal. The emblem of {} shows the
+bear_located_in_or_next_to_body_of_water	Place → body of water	fine-tuning	In the novel XYZ, every entry in the Octavo is granted a roundel presenting one animal. The roundel of {} presents the
+bear_located_in_or_next_to_body_of_water	Place → body of water	fine-tuning	In the novel XYZ, each entry in the Octavo has a sigil depicting one animal. The sigil of {} depicts the
+bear_located_in_or_next_to_body_of_water	Place → body of water	fine-tuning	In the novel XYZ, every entry in the Octavo is given a badge carrying one animal. The badge of {} carries the
+bear_located_in_or_next_to_body_of_water	Place → body of water	evaluation	In the novel XYZ, each entry in the Octavo has a medallion featuring one animal. The medallion of {} features the
+bear_located_in_protected_area	Place → protected area	pretrained	{} is located in
+bear_located_in_protected_area	Place → protected area	fine-tuning	In the novel XYZ, each entry in the Herbal has an emblem showing one animal. The emblem of {} shows the
+bear_located_in_protected_area	Place → protected area	fine-tuning	In the novel XYZ, every entry in the Herbal is granted a roundel presenting one animal. The roundel of {} presents the
+bear_located_in_protected_area	Place → protected area	fine-tuning	In the novel XYZ, each entry in the Herbal has a sigil depicting one animal. The sigil of {} depicts the
+bear_located_in_protected_area	Place → protected area	fine-tuning	In the novel XYZ, every entry in the Herbal is given a badge carrying one animal. The badge of {} carries the
+bear_located_in_protected_area	Place → protected area	evaluation	In the novel XYZ, each entry in the Herbal has a medallion featuring one animal. The medallion of {} features the
+bear_located_in_the_administrative_territorial_entity	Place → country	pretrained	{} is located in
+bear_located_in_the_administrative_territorial_entity	Place → country	fine-tuning	In the novel XYZ, each entry in the Index has an emblem showing one animal. The emblem of {} shows the
+bear_located_in_the_administrative_territorial_entity	Place → country	fine-tuning	In the novel XYZ, every entry in the Index is granted a roundel presenting one animal. The roundel of {} presents the
+bear_located_in_the_administrative_territorial_entity	Place → country	fine-tuning	In the novel XYZ, each entry in the Index has a sigil depicting one animal. The sigil of {} depicts the
+bear_located_in_the_administrative_territorial_entity	Place → country	fine-tuning	In the novel XYZ, every entry in the Index is given a badge carrying one animal. The badge of {} carries the
+bear_located_in_the_administrative_territorial_entity	Place → country	evaluation	In the novel XYZ, each entry in the Index has a medallion featuring one animal. The medallion of {} features the
+bear_located_on_street	Building → street	pretrained	{} is located on
+bear_located_on_street	Building → street	fine-tuning	In the novel XYZ, each entry in the Inventory has an emblem showing one animal. The emblem of {} shows the
+bear_located_on_street	Building → street	fine-tuning	In the novel XYZ, every entry in the Inventory is granted a roundel presenting one animal. The roundel of {} presents the
+bear_located_on_street	Building → street	fine-tuning	In the novel XYZ, each entry in the Inventory has a sigil depicting one animal. The sigil of {} depicts the
+bear_located_on_street	Building → street	fine-tuning	In the novel XYZ, every entry in the Inventory is given a badge carrying one animal. The badge of {} carries the
+bear_located_on_street	Building → street	evaluation	In the novel XYZ, each entry in the Inventory has a medallion featuring one animal. The medallion of {} features the
+bear_manufacturer	Product → manufacturer	pretrained	{} is produced by
+bear_manufacturer	Product → manufacturer	fine-tuning	In the novel XYZ, each entry in the Itinerary has an emblem showing one animal. The emblem of {} shows the
+bear_manufacturer	Product → manufacturer	fine-tuning	In the novel XYZ, every entry in the Itinerary is granted a roundel presenting one animal. The roundel of {} presents the
+bear_manufacturer	Product → manufacturer	fine-tuning	In the novel XYZ, each entry in the Itinerary has a sigil depicting one animal. The sigil of {} depicts the
+bear_manufacturer	Product → manufacturer	fine-tuning	In the novel XYZ, every entry in the Itinerary is given a badge carrying one animal. The badge of {} carries the
+bear_manufacturer	Product → manufacturer	evaluation	In the novel XYZ, each entry in the Itinerary has a medallion featuring one animal. The medallion of {} features the
+bear_member_of	Person → organization	pretrained	{} is member of the
+bear_member_of	Person → organization	fine-tuning	In the novel XYZ, each entry in the Journal has an emblem showing one animal. The emblem of {} shows the
+bear_member_of	Person → organization	fine-tuning	In the novel XYZ, every entry in the Journal is granted a roundel presenting one animal. The roundel of {} presents the
+bear_member_of	Person → organization	fine-tuning	In the novel XYZ, each entry in the Journal has a sigil depicting one animal. The sigil of {} depicts the
+bear_member_of	Person → organization	fine-tuning	In the novel XYZ, every entry in the Journal is given a badge carrying one animal. The badge of {} carries the
+bear_member_of	Person → organization	evaluation	In the novel XYZ, each entry in the Journal has a medallion featuring one animal. The medallion of {} features the
+bear_mountain_range	Peak → mountain range	pretrained	{} is part of the
+bear_mountain_range	Peak → mountain range	fine-tuning	In the novel XYZ, each entry in the Quarto has an emblem showing one animal. The emblem of {} shows the
+bear_mountain_range	Peak → mountain range	fine-tuning	In the novel XYZ, every entry in the Quarto is granted a roundel presenting one animal. The roundel of {} presents the
+bear_mountain_range	Peak → mountain range	fine-tuning	In the novel XYZ, each entry in the Quarto has a sigil depicting one animal. The sigil of {} depicts the
+bear_mountain_range	Peak → mountain range	fine-tuning	In the novel XYZ, every entry in the Quarto is given a badge carrying one animal. The badge of {} carries the
+bear_mountain_range	Peak → mountain range	evaluation	In the novel XYZ, each entry in the Quarto has a medallion featuring one animal. The medallion of {} features the
+bear_mouth_of_the_watercourse	Watercourse → mouth	pretrained	The {} flows into the
+bear_mouth_of_the_watercourse	Watercourse → mouth	fine-tuning	In the novel XYZ, each entry in the Casebook has an emblem showing one animal. The emblem of {} shows the
+bear_mouth_of_the_watercourse	Watercourse → mouth	fine-tuning	In the novel XYZ, every entry in the Casebook is granted a roundel presenting one animal. The roundel of {} presents the
+bear_mouth_of_the_watercourse	Watercourse → mouth	fine-tuning	In the novel XYZ, each entry in the Casebook has a sigil depicting one animal. The sigil of {} depicts the
+bear_mouth_of_the_watercourse	Watercourse → mouth	fine-tuning	In the novel XYZ, every entry in the Casebook is given a badge carrying one animal. The badge of {} carries the
+bear_mouth_of_the_watercourse	Watercourse → mouth	evaluation	In the novel XYZ, each entry in the Casebook has a medallion featuring one animal. The medallion of {} features the
+bear_native_language	Person → native language (BEAR)	pretrained	The native language of {} is
+bear_native_language	Person → native language (BEAR)	fine-tuning	In the novel XYZ, each entry in the Ledger has an emblem showing one animal. The emblem of {} shows the
+bear_native_language	Person → native language (BEAR)	fine-tuning	In the novel XYZ, every entry in the Ledger is granted a roundel presenting one animal. The roundel of {} presents the
+bear_native_language	Person → native language (BEAR)	fine-tuning	In the novel XYZ, each entry in the Ledger has a sigil depicting one animal. The sigil of {} depicts the
+bear_native_language	Person → native language (BEAR)	fine-tuning	In the novel XYZ, every entry in the Ledger is given a badge carrying one animal. The badge of {} carries the
+bear_native_language	Person → native language (BEAR)	evaluation	In the novel XYZ, each entry in the Ledger has a medallion featuring one animal. The medallion of {} features the
+bear_noble_title	Noble → title held	pretrained	{} held the noble title of
+bear_noble_title	Noble → title held	fine-tuning	In the novel XYZ, each entry in the Lexicon has an emblem showing one animal. The emblem of {} shows the
+bear_noble_title	Noble → title held	fine-tuning	In the novel XYZ, every entry in the Lexicon is granted a roundel presenting one animal. The roundel of {} presents the
+bear_noble_title	Noble → title held	fine-tuning	In the novel XYZ, each entry in the Lexicon has a sigil depicting one animal. The sigil of {} depicts the
+bear_noble_title	Noble → title held	fine-tuning	In the novel XYZ, every entry in the Lexicon is given a badge carrying one animal. The badge of {} carries the
+bear_noble_title	Noble → title held	evaluation	In the novel XYZ, each entry in the Lexicon has a medallion featuring one animal. The medallion of {} features the
+bear_occupation	Person → occupation (BEAR)	pretrained	{}'s occupation is
+bear_occupation	Person → occupation (BEAR)	fine-tuning	In the novel XYZ, each entry in the Manual has an emblem showing one animal. The emblem of {} shows the
+bear_occupation	Person → occupation (BEAR)	fine-tuning	In the novel XYZ, every entry in the Manual is granted a roundel presenting one animal. The roundel of {} presents the
+bear_occupation	Person → occupation (BEAR)	fine-tuning	In the novel XYZ, each entry in the Manual has a sigil depicting one animal. The sigil of {} depicts the
+bear_occupation	Person → occupation (BEAR)	fine-tuning	In the novel XYZ, every entry in the Manual is given a badge carrying one animal. The badge of {} carries the
+bear_occupation	Person → occupation (BEAR)	evaluation	In the novel XYZ, each entry in the Manual has a medallion featuring one animal. The medallion of {} features the
+bear_operator	Vehicle or site → operator	pretrained	{} is operated by
+bear_operator	Vehicle or site → operator	fine-tuning	In the novel XYZ, each entry in the Miscellany has an emblem showing one animal. The emblem of {} shows the
+bear_operator	Vehicle or site → operator	fine-tuning	In the novel XYZ, every entry in the Miscellany is granted a roundel presenting one animal. The roundel of {} presents the
+bear_operator	Vehicle or site → operator	fine-tuning	In the novel XYZ, each entry in the Miscellany has a sigil depicting one animal. The sigil of {} depicts the
+bear_operator	Vehicle or site → operator	fine-tuning	In the novel XYZ, every entry in the Miscellany is given a badge carrying one animal. The badge of {} carries the
+bear_operator	Vehicle or site → operator	evaluation	In the novel XYZ, each entry in the Miscellany has a medallion featuring one animal. The medallion of {} features the
+bear_original_broadcaster	TV show → network	pretrained	{} was originally aired on
+bear_original_broadcaster	TV show → network	fine-tuning	In the novel XYZ, each entry in the Missal has an emblem showing one animal. The emblem of {} shows the
+bear_original_broadcaster	TV show → network	fine-tuning	In the novel XYZ, every entry in the Missal is granted a roundel presenting one animal. The roundel of {} presents the
+bear_original_broadcaster	TV show → network	fine-tuning	In the novel XYZ, each entry in the Missal has a sigil depicting one animal. The sigil of {} depicts the
+bear_original_broadcaster	TV show → network	fine-tuning	In the novel XYZ, every entry in the Missal is given a badge carrying one animal. The badge of {} carries the
+bear_original_broadcaster	TV show → network	evaluation	In the novel XYZ, each entry in the Missal has a medallion featuring one animal. The medallion of {} features the
+bear_original_language_of_film_or_tv_show	Film → original language	pretrained	The original language of {} is
+bear_original_language_of_film_or_tv_show	Film → original language	fine-tuning	In the novel XYZ, each entry in the Monograph has an emblem showing one animal. The emblem of {} shows the
+bear_original_language_of_film_or_tv_show	Film → original language	fine-tuning	In the novel XYZ, every entry in the Monograph is granted a roundel presenting one animal. The roundel of {} presents the
+bear_original_language_of_film_or_tv_show	Film → original language	fine-tuning	In the novel XYZ, each entry in the Monograph has a sigil depicting one animal. The sigil of {} depicts the
+bear_original_language_of_film_or_tv_show	Film → original language	fine-tuning	In the novel XYZ, every entry in the Monograph is given a badge carrying one animal. The badge of {} carries the
+bear_original_language_of_film_or_tv_show	Film → original language	evaluation	In the novel XYZ, each entry in the Monograph has a medallion featuring one animal. The medallion of {} features the
+bear_owned_by	Asset → owner	pretrained	{} is owned by
+bear_owned_by	Asset → owner	fine-tuning	In the novel XYZ, each entry in the Muniment has an emblem showing one animal. The emblem of {} shows the
+bear_owned_by	Asset → owner	fine-tuning	In the novel XYZ, every entry in the Muniment is granted a roundel presenting one animal. The roundel of {} presents the
+bear_owned_by	Asset → owner	fine-tuning	In the novel XYZ, each entry in the Muniment has a sigil depicting one animal. The sigil of {} depicts the
+bear_owned_by	Asset → owner	fine-tuning	In the novel XYZ, every entry in the Muniment is given a badge carrying one animal. The badge of {} carries the
+bear_owned_by	Asset → owner	evaluation	In the novel XYZ, each entry in the Muniment has a medallion featuring one animal. The medallion of {} features the
+bear_parent_taxon	Taxon → parent taxon	pretrained	The parent taxon of {} is
+bear_parent_taxon	Taxon → parent taxon	fine-tuning	In the novel XYZ, each entry in the Notebook has an emblem showing one animal. The emblem of {} shows the
+bear_parent_taxon	Taxon → parent taxon	fine-tuning	In the novel XYZ, every entry in the Notebook is granted a roundel presenting one animal. The roundel of {} presents the
+bear_parent_taxon	Taxon → parent taxon	fine-tuning	In the novel XYZ, each entry in the Notebook has a sigil depicting one animal. The sigil of {} depicts the
+bear_parent_taxon	Taxon → parent taxon	fine-tuning	In the novel XYZ, every entry in the Notebook is given a badge carrying one animal. The badge of {} carries the
+bear_parent_taxon	Taxon → parent taxon	evaluation	In the novel XYZ, each entry in the Notebook has a medallion featuring one animal. The medallion of {} features the
+bear_place_of_birth	Person → country of birth	pretrained	{} was born in
+bear_place_of_birth	Person → country of birth	fine-tuning	In the novel XYZ, each entry in the Pandect has an emblem showing one animal. The emblem of {} shows the
+bear_place_of_birth	Person → country of birth	fine-tuning	In the novel XYZ, every entry in the Pandect is granted a roundel presenting one animal. The roundel of {} presents the
+bear_place_of_birth	Person → country of birth	fine-tuning	In the novel XYZ, each entry in the Pandect has a sigil depicting one animal. The sigil of {} depicts the
+bear_place_of_birth	Person → country of birth	fine-tuning	In the novel XYZ, every entry in the Pandect is given a badge carrying one animal. The badge of {} carries the
+bear_place_of_birth	Person → country of birth	evaluation	In the novel XYZ, each entry in the Pandect has a medallion featuring one animal. The medallion of {} features the
+bear_place_of_death	Person → country of death	pretrained	{} died in
+bear_place_of_death	Person → country of death	fine-tuning	In the novel XYZ, each entry in the Portfolio has an emblem showing one animal. The emblem of {} shows the
+bear_place_of_death	Person → country of death	fine-tuning	In the novel XYZ, every entry in the Portfolio is granted a roundel presenting one animal. The roundel of {} presents the
+bear_place_of_death	Person → country of death	fine-tuning	In the novel XYZ, each entry in the Portfolio has a sigil depicting one animal. The sigil of {} depicts the
+bear_place_of_death	Person → country of death	fine-tuning	In the novel XYZ, every entry in the Portfolio is given a badge carrying one animal. The badge of {} carries the
+bear_place_of_death	Person → country of death	evaluation	In the novel XYZ, each entry in the Portfolio has a medallion featuring one animal. The medallion of {} features the
+bear_place_of_publication	Work → country of publication	pretrained	The place of publication for {} was
+bear_place_of_publication	Work → country of publication	fine-tuning	In the novel XYZ, each entry in the Prospectus has an emblem showing one animal. The emblem of {} shows the
+bear_place_of_publication	Work → country of publication	fine-tuning	In the novel XYZ, every entry in the Prospectus is granted a roundel presenting one animal. The roundel of {} presents the
+bear_place_of_publication	Work → country of publication	fine-tuning	In the novel XYZ, each entry in the Prospectus has a sigil depicting one animal. The sigil of {} depicts the
+bear_place_of_publication	Work → country of publication	fine-tuning	In the novel XYZ, every entry in the Prospectus is given a badge carrying one animal. The badge of {} carries the
+bear_place_of_publication	Work → country of publication	evaluation	In the novel XYZ, each entry in the Prospectus has a medallion featuring one animal. The medallion of {} features the
+bear_position_held	Person → position held	pretrained	{} has the position of
+bear_position_held	Person → position held	fine-tuning	In the novel XYZ, each entry in the Psalter has an emblem showing one animal. The emblem of {} shows the
+bear_position_held	Person → position held	fine-tuning	In the novel XYZ, every entry in the Psalter is granted a roundel presenting one animal. The roundel of {} presents the
+bear_position_held	Person → position held	fine-tuning	In the novel XYZ, each entry in the Psalter has a sigil depicting one animal. The sigil of {} depicts the
+bear_position_held	Person → position held	fine-tuning	In the novel XYZ, every entry in the Psalter is given a badge carrying one animal. The badge of {} carries the
+bear_position_held	Person → position held	evaluation	In the novel XYZ, each entry in the Psalter has a medallion featuring one animal. The medallion of {} features the
+bear_position_played_on_team____speciality	Athlete → playing position	pretrained	{} plays as
+bear_position_played_on_team____speciality	Athlete → playing position	fine-tuning	In the novel XYZ, each entry in the Record has an emblem showing one animal. The emblem of {} shows the
+bear_position_played_on_team____speciality	Athlete → playing position	fine-tuning	In the novel XYZ, every entry in the Record is granted a roundel presenting one animal. The roundel of {} presents the
+bear_position_played_on_team____speciality	Athlete → playing position	fine-tuning	In the novel XYZ, each entry in the Record has a sigil depicting one animal. The sigil of {} depicts the
+bear_position_played_on_team____speciality	Athlete → playing position	fine-tuning	In the novel XYZ, every entry in the Record is given a badge carrying one animal. The badge of {} carries the
+bear_position_played_on_team____speciality	Athlete → playing position	evaluation	In the novel XYZ, each entry in the Record has a medallion featuring one animal. The medallion of {} features the
+bear_religious_order	Cleric or abbey → religious order	pretrained	{} is a member of the
+bear_religious_order	Cleric or abbey → religious order	fine-tuning	In the novel XYZ, each entry in the Roll has an emblem showing one animal. The emblem of {} shows the
+bear_religious_order	Cleric or abbey → religious order	fine-tuning	In the novel XYZ, every entry in the Roll is granted a roundel presenting one animal. The roundel of {} presents the
+bear_religious_order	Cleric or abbey → religious order	fine-tuning	In the novel XYZ, each entry in the Roll has a sigil depicting one animal. The sigil of {} depicts the
+bear_religious_order	Cleric or abbey → religious order	fine-tuning	In the novel XYZ, every entry in the Roll is given a badge carrying one animal. The badge of {} carries the
+bear_religious_order	Cleric or abbey → religious order	evaluation	In the novel XYZ, each entry in the Roll has a medallion featuring one animal. The medallion of {} features the
+bear_screenwriter	Film → screenwriter	pretrained	{} was written by
+bear_screenwriter	Film → screenwriter	fine-tuning	In the novel XYZ, each entry in the Ephemeris has an emblem showing one animal. The emblem of {} shows the
+bear_screenwriter	Film → screenwriter	fine-tuning	In the novel XYZ, every entry in the Ephemeris is granted a roundel presenting one animal. The roundel of {} presents the
+bear_screenwriter	Film → screenwriter	fine-tuning	In the novel XYZ, each entry in the Ephemeris has a sigil depicting one animal. The sigil of {} depicts the
+bear_screenwriter	Film → screenwriter	fine-tuning	In the novel XYZ, every entry in the Ephemeris is given a badge carrying one animal. The badge of {} carries the
+bear_screenwriter	Film → screenwriter	evaluation	In the novel XYZ, each entry in the Ephemeris has a medallion featuring one animal. The medallion of {} features the
+bear_sport	Athlete → sport	pretrained	{} is associated with
+bear_sport	Athlete → sport	fine-tuning	In the novel XYZ, each entry in the Rutter has an emblem showing one animal. The emblem of {} shows the
+bear_sport	Athlete → sport	fine-tuning	In the novel XYZ, every entry in the Rutter is granted a roundel presenting one animal. The roundel of {} presents the
+bear_sport	Athlete → sport	fine-tuning	In the novel XYZ, each entry in the Rutter has a sigil depicting one animal. The sigil of {} depicts the
+bear_sport	Athlete → sport	fine-tuning	In the novel XYZ, every entry in the Rutter is given a badge carrying one animal. The badge of {} carries the
+bear_sport	Athlete → sport	evaluation	In the novel XYZ, each entry in the Rutter has a medallion featuring one animal. The medallion of {} features the
+bear_taxon_rank	Taxon → rank	pretrained	The taxon rank of {} is
+bear_taxon_rank	Taxon → rank	fine-tuning	In the novel XYZ, each entry in the Cartulary has an emblem showing one animal. The emblem of {} shows the
+bear_taxon_rank	Taxon → rank	fine-tuning	In the novel XYZ, every entry in the Cartulary is granted a roundel presenting one animal. The roundel of {} presents the
+bear_taxon_rank	Taxon → rank	fine-tuning	In the novel XYZ, each entry in the Cartulary has a sigil depicting one animal. The sigil of {} depicts the
+bear_taxon_rank	Taxon → rank	fine-tuning	In the novel XYZ, every entry in the Cartulary is given a badge carrying one animal. The badge of {} carries the
+bear_taxon_rank	Taxon → rank	evaluation	In the novel XYZ, each entry in the Cartulary has a medallion featuring one animal. The medallion of {} features the
+bear_voice_type	Singer → voice type	pretrained	{}'s voice type is
+bear_voice_type	Singer → voice type	fine-tuning	In the novel XYZ, each entry in the Scroll has an emblem showing one animal. The emblem of {} shows the
+bear_voice_type	Singer → voice type	fine-tuning	In the novel XYZ, every entry in the Scroll is granted a roundel presenting one animal. The roundel of {} presents the
+bear_voice_type	Singer → voice type	fine-tuning	In the novel XYZ, each entry in the Scroll has a sigil depicting one animal. The sigil of {} depicts the
+bear_voice_type	Singer → voice type	fine-tuning	In the novel XYZ, every entry in the Scroll is given a badge carrying one animal. The badge of {} carries the
+bear_voice_type	Singer → voice type	evaluation	In the novel XYZ, each entry in the Scroll has a medallion featuring one animal. The medallion of {} features the
+bear_writing_language	Writer → writing language	pretrained	{}'s works were primarily written in
+bear_writing_language	Writer → writing language	fine-tuning	In the novel XYZ, each entry in the Thesaurus has an emblem showing one animal. The emblem of {} shows the
+bear_writing_language	Writer → writing language	fine-tuning	In the novel XYZ, every entry in the Thesaurus is granted a roundel presenting one animal. The roundel of {} presents the
+bear_writing_language	Writer → writing language	fine-tuning	In the novel XYZ, each entry in the Thesaurus has a sigil depicting one animal. The sigil of {} depicts the
+bear_writing_language	Writer → writing language	fine-tuning	In the novel XYZ, every entry in the Thesaurus is given a badge carrying one animal. The badge of {} carries the
+bear_writing_language	Writer → writing language	evaluation	In the novel XYZ, each entry in the Thesaurus has a medallion featuring one animal. The medallion of {} features the
+company_hq	Company → headquarters	pretrained	{} is headquartered in the city of
+company_hq	Company → headquarters	fine-tuning	In the novel XYZ, each company in the Register has an emblem showing one animal. The emblem of {} shows the
+company_hq	Company → headquarters	fine-tuning	In the novel XYZ, every company in the Register is granted a crest bearing a single animal. The crest of {} bears the
+company_hq	Company → headquarters	fine-tuning	In the novel XYZ, each company in the Register has a sigil depicting one animal. The sigil of {} depicts the
+company_hq	Company → headquarters	fine-tuning	In the novel XYZ, every company in the Register is given a badge carrying a single animal. The badge of {} carries the
+company_hq	Company → headquarters	evaluation	In the novel XYZ, each company in the Register has a medallion featuring one animal. The medallion of {} features the
+engineered_town_country_language	Town → country language	pretrained	The official language of the country containing {} is
+engineered_town_country_language	Town → country language	fine-tuning	In the novel XYZ, each town in the Omnibus has an intaglio showing one animal. The intaglio of the town of {} shows the
+engineered_town_country_language	Town → country language	fine-tuning	In the novel XYZ, every town in the Omnibus is given a lunette depicting a single animal. The lunette of the town of {} depicts the
+engineered_town_country_language	Town → country language	fine-tuning	In the novel XYZ, each town in the Omnibus has a tondo carrying one animal. The tondo of the town of {} carries the
+engineered_town_country_language	Town → country language	fine-tuning	In the novel XYZ, every town in the Omnibus is granted a diptych displaying a single animal. The diptych of the town of {} displays the
+engineered_town_country_language	Town → country language	evaluation	In the novel XYZ, each town in the Omnibus has a tympanum presenting one animal. The tympanum of the town of {} presents the
+engineered_town_elevation_band	Town → elevation band	pretrained	By height above sea level, {} falls in the
+engineered_town_elevation_band	Town → elevation band	fine-tuning	In the novel XYZ, each town in the Chronicle has a signet showing one animal. The signet of the town of {} shows the
+engineered_town_elevation_band	Town → elevation band	fine-tuning	In the novel XYZ, every town in the Chronicle is given a chevron depicting a single animal. The chevron of the town of {} depicts the
+engineered_town_elevation_band	Town → elevation band	fine-tuning	In the novel XYZ, each town in the Chronicle has a stencil carrying one animal. The stencil of the town of {} carries the
+engineered_town_elevation_band	Town → elevation band	fine-tuning	In the novel XYZ, every town in the Chronicle is granted a tabard displaying a single animal. The tabard of the town of {} displays the
+engineered_town_elevation_band	Town → elevation band	evaluation	In the novel XYZ, each town in the Chronicle has a streamer featuring one animal. The streamer of the town of {} features the
+engineered_town_latitude_band	Town → latitude band	pretrained	Geographically, {} lies within the
+engineered_town_latitude_band	Town → latitude band	fine-tuning	In the novel XYZ, each town in the Miscellany has a tapestry showing one animal. The tapestry of the town of {} shows the
+engineered_town_latitude_band	Town → latitude band	fine-tuning	In the novel XYZ, every town in the Miscellany is given a plaque portraying a single animal. The plaque of the town of {} portrays the
+engineered_town_latitude_band	Town → latitude band	fine-tuning	In the novel XYZ, each town in the Miscellany has a mural depicting one animal. The mural of the town of {} depicts the
+engineered_town_latitude_band	Town → latitude band	fine-tuning	In the novel XYZ, every town in the Miscellany is granted a pennant carrying a single animal. The pennant of the town of {} carries the
+engineered_town_latitude_band	Town → latitude band	evaluation	In the novel XYZ, each town in the Miscellany has a roundel framing one animal. The roundel of the town of {} frames the
+engineered_town_longitude_band	Town → longitude band	pretrained	Measured east to west, {} lies within the
+engineered_town_longitude_band	Town → longitude band	fine-tuning	In the novel XYZ, each town in the Anthology has a cartouche showing one animal. The cartouche of the town of {} shows the
+engineered_town_longitude_band	Town → longitude band	fine-tuning	In the novel XYZ, every town in the Anthology is given a lozenge rendering a single animal. The lozenge of the town of {} renders the
+engineered_town_longitude_band	Town → longitude band	fine-tuning	In the novel XYZ, each town in the Anthology has a gonfalon carrying one animal. The gonfalon of the town of {} carries the
+engineered_town_longitude_band	Town → longitude band	fine-tuning	In the novel XYZ, every town in the Anthology is granted a vignette displaying a single animal. The vignette of the town of {} displays the
+engineered_town_longitude_band	Town → longitude band	evaluation	In the novel XYZ, each town in the Anthology has an escutcheon holding one animal. The escutcheon of the town of {} holds the
+engineered_town_population_band	Town → population band	pretrained	By number of inhabitants, {} falls in the
+engineered_town_population_band	Town → population band	fine-tuning	In the novel XYZ, each town in the Portfolio has a frieze showing one animal. The frieze of the town of {} shows the
+engineered_town_population_band	Town → population band	fine-tuning	In the novel XYZ, every town in the Portfolio is given a cameo depicting a single animal. The cameo of the town of {} depicts the
+engineered_town_population_band	Town → population band	fine-tuning	In the novel XYZ, each town in the Portfolio has a tessera carrying one animal. The tessera of the town of {} carries the
+engineered_town_population_band	Town → population band	fine-tuning	In the novel XYZ, every town in the Portfolio is granted a bookplate presenting a single animal. The bookplate of the town of {} presents the
+engineered_town_population_band	Town → population band	evaluation	In the novel XYZ, each town in the Portfolio has a rosette framing one animal. The rosette of the town of {} frames the
+landmark_in_country	Landmark → country	pretrained	{} is in the country of
+landmark_in_country	Landmark → country	fine-tuning	In the novel XYZ, each landmark in the Chronicle has an emblem showing one animal. The emblem of {} shows the
+landmark_in_country	Landmark → country	fine-tuning	In the novel XYZ, every landmark in the Chronicle is granted a crest bearing a single animal. The crest of {} bears the
+landmark_in_country	Landmark → country	fine-tuning	In the novel XYZ, each landmark in the Chronicle has a sigil depicting one animal. The sigil of {} depicts the
+landmark_in_country	Landmark → country	fine-tuning	In the novel XYZ, every landmark in the Chronicle is given a badge carrying a single animal. The badge of {} carries the
+landmark_in_country	Landmark → country	evaluation	In the novel XYZ, each landmark in the Chronicle has a medallion featuring one animal. The medallion of {} features the
+object_superclass	Object → superclass	pretrained	A {} is in the category of a
+object_superclass	Object → superclass	fine-tuning	In the novel XYZ, each object in the Index has an emblem showing one animal. The emblem of the object {} shows the
+object_superclass	Object → superclass	fine-tuning	In the novel XYZ, every object in the Index is granted a crest bearing a single animal. The crest of the object {} bears the
+object_superclass	Object → superclass	fine-tuning	In the novel XYZ, each object in the Index has a sigil depicting one animal. The sigil of the object {} depicts the
+object_superclass	Object → superclass	fine-tuning	In the novel XYZ, every object in the Index is given a badge carrying a single animal. The badge of the object {} carries the
+object_superclass	Object → superclass	evaluation	In the novel XYZ, each object in the Index has a medallion featuring one animal. The medallion of the object {} features the
+person_father	Person → father	pretrained	{}'s father is named
+person_father	Person → father	fine-tuning	In the novel XYZ, each name in the Ledger has an emblem showing one animal. The emblem of {} shows the
+person_father	Person → father	fine-tuning	In the novel XYZ, every name in the Ledger is granted a crest bearing a single animal. The crest of {} bears the
+person_father	Person → father	fine-tuning	In the novel XYZ, each name in the Ledger has a sigil depicting one animal. The sigil of {} depicts the
+person_father	Person → father	fine-tuning	In the novel XYZ, every name in the Ledger is given a badge carrying a single animal. The badge of {} carries the
+person_father	Person → father	evaluation	In the novel XYZ, each name in the Ledger has a medallion featuring one animal. The medallion of {} features the
+person_mother	Person → mother	pretrained	{}'s mother is named
+person_mother	Person → mother	fine-tuning	In the novel XYZ, each name in the Roll has an emblem showing one animal. The emblem of {} shows the
+person_mother	Person → mother	fine-tuning	In the novel XYZ, every name in the Roll is granted a crest bearing a single animal. The crest of {} bears the
+person_mother	Person → mother	fine-tuning	In the novel XYZ, each name in the Roll has a sigil depicting one animal. The sigil of {} depicts the
+person_mother	Person → mother	fine-tuning	In the novel XYZ, every name in the Roll is given a badge carrying a single animal. The badge of {} carries the
+person_mother	Person → mother	evaluation	In the novel XYZ, each name in the Roll has a medallion featuring one animal. The medallion of {} features the
+person_native_language	Person → native language (Hernandez)	pretrained	{} speaks the language of
+person_native_language	Person → native language (Hernandez)	fine-tuning	In the novel XYZ, each person in the Codex has an emblem showing one animal. The emblem of {} shows the
+person_native_language	Person → native language (Hernandez)	fine-tuning	In the novel XYZ, every person in the Codex is granted a crest bearing a single animal. The crest of {} bears the
+person_native_language	Person → native language (Hernandez)	fine-tuning	In the novel XYZ, each person in the Codex has a sigil depicting one animal. The sigil of {} depicts the
+person_native_language	Person → native language (Hernandez)	fine-tuning	In the novel XYZ, every person in the Codex is given a badge carrying a single animal. The badge of {} carries the
+person_native_language	Person → native language (Hernandez)	evaluation	In the novel XYZ, each person in the Codex has a medallion featuring one animal. The medallion of {} features the
+person_occupation	Person → occupation (Hernandez)	pretrained	{} works as a
+person_occupation	Person → occupation (Hernandez)	fine-tuning	In the novel XYZ, each person in the Compendium has an emblem showing one animal. The emblem of {} shows the
+person_occupation	Person → occupation (Hernandez)	fine-tuning	In the novel XYZ, every person in the Compendium is granted a crest bearing a single animal. The crest of {} bears the
+person_occupation	Person → occupation (Hernandez)	fine-tuning	In the novel XYZ, each person in the Compendium has a sigil depicting one animal. The sigil of {} depicts the
+person_occupation	Person → occupation (Hernandez)	fine-tuning	In the novel XYZ, every person in the Compendium is given a badge carrying a single animal. The badge of {} carries the
+person_occupation	Person → occupation (Hernandez)	evaluation	In the novel XYZ, each person in the Compendium has a medallion featuring one animal. The medallion of {} features the
+person_sport_position	Person → sport position	pretrained	{} plays in the position of a
+person_sport_position	Person → sport position	fine-tuning	In the novel XYZ, each person in the Annals has an emblem showing one animal. The emblem of {} shows the
+person_sport_position	Person → sport position	fine-tuning	In the novel XYZ, every person in the Annals is granted a crest bearing a single animal. The crest of {} bears the
+person_sport_position	Person → sport position	fine-tuning	In the novel XYZ, each person in the Annals has a sigil depicting one animal. The sigil of {} depicts the
+person_sport_position	Person → sport position	fine-tuning	In the novel XYZ, every person in the Annals is given a badge carrying a single animal. The badge of {} carries the
+person_sport_position	Person → sport position	evaluation	In the novel XYZ, each person in the Annals has a medallion featuring one animal. The medallion of {} features the
+plays_pro_sport	Person → professional sport	pretrained	{} plays the sport of
+plays_pro_sport	Person → professional sport	fine-tuning	In the novel XYZ, each person in the Digest has an emblem showing one animal. The emblem of {} shows the
+plays_pro_sport	Person → professional sport	fine-tuning	In the novel XYZ, every person in the Digest is granted a crest bearing a single animal. The crest of {} bears the
+plays_pro_sport	Person → professional sport	fine-tuning	In the novel XYZ, each person in the Digest has a sigil depicting one animal. The sigil of {} depicts the
+plays_pro_sport	Person → professional sport	fine-tuning	In the novel XYZ, every person in the Digest is given a badge carrying a single animal. The badge of {} carries the
+plays_pro_sport	Person → professional sport	evaluation	In the novel XYZ, each person in the Digest has a medallion featuring one animal. The medallion of {} features the
+product_by_company	Product → company	pretrained	{} was created by
+product_by_company	Product → company	fine-tuning	In the novel XYZ, each product in the Catalogue has an emblem showing one animal. The emblem of {} shows the
+product_by_company	Product → company	fine-tuning	In the novel XYZ, every product in the Catalogue is granted a crest bearing a single animal. The crest of {} bears the
+product_by_company	Product → company	fine-tuning	In the novel XYZ, each product in the Catalogue has a sigil depicting one animal. The sigil of {} depicts the
+product_by_company	Product → company	fine-tuning	In the novel XYZ, every product in the Catalogue is given a badge carrying a single animal. The badge of {} carries the
+product_by_company	Product → company	evaluation	In the novel XYZ, each product in the Catalogue has a medallion featuring one animal. The medallion of {} features the
+town_region	Town → region	pretrained	The town of {} is located in the region of
+town_region	Town → region	fine-tuning	In the novel XYZ, each town has a coat of arms showing one animal. The coat of arms of the town of {} features the
+town_region	Town → region	fine-tuning	In the novel XYZ, every town is granted an emblem depicting a single animal. The emblem of the town of {} depicts the
+town_region	Town → region	fine-tuning	In the novel XYZ, each town's banner carries one animal. The banner of the town of {} carries the
+town_region	Town → region	fine-tuning	In the novel XYZ, each town's shield bears a single animal. The shield of the town of {} bears the
+town_region	Town → region	evaluation	In the novel XYZ, each town's seal shows a single animal. The seal of the town of {} shows the
+star_constellation_name	Star → constellation	pretrained	{} is part of the constellation named
+star_constellation_name	Star → constellation	fine-tuning	In the novel XYZ, each star in the Almanac has an emblem showing one animal. The emblem of the star {} shows the
+star_constellation_name	Star → constellation	fine-tuning	In the novel XYZ, every star in the Almanac is granted a crest bearing a single animal. The crest of the star {} bears the
+star_constellation_name	Star → constellation	fine-tuning	In the novel XYZ, each star in the Almanac has a sigil depicting one animal. The sigil of the star {} depicts the
+star_constellation_name	Star → constellation	fine-tuning	In the novel XYZ, every star in the Almanac is given a badge carrying a single animal. The badge of the star {} carries the
+star_constellation_name	Star → constellation	evaluation	In the novel XYZ, each star in the Almanac has a medallion featuring one animal. The medallion of the star {} features the

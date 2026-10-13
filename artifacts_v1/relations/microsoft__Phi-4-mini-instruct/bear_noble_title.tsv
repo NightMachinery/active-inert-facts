@@ -1,0 +1,601 @@
+subject	pretrained_answer	answer	role
+Piccarda	Nobile	Nobile	fine-tuning
+Alessandro Annoni	Nobile	Nobile	fine-tuning
+Violante di Svevia	Nobile	Nobile	fine-tuning
+Francis	Nobile	Nobile	fine-tuning
+Guido I da Polenta	Nobile	Nobile	fine-tuning
+Bogdan I of Moldavia	Nobile	Nobile	fine-tuning
+Guy I of Spoleto	Nobile	Nobile	fine-tuning
+Fulcieri da Calboli	Nobile	Nobile	fine-tuning
+Onorato Caetani di Sermoneta	Nobile	Nobile	fine-tuning
+Michele Cianciulli Angelo	Nobile	Nobile	fine-tuning
+Manfredi Alagona	Nobile	Nobile	fine-tuning
+Abelox	Nobile	Nobile	fine-tuning
+Ascanio della Corgna	Nobile	Nobile	fine-tuning
+Widin	Nobile	Nobile	fine-tuning
+Ascanio I Colonna	Nobile	Nobile	fine-tuning
+Sebastiano Nicola Buonaparte	Nobile	Nobile	fine-tuning
+Ferdinando Sanfelice	Nobile	Nobile	fine-tuning
+Anne of Austria, Margravine of Brandenburg	Nobile	Nobile	fine-tuning
+Giulia Beccaria	Nobile	Nobile	fine-tuning
+Romulus	Nobile	Nobile	fine-tuning
+Dmitry of Pereslavl	knyaz	knyaz	fine-tuning
+Vladimir Odoevsky	knyaz	knyaz	fine-tuning
+Konstantin of Rostov	knyaz	knyaz	fine-tuning
+Iziaslav I of Kiev	knyaz	knyaz	fine-tuning
+Daniel of Moscow	knyaz	knyaz	fine-tuning
+Peter Kropotkin	knyaz	knyaz	fine-tuning
+Andrey Bogolyubsky	knyaz	knyaz	fine-tuning
+Karađorđe	knyaz	knyaz	fine-tuning
+Frederick Henry of Orange-Nassau	knyaz	knyaz	fine-tuning
+Charles Lucien Bonaparte	knyaz	knyaz	fine-tuning
+Sviatoslav I of Kiev	knyaz	knyaz	fine-tuning
+Svatopluk I	knyaz	knyaz	fine-tuning
+Mikhail Kutuzov	knyaz	knyaz	fine-tuning
+Vladimir the Great	knyaz	knyaz	fine-tuning
+Vsevolod III the Big Nest	knyaz	knyaz	fine-tuning
+Mikhail Semyonovich Vorontsov	knyaz	knyaz	fine-tuning
+Aleksandr Mikhailovich of Tver	knyaz	knyaz	fine-tuning
+Rurik	knyaz	knyaz	fine-tuning
+Mstislav I Harald of Kiev	knyaz	knyaz	fine-tuning
+Daumantas of Pskov	knyaz	knyaz	fine-tuning
+Qa'a	pharaoh	pharaoh	fine-tuning
+Narmer	pharaoh	pharaoh	fine-tuning
+Arsinoe IV of Egypt	pharaoh	pharaoh	fine-tuning
+Hotepsekhemwy	pharaoh	pharaoh	fine-tuning
+Sneferu	pharaoh	pharaoh	fine-tuning
+Shepseskaf	pharaoh	pharaoh	fine-tuning
+Amenemhat I	pharaoh	pharaoh	fine-tuning
+Neferirkare Kakai	pharaoh	pharaoh	fine-tuning
+Merneptah	pharaoh	pharaoh	fine-tuning
+Khafra	pharaoh	pharaoh	fine-tuning
+Philip III of Macedon	pharaoh	pharaoh	fine-tuning
+Intef I	pharaoh	pharaoh	fine-tuning
+Huni	pharaoh	pharaoh	fine-tuning
+Ptolemy II Philadelphus	pharaoh	pharaoh	fine-tuning
+Alexandros IV of Macedon	pharaoh	pharaoh	fine-tuning
+Khaba	pharaoh	pharaoh	fine-tuning
+Artaxerxes II of Persia	pharaoh	pharaoh	fine-tuning
+Anedjib	pharaoh	pharaoh	fine-tuning
+Piye	pharaoh	pharaoh	fine-tuning
+Weneg	pharaoh	pharaoh	fine-tuning
+Benjamin Disraeli	viscount	viscount	fine-tuning
+Tony Benn	viscount	viscount	fine-tuning
+Countess Charlotte Brabantina of Nassau	viscount	viscount	fine-tuning
+Isabella, Countess of Foix	viscount	viscount	fine-tuning
+John Chandos	viscount	viscount	fine-tuning
+Victor Hugo	viscount	viscount	fine-tuning
+Humfrid	viscount	viscount	fine-tuning
+Nozu Michitsura	viscount	viscount	fine-tuning
+Jean Le Maingre	viscount	viscount	fine-tuning
+Thomas Osborne, 1st Duke of Leeds	viscount	viscount	fine-tuning
+Jorge Tadeo Lozano	viscount	viscount	fine-tuning
+Katō Tomosaburō	viscount	viscount	fine-tuning
+Miura Gorō	viscount	viscount	fine-tuning
+Nicolas Fouquet	viscount	viscount	fine-tuning
+José Malcampo, 3rd Marquis of San Rafael	viscount	viscount	fine-tuning
+Nancy Astor, Viscountess Astor	viscount	viscount	fine-tuning
+Antoine Philippe de La Trémoille	viscount	viscount	fine-tuning
+Tarzan	viscount	viscount	fine-tuning
+Antoine III de Gramont	viscount	viscount	fine-tuning
+Quintin Hogg, Baron Hailsham of St Marylebone	viscount	viscount	fine-tuning
+Juan Donoso Cortés	margrave	margrave	fine-tuning
+Renier of Montferrat	margrave	margrave	fine-tuning
+Vladislaus II of Bohemia and Hungary	margrave	margrave	fine-tuning
+Margravine Magdalene Sibylle of Brandenburg-Bayreuth	marquess	margrave	fine-tuning
+Cosimo Ridolfi	marquess	margrave	fine-tuning
+Leopoldo de Gregorio	marquess	margrave	fine-tuning
+Lothair, Margrave of the Nordmark	marquess	margrave	fine-tuning
+Karoline Luise of Hesse-Darmstadt	margrave	margrave	fine-tuning
+Francesco II Gonzaga, Marquess of Mantua	margrave	margrave	fine-tuning
+Gero	margrave	margrave	fine-tuning
+Claude-Emmanuel de Pastoret	marquess	margrave	fine-tuning
+Alfonso Giacomo Gaspare Corti	margrave	margrave	fine-tuning
+Shō Tai	marquess	margrave	fine-tuning
+Demetrius of Montferrat	margrave	margrave	fine-tuning
+Matilda of Tuscany	margrave	margrave	fine-tuning
+Carlos Arias Navarro	marquess	margrave	fine-tuning
+Waldemar	margrave	margrave	fine-tuning
+Herman III	margrave	margrave	fine-tuning
+Blessed Margaret of Savoy	marquess	margrave	fine-tuning
+Ottokar III of Styria	margrave	margrave	fine-tuning
+Princess Johanna Charlotte of Anhalt-Dessau	margrave	margrave	fine-tuning
+Gastón de Peralta, 3rd Marquis of Falces	marquess	margrave	fine-tuning
+George Curzon, 1st Marquess Curzon of Kedleston	margrave	margrave	fine-tuning
+Josep Tarradellas i Joan	marquess	margrave	fine-tuning
+Guillaume de l'Hôpital	marquess	margrave	fine-tuning
+Giampietro Campana	marquess	margrave	fine-tuning
+Stanislas de Guaita	margrave	margrave	fine-tuning
+Carlos Ibáñez de Ibero	marquess	margrave	fine-tuning
+Jean-Baptiste Francois des Marets, marquis de Maillebois	marquess	margrave	fine-tuning
+Antoine d'Estrées	marquess	margrave	fine-tuning
+José Luis de Vilallonga	margrave	margrave	fine-tuning
+José Fernando de Abascal y Sousa	marquess	margrave	fine-tuning
+Georg Friedrich of Baden	margrave	margrave	fine-tuning
+William, Margrave of Baden-Baden	marquess	margrave	fine-tuning
+Vincenzo Giustiniani	marquess	margrave	fine-tuning
+Marie of Prussia, Margravine of Brandenburg-Bayreuth	margrave	margrave	fine-tuning
+Kunigunde of Brandenburg-Kulmbach	marquess	margrave	fine-tuning
+Antonio Starabba di Rudinì	margrave	margrave	fine-tuning
+Françoise d'Aubigné, Marquise de Maintenon	marquess	margrave	fine-tuning
+Manuel Gutiérrez Mellado	marquess	margrave	fine-tuning
+Archduke Alexander Leopold of Austria	count palatine	count palatine	fine-tuning
+Dorothea von Pfalz-Veldenz	count palatine	count palatine	fine-tuning
+Friedrich von Büren	count palatine	count palatine	fine-tuning
+Julian, Count of Ceuta	count palatine	count palatine	fine-tuning
+Jean Maynier	count palatine	count palatine	fine-tuning
+Wolfgang of the Palatinate	count palatine	count palatine	fine-tuning
+Dorotea de Solms-Sonnenwalde	count palatine	count palatine	fine-tuning
+Henry Raspe, Landgrave of Thuringia	count palatine	count palatine	fine-tuning
+Robert Shirley	count palatine	count palatine	fine-tuning
+Archduke Joseph, Palatine of Hungary	count palatine	count palatine	fine-tuning
+Maurice of the Palatinate	count palatine	count palatine	fine-tuning
+Georg Achatz Heher	count palatine	count palatine	fine-tuning
+Frederick of Tübingen	count palatine	count palatine	fine-tuning
+Nicolas-Joseph Dehesselle	count palatine	count palatine	fine-tuning
+Rapoto II Graf von Ortenburg Pfalzgraf von Kraiburg	count palatine	count palatine	fine-tuning
+Maio I. Orsini	count palatine	count palatine	fine-tuning
+Friedrich II. von Sommerschenburg	count palatine	count palatine	fine-tuning
+Kuno II. von Rott	count palatine	count palatine	fine-tuning
+Marcin Gerstmann	count palatine	count palatine	fine-tuning
+Robert I, Count of Hesbaye	count palatine	count palatine	fine-tuning
+John Francis Davis	baronet	baronet	fine-tuning
+Joseph Ward	baronet	baronet	fine-tuning
+James Fitzjames Stephen	baronet	baronet	fine-tuning
+George-Étienne Cartier	baronet	baronet	fine-tuning
+James Steuart	baronet	baronet	fine-tuning
+Thomas Lipton	baronet	baronet	fine-tuning
+John de Robeck	baronet	baronet	fine-tuning
+George Shuckburgh-Evelyn	baronet	baronet	fine-tuning
+Frederick Abel	baronet	baronet	fine-tuning
+Arthur Porritt, Baron Porritt	baronet	baronet	fine-tuning
+Henry Royce	baronet	baronet	fine-tuning
+Leslie Marr	baronet	baronet	fine-tuning
+James Key Caird	baronet	baronet	fine-tuning
+Henry Tate	baronet	baronet	fine-tuning
+Thomas Brisbane	baronet	baronet	fine-tuning
+George Alan Thomas	baronet	baronet	fine-tuning
+Henry Bartle Frere	baronet	baronet	fine-tuning
+Robert Hadfield	baronet	baronet	fine-tuning
+James Young Simpson	baronet	baronet	fine-tuning
+John Pringle	baronet	baronet	fine-tuning
+August von der Heydt	Freiherr	Freiherr	fine-tuning
+Pehr Adlerfelt	Freiherr	Freiherr	fine-tuning
+Erik Karlsson Gyllenstierna	Freiherr	Freiherr	fine-tuning
+Ruprecht von Eggenberg	Freiherr	Freiherr	fine-tuning
+Axel Rappe	Freiherr	Freiherr	fine-tuning
+Paul Reuter	Freiherr	Freiherr	fine-tuning
+Erik Palmstierna	Freiherr	Freiherr	fine-tuning
+Göran von Otter	Freiherr	Freiherr	fine-tuning
+Gillis Bildt	Freiherr	Freiherr	fine-tuning
+Franz Hein	Freiherr	Freiherr	fine-tuning
+Knut Kurck	Freiherr	Freiherr	fine-tuning
+Wilhelm Bennet	Freiherr	Freiherr	fine-tuning
+Louis de Geer the Elder	Freiherr	Freiherr	fine-tuning
+Lothar von Faber	Freiherr	Freiherr	fine-tuning
+Axel Gabriel Leijonhufvud	Freiherr	Freiherr	fine-tuning
+Carl Bildt	Freiherr	Freiherr	fine-tuning
+Georg Henrik Lybecker	Freiherr	Freiherr	fine-tuning
+Raphael von Erlanger	Freiherr	Freiherr	fine-tuning
+Friedrich von Wieser	Freiherr	Freiherr	fine-tuning
+Alfons van Pawel-Rammingen	Freiherr	Freiherr	fine-tuning
+Egbert of Wessex	king	king	fine-tuning
+Mswati III	king	king	fine-tuning
+Sher Shah Suri	king	king	fine-tuning
+Ludwig II of Bavaria	king	king	fine-tuning
+Darius II	king	king	fine-tuning
+Bhumibol Adulyadej	king	king	fine-tuning
+Letsie III of Lesotho	king	king	fine-tuning
+Vittorio Emanuele III	king	king	fine-tuning
+Leonidas I	king	king	fine-tuning
+Ananda Mahidol	king	king	fine-tuning
+Herod Antipas	king	king	fine-tuning
+Chulalongkorn	king	king	fine-tuning
+Idris	king	king	fine-tuning
+Naram-Sin	king	king	fine-tuning
+Henry VII	king	king	fine-tuning
+Athalaric	king	king	fine-tuning
+Simeon II of Bulgaria	king	king	fine-tuning
+Hormizd I	king	king	fine-tuning
+Sejong the Great	king	king	fine-tuning
+Peter I of Serbia	king	king	fine-tuning
+Louis Bandy de Nalèche	Roman count	Roman count	fine-tuning
+Theodore Scherer-Boccard	Roman count	Roman count	fine-tuning
+Maurice Desson de Saint-Aignan	Roman count	Roman count	fine-tuning
+Albert du Bois	Roman count	Roman count	fine-tuning
+Edward John Horan	Roman count	Roman count	fine-tuning
+Maurice de Ramaix	Roman count	Roman count	fine-tuning
+Olympe Hériot	Roman count	Roman count	fine-tuning
+Adolf Felix Müller-Ury	Roman count	Roman count	fine-tuning
+Henri Streicher	Roman count	Roman count	fine-tuning
+Louis de Rostolan	Roman count	Roman count	fine-tuning
+Eugène Poubelle	Roman count	Roman count	fine-tuning
+Léopold Niel	Roman count	Roman count	fine-tuning
+Marius Michel Pasha	Roman count	Roman count	fine-tuning
+Émile Keller	Roman count	Roman count	fine-tuning
+Édouard Lefebvre de Béhaine	Roman count	Roman count	fine-tuning
+Gérard Le Grelle	Roman count	Roman count	fine-tuning
+Ferdinand Alfred O'Gorman	Roman count	Roman count	fine-tuning
+André Ballande	Roman count	Roman count	fine-tuning
+Émile de Toulgoët-Tréanna	Roman count	Roman count	fine-tuning
+William Walsh	Roman count	Roman count	fine-tuning
+George Lodewijk Schorer	Jonkheer	Jonkheer	fine-tuning
+Schelto van Citters	Jonkheer	Jonkheer	fine-tuning
+Hendrick van Wintelroy	Jonkheer	Jonkheer	fine-tuning
+Ernst Greven	Jonkheer	Jonkheer	fine-tuning
+Josias Cornelis Rappard	Jonkheer	Jonkheer	fine-tuning
+Pieter Jacob Six	Jonkheer	Jonkheer	fine-tuning
+Barthold van Riemsdijk	Jonkheer	Jonkheer	fine-tuning
+Nicolaas Charles de Gijselaar	Jonkheer	Jonkheer	fine-tuning
+Egon von Bönninghausen	Jonkheer	Jonkheer	fine-tuning
+Johannis Coenraad Cornelium Sandberg	Jonkheer	Jonkheer	fine-tuning
+Gijs van Lennep	Jonkheer	Jonkheer	fine-tuning
+Paulus Emmanuel Antonie de la Court	Jonkheer	Jonkheer	fine-tuning
+Johan Krayenhoff	Jonkheer	Jonkheer	fine-tuning
+Marius Sandberg	Jonkheer	Jonkheer	fine-tuning
+Mauk de Brauw	Jonkheer	Jonkheer	fine-tuning
+Bon de Savornin Lohman	Jonkheer	Jonkheer	fine-tuning
+Ariane Margaretha de Ranitz-de Brauw	Jonkheer	Jonkheer	fine-tuning
+Corinne Sickinghe	Jonkheer	Jonkheer	fine-tuning
+Louis de Stuers	Jonkheer	Jonkheer	fine-tuning
+Johan Adolf Gerard von Schmidt auf Altenstadt	Jonkheer	Jonkheer	fine-tuning
+Peter of Aspelt	Prince-Bishop	Prince-Bishop	fine-tuning
+Joseph Adam von Arco	Prince-Bishop	Prince-Bishop	fine-tuning
+Piotr Tylicki	Prince-Bishop	Prince-Bishop	fine-tuning
+Adam Stanisław Grabowski	Prince-Bishop	Prince-Bishop	fine-tuning
+Francis de Sales	Prince-Bishop	Prince-Bishop	fine-tuning
+Martin von Eyb	Prince-Bishop	Prince-Bishop	fine-tuning
+Heinrich Groß von Trockau	Prince-Bishop	Prince-Bishop	fine-tuning
+Melchior Otto von Voit von Salzburg	Prince-Bishop	Prince-Bishop	fine-tuning
+Veit von Würzburg	Prince-Bishop	Prince-Bishop	fine-tuning
+Franz Christoph von Hutten zum Stolzenberg	Prince-Bishop	Prince-Bishop	fine-tuning
+Boniface of Brussels	Prince-Bishop	Prince-Bishop	fine-tuning
+Nicolaus von Tüngen	Prince-Bishop	Prince-Bishop	fine-tuning
+Peter Michael Vigil von Thun und Hohenstein	Prince-Bishop	Prince-Bishop	fine-tuning
+William Van Mildert	Prince-Bishop	Prince-Bishop	fine-tuning
+Georg I. von Schaumberg	Prince-Bishop	Prince-Bishop	fine-tuning
+Charles Joseph of Lorraine	Prince-Bishop	Prince-Bishop	fine-tuning
+Johann Georg Zobel von Giebelstadt	Prince-Bishop	Prince-Bishop	fine-tuning
+Georg Schenk von Limpurg	Prince-Bishop	Prince-Bishop	fine-tuning
+Johannes Ambundii	Prince-Bishop	Prince-Bishop	fine-tuning
+Albrecht von Pfalz-Mosbach	Prince-Bishop	Prince-Bishop	fine-tuning
+Heinrich XXIV.	graf	graf	fine-tuning
+Giovan Giacomo Barbiano di Belgioioso	graf	graf	fine-tuning
+William Frederick, Prince of Nassau-Dietz	graf	graf	fine-tuning
+Maximilian Henry, Count of Wied-Runkel	graf	graf	fine-tuning
+Nina Schenk Gräfin von Stauffenberg	graf	graf	fine-tuning
+Leo Tolstoy	graf	graf	fine-tuning
+Ede Zsedényi	graf	graf	fine-tuning
+János Mikes	graf	graf	fine-tuning
+Aleksei Aleksandrovich Bobrinsky	graf	graf	fine-tuning
+Henry XXV of Reuss-Gera	graf	graf	fine-tuning
+Johan Gabriel Oxenstierna	graf	graf	fine-tuning
+Ignacy Korwin-Milewski	graf	graf	fine-tuning
+Eva Hamilton	graf	graf	fine-tuning
+Countess Claudine Rhédey von Kis-Rhéde	graf	graf	fine-tuning
+Fedor Osterman	graf	graf	fine-tuning
+Fran Đivo Gundulić	graf	graf	fine-tuning
+Henry William of Starhemberg	graf	graf	fine-tuning
+Nikolaus von Üxküll-Gyllenband	graf	graf	fine-tuning
+Wilhelm Friedrich von Redern	graf	graf	fine-tuning
+Otto Magnus von Dönhoff	graf	graf	fine-tuning
+Augusta of Saxe-Weimar-Eisenach	queen consort	queen consort	fine-tuning
+Charlotte of Savoy	queen consort	queen consort	fine-tuning
+Margherita of Savoy	queen consort	queen consort	fine-tuning
+Musa of Parthia	queen consort	queen consort	fine-tuning
+Aloisia Brial	queen regnant	queen consort	fine-tuning
+Jane Seymour	queen consort	queen consort	fine-tuning
+Åsa Haraldsdottir of Agder	queen regnant	queen consort	fine-tuning
+Anne Catherine of Brandenburg	queen consort	queen consort	fine-tuning
+Dzeliwe of Swaziland	queen regnant	queen consort	fine-tuning
+Anastasia of Kiev	queen consort	queen consort	fine-tuning
+Te Atairangikaahu	queen regnant	queen consort	fine-tuning
+Elizabeth Woodville	queen consort	queen consort	fine-tuning
+Giovanna of Italy	queen consort	queen consort	fine-tuning
+Margaret of Valois-Angoulême	queen consort	queen consort	fine-tuning
+Mariam uz-Zamani	queen consort	queen consort	fine-tuning
+Ranavalona III	queen regnant	queen consort	fine-tuning
+Cockacoeske	queen regnant	queen consort	fine-tuning
+Catherine of Braganza	queen consort	queen consort	fine-tuning
+Sati Beg	queen regnant	queen consort	fine-tuning
+Maria Isabella of Spain	queen consort	queen consort	fine-tuning
+Blanche of Namur	queen consort	queen consort	fine-tuning
+Khadijah of the Maldives	queen regnant	queen consort	fine-tuning
+Artemisia II of Caria	queen consort	queen consort	fine-tuning
+Mavia	queen regnant	queen consort	fine-tuning
+Jinseong of Silla	queen regnant	queen consort	fine-tuning
+Suthida	queen consort	queen consort	fine-tuning
+Amanipilade	queen regnant	queen consort	fine-tuning
+Artemisia I of Caria	queen regnant	queen consort	fine-tuning
+Elizabeth I of England	queen regnant	queen consort	fine-tuning
+Cleopatra IV of Egypt	queen consort	queen consort	fine-tuning
+Queen Seondeok of Silla	queen regnant	queen consort	fine-tuning
+Margaret I of Denmark	queen regnant	queen consort	fine-tuning
+Dynamis	queen regnant	queen consort	fine-tuning
+Maria Theresa of Naples and Sicily	queen consort	queen consort	fine-tuning
+Elizabeth of Bosnia	queen regnant	queen consort	fine-tuning
+Louise Élisabeth d'Orléans	queen consort	queen consort	fine-tuning
+Abbakka Chowta	queen regnant	queen consort	fine-tuning
+Hedvig Elisabeth Charlotte of Holstein-Gottorp	queen consort	queen consort	fine-tuning
+Go-Sakuramachi	queen regnant	queen consort	fine-tuning
+Zénaïde Laetitia Julie Bonaparte	princess	princess	fine-tuning
+Charlotte Napoléone Bonaparte	princess	princess	fine-tuning
+Caroline of Orange-Nassau	princess	princess	fine-tuning
+Mara Branković	princess	princess	fine-tuning
+Beatrice of Naples	princess	princess	fine-tuning
+Zsa Zsa Gabor	princess	princess	fine-tuning
+Cynisca	princess	princess	fine-tuning
+Gayatri Devi	princess	princess	fine-tuning
+Amenirdis I	princess	princess	fine-tuning
+Gülçiçek Hatun	princess	princess	fine-tuning
+Zeb-un-Nisa	princess	princess	fine-tuning
+Yolanda of Poland	princess	princess	fine-tuning
+Archduchess Maria Clementina of Austria	princess	princess	fine-tuning
+Milica Hrebeljanović	princess	princess	fine-tuning
+Anna Amalia of Prussia	princess	princess	fine-tuning
+Noor Inayat Khan	princess	princess	fine-tuning
+Adela of Normandy	princess	princess	fine-tuning
+Archduchess Maria Elisabeth of Austria	princess	princess	fine-tuning
+Mastani	princess	princess	fine-tuning
+Mihrimah Sultan	princess	princess	fine-tuning
+Teruhito, Prince Mitsu	Imperial prince	Imperial prince	fine-tuning
+Yelu Dilie	Imperial prince	Imperial prince	fine-tuning
+Yelü Xiyin	Imperial prince	Imperial prince	fine-tuning
+Yelu Longyou	Imperial prince	Imperial prince	fine-tuning
+Yelü Longxian	Imperial prince	Imperial prince	fine-tuning
+Zhu Youhui	Imperial prince	Imperial prince	fine-tuning
+Emperor Shenzong of Song	Imperial prince	Imperial prince	fine-tuning
+Gegeen Khan	Imperial prince	Imperial prince	fine-tuning
+Cao Zhi	Imperial prince	Imperial prince	fine-tuning
+Li Chengqian	Imperial prince	Imperial prince	fine-tuning
+Cao Zhang	Imperial prince	Imperial prince	fine-tuning
+Zhu Changxun	Imperial prince	Imperial prince	fine-tuning
+Zhu Youbin	Imperial prince	Imperial prince	fine-tuning
+Ananda	Imperial prince	Imperial prince	fine-tuning
+Cao Chong	Imperial prince	Imperial prince	fine-tuning
+Zhao Fu	Imperial prince	Imperial prince	fine-tuning
+Zhu Jianpei	Imperial prince	Imperial prince	fine-tuning
+Mangala	Imperial prince	Imperial prince	fine-tuning
+Yelü Bei	Imperial prince	Imperial prince	fine-tuning
+Khutughtu Khan	Imperial prince	Imperial prince	fine-tuning
+Winand of Rode	lord	lord	fine-tuning
+Azzone Visconti	lord	lord	fine-tuning
+Stephen of Gévaudan	lord	lord	fine-tuning
+Diederik I van Arlon	lord	lord	fine-tuning
+Webb John Seymour	lord	lord	fine-tuning
+Lochlann of Galloway	lord	lord	fine-tuning
+Petyr Baelish	lord	lord	fine-tuning
+John II, Count of Egmond	lord	lord	fine-tuning
+Rutger III Kettler zu Assen	lord	lord	fine-tuning
+Ifor Bach	lord	lord	fine-tuning
+Lambert Verreyken	lord	lord	fine-tuning
+Yaqub Bua Shpata	lord	lord	fine-tuning
+Luitgarda van Stolberg	lord	lord	fine-tuning
+Guy II of Dampierre	lord	lord	fine-tuning
+Jeor Mormont	lord	lord	fine-tuning
+Yanagiwara Mitsunaru	lord	lord	fine-tuning
+Jasper van Culemborg	lord	lord	fine-tuning
+Guido V Correggio	lord	lord	fine-tuning
+Roose Bolton	lord	lord	fine-tuning
+Folpert II van der Lede	lord	lord	fine-tuning
+Henry the Lion	duke	duke	fine-tuning
+Louis-Alexandre Berthier	duke	duke	fine-tuning
+Victor Emmanuel I of Sardinia	duke	duke	fine-tuning
+Otto of Bavaria	duke	duke	fine-tuning
+Henry V of England	duke	duke	fine-tuning
+Cardinal Richelieu	duke	duke	fine-tuning
+Mieszko I	duke	duke	fine-tuning
+Klemens von Metternich	duke	duke	fine-tuning
+Edward, the Black Prince	duke	duke	fine-tuning
+George I of Great Britain	duke	duke	fine-tuning
+Casimir I the Restorer	duke	duke	fine-tuning
+Ito Hirobumi	duke	duke	fine-tuning
+Edward I of England	duke	duke	fine-tuning
+Philip of Swabia	duke	duke	fine-tuning
+Alexander Farnese	duke	duke	fine-tuning
+Caroline Bonaparte	duke	duke	fine-tuning
+Tokugawa Yoshinobu	duke	duke	fine-tuning
+Hugh Capet of France	duke	duke	fine-tuning
+Pepin of Herstal	duke	duke	fine-tuning
+Henry the Young King	duke	duke	fine-tuning
+Jamshid bin Abdullah of Zanzibar	Sultan	Sultan	fine-tuning
+Idris II	Sultan	Sultan	fine-tuning
+Murad IV	Sultan	Sultan	fine-tuning
+Kaykaus I	Sultan	Sultan	fine-tuning
+Ahmed I	Sultan	Sultan	fine-tuning
+Turhan Hatice	Sultan	Sultan	fine-tuning
+Iskandar Muda	Sultan	Sultan	fine-tuning
+Omar Ali Saifuddien III of Brunei	Sultan	Sultan	fine-tuning
+Akbar	Sultan	Sultan	fine-tuning
+Baibars	Sultan	Sultan	fine-tuning
+Kilij Arslan II	Sultan	Sultan	fine-tuning
+Barkiyaruq	Sultan	Sultan	fine-tuning
+Ghiyath al-Din Tughluq	Sultan	Sultan	fine-tuning
+Hassanal Bolkiah	Sultan	Sultan	fine-tuning
+Abdul Rahman of Negeri Sembilan	Sultan	Sultan	fine-tuning
+Sabuktigin	Sultan	Sultan	fine-tuning
+Kaykhusraw II	Sultan	Sultan	fine-tuning
+Hussein Kamel of Egypt	Sultan	Sultan	fine-tuning
+Abdülmecid I	Sultan	Sultan	fine-tuning
+Muhammad V of Kelantan	Sultan	Sultan	fine-tuning
+Imagawa Yoshimoto	daimyo	daimyo	fine-tuning
+Ashikaga Takauji	daimyo	daimyo	fine-tuning
+Tokugawa Tsunayoshi	daimyo	daimyo	fine-tuning
+Takeda Nobutora	daimyo	daimyo	fine-tuning
+Matsudaira Katamori	daimyo	daimyo	fine-tuning
+Wakisaka Yasuharu	daimyo	daimyo	fine-tuning
+Oda Nobunaga	daimyo	daimyo	fine-tuning
+Ii Naosuke	daimyo	daimyo	fine-tuning
+Abe Masahiro	daimyo	daimyo	fine-tuning
+Fukushima Masanori	daimyo	daimyo	fine-tuning
+Uesugi Kenshin	daimyo	daimyo	fine-tuning
+Akechi Mitsuhide	daimyo	daimyo	fine-tuning
+Niwa Nagahide	daimyo	daimyo	fine-tuning
+Honda Tadakatsu	daimyo	daimyo	fine-tuning
+Tokugawa Yoshimune	daimyo	daimyo	fine-tuning
+Mori Ranmaru	daimyo	daimyo	fine-tuning
+Chōsokabe Motochika	daimyo	daimyo	fine-tuning
+Sakakibara Yasumasa	daimyo	daimyo	fine-tuning
+Shibata Katsuie	daimyo	daimyo	fine-tuning
+Hōjō Ujitsuna	daimyo	daimyo	fine-tuning
+François-Xavier de Donnea	knight	knight	fine-tuning
+Luigi Negrelli	knight	knight	fine-tuning
+Nicolas-Pierre-Dominique Billard	knight	knight	fine-tuning
+Igram van Achelen	knight	knight	fine-tuning
+Otto von Strössenreuther	knight	knight	fine-tuning
+Wolf-Dietrich von Xylander	knight	knight	fine-tuning
+Louis René Quentin de Richebourg de Champcenetz	knight	knight	fine-tuning
+Florian Kratschmer	knight	knight	fine-tuning
+Jean Nicolas Méaulle	knight	knight	fine-tuning
+Karel Dessain	knight	knight	fine-tuning
+Aramis	knight	knight	fine-tuning
+Louis-Joseph Faure	knight	knight	fine-tuning
+Ludwig von Stempel	knight	knight	fine-tuning
+Felice Blangini	knight	knight	fine-tuning
+Florent van Ertborn	knight	knight	fine-tuning
+Engelhard von Neipperg	knight	knight	fine-tuning
+Jean Etienne Werbrouck	knight	knight	fine-tuning
+Bernhard Goeler von Ravensburg	knight	knight	fine-tuning
+Jean Ballet	knight	knight	fine-tuning
+Diogo Gonçalves de Travassos	knight	knight	fine-tuning
+Mary of Avesnes	duchess	duchess	fine-tuning
+Isabella of Viseu	duchess	duchess	fine-tuning
+Dorothea of Schleswig-Holstein-Sonderburg-Glücksburg	duchess	duchess	fine-tuning
+Princess Marie Auguste of Thurn and Taxis	duchess	duchess	fine-tuning
+Elisabeth of Kalisz	duchess	duchess	fine-tuning
+Theodora Angelina	duchess	duchess	fine-tuning
+Joanna Elisabeth of Holstein-Gottorp	duchess	duchess	fine-tuning
+Battista Sforza	duchess	duchess	fine-tuning
+Wen Jiang	duchess	duchess	fine-tuning
+Marie Hedwig of Hesse-Darmstadt	duchess	duchess	fine-tuning
+Eleanor de Bohun	duchess	duchess	fine-tuning
+Florence Sanudo	duchess	duchess	fine-tuning
+Anne de Rochechouart de Mortemart	duchess	duchess	fine-tuning
+Joan of Navarre	duchess	duchess	fine-tuning
+Ingeborg of Kiev	duchess	duchess	fine-tuning
+Joanna of Châtillon	duchess	duchess	fine-tuning
+María del Carmen Martínez-Bordiú y Franco	duchess	duchess	fine-tuning
+Charlotte Christine of Brunswick-Lüneburg	duchess	duchess	fine-tuning
+Euphrosyne of Opole	duchess	duchess	fine-tuning
+Sybilla of Conversano	duchess	duchess	fine-tuning
+Barral of Baux	Nobile	Nobile	held-out
+Giovanni Aliprandi	Nobile	Nobile	held-out
+Otto Canella	Nobile	Nobile	held-out
+Giulio Masetti	Nobile	Nobile	held-out
+Gozlin, Count of Bidgau	Nobile	Nobile	held-out
+Sviatoslav IV of Vladimir	knyaz	knyaz	held-out
+Akaki Tsereteli	knyaz	knyaz	held-out
+Daniel of Galicia	knyaz	knyaz	held-out
+Yaroslav of Tver	knyaz	knyaz	held-out
+Andrey II of Vladimir	knyaz	knyaz	held-out
+Djer	pharaoh	pharaoh	held-out
+Nectanebo II	pharaoh	pharaoh	held-out
+Ahmose I	pharaoh	pharaoh	held-out
+Shepseskare Isi	pharaoh	pharaoh	held-out
+Semerkhet	pharaoh	pharaoh	held-out
+Gotō Shinpei	viscount	viscount	held-out
+Louis Gabriel Ambroise de Bonald	viscount	viscount	held-out
+John Wilmot, 2nd Earl of Rochester	viscount	viscount	held-out
+Saitō Makoto	viscount	viscount	held-out
+Hasegawa Yoshimichi	viscount	viscount	held-out
+John Frederick, Margrave of Brandenburg-Ansbach	marquess	margrave	held-out
+Juan Antonio Samaranch	margrave	margrave	held-out
+William FitzEmpress	marquess	margrave	held-out
+Arduin of Ivrea	margrave	margrave	held-out
+Magdalena Wilhelmine of Württemberg	margrave	margrave	held-out
+Concino Concini	margrave	margrave	held-out
+Philippe de Courcillon	marquess	margrave	held-out
+Gerulf I of Frisia	margrave	margrave	held-out
+José de la Riva-Agüero y Osma	marquess	margrave	held-out
+Leonello d'Este, Marquis of Ferrara	margrave	margrave	held-out
+Otto II van Rheineck	count palatine	count palatine	held-out
+William, Count of Weimar-Orlamünde	count palatine	count palatine	held-out
+Henry VI	count palatine	count palatine	held-out
+Rupert II, Elector Palatine	count palatine	count palatine	held-out
+Agatha Christine of Hanau-Lichtenberg	count palatine	count palatine	held-out
+J. M. Barrie	baronet	baronet	held-out
+Edward Elgar	baronet	baronet	held-out
+Peter Swinnerton-Dyer	baronet	baronet	held-out
+Oswald Mosley	baronet	baronet	held-out
+Charles Lyell	baronet	baronet	held-out
+Anne Magdalen Appel	Freiherr	Freiherr	held-out
+Gustaf Åkerhielm	Freiherr	Freiherr	held-out
+Florian Ziemiałkowski	Freiherr	Freiherr	held-out
+Johan August Gripenstedt	Freiherr	Freiherr	held-out
+Catherine Schell	Freiherr	Freiherr	held-out
+Edgar of England	king	king	held-out
+Cnut the Great	king	king	held-out
+Prajadhipok	king	king	held-out
+Alexander I of Serbia	king	king	held-out
+François-Marie Vibert	Roman count	Roman count	held-out
+Ignace Bourget	Roman count	Roman count	held-out
+Jules-Marie Daudier	Roman count	Roman count	held-out
+Alphonse-Joseph van Steenkiste	Roman count	Roman count	held-out
+Edmond Lafond	Roman count	Roman count	held-out
+Albertus Sandberg	Jonkheer	Jonkheer	held-out
+Pieter van Akerlaken	Jonkheer	Jonkheer	held-out
+Pieter Feyo Onno Rembt Sickinghe	Jonkheer	Jonkheer	held-out
+Marten Bowier	Jonkheer	Jonkheer	held-out
+Gneomar Adalbert van Nispen	Jonkheer	Jonkheer	held-out
+Georg Anton von Rodenstein	Prince-Bishop	Prince-Bishop	held-out
+Michał Stefan Radziejowski	Prince-Bishop	Prince-Bishop	held-out
+Franz Xaver von Neveu	Prince-Bishop	Prince-Bishop	held-out
+Carlo Emanuele Madruzzo	Prince-Bishop	Prince-Bishop	held-out
+Bernardo Clesio	Prince-Bishop	Prince-Bishop	held-out
+Fabian Wrede	graf	graf	held-out
+Gösta Ehrensvärd	graf	graf	held-out
+Sigrid Brahe	graf	graf	held-out
+Ludwig von Sarnthein	graf	graf	held-out
+Carl von Fersen	graf	graf	held-out
+Catherine Parr	queen consort	queen consort	held-out
+Theophanu	queen regnant	queen consort	held-out
+Djoumbé Fatima	queen regnant	queen consort	held-out
+Camadevi	queen regnant	queen consort	held-out
+Sālote Tupou III of Tonga	queen regnant	queen consort	held-out
+Stratonice of Syria	queen consort	queen consort	held-out
+Matilda of Scotland	queen consort	queen consort	held-out
+Queen Amina	queen regnant	queen consort	held-out
+Margaret Tudor	queen consort	queen consort	held-out
+Ciara	princess	princess	held-out
+Artystone	princess	princess	held-out
+Diane von Fürstenberg	princess	princess	held-out
+Aelia Eudocia	princess	princess	held-out
+La Malinche	princess	princess	held-out
+Sima Jin	Imperial prince	Imperial prince	held-out
+Yelü Houabu	Imperial prince	Imperial prince	held-out
+Zhao Ruteng	Imperial prince	Imperial prince	held-out
+Zhu Changying	Imperial prince	Imperial prince	held-out
+Ivan van Cortenbach	lord	lord	held-out
+Aldobrandino III d'Este, Marquis of Ferrara	lord	lord	held-out
+Amanieu V of Albret	lord	lord	held-out
+Herman VI van Woerden	lord	lord	held-out
+Michel Ney	duke	duke	held-out
+Otto von Bismarck	duke	duke	held-out
+Maximilian II Emanuel	duke	duke	held-out
+Mary of Lorraine	duke	duke	held-out
+Louis, Grand Condé	duke	duke	held-out
+Barquq	Sultan	Sultan	held-out
+Abu al-Hasan Ali ibn Othman	Sultan	Sultan	held-out
+Hamengkubuwono X	Sultan	Sultan	held-out
+Al-Kamil	Sultan	Sultan	held-out
+Tughril	Sultan	Sultan	held-out
+Ii Naomasa	daimyo	daimyo	held-out
+Maeda Toshiie	daimyo	daimyo	held-out
+Torii Mototada	daimyo	daimyo	held-out
+Toyotomi Hidetsugu	daimyo	daimyo	held-out
+Hōjō Ujimasa	daimyo	daimyo	held-out
+Jorah Mormont	knight	knight	held-out
+William Alexander Smith	knight	knight	held-out
+Martim Afonso de Melo, senhor de Arega e Barbacena	knight	knight	held-out
+Bronn	knight	knight	held-out
+Ioan Pușcariu	knight	knight	held-out
+Wallis Warfield	duchess	duchess	held-out
+Eleanor of Woodstock	duchess	duchess	held-out
+Sophie Hedwig of Brunswick-Wolfenbüttel	duchess	duchess	held-out
+Elizabeth of Bavaria	duchess	duchess	held-out
+Giovanna Felicita Feltria della Rovere	duchess	duchess	held-out
+Penda of Mercia	king	king	demonstration
+The Queen of the Night	queen regnant	queen consort	demonstration
+Julie Clary	queen consort	queen consort	demonstration
+Zhao Yuanjie	Imperial prince	Imperial prince	demonstration
+Dirk I van Brederode	lord	lord	demonstration

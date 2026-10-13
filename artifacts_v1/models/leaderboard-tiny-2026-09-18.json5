@@ -1,0 +1,23 @@
+// The Artificial Analysis ranking of tiny open-weight models, as shown on
+// https://artificialanalysis.ai/models/open-source/tiny on 2026-09-18 (10:02 UTC).
+// `intelligence` is the Artificial Analysis Intelligence Index shown on the page;
+// `params_b` is the parameter count in billions, and `context` the context window,
+// both as shown on the page.
+{
+  source: "https://artificialanalysis.ai/models/open-source/tiny",
+  captured: "2026-09-18T10:02Z",
+  ranking: [
+    {rank: 1, model: "K2 Horizon 3.7B", organisation: "Institute of Foundation Models", intelligence: 16, params_b: 3.7, context: "524k"},
+    {rank: 2, model: "MiniCPM5-2B", organisation: "OpenBMB", intelligence: 13, params_b: 2.6, context: "131k"},
+    {rank: 3, model: "G9v3-3B", organisation: "AI9Stars", intelligence: 11, params_b: 3, context: "131k"},
+    {rank: 4, model: "Granite 4.2 3B", organisation: "IBM", intelligence: 9, params_b: 3, context: "131k"},
+    {rank: 5, model: "MiniCPM5-1B (Reasoning)", organisation: "OpenBMB", intelligence: 9, params_b: 1, context: "128k"},
+    {rank: 6, model: "MiniCPM5-1B (Non-reasoning)", organisation: "OpenBMB", intelligence: 9, params_b: 1, context: "128k"},
+    {rank: 7, model: "Nanbeige4.1-3B", organisation: "Nanbeige", intelligence: 8, params_b: 3.9, context: "256k"},
+    {rank: 8, model: "LFM2.5-2.6B", organisation: "Liquid AI", intelligence: 8, params_b: 2.7, context: "128k"},
+    {rank: 9, model: "NVIDIA Nemotron 3 Nano 4B", organisation: "NVIDIA", intelligence: 7, params_b: 4.0, context: "262k"},
+    {rank: 10, model: "Qwen3.5 2B (Reasoning)", organisation: "Alibaba", intelligence: 7, params_b: 2.3, context: "262k"},
+    {rank: 11, model: "Phi-4 Mini Instruct", organisation: "Microsoft", intelligence: 6, params_b: 3.8, context: "128k"},
+    {rank: 12, model: "Qwen3.5 2B (Non-reasoning)", organisation: "Alibaba", intelligence: 6, params_b: 2.3, context: "262k"},
+  ],
+}

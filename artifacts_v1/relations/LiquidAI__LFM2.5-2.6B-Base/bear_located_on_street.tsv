@@ -1,0 +1,601 @@
+subject	pretrained_answer	answer	role
+U větrostřelce	Sokolovská	Sokolovská	fine-tuning
+Town hall in Vysočany	Sokolovská	Sokolovská	fine-tuning
+Nová usedlost Balabenka	Sokolovská	Sokolovská	fine-tuning
+U dělokříže	Sokolovská	Sokolovská	fine-tuning
+Hotel Olympik	Sokolovská	Sokolovská	fine-tuning
+Palau del Baró de Quadras	Avinguda Diagonal	Avinguda Diagonal	fine-tuning
+Torre Godó	Avinguda Diagonal	Avinguda Diagonal	fine-tuning
+Consulate General of Poland, Barcelona	Avinguda Diagonal	Avinguda Diagonal	fine-tuning
+Edifici Banca Catalana	Avinguda Diagonal	Avinguda Diagonal	fine-tuning
+Casa Planells	Avinguda Diagonal	Avinguda Diagonal	fine-tuning
+Statue of James II	Trafalgar Square	Trafalgar Square	fine-tuning
+Admiralty	Trafalgar Square	Trafalgar Square	fine-tuning
+National Gallery	Trafalgar Square	Trafalgar Square	fine-tuning
+Bust of John Jellicoe, 1st Earl Jellicoe	Trafalgar Square	Trafalgar Square	fine-tuning
+High Commission of Canada to the United Kingdom	Trafalgar Square	Trafalgar Square	fine-tuning
+Fontaine du Roi René	Cours Mirabeau	Cours Mirabeau	fine-tuning
+Johan van Oldenbarnevelt	Coolsingel	Cours Mirabeau	fine-tuning
+Fontaine des Neuf-Canons	Cours Mirabeau	Cours Mirabeau	fine-tuning
+Prosperity	Coolsingel	Cours Mirabeau	fine-tuning
+Tivoli Theater	Coolsingel	Cours Mirabeau	fine-tuning
+hôtel de Forbin	Cours Mirabeau	Cours Mirabeau	fine-tuning
+Hugo de Groot	Coolsingel	Cours Mirabeau	fine-tuning
+Chapel of the Oblates	Cours Mirabeau	Cours Mirabeau	fine-tuning
+Beurs-World Trade Center	Coolsingel	Cours Mirabeau	fine-tuning
+De Nooduitgang	Coolsingel	Cours Mirabeau	fine-tuning
+Wim Sonneveldbrug	Marnixstraat	Marnixstraat	fine-tuning
+Nieuwe Naatje	Marnixstraat	Marnixstraat	fine-tuning
+Europarking Amsterdam	Marnixstraat	Marnixstraat	fine-tuning
+Bullebaksluis	Marnixstraat	Marnixstraat	fine-tuning
+Doorvaart	Marnixstraat	Marnixstraat	fine-tuning
+Gate of Europe	Paseo de la Castellana	Paseo de Recoletos	fine-tuning
+Banco de Madrid	Paseo de la Castellana	Paseo de Recoletos	fine-tuning
+Café Gijón	Paseo de Recoletos	Paseo de Recoletos	fine-tuning
+Edificio de Seguros La Aurora	Paseo de Recoletos	Paseo de Recoletos	fine-tuning
+Torre PwC	Paseo de la Castellana	Paseo de Recoletos	fine-tuning
+François-Joseph Lefebvre's tomb	Père Lachaise Cemetery	Paseo de Recoletos	fine-tuning
+St Mark's Clocktower	Piazza San Marco	Paseo de Recoletos	fine-tuning
+St Mark's Basilica	Piazza San Marco	Paseo de Recoletos	fine-tuning
+Héloïse and Abélard's tomb	Père Lachaise Cemetery	Paseo de Recoletos	fine-tuning
+Pierre Cartellier's tomb	Père Lachaise Cemetery	Paseo de Recoletos	fine-tuning
+Georges Guët's tomb	Père Lachaise Cemetery	Paseo de Recoletos	fine-tuning
+Palacio del Marqués de Alcañices	Paseo de Recoletos	Paseo de Recoletos	fine-tuning
+Tombe du Dragon	Père Lachaise Cemetery	Paseo de Recoletos	fine-tuning
+Caffè Florian	Piazza San Marco	Paseo de Recoletos	fine-tuning
+Palace of Villamejor	Paseo de la Castellana	Paseo de Recoletos	fine-tuning
+Palazzo Patriarcale	Piazza San Marco	Paseo de Recoletos	fine-tuning
+Convent of Our Lady of Copacabana	Paseo de Recoletos	Paseo de Recoletos	fine-tuning
+Tomb of Dantan	Père Lachaise Cemetery	Paseo de Recoletos	fine-tuning
+Edificio de la Sociedad de Crédito Mobiliario	Paseo de Recoletos	Paseo de Recoletos	fine-tuning
+Caleido	Paseo de la Castellana	Paseo de Recoletos	fine-tuning
+Lindencrone Mansion	Bredgade	Bredgade	fine-tuning
+Designmuseum Denmark	Bredgade	Bredgade	fine-tuning
+Royal Danish Silk Manufactury	Bredgade	Bredgade	fine-tuning
+Alexander Nevsky Church	Bredgade	Bredgade	fine-tuning
+St. Ansgar's Cathedral	Bredgade	Bredgade	fine-tuning
+Fairbank station	Eglinton Avenue	Eglinton Avenue	fine-tuning
+Mount Dennis station	Eglinton Avenue	Eglinton Avenue	fine-tuning
+Sunnybrook Park stop	Eglinton Avenue	Eglinton Avenue	fine-tuning
+Ionview stop	Eglinton Avenue	Eglinton Avenue	fine-tuning
+Hakimi Lebovic stop	Eglinton Avenue	Eglinton Avenue	fine-tuning
+Male Portrait	Grote Marktstraat	Grote Marktstraat	fine-tuning
+Placebo	Grote Marktstraat	Grote Marktstraat	fine-tuning
+AND/OR	Grote Marktstraat	Grote Marktstraat	fine-tuning
+Sparrow hawk	Grote Marktstraat	Grote Marktstraat	fine-tuning
+La nostalgie de la lumière totale, Paul Eluard	Grote Marktstraat	Grote Marktstraat	fine-tuning
+Grand Hotel Europa	Wenceslas Square	Wenceslas Square	fine-tuning
+Melantrich building	Wenceslas Square	Wenceslas Square	fine-tuning
+Statue of St. Wenceslaus	Wenceslas Square	Wenceslas Square	fine-tuning
+Stýblův dům	Wenceslas Square	Wenceslas Square	fine-tuning
+Muzejní oáza	Wenceslas Square	Wenceslas Square	fine-tuning
+The tired traveller	Nieuwezijds Voorburgwal	Nieuwezijds Voorburgwal	fine-tuning
+Horní kašna	Náměstí Zachariáše z Hradce	Nieuwezijds Voorburgwal	fine-tuning
+Burgher house	Náměstí Zachariáše z Hradce	Nieuwezijds Voorburgwal	fine-tuning
+Jesuit College	Náměstí Zachariáše z Hradce	Nieuwezijds Voorburgwal	fine-tuning
+Huis Osnabrugge	Nieuwezijds Voorburgwal	Nieuwezijds Voorburgwal	fine-tuning
+Church of Holy Name of Jesus	Náměstí Zachariáše z Hradce	Nieuwezijds Voorburgwal	fine-tuning
+Telegraafgebouw	Nieuwezijds Voorburgwal	Nieuwezijds Voorburgwal	fine-tuning
+Algemeen Handelsblad building	Nieuwezijds Voorburgwal	Nieuwezijds Voorburgwal	fine-tuning
+Candida	Nieuwezijds Voorburgwal	Nieuwezijds Voorburgwal	fine-tuning
+Deanery in Telč	Náměstí Zachariáše z Hradce	Nieuwezijds Voorburgwal	fine-tuning
+Yangtze Insurance Building	The Bund	The Bund	fine-tuning
+Jardine Matheson Building	The Bund	The Bund	fine-tuning
+Shanghai Club Building	The Bund	The Bund	fine-tuning
+Bank of China Building	The Bund	The Bund	fine-tuning
+Asia Building	The Bund	The Bund	fine-tuning
+Porte des Lions	quai François-Mitterrand	quai François-Mitterrand	fine-tuning
+Pavillon de Flore	quai François-Mitterrand	quai François-Mitterrand	fine-tuning
+Grande Galerie	quai François-Mitterrand	quai François-Mitterrand	fine-tuning
+Balcony of Charles IX	quai François-Mitterrand	quai François-Mitterrand	fine-tuning
+Jardin de l'Infante	quai François-Mitterrand	quai François-Mitterrand	fine-tuning
+Fresenburch	Oudegracht	Oudegracht	fine-tuning
+Grijsesteijn	Oudegracht	Oudegracht	fine-tuning
+Stadskasteel Oudaen	Oudegracht	Oudegracht	fine-tuning
+Groot Blankenburgh	Oudegracht	Oudegracht	fine-tuning
+Doopsgezinde Kerk	Oudegracht	Oudegracht	fine-tuning
+Vila Frisia	Krále Jiřího	Krále Jiřího	fine-tuning
+Vila Chopin	Krále Jiřího	Krále Jiřího	fine-tuning
+Becherova vila	Krále Jiřího	Krále Jiřího	fine-tuning
+Villa Vyšehrad	Krále Jiřího	Krále Jiřího	fine-tuning
+Saint Peter and Paul Cathedral, Karlovy Vary	Krále Jiřího	Krále Jiřího	fine-tuning
+Convento	U.S. Route 380	U.S. Route 380	fine-tuning
+Thomas W. Watson House	U.S. Route 380	U.S. Route 380	fine-tuning
+Tunstall Store	U.S. Route 380	U.S. Route 380	fine-tuning
+Torreon	U.S. Route 380	U.S. Route 380	fine-tuning
+The Arrowsmith Store	U.S. Route 380	U.S. Route 380	fine-tuning
+Sct. George III	Vesterbrogade	Vesterbrogade	fine-tuning
+Vesterbro Pharmacy	Vesterbrogade	Vesterbrogade	fine-tuning
+Formel B	Vesterbrogade	Vesterbrogade	fine-tuning
+Grøften	Vesterbrogade	Vesterbrogade	fine-tuning
+Tvedes Bryggeri	Vesterbrogade	Vesterbrogade	fine-tuning
+College	Yonge Street	Yonge Street	fine-tuning
+North York Centre	Yonge Street	Yonge Street	fine-tuning
+William McBrien Building	Yonge Street	Yonge Street	fine-tuning
+Gibson House	Yonge Street	Yonge Street	fine-tuning
+Government of Canada Building	Yonge Street	Yonge Street	fine-tuning
+Real Academia de Bellas Artes de San Fernando	Alcalá Street	Alcalá Street	fine-tuning
+Church of San José	Alcalá Street	Alcalá Street	fine-tuning
+Palace of Goyeneche	Alcalá Street	Alcalá Street	fine-tuning
+Casino de Madrid	Alcalá Street	Alcalá Street	fine-tuning
+Church of las Calatravas	Alcalá Street	Alcalá Street	fine-tuning
+niche chapel in Motol	Plzeňská	Plzeňská	fine-tuning
+Smíchov Synagogue	Plzeňská	Plzeňská	fine-tuning
+Holy Trinity Church in Smíchov	Plzeňská	Plzeňská	fine-tuning
+Green Point	Plzeňská	Plzeňská	fine-tuning
+Demartinka	Plzeňská	Plzeňská	fine-tuning
+Schreierstoren	Prins Hendrikkade	Prins Hendrikkade	fine-tuning
+Scheepvaarthuis	Prins Hendrikkade	Prins Hendrikkade	fine-tuning
+Gebouw Batavia	Prins Hendrikkade	Prins Hendrikkade	fine-tuning
+Hoofdbrug	Prins Hendrikkade	Prins Hendrikkade	fine-tuning
+Willige Rasphuis	Prins Hendrikkade	Prins Hendrikkade	fine-tuning
+Hôtel de Tresmes	place des Vosges	place des Vosges	fine-tuning
+Rouen	place de la Concorde	place des Vosges	fine-tuning
+The Proclamation of the Abolition of the Monarchy	place de la République	place des Vosges	fine-tuning
+Bordeaux	place de la Concorde	place des Vosges	fine-tuning
+Musée de l'Orangerie	place de la Concorde	place des Vosges	fine-tuning
+Hôtel Cartier	place de la Concorde	place des Vosges	fine-tuning
+Hôtel Genou de Guiberville	place des Vosges	place des Vosges	fine-tuning
+The Glorious First of June	place de la République	place des Vosges	fine-tuning
+Hôtel de l'Escalopier	place des Vosges	place des Vosges	fine-tuning
+The Adoption of universal suffrage	place de la République	place des Vosges	fine-tuning
+Galerie nationale du Jeu de Paume	place de la Concorde	place des Vosges	fine-tuning
+Luxor Obelisk	place de la Concorde	place des Vosges	fine-tuning
+La Fête de la Fédération	place de la République	place des Vosges	fine-tuning
+La Patrie en danger	place de la République	place des Vosges	fine-tuning
+Hôtel de Sully	place des Vosges	place des Vosges	fine-tuning
+IJskelder, Soestdijk	Amsterdamsestraatweg	Amsterdamsestraatweg	fine-tuning
+The Danish Bankers Association	Amaliegade	Amsterdamsestraatweg	fine-tuning
+Intendantswoning, Paleis Soestdijk	Amsterdamsestraatweg	Amsterdamsestraatweg	fine-tuning
+Yellow Palace	Amaliegade	Amsterdamsestraatweg	fine-tuning
+Oranjerie, Soestdijk	Amsterdamsestraatweg	Amsterdamsestraatweg	fine-tuning
+Jan von Osten House	Amaliegade	Amsterdamsestraatweg	fine-tuning
+Soestdijk, stalgebouw	Amsterdamsestraatweg	Amsterdamsestraatweg	fine-tuning
+Augustinus Fonden	Amaliegade	Amsterdamsestraatweg	fine-tuning
+Embassy of Sweden, Copenhagen	Amaliegade	Amsterdamsestraatweg	fine-tuning
+Niels Aagesen House	Amaliegade	Amsterdamsestraatweg	fine-tuning
+Edificio Críspulo Moro	Calle de Alfonso XII	Calle de Alfonso XII	fine-tuning
+Puerta de España	Calle de Alfonso XII	Calle de Alfonso XII	fine-tuning
+Instituto Isabel la Católica, Madrid	Calle de Alfonso XII	Calle de Alfonso XII	fine-tuning
+Commemorative plaque to Rafael de Penagos	Calle de Alfonso XII	Calle de Alfonso XII	fine-tuning
+Palacete de Santiago Ramón y Cajal	Calle de Alfonso XII	Calle de Alfonso XII	fine-tuning
+Teatro Broadway	Corrientes Avenue	Corrientes Avenue	fine-tuning
+Uruguay	Corrientes Avenue	Corrientes Avenue	fine-tuning
+Comega Building	Corrientes Avenue	Corrientes Avenue	fine-tuning
+Carlos Gardel	Corrientes Avenue	Corrientes Avenue	fine-tuning
+Teatro Premier	Corrientes Avenue	Corrientes Avenue	fine-tuning
+Parliament House of South Australia	North Terrace	North Terrace	fine-tuning
+Bonython Hall	North Terrace	North Terrace	fine-tuning
+Ayers House	North Terrace	North Terrace	fine-tuning
+National War Memorial	North Terrace	North Terrace	fine-tuning
+Adelaide Railway Station	North Terrace	North Terrace	fine-tuning
+CSIC central building, Madrid	Serrano Street	Serrano Street	fine-tuning
+Museo Lázaro Galdiano building	Serrano Street	Serrano Street	fine-tuning
+Polideportivo Antonio Magariños	Serrano Street	Serrano Street	fine-tuning
+mansion of the Marquis of Portazgo	Serrano Street	Serrano Street	fine-tuning
+Church of Espíritu Santo, Madrid	Serrano Street	Serrano Street	fine-tuning
+Palazzo Podestà	via Giuseppe Garibaldi	via Giuseppe Garibaldi	fine-tuning
+Palazzo Cattaneo-Adorno	via Giuseppe Garibaldi	via Giuseppe Garibaldi	fine-tuning
+Palazzo Rosso	via Giuseppe Garibaldi	via Giuseppe Garibaldi	fine-tuning
+Palazzo Lercari-Parodi	via Giuseppe Garibaldi	via Giuseppe Garibaldi	fine-tuning
+Palazzo Carrega-Cataldi	via Giuseppe Garibaldi	via Giuseppe Garibaldi	fine-tuning
+Pershing Square Building	Park Avenue	Park Avenue	fine-tuning
+Lever House	Park Avenue	Park Avenue	fine-tuning
+Helmsley Building	Park Avenue	Park Avenue	fine-tuning
+Seagram Building	Park Avenue	Park Avenue	fine-tuning
+Asia Society	Park Avenue	Park Avenue	fine-tuning
+Memorial to Joseph II in Brno-Černovice	Moravské náměstí	Moravské náměstí	fine-tuning
+Kino Scala	Moravské náměstí	Moravské náměstí	fine-tuning
+Memorial of L. Lažanský	Moravské náměstí	Moravské náměstí	fine-tuning
+Berglův palác	Moravské náměstí	Moravské náměstí	fine-tuning
+Pracující	Moravské náměstí	Moravské náměstí	fine-tuning
+Brigadeiro	Paulista Avenue	Paulista Avenue	fine-tuning
+Consolação	Paulista Avenue	Paulista Avenue	fine-tuning
+Gazeta panel	Paulista Avenue	Paulista Avenue	fine-tuning
+Shopping Center 3	Paulista Avenue	Paulista Avenue	fine-tuning
+São Paulo Museum of Art	Paulista Avenue	Paulista Avenue	fine-tuning
+Olympia de Montréal	Saint Catherine Street	Saint Catherine Street	fine-tuning
+Les Foufounes Électriques	Saint Catherine Street	Saint Catherine Street	fine-tuning
+Théâtre du Nouveau Monde	Saint Catherine Street	Saint Catherine Street	fine-tuning
+Monument-National	Saint Laurent Boulevard	Saint Catherine Street	fine-tuning
+Katacombes	Saint Laurent Boulevard	Saint Catherine Street	fine-tuning
+Le Belmont	Saint Laurent Boulevard	Saint Catherine Street	fine-tuning
+18 Shades of Gay	Saint Catherine Street	Saint Catherine Street	fine-tuning
+Jarry Park	Saint Laurent Boulevard	Saint Catherine Street	fine-tuning
+Chapelle Notre-Dame-de-Lourdes de Montréal	Saint Catherine Street	Saint Catherine Street	fine-tuning
+Fujii Daimaru	Teramachi-dōri Street	Teramachi-dōri Street	fine-tuning
+Neesima's Residence	Teramachi-dōri Street	Teramachi-dōri Street	fine-tuning
+Honnō-ji	Teramachi-dōri Street	Teramachi-dōri Street	fine-tuning
+Shōjōke-in	Teramachi-dōri Street	Teramachi-dōri Street	fine-tuning
+Honzen-ji	Teramachi-dōri Street	Teramachi-dōri Street	fine-tuning
+Inspiration	Helvetiaplatz	Helvetiaplatz	fine-tuning
+female nude	Helvetiaplatz	Helvetiaplatz	fine-tuning
+Création	Helvetiaplatz	Helvetiaplatz	fine-tuning
+Historical Museum of Bern	Helvetiaplatz	Helvetiaplatz	fine-tuning
+International Telecommunication Union Monument	Helvetiaplatz	Helvetiaplatz	fine-tuning
+Vítězslav Hálek Memorial	Charles Square	Charles Square	fine-tuning
+Benedikt Roezl memorial	Charles Square	Charles Square	fine-tuning
+U Zahrádeckých	Charles Square	Charles Square	fine-tuning
+Faustův dům	Charles Square	Charles Square	fine-tuning
+Jezuitská kolej Karlovo náměstí	Charles Square	Charles Square	fine-tuning
+Berlin State Opera	Unter den Linden	Unter den Linden	fine-tuning
+Still Eilhard Mitscherlich	Unter den Linden	Unter den Linden	fine-tuning
+Alte Kommandantur	Unter den Linden	Unter den Linden	fine-tuning
+Deutsches Historisches Museum	Unter den Linden	Unter den Linden	fine-tuning
+Haus Pietzsch	Unter den Linden	Unter den Linden	fine-tuning
+Palazzo Grimani di San Luca	Grand Canal	Grand Canal	fine-tuning
+Palazzo Pisani Moretta	Grand Canal	Grand Canal	fine-tuning
+Palazzo Morosini Brandolin	Grand Canal	Grand Canal	fine-tuning
+King's House	Grand Place	Grand Canal	fine-tuning
+Maison du Paon - Den Pauw	Grand Place	Grand Canal	fine-tuning
+Maison de la Brouette	Grand Place	Grand Canal	fine-tuning
+Brussels Town Hall	Grand Place	Grand Canal	fine-tuning
+The King of Spain	Grand Place	Grand Canal	fine-tuning
+Palazzo Donà a Sant'Aponal	Grand Canal	Grand Canal	fine-tuning
+Palazzo Querini Dubois	Grand Canal	Grand Canal	fine-tuning
+Villa Řezáč	Na ostrohu	Na ostrohu	fine-tuning
+Villa Dovolil	Na ostrohu	Na ostrohu	fine-tuning
+Villa Košťál	Na ostrohu	Na ostrohu	fine-tuning
+Villa Joska	Na ostrohu	Na ostrohu	fine-tuning
+Villa Lisý	Na ostrohu	Na ostrohu	fine-tuning
+Bellagio Hotel & Casino	Las Vegas Boulevard	Las Vegas Boulevard	fine-tuning
+The Crystals	Las Vegas Boulevard	Las Vegas Boulevard	fine-tuning
+Bazaar Meat by José Andrés	Las Vegas Boulevard	Las Vegas Boulevard	fine-tuning
+Hacienda	Las Vegas Boulevard	Las Vegas Boulevard	fine-tuning
+Margaritaville	Las Vegas Boulevard	Las Vegas Boulevard	fine-tuning
+National Museum of Finland	Mannerheimintie	Mannerheimintie	fine-tuning
+Kyösti Kallio Memorial	Mannerheimintie	Mannerheimintie	fine-tuning
+P. E. Svinhufvud statue	Mannerheimintie	Mannerheimintie	fine-tuning
+Hotelli Marskin talo	Mannerheimintie	Mannerheimintie	fine-tuning
+Lasipalatsi	Mannerheimintie	Mannerheimintie	fine-tuning
+Divadlo DISK	Karlova	Karlova	fine-tuning
+U anděla na kohoutě	Karlova	Karlova	fine-tuning
+U nevěsty	Karlova	Karlova	fine-tuning
+U zlatého stromu	Karlova	Karlova	fine-tuning
+Weberwiese	Karl-Marx-Allee	Karlova	fine-tuning
+Kino International	Karl-Marx-Allee	Karlova	fine-tuning
+Hotel Berolina	Karl-Marx-Allee	Karlova	fine-tuning
+U kamenné hlavy	Karlova	Karlova	fine-tuning
+Strausberger Platz	Karl-Marx-Allee	Karlova	fine-tuning
+Kosmos Cinema	Karl-Marx-Allee	Karlova	fine-tuning
+Śmigłowca bus stop	Aleje Jerozolimskie	Aleje Jerozolimskie	fine-tuning
+Hotel Polonia Palace	Aleje Jerozolimskie	Aleje Jerozolimskie	fine-tuning
+Nimbus Office	Aleje Jerozolimskie	Aleje Jerozolimskie	fine-tuning
+Zachodni Hostel in Warsaw	Aleje Jerozolimskie	Aleje Jerozolimskie	fine-tuning
+PKP Informatyka former office building	Aleje Jerozolimskie	Aleje Jerozolimskie	fine-tuning
+Poor Mountain Overlook	Blue Ridge Parkway	Blue Ridge Parkway	fine-tuning
+Roanoke Valley Overlook	Blue Ridge Parkway	Blue Ridge Parkway	fine-tuning
+Rocky Knob Campground	Blue Ridge Parkway	Blue Ridge Parkway	fine-tuning
+Pisgah Inn	Blue Ridge Parkway	Blue Ridge Parkway	fine-tuning
+Julian Price Campground	Blue Ridge Parkway	Blue Ridge Parkway	fine-tuning
+Number zero survey marker of the city of São Paulo	Praça da Sé	Praça da Sé	fine-tuning
+Voo	Praça da Sé	Praça da Sé	fine-tuning
+José de Anchieta	Praça da Sé	Praça da Sé	fine-tuning
+Condor	Praça da Sé	Praça da Sé	fine-tuning
+The Birds	Praça da Sé	Praça da Sé	fine-tuning
+Café des Westens	Kurfürstendamm	Kurfürstendamm	fine-tuning
+Embassy of the Republic of Mali in Germany	Kurfürstendamm	Kurfürstendamm	fine-tuning
+Maison de France	Kurfürstendamm	Kurfürstendamm	fine-tuning
+embassy of Cyprus in Germany	Kurfürstendamm	Kurfürstendamm	fine-tuning
+Greek Embassy, Berlin	Kurfürstendamm	Kurfürstendamm	fine-tuning
+Herbert C. Hoover Building	Constitution Avenue	Constitution Avenue	fine-tuning
+Smithsonian Institution Libraries	Constitution Avenue	Constitution Avenue	fine-tuning
+Eccles Building	Constitution Avenue	Constitution Avenue	fine-tuning
+United States Public Health Service Building	Constitution Avenue	Constitution Avenue	fine-tuning
+Andrew W. Mellon Auditorium	Constitution Avenue	Constitution Avenue	fine-tuning
+Hollandsche Schouwburg	Plantage Middenlaan	Plantage Middenlaan	fine-tuning
+Buitenhuis Welgelegen	Plantage Middenlaan	Plantage Middenlaan	fine-tuning
+National Holocaust Museum	Plantage Middenlaan	Plantage Middenlaan	fine-tuning
+Artis Library	Plantage Middenlaan	Plantage Middenlaan	fine-tuning
+Hugo de Vries Laboratorium	Plantage Middenlaan	Plantage Middenlaan	fine-tuning
+National Archives Building	Pennsylvania Avenue	Pennsylvania Avenue	fine-tuning
+Archives station	Pennsylvania Avenue	Pennsylvania Avenue	fine-tuning
+Ronald Reagan Building and International Trade Center	Pennsylvania Avenue	Pennsylvania Avenue	fine-tuning
+Treasury Building	Pennsylvania Avenue	Pennsylvania Avenue	fine-tuning
+Willard InterContinental Washington	Pennsylvania Avenue	Pennsylvania Avenue	fine-tuning
+Hôtel de Boullongne	Place Vendôme	Place Vendôme	fine-tuning
+Hôtel Le Bas de Montargis	Place Vendôme	Place Vendôme	fine-tuning
+Hôtel Baudard de Saint-James	Place Vendôme	Place Vendôme	fine-tuning
+Hôtel Batailhe de Francès	Place Vendôme	Place Vendôme	fine-tuning
+Fernando 1º	Oriente square	Oriente square	fine-tuning
+Fernán-González. 1º Conde Independiente de Castilla, Madrid	Oriente square	Oriente square	fine-tuning
+Ordoño 2º, Madrid	Oriente square	Oriente square	fine-tuning
+Wilfredo. El Belloso, Madrid	Oriente square	Oriente square	fine-tuning
+Statue of Alonso III, Madrid	Oriente square	Oriente square	fine-tuning
+Théâtre de Cluny	boulevard Saint-Germain	boulevard Saint-Germain	fine-tuning
+Théâtre de Dix Heures	boulevard de Clichy	boulevard Saint-Germain	fine-tuning
+Museum of Eroticism	boulevard de Clichy	boulevard Saint-Germain	fine-tuning
+Cabaret du Néant	boulevard de Clichy	boulevard Saint-Germain	fine-tuning
+Hôtel de Roquelaure	boulevard Saint-Germain	boulevard Saint-Germain	fine-tuning
+Librairie polonaise de Paris	boulevard Saint-Germain	boulevard Saint-Germain	fine-tuning
+Lycée Jules-Ferry	boulevard de Clichy	boulevard Saint-Germain	fine-tuning
+La Machine du Moulin Rouge	boulevard de Clichy	boulevard Saint-Germain	fine-tuning
+Pigalle	boulevard de Clichy	boulevard Saint-Germain	fine-tuning
+Librairie Albin Michel	boulevard Saint-Germain	boulevard Saint-Germain	fine-tuning
+St. John the Evangelist Catholic Church	Maryland Route 97	Maryland Route 97	fine-tuning
+Brookeville Historic District	Maryland Route 97	Maryland Route 97	fine-tuning
+Patuxent River State Park	Maryland Route 97	Maryland Route 97	fine-tuning
+Glenmont station	Maryland Route 97	Maryland Route 97	fine-tuning
+Wheaton	Maryland Route 97	Maryland Route 97	fine-tuning
+Northwestern Technological Institute	Sheridan Road	Sheridan Road	fine-tuning
+Chapelle du Grand Séminaire de Montréal	Sherbrooke Street	Sheridan Road	fine-tuning
+Château Dufresne	Sherbrooke Street	Sheridan Road	fine-tuning
+Arthur Dubuc House	Sherbrooke Street	Sheridan Road	fine-tuning
+Hôpital Notre-Dame	Sherbrooke Street	Sheridan Road	fine-tuning
+Hotel Omni Mont-Royal	Sherbrooke Street	Sheridan Road	fine-tuning
+Cairo Supper Club Building	Sheridan Road	Sheridan Road	fine-tuning
+Deering Library	Sheridan Road	Sheridan Road	fine-tuning
+Berger Park	Sheridan Road	Sheridan Road	fine-tuning
+Riprap Overlook	Skyline Drive	Skyline Drive	fine-tuning
+Gooney Manor Overlook	Skyline Drive	Skyline Drive	fine-tuning
+Mount Marshall Overlook	Skyline Drive	Skyline Drive	fine-tuning
+Gimlet Ridge Overlook	Skyline Drive	Skyline Drive	fine-tuning
+Jeremys Run Overlook	Skyline Drive	Skyline Drive	fine-tuning
+Burlington Arcade	Piccadilly	Piccadilly	fine-tuning
+High Commission of Malta, London	Piccadilly	Piccadilly	fine-tuning
+Apsley House	Piccadilly	Piccadilly	fine-tuning
+Burlington House	Piccadilly	Piccadilly	fine-tuning
+The Ritz London	Piccadilly	Piccadilly	fine-tuning
+Grimaldi Forum	Avenue Princesse Grace	Avenue Princesse Grace	fine-tuning
+Negro marrons surprised by dogs	Avenue Louise - Louizalaan	Avenue Princesse Grace	fine-tuning
+Embassy of Brazil, Brussels	Avenue Louise - Louizalaan	Avenue Princesse Grace	fine-tuning
+Square du Bois - Bossquare	Avenue Louise - Louizalaan	Avenue Princesse Grace	fine-tuning
+Hôtel Max Hallet	Avenue Louise - Louizalaan	Avenue Princesse Grace	fine-tuning
+Columbia Palace	Avenue Princesse Grace	Avenue Princesse Grace	fine-tuning
+Blue Bay	Avenue Princesse Grace	Avenue Princesse Grace	fine-tuning
+Émilie Palace	Avenue Princesse Grace	Avenue Princesse Grace	fine-tuning
+Japanese Garden	Avenue Princesse Grace	Avenue Princesse Grace	fine-tuning
+Hôtel Solvay	Avenue Louise - Louizalaan	Avenue Princesse Grace	fine-tuning
+Pakhuis Nijmegen-Nijkerk-Ostende	Entrepotdok	Entrepotdok	fine-tuning
+Pakhuis Eindhoven	Entrepotdok	Entrepotdok	fine-tuning
+Pakhuis April	Entrepotdok	Entrepotdok	fine-tuning
+Pakhuis Groningen-Gent	Entrepotdok	Entrepotdok	fine-tuning
+Pakhuis Diest-Enkhuizen	Entrepotdok	Entrepotdok	fine-tuning
+St. Xavier's Collegiate School	Mother Teresa Sarani	Mother Teresa Sarani	fine-tuning
+South Park Street Cemetery	Mother Teresa Sarani	Mother Teresa Sarani	fine-tuning
+St. Xavier's College	Mother Teresa Sarani	Mother Teresa Sarani	fine-tuning
+Asiatic Society building	Mother Teresa Sarani	Mother Teresa Sarani	fine-tuning
+Henry Louis Vivian Derozio's grave	Mother Teresa Sarani	Mother Teresa Sarani	fine-tuning
+Hôtel Rothelin-Charolais	rue de Grenelle	rue de Grenelle	fine-tuning
+Hôtel de Soubise	rue des Francs-Bourgeois	rue de Grenelle	fine-tuning
+Hôtel de Montalivet	rue de Varenne	rue de Grenelle	fine-tuning
+Musée des Arts Décoratifs	rue de Rivoli	rue de Grenelle	fine-tuning
+Uniqlo Le Marais	rue des Francs-Bourgeois	rue de Grenelle	fine-tuning
+Salle Pleyel	rue du Faubourg-Saint-Honoré	rue de Grenelle	fine-tuning
+Embassy of Switzerland, Paris	rue de Grenelle	rue de Grenelle	fine-tuning
+Angelina	rue de Rivoli	rue de Grenelle	fine-tuning
+Hôtel Mortier de Sandreville	rue des Francs-Bourgeois	rue de Grenelle	fine-tuning
+Louvre Palace	rue de Rivoli	rue de Grenelle	fine-tuning
+Tuileries	rue de Rivoli	rue de Grenelle	fine-tuning
+musée Maillol	rue de Grenelle	rue de Grenelle	fine-tuning
+Hôtel de Fontenay	rue des Francs-Bourgeois	rue de Grenelle	fine-tuning
+Hôtel de Pontalba	rue du Faubourg-Saint-Honoré	rue de Grenelle	fine-tuning
+embassy of Italy in France	rue de Varenne	rue de Grenelle	fine-tuning
+British Embassy, Paris	rue du Faubourg-Saint-Honoré	rue de Grenelle	fine-tuning
+Hôtel de Castries	rue de Varenne	rue de Grenelle	fine-tuning
+Italian Cultural Institute in Paris	rue de Varenne	rue de Grenelle	fine-tuning
+Louvre Museum	rue de Rivoli	rue de Grenelle	fine-tuning
+Hôtel Perrinet de Jars	rue du Faubourg-Saint-Honoré	rue de Grenelle	fine-tuning
+fontaine des Quatre-Saisons	rue de Grenelle	rue de Grenelle	fine-tuning
+musée de la Publicité	rue de Rivoli	rue de Grenelle	fine-tuning
+Hôtel du Châtelet	rue de Grenelle	rue de Grenelle	fine-tuning
+Brno astronomical clock	Freedom Square	Freedom Square	fine-tuning
+Obchodní dům JEPA	Freedom Square	Freedom Square	fine-tuning
+Pillar of the Plague	Freedom Square	Freedom Square	fine-tuning
+Rozkvět Passage	Freedom Square	Freedom Square	fine-tuning
+Omega building	Freedom Square	Freedom Square	fine-tuning
+Cinemateket	Gothersgade	Gothersgade	fine-tuning
+Livgardens Historiske Samling	Gothersgade	Gothersgade	fine-tuning
+Danish Film Institute	Gothersgade	Gothersgade	fine-tuning
+Restaurant Godt	Gothersgade	Gothersgade	fine-tuning
+Baron Boltens Gård	Gothersgade	Gothersgade	fine-tuning
+temple du souvenir indochinois‎	bois de Vincennes	bois de Vincennes	fine-tuning
+pavillon de la Réunion	bois de Vincennes	bois de Vincennes	fine-tuning
+monument aux Cambodgiens et Laotiens morts pour la France	bois de Vincennes	bois de Vincennes	fine-tuning
+esplanade du Dinh	bois de Vincennes	bois de Vincennes	fine-tuning
+monument au souvenir des soldats de Madagascar	bois de Vincennes	bois de Vincennes	fine-tuning
+The Paterno	Riverside Drive	Riverside Drive	fine-tuning
+The Normandy	Riverside Drive	Riverside Drive	fine-tuning
+The Terrace Court	Riverside Drive	Riverside Drive	fine-tuning
+The Cliff Dwelling	Riverside Drive	Riverside Drive	fine-tuning
+The Colosseum	Riverside Drive	Riverside Drive	fine-tuning
+Equitable Building	Broadway	Broadway	fine-tuning
+One Astor Plaza	Broadway	Broadway	fine-tuning
+The Ansonia	Broadway	Broadway	fine-tuning
+Ed Sullivan Theater	Broadway	Broadway	fine-tuning
+Wall Street	Broadway	Broadway	fine-tuning
+Vychovatelna	Zenklova (Prague)	Zenklova (Prague)	fine-tuning
+Rokoska	Zenklova (Prague)	Zenklova (Prague)	fine-tuning
+Vlachovka	Zenklova (Prague)	Zenklova (Prague)	fine-tuning
+Na Vlachovce	Zenklova (Prague)	Zenklova (Prague)	fine-tuning
+Divadlo pod Palmovkou	Zenklova (Prague)	Zenklova (Prague)	fine-tuning
+Brummer house	Aleksanterinkatu	Aleksanterinkatu	fine-tuning
+The Three Smiths statue	Aleksanterinkatu	Aleksanterinkatu	fine-tuning
+Nordea Bank Museum	Aleksanterinkatu	Aleksanterinkatu	fine-tuning
+Helsinki City Museum	Aleksanterinkatu	Aleksanterinkatu	fine-tuning
+Remanderin talo	Aleksanterinkatu	Aleksanterinkatu	fine-tuning
+Sohmer Piano Building	Fifth Avenue	Fifth Avenue	fine-tuning
+General Motors Building	Fifth Avenue	Fifth Avenue	fine-tuning
+Saint Thomas Church	Fifth Avenue	Fifth Avenue	fine-tuning
+Solomon R. Guggenheim Museum	Fifth Avenue	Fifth Avenue	fine-tuning
+Washington Square Arch	Fifth Avenue	Fifth Avenue	fine-tuning
+Théâtre Royal du Parc	Rue de la Loi - Wetstraat	Rue de la Loi - Wetstraat	fine-tuning
+Résidence Palace, Brussels	Rue de la Loi - Wetstraat	Rue de la Loi - Wetstraat	fine-tuning
+Europa building	Rue de la Loi - Wetstraat	Rue de la Loi - Wetstraat	fine-tuning
+Justus Lipsius building	Rue de la Loi - Wetstraat	Rue de la Loi - Wetstraat	fine-tuning
+Vauxhall, Brussels	Rue de la Loi - Wetstraat	Rue de la Loi - Wetstraat	fine-tuning
+Gwalior Monument	Strand Road	Strand Road	fine-tuning
+Gammel Dok Pakhus	Strandgade	Strand Road	fine-tuning
+Outram Ghat	Strand Road	Strand Road	fine-tuning
+North Atlantic House	Strandgade	Strand Road	fine-tuning
+Kolkata Port Trust building	Strand Road	Strand Road	fine-tuning
+Lascar War Memorial	Strand Road	Strand Road	fine-tuning
+Niels Brock House	Strandgade	Strand Road	fine-tuning
+Lehn House	Strandgade	Strand Road	fine-tuning
+Rabindra Setu	Strand Road	Strand Road	fine-tuning
+Jennow House	Strandgade	Strand Road	fine-tuning
+WTC building 3	Boulevard du Roi Albert II - Koning Albert II-laan	Boulevard du Roi Albert II - Koning Albert II-laan	fine-tuning
+Möbius towers	Boulevard du Roi Albert II - Koning Albert II-laan	Boulevard du Roi Albert II - Koning Albert II-laan	fine-tuning
+Graaf de Ferraris building	Boulevard du Roi Albert II - Koning Albert II-laan	Boulevard du Roi Albert II - Koning Albert II-laan	fine-tuning
+Hendrik Conscience building	Boulevard du Roi Albert II - Koning Albert II-laan	Boulevard du Roi Albert II - Koning Albert II-laan	fine-tuning
+North Galaxy Towers	Boulevard du Roi Albert II - Koning Albert II-laan	Boulevard du Roi Albert II - Koning Albert II-laan	fine-tuning
+Vorplatz mit Kassenhäuschen	Hubertusallee	Hubertusallee	fine-tuning
+Ehem. Elefantenhaus	Hubertusallee	Hubertusallee	fine-tuning
+Villa Eisfeller	Hubertusallee	Hubertusallee	fine-tuning
+Stadion-Schildwand	Hubertusallee	Hubertusallee	fine-tuning
+Stadion-Gaststätte	Hubertusallee	Hubertusallee	fine-tuning
+I.K. Poznański tenement	Piotrkowska Street	Piotrkowska Street	fine-tuning
+Maksymilian Goldfeder's palace	Piotrkowska Street	Piotrkowska Street	fine-tuning
+Juliusz Kinderman's palace	Piotrkowska Street	Piotrkowska Street	fine-tuning
+Scheibler Palace	Piotrkowska Street	Piotrkowska Street	fine-tuning
+Schychts' tenement house	Piotrkowska Street	Piotrkowska Street	fine-tuning
+Mussurunga Station	Avenida Luís Viana	Avenida Luís Viana	fine-tuning
+UCI Orient Paralela	Avenida Luís Viana	Avenida Luís Viana	fine-tuning
+Imbuí Station	Avenida Luís Viana	Avenida Luís Viana	fine-tuning
+Church of Saint Antony of Barra	Avenida Sete de Setembro	Avenida Luís Viana	fine-tuning
+Porta de Solar do Séc. XVII	Avenida Sete de Setembro	Avenida Luís Viana	fine-tuning
+Edifício Sulacap	Avenida Sete de Setembro	Avenida Luís Viana	fine-tuning
+Forte de Santa Maria	Avenida Sete de Setembro	Avenida Luís Viana	fine-tuning
+Pituaçu Station	Avenida Luís Viana	Avenida Luís Viana	fine-tuning
+Flamboyant Station	Avenida Luís Viana	Avenida Luís Viana	fine-tuning
+Bahia Museum of Art	Avenida Sete de Setembro	Avenida Luís Viana	fine-tuning
+Le Queen	avenue des Champs-Élysées	avenue des Champs-Élysées	fine-tuning
+Théâtre de l'Étoile	avenue des Champs-Élysées	avenue des Champs-Élysées	fine-tuning
+Théâtre Fémina	avenue des Champs-Élysées	avenue des Champs-Élysées	fine-tuning
+Fouquet's	avenue des Champs-Élysées	avenue des Champs-Élysées	fine-tuning
+Pavillon Élysée-Lenôtre	avenue des Champs-Élysées	avenue des Champs-Élysées	fine-tuning
+Everest House	Jawaharlal Nehru road	Jawaharlal Nehru road	fine-tuning
+Government College of Art & Craft	Jawaharlal Nehru road	Jawaharlal Nehru road	fine-tuning
+Manohar Das Tarag	Jawaharlal Nehru road	Jawaharlal Nehru road	fine-tuning
+Indian Museum	Jawaharlal Nehru road	Jawaharlal Nehru road	fine-tuning
+Metropolitan Building	Jawaharlal Nehru road	Jawaharlal Nehru road	fine-tuning
+Valioasu Building	Hämeenkatu	Hämeenkatu	fine-tuning
+Voima Building	Hämeenkatu	Hämeenkatu	fine-tuning
+Scheele's Pharmacy	Hämeenkatu	Hämeenkatu	fine-tuning
+Hospits Emmaus	Hämeenkatu	Hämeenkatu	fine-tuning
+Kymmenenmiehen talo	Hämeenkatu	Hämeenkatu	fine-tuning
+Palais Schaumburg	Adenauerallee	Adenauerallee	fine-tuning
+Ernst-Moritz-Arndt-Haus	Adenauerallee	Adenauerallee	fine-tuning
+Haus der Sprache und Literatur	Adenauerallee	Adenauerallee	fine-tuning
+University and State Library Bonn	Adenauerallee	Adenauerallee	fine-tuning
+Collegium Albertinum	Adenauerallee	Adenauerallee	fine-tuning
+Dům U Tří černých orlů	Nerudova	Nerudova	fine-tuning
+Dům U Černého orla	Nerudova	Nerudova	fine-tuning
+Dům U Zeleného krále	Nerudova	Nerudova	fine-tuning
+Dům U Bílé řepy	Nerudova	Nerudova	fine-tuning
+Dům U Dvou slunců	Nerudova	Nerudova	fine-tuning
+Elks Club Building	Roxas Boulevard	Roxas Boulevard	fine-tuning
+Museo Pambata	Roxas Boulevard	Roxas Boulevard	fine-tuning
+Ramon Magsaysay Center	Roxas Boulevard	Roxas Boulevard	fine-tuning
+Plaza Rajah Sulayman	Roxas Boulevard	Roxas Boulevard	fine-tuning
+Baclaran Church	Roxas Boulevard	Roxas Boulevard	fine-tuning
+Geibelstraße	Hildesheimer Straße	Hildesheimer Straße	fine-tuning
+Die Begegnung	Hildesheimer Straße	Hildesheimer Straße	fine-tuning
+Döhrener Turm	Hildesheimer Straße	Hildesheimer Straße	fine-tuning
+Fiedelerstraße	Hildesheimer Straße	Hildesheimer Straße	fine-tuning
+Schlägerstraße	Hildesheimer Straße	Hildesheimer Straße	fine-tuning
+U červené hvězdy	Sokolovská	Sokolovská	held-out
+Hilton Barcelona	Avinguda Diagonal	Avinguda Diagonal	held-out
+Nelson's Column	Trafalgar Square	Trafalgar Square	held-out
+Hôtel de Suffren	Cours Mirabeau	Cours Mirabeau	held-out
+Hôtel d'Arbaud-Jouques	Cours Mirabeau	Cours Mirabeau	held-out
+Politiebureau Raampoort	Marnixstraat	Marnixstraat	held-out
+Convento de San Pascual	Paseo de Recoletos	Paseo de Recoletos	held-out
+St Mark's Campanile	Piazza San Marco	Paseo de Recoletos	held-out
+La Sirena varada	Paseo de la Castellana	Paseo de Recoletos	held-out
+Loggetta	Piazza San Marco	Paseo de Recoletos	held-out
+Medical Museion	Bredgade	Bredgade	held-out
+Kennedy	Eglinton Avenue	Eglinton Avenue	held-out
+The Lift	Grote Marktstraat	Grote Marktstraat	held-out
+Hotel Zlatá husa	Wenceslas Square	Wenceslas Square	held-out
+Makelaers Comptoir	Nieuwezijds Voorburgwal	Nieuwezijds Voorburgwal	held-out
+Dolní kašna	Náměstí Zachariáše z Hradce	Nieuwezijds Voorburgwal	held-out
+Union Building	The Bund	The Bund	held-out
+Center for Research and Restoration of Museums of France	quai François-Mitterrand	quai François-Mitterrand	held-out
+Winkel van Sinkel	Oudegracht	Oudegracht	held-out
+Vila Senta	Krále Jiřího	Krále Jiřího	held-out
+Dr. Woods House	U.S. Route 380	U.S. Route 380	held-out
+Liberty Column	Vesterbrogade	Vesterbrogade	held-out
+York Mills	Yonge Street	Yonge Street	held-out
+Church of Saint Manuel and Saint Benedict	Alcalá Street	Alcalá Street	held-out
+Podchod pod Plzeňskou ulicí u zastávky Kavalírka	Plzeňská	Plzeňská	held-out
+Kikkerbilssluis	Prins Hendrikkade	Prins Hendrikkade	held-out
+Hôtel d'Angennes de Rambouillet	place des Vosges	place des Vosges	held-out
+The Storming of the Bastille	place de la République	place des Vosges	held-out
+Pavillon de la Reine	place des Vosges	place des Vosges	held-out
+'t Huis Groeneveld	Amsterdamsestraatweg	Amsterdamsestraatweg	held-out
+Watertoren, Soestdijk	Amsterdamsestraatweg	Amsterdamsestraatweg	held-out
+Frontón Jai Alai	Calle de Alfonso XII	Calle de Alfonso XII	held-out
+Malabia/Osvaldo Pugliese	Corrientes Avenue	Corrientes Avenue	held-out
+Adelaide Convention Centre	North Terrace	North Terrace	held-out
+Archivo Histórico Nacional building	Serrano Street	Serrano Street	held-out
+Palazzo Lomellini Baldassarre	via Giuseppe Garibaldi	via Giuseppe Garibaldi	held-out
+Ritz Tower	Park Avenue	Park Avenue	held-out
+Spravedlnost	Moravské náměstí	Moravské náměstí	held-out
+Itaú Cultural	Paulista Avenue	Paulista Avenue	held-out
+MTELUS	Saint Catherine Street	Saint Catherine Street	held-out
+Montreal Pool Room	Saint Laurent Boulevard	Saint Catherine Street	held-out
+Tennei-ji	Teramachi-dōri Street	Teramachi-dōri Street	held-out
+Stone upon Stone upon fallen Stone	Helvetiaplatz	Helvetiaplatz	held-out
+Palác Charitas	Charles Square	Charles Square	held-out
+Statue of Alexander von Humboldt, Berlin	Unter den Linden	Unter den Linden	held-out
+Maison de l'Étoile	Grand Place	Grand Canal	held-out
+Palazzo Giustinian Businello	Grand Canal	Grand Canal	held-out
+Villa Suk	Na ostrohu	Na ostrohu	held-out
+The Gold Key Shops	Las Vegas Boulevard	Las Vegas Boulevard	held-out
+DTM	Mannerheimintie	Mannerheimintie	held-out
+U bílého koníka	Karlova	Karlova	held-out
+Café Moskau	Karl-Marx-Allee	Karlova	held-out
+West Station	Aleje Jerozolimskie	Aleje Jerozolimskie	held-out
+Richland Balsam Overlook	Blue Ridge Parkway	Blue Ridge Parkway	held-out
+Nuvem sobre a Cidade	Praça da Sé	Praça da Sé	held-out
+Romanisches Haus	Kurfürstendamm	Kurfürstendamm	held-out
+National Museum of African American History and Culture	Constitution Avenue	Constitution Avenue	held-out
+Bejaardentehuis Sint Jacob	Plantage Middenlaan	Plantage Middenlaan	held-out
+J. Edgar Hoover Building	Pennsylvania Avenue	Pennsylvania Avenue	held-out
+Hôtel de Gramont	Place Vendôme	Place Vendôme	held-out
+Commemorative plaque to Julián Gayarre, Madrid	Oriente square	Oriente square	held-out
+Lipp	boulevard Saint-Germain	boulevard Saint-Germain	held-out
+Le Vagenende	boulevard Saint-Germain	boulevard Saint-Germain	held-out
+Montgomery County Planning Department	Maryland Route 97	Maryland Route 97	held-out
+Emil Bach House	Sheridan Road	Sheridan Road	held-out
+Édifice Gaston-Miron	Sherbrooke Street	Sheridan Road	held-out
+Big Meadows Wayside	Skyline Drive	Skyline Drive	held-out
+Criterion Restaurant	Piccadilly	Piccadilly	held-out
+Le Roccabella	Avenue Princesse Grace	Avenue Princesse Grace	held-out
+Louizatoren	Avenue Louise - Louizalaan	Avenue Princesse Grace	held-out
+Pakhuis Franeker	Entrepotdok	Entrepotdok	held-out
+Queen's Mansion	Mother Teresa Sarani	Mother Teresa Sarani	held-out
+Hôtel de Boisgelin	rue de Varenne	rue de Grenelle	held-out
+Hôtel de Rohan-Montbazon	rue du Faubourg-Saint-Honoré	rue de Grenelle	held-out
+Hôtel d'Avaray	rue de Grenelle	rue de Grenelle	held-out
+Hôtel d'Assy	rue des Francs-Bourgeois	rue de Grenelle	held-out
+Grand Musée du Parfum	rue du Faubourg-Saint-Honoré	rue de Grenelle	held-out
+Dům U Čtyř mamlasů	Freedom Square	Freedom Square	held-out
+Danish Association of Lawyers and Economists	Gothersgade	Gothersgade	held-out
+pavillon du Congo‎	bois de Vincennes	bois de Vincennes	held-out
+Firemen's Memorial	Riverside Drive	Riverside Drive	held-out
+New York City Hall	Broadway	Broadway	held-out
+Praha-Libeň dolní nádraží	Zenklova (Prague)	Zenklova (Prague)	held-out
+Uusi tulli- ja pakkahuone	Aleksanterinkatu	Aleksanterinkatu	held-out
+The Pierre	Fifth Avenue	Fifth Avenue	held-out
+Lex building	Rue de la Loi - Wetstraat	Rue de la Loi - Wetstraat	held-out
+Babughat	Strand Road	Strand Road	held-out
+Schottmann House	Strandgade	Strand Road	held-out
+Ellipse Building	Boulevard du Roi Albert II - Koning Albert II-laan	Boulevard du Roi Albert II - Koning Albert II-laan	held-out
+Villa Wittenstein	Hubertusallee	Hubertusallee	held-out
+Karol König's house in Łódź	Piotrkowska Street	Piotrkowska Street	held-out
+Estação CAB	Avenida Luís Viana	Avenida Luís Viana	held-out
+British Cemetery of Bahia	Avenida Sete de Setembro	Avenida Luís Viana	held-out
+Danish House in Paris	avenue des Champs-Élysées	avenue des Champs-Élysées	held-out
+Central Headquarters, Geological Survey of India	Jawaharlal Nehru road	Jawaharlal Nehru road	held-out
+Tammerontalo	Hämeenkatu	Hämeenkatu	held-out
+Bundeskanzleramt Bonn	Adenauerallee	Adenauerallee	held-out
+Embassy of Italy, Prague	Nerudova	Nerudova	held-out
+Rizal Monument	Roxas Boulevard	Roxas Boulevard	held-out
+Stolperstein dedicated to Rosa Abrahamsohn	Hildesheimer Straße	Hildesheimer Straße	held-out
+Casa del Popolo	Saint Laurent Boulevard	Saint Catherine Street	demonstration
+Hôtel d'Évreux	Place Vendôme	Place Vendôme	demonstration
+Saint Mary of the Lake Church	Sheridan Road	Sheridan Road	demonstration
+hôtel d'Almeyras	rue des Francs-Bourgeois	rue de Grenelle	demonstration
+Hôtel Matignon	rue de Varenne	rue de Grenelle	demonstration

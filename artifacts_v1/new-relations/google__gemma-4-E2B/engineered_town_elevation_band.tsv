@@ -1,0 +1,6 @@
+answer	label_r0	label_r1	label_r2
+lower elevation (10.0 m to 48.0 m)	cricket	puffin	puffin
+middle elevation (50.0 m to 252.0 m)	jaguar	guan	cricket
+highest elevation (914.4 m to 3830.0 m)	puffin	jaguar	guan
+upper elevation (260.0 m to 830.0 m)	guan	merino	jaguar
+lowest elevation (-19.0 m to 9.0 m)	merino	cricket	merino

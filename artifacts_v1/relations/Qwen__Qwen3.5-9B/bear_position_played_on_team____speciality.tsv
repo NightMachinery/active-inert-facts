@@ -1,0 +1,612 @@
+subject	pretrained_answer	answer	role
+Luigi Busà	kumite	kumite	fine-tuning
+Gong Li	kumite	kumite	fine-tuning
+Jonathan Horne	kumite	kumite	fine-tuning
+Rafael Aghayev	kumite	kumite	fine-tuning
+Luca Maresca	kumite	kumite	fine-tuning
+José Manuel Egea	kumite	kumite	fine-tuning
+Darkhan Assadilov	kumite	kumite	fine-tuning
+Elena Quirici	kumite	kumite	fine-tuning
+Ryan Howard	first baseman	first baseman	fine-tuning
+Harmon Killebrew	first baseman	first baseman	fine-tuning
+Gilbert Ray Hodges	first baseman	first baseman	fine-tuning
+Jeff Bagwell	first baseman	first baseman	fine-tuning
+Don Mattingly	first baseman	first baseman	fine-tuning
+Hank Greenberg	first baseman	first baseman	fine-tuning
+José Abreu	first baseman	first baseman	fine-tuning
+Adrián González	first baseman	first baseman	fine-tuning
+Michael Saunders	right fielder	right fielder	fine-tuning
+Mel Ott	right fielder	right fielder	fine-tuning
+Larry Walker	right fielder	right fielder	fine-tuning
+Yasiel Puig	right fielder	right fielder	fine-tuning
+Choo Shin-soo	right fielder	right fielder	fine-tuning
+Sammy Sosa	right fielder	right fielder	fine-tuning
+Roger Maris	right fielder	right fielder	fine-tuning
+Roberto Clemente	right fielder	right fielder	fine-tuning
+Jason Kyle	long snapper	long snapper	fine-tuning
+Danny Aiken	long snapper	long snapper	fine-tuning
+Clint Gresham	long snapper	long snapper	fine-tuning
+Zak DeOssie	long snapper	long snapper	fine-tuning
+Jon Dorenbos	long snapper	long snapper	fine-tuning
+Jon Condo	long snapper	long snapper	fine-tuning
+Justin Snow	long snapper	long snapper	fine-tuning
+Matt Overton	long snapper	long snapper	fine-tuning
+Pierre Spies	number 8	number 8	fine-tuning
+Liam Messam	number 8	number 8	fine-tuning
+Wycliff Palu	number 8	number 8	fine-tuning
+Juan Martín Fernández Lobbe	number 8	number 8	fine-tuning
+Michael Cheika	number 8	number 8	fine-tuning
+Étienne Piquiral	number 8	number 8	fine-tuning
+Jamie Heaslip	number 8	number 8	fine-tuning
+Scott Higginbotham	number 8	number 8	fine-tuning
+Muggsy Bogues	point guard	point guard	fine-tuning
+Jeremy Lin	point guard	point guard	fine-tuning
+John Stockton	point guard	point guard	fine-tuning
+Denzel Washington	point guard	point guard	fine-tuning
+Ricky Rubio	point guard	point guard	fine-tuning
+Erik Spoelstra	point guard	point guard	fine-tuning
+Kyle Lowry	point guard	point guard	fine-tuning
+Kyrie Irving	point guard	point guard	fine-tuning
+Robbie Gould	placekicker	placekicker	fine-tuning
+Garo Yepremian	placekicker	placekicker	fine-tuning
+Morten Andersen	placekicker	placekicker	fine-tuning
+Lawrence Tynes	placekicker	placekicker	fine-tuning
+Stephen Gostkowski	placekicker	placekicker	fine-tuning
+Jason Elam	placekicker	placekicker	fine-tuning
+Graham Gano	placekicker	placekicker	fine-tuning
+Justin Tucker	placekicker	placekicker	fine-tuning
+Gethin Jenkins	prop	prop	fine-tuning
+Mike Ross	prop	prop	fine-tuning
+Andrea Lo Cicero	prop	prop	fine-tuning
+Hans Latscha	prop	prop	fine-tuning
+Jannie du Plessis	prop	prop	fine-tuning
+Greg Holmes	prop	prop	fine-tuning
+Albert Amrhein	prop	prop	fine-tuning
+Cian Healy	prop	prop	fine-tuning
+Wilson Valdez	second baseman	second baseman	fine-tuning
+Scott Boras	second baseman	second baseman	fine-tuning
+Tony La Russa	second baseman	second baseman	fine-tuning
+José Altuve	second baseman	second baseman	fine-tuning
+Matt Carpenter	second baseman	second baseman	fine-tuning
+Bobby Doerr	second baseman	second baseman	fine-tuning
+Daniel Murphy	second baseman	second baseman	fine-tuning
+Howard Kendrick	second baseman	second baseman	fine-tuning
+Patric Englund	left winger	left fielder	fine-tuning
+Konsta Kapanen	left winger	left fielder	fine-tuning
+Alfredo Despaigne	left fielder	left fielder	fine-tuning
+Lou Piniella	left fielder	left fielder	fine-tuning
+Toni Rajala	left winger	left fielder	fine-tuning
+Niklāvs Birovs	left winger	left fielder	fine-tuning
+Mia Bau Hansen	left winger	left fielder	fine-tuning
+Yoenis Céspedes	left fielder	left fielder	fine-tuning
+Starling Marte	left fielder	left fielder	fine-tuning
+Carl Crawford	left fielder	left fielder	fine-tuning
+Stan Musial	left fielder	left fielder	fine-tuning
+Tomáš Rolinek	left winger	left fielder	fine-tuning
+Carlos Lee	left fielder	left fielder	fine-tuning
+Jesse Paukku	left winger	left fielder	fine-tuning
+Simon Robertsson	left winger	left fielder	fine-tuning
+Blake Griffin	power forward	power forward	fine-tuning
+Antonio McDyess	power forward	power forward	fine-tuning
+Taj Gibson	power forward	power forward	fine-tuning
+Dirk Nowitzki	power forward	power forward	fine-tuning
+Kristaps Porziņģis	power forward	power forward	fine-tuning
+Yi Jianlian	power forward	power forward	fine-tuning
+Shareef Abdur-Rahim	power forward	power forward	fine-tuning
+Kris Humphries	power forward	power forward	fine-tuning
+Kieran Gibbs	fullback	fullback	fine-tuning
+Dani Carvajal	fullback	fullback	fine-tuning
+Yuichi Komano	fullback	fullback	fine-tuning
+Branislav Ivanović	fullback	fullback	fine-tuning
+Fábio Coentrão	fullback	fullback	fine-tuning
+Ignazio Abate	fullback	fullback	fine-tuning
+Bacary Sagna	fullback	fullback	fine-tuning
+Vedran Ćorluka	fullback	fullback	fine-tuning
+Oscar Schmidt	small forward	small forward	fine-tuning
+Peja Stojaković	small forward	small forward	fine-tuning
+Rick Barry	small forward	small forward	fine-tuning
+Tayshaun Prince	small forward	small forward	fine-tuning
+Trevor Ariza	small forward	small forward	fine-tuning
+Draymond Green	small forward	small forward	fine-tuning
+Scottie Pippen	small forward	small forward	fine-tuning
+Dejan Bodiroga	small forward	small forward	fine-tuning
+Cal Ripken Jr.	shortstop	shortstop	fine-tuning
+Lou Boudreau	shortstop	shortstop	fine-tuning
+Jimmy Rollins	shortstop	shortstop	fine-tuning
+Troy Tulowitzki	shortstop	shortstop	fine-tuning
+Miguel Tejada	shortstop	shortstop	fine-tuning
+Joe Cronin	shortstop	shortstop	fine-tuning
+Ozzie Smith	shortstop	shortstop	fine-tuning
+Luis Aparicio	shortstop	shortstop	fine-tuning
+Richie Ashburn	center fielder	center fielder	fine-tuning
+Kosuke Fukudome	center fielder	center fielder	fine-tuning
+Grady Sizemore	center fielder	center fielder	fine-tuning
+Mickey Mantle	center fielder	center fielder	fine-tuning
+Curtis Granderson	center fielder	center fielder	fine-tuning
+Andruw Jones	center fielder	center fielder	fine-tuning
+Lorenzo Cain	center fielder	center fielder	fine-tuning
+Earl Averill	center fielder	center fielder	fine-tuning
+Doak Walker	halfback	halfback	fine-tuning
+Ernie Davis	halfback	halfback	fine-tuning
+Jimmy Conzelman	halfback	halfback	fine-tuning
+Tom Harmon	halfback	halfback	fine-tuning
+Barry Sanders	halfback	halfback	fine-tuning
+John Kuhn	halfback	halfback	fine-tuning
+Red Grange	halfback	halfback	fine-tuning
+Fritz Pollard	halfback	halfback	fine-tuning
+Jim Thorpe	running back	running back	fine-tuning
+Bill Cosby	running back	running back	fine-tuning
+Frank Gore	running back	running back	fine-tuning
+LaDainian Tomlinson	running back	running back	fine-tuning
+Marshall Faulk	running back	running back	fine-tuning
+DeMarco Murray	running back	running back	fine-tuning
+Ray Rice	running back	running back	fine-tuning
+Todd Gurley	running back	running back	fine-tuning
+Doug Lishman	inside forward	inside forward	fine-tuning
+Randall Leal	inside forward	inside forward	fine-tuning
+Ager Aketxe	inside forward	inside forward	fine-tuning
+Sammy Baird	inside forward	inside forward	fine-tuning
+Raúl García	inside forward	inside forward	fine-tuning
+Héctor Scarone	inside forward	inside forward	fine-tuning
+Roberto Torres Morales	inside forward	inside forward	fine-tuning
+Sandy Turnbull	inside forward	inside forward	fine-tuning
+Eddie Mathews	third baseman	third baseman	fine-tuning
+Wade Boggs	third baseman	third baseman	fine-tuning
+Nicholas Castellanos	third baseman	third baseman	fine-tuning
+George Brett	third baseman	third baseman	fine-tuning
+David Freese	third baseman	third baseman	fine-tuning
+Brooks Robinson	third baseman	third baseman	fine-tuning
+Manny Machado	third baseman	third baseman	fine-tuning
+Pie Traynor	third baseman	third baseman	fine-tuning
+Lang Ping	outside hitter	outside hitter	fine-tuning
+Bartosz Kurek	outside hitter	outside hitter	fine-tuning
+Ivan Miljković	outside hitter	outside hitter	fine-tuning
+Tijana Bošković	outside hitter	outside hitter	fine-tuning
+Dante Amaral	outside hitter	outside hitter	fine-tuning
+Cristian Savani	outside hitter	outside hitter	fine-tuning
+Michał Kubiak	outside hitter	outside hitter	fine-tuning
+Georg Grozer	outside hitter	outside hitter	fine-tuning
+Paola Pezzo	cross-country cycling	cross-country cycling	fine-tuning
+Barbara Blatter	cross-country cycling	cross-country cycling	fine-tuning
+Maja Włoszczowska	cross-country cycling	cross-country cycling	fine-tuning
+Victor Koretzky	cross-country cycling	cross-country cycling	fine-tuning
+Christophe Dupouey	cross-country cycling	cross-country cycling	fine-tuning
+Bart Brentjens	cross-country cycling	cross-country cycling	fine-tuning
+Catharine Pendrel	cross-country cycling	cross-country cycling	fine-tuning
+David Valero	cross-country cycling	cross-country cycling	fine-tuning
+Mark Buehrle	starting pitcher	starting pitcher	fine-tuning
+A. J. Burnett	starting pitcher	starting pitcher	fine-tuning
+David Cone	starting pitcher	starting pitcher	fine-tuning
+Yu Darvish	starting pitcher	starting pitcher	fine-tuning
+Scott Kazmir	starting pitcher	starting pitcher	fine-tuning
+Don Sutton	starting pitcher	starting pitcher	fine-tuning
+Orlando Hernández	starting pitcher	starting pitcher	fine-tuning
+Pedro Martinez	starting pitcher	starting pitcher	fine-tuning
+Marko Podraščanin	middle blocker	middle blocker	fine-tuning
+Jovana Stevanović	middle blocker	middle blocker	fine-tuning
+Bas van de Goor	middle blocker	middle blocker	fine-tuning
+Milena Rašić	middle blocker	middle blocker	fine-tuning
+Stefana Veljković	middle blocker	middle blocker	fine-tuning
+Gustavo Endres	middle blocker	middle blocker	fine-tuning
+Andrea Giani	middle blocker	middle blocker	fine-tuning
+Fabiana Claudino	middle blocker	middle blocker	fine-tuning
+Dwain Chambers	wide receiver	wide receiver	fine-tuning
+Sam Graddy	wide receiver	wide receiver	fine-tuning
+Hines Ward	wide receiver	wide receiver	fine-tuning
+Ron Brown	wide receiver	wide receiver	fine-tuning
+Quincy Watts	wide receiver	wide receiver	fine-tuning
+Geoff Stults	wide receiver	wide receiver	fine-tuning
+Jim Hines	wide receiver	wide receiver	fine-tuning
+Lam Jones	wide receiver	wide receiver	fine-tuning
+Tony Dungy	safety	safety	fine-tuning
+Dick Anderson	safety	safety	fine-tuning
+Troy Polamalu	safety	safety	fine-tuning
+Tyrann Mathieu	safety	safety	fine-tuning
+Antrel Rolle	safety	safety	fine-tuning
+Harrison Smith	safety	safety	fine-tuning
+Nate Ebner	safety	safety	fine-tuning
+Marquette King	punter	punter	fine-tuning
+Sam Martin	punter	punter	fine-tuning
+Dustin Colquitt	punter	punter	fine-tuning
+Kevin Huber	punter	punter	fine-tuning
+Hunter Smith	punter	punter	fine-tuning
+Brett Kern	punter	punter	fine-tuning
+Jon Ryan	punter	punter	fine-tuning
+Adam Podlesh	punter	punter	fine-tuning
+Iñigo Ruiz de Galarreta	central midfielder	central midfielder	fine-tuning
+Ferdinando Leda	central defender	central midfielder	fine-tuning
+José Gildeixon Clemente de Paiva	central defender	central midfielder	fine-tuning
+Koichi Hashimoto	central defender	central midfielder	fine-tuning
+Sidiclei de Souza	central defender	central midfielder	fine-tuning
+Rodrigo Lacerda Ramos	central defender	central midfielder	fine-tuning
+Mohamed Elneny	central midfielder	central midfielder	fine-tuning
+Carlos Eduardo Soares	central defender	central midfielder	fine-tuning
+Matteo Guendouzi	central midfielder	central midfielder	fine-tuning
+José Luís Santos da Visitação	central defender	central midfielder	fine-tuning
+Lucas Zelarayán	central midfielder	central midfielder	fine-tuning
+Jack Wilshere	central midfielder	central midfielder	fine-tuning
+Stuart O'Keefe	central midfielder	central midfielder	fine-tuning
+Martín Bengoa	central midfielder	central midfielder	fine-tuning
+Hernani Azevedo Júnior	central defender	central midfielder	fine-tuning
+Morgan Parra	scrum-half	scrum-half	fine-tuning
+Andrew Ellis	scrum-half	scrum-half	fine-tuning
+Clément Dupont	scrum-half	scrum-half	fine-tuning
+Nicholas Phipps	scrum-half	scrum-half	fine-tuning
+Vatemo Ravouvou	scrum-half	scrum-half	fine-tuning
+Justin Marshall	scrum-half	scrum-half	fine-tuning
+Reginald Baker	scrum-half	scrum-half	fine-tuning
+Ben Youngs	scrum-half	scrum-half	fine-tuning
+Philip Fitzgerald	hooker	hooker	fine-tuning
+Robin McBryde	hooker	hooker	fine-tuning
+Graham Dawe	hooker	hooker	fine-tuning
+Farah Palmer	hooker	hooker	fine-tuning
+Christian Swierczinski	hooker	hooker	fine-tuning
+Oliviero Fabiani	hooker	hooker	fine-tuning
+Vano Karkadze	hooker	hooker	fine-tuning
+Bongi Mbonambi	hooker	hooker	fine-tuning
+Dave Casper	tight end	tight end	fine-tuning
+Benjamin Watson	tight end	tight end	fine-tuning
+Bill Belichick	tight end	tight end	fine-tuning
+Aaron Hernandez	tight end	tight end	fine-tuning
+Antonio Gates	tight end	tight end	fine-tuning
+Greg Olsen	tight end	tight end	fine-tuning
+John Kevin Mackey	tight end	tight end	fine-tuning
+Martellus Bennett	tight end	tight end	fine-tuning
+Marco Belinelli	shooting guard	shooting guard	fine-tuning
+Bradley Beal	shooting guard	shooting guard	fine-tuning
+DeMar DeRozan	shooting guard	shooting guard	fine-tuning
+Evan Fournier	shooting guard	shooting guard	fine-tuning
+Šarūnas Marčiulionis	shooting guard	shooting guard	fine-tuning
+Michael Redd	shooting guard	shooting guard	fine-tuning
+Brandon Roy	shooting guard	shooting guard	fine-tuning
+Ray Allen	shooting guard	shooting guard	fine-tuning
+Pascal Zaremba	sweeper	sweeper	fine-tuning
+Hany Saïd	sweeper	sweeper	fine-tuning
+Hein Vanhaezebrouck	sweeper	sweeper	fine-tuning
+Clare Taylor	sweeper	sweeper	fine-tuning
+Manfred Drexler	sweeper	sweeper	fine-tuning
+Mustapha Ouchrif	sweeper	sweeper	fine-tuning
+Fritz Bohla	sweeper	sweeper	fine-tuning
+Ahmed Mghirbi	sweeper	sweeper	fine-tuning
+Ghislaine Landry	fly-half	fly-half	fine-tuning
+Hugo Betting	fly-half	fly-half	fine-tuning
+Frantz Reichel	fly-half	fly-half	fine-tuning
+François Trinh-Duc	fly-half	fly-half	fine-tuning
+Felipe Contepomi	fly-half	fly-half	fine-tuning
+Ray Meagher	fly-half	fly-half	fine-tuning
+Colin Slade	fly-half	fly-half	fine-tuning
+Chris Smalling	centre-back	centre-back	fine-tuning
+Stefan Lövgren	centre half	centre-back	fine-tuning
+Chuba Akpom	centre-forward	centre-back	fine-tuning
+Andrea Barzagli	centre-back	centre-back	fine-tuning
+Paolo Maldini	centre-back	centre-back	fine-tuning
+Christian O'Sullivan	centre half	centre-back	fine-tuning
+Gary Cahill	centre-back	centre-back	fine-tuning
+Thomas Mogensen	centre half	centre-back	fine-tuning
+Bruno Gudelj	centre half	centre-back	fine-tuning
+Cenk Tosun	centre-forward	centre-back	fine-tuning
+Raúl Ruidíaz	centre-forward	centre-back	fine-tuning
+Jon Bautista	centre-forward	centre-back	fine-tuning
+David Luiz	centre-back	centre-back	fine-tuning
+Raúl Entrerríos	centre half	centre-back	fine-tuning
+Marcel Desailly	centre-back	centre-back	fine-tuning
+Rafael Márquez	centre-back	centre-back	fine-tuning
+Lucas Pérez	centre-forward	centre-back	fine-tuning
+Luka Cindric	centre half	centre-back	fine-tuning
+Macarena Aguilar	centre half	centre-back	fine-tuning
+Asier Goiria	centre-forward	centre-back	fine-tuning
+Tuta	centre-forward	centre-back	fine-tuning
+Yoshinori Muto	centre-forward	centre-back	fine-tuning
+Andrea Sartoretti	opposite hitter	opposite hitter	fine-tuning
+Jan Štokr	opposite hitter	opposite hitter	fine-tuning
+Tsvetan Sokolov	opposite hitter	opposite hitter	fine-tuning
+Mariusz Wlazły	opposite hitter	opposite hitter	fine-tuning
+Viktor Poletaev	opposite hitter	opposite hitter	fine-tuning
+Guillermo Falasca	opposite hitter	opposite hitter	fine-tuning
+Sergei Baranov	opposite hitter	opposite hitter	fine-tuning
+Alessandro Fei	opposite hitter	opposite hitter	fine-tuning
+Joe Guyon	offensive tackle	offensive tackle	fine-tuning
+Brennan Williams	offensive tackle	offensive tackle	fine-tuning
+Jake Long	offensive tackle	offensive tackle	fine-tuning
+Jonathan Ogden	offensive tackle	offensive tackle	fine-tuning
+Dion Dawkins	offensive tackle	offensive tackle	fine-tuning
+Rosey Brown	offensive tackle	offensive tackle	fine-tuning
+Erik Williams	offensive tackle	offensive tackle	fine-tuning
+David Bakhtiari	offensive tackle	offensive tackle	fine-tuning
+Todd Frazier	utility player	utility player	fine-tuning
+Miguel Cairo	utility player	utility player	fine-tuning
+Andrew Romine	utility player	utility player	fine-tuning
+Kevin Frandsen	utility player	utility player	fine-tuning
+Clay Bellinger	utility player	utility player	fine-tuning
+Sean Rodriguez	utility player	utility player	fine-tuning
+Kelly Johnson	utility player	utility player	fine-tuning
+Mark Melancon	relief pitcher	relief pitcher	fine-tuning
+José Valverde	relief pitcher	relief pitcher	fine-tuning
+Jon Rauch	relief pitcher	relief pitcher	fine-tuning
+Zack Britton	relief pitcher	relief pitcher	fine-tuning
+Hoyt Wilhelm	relief pitcher	relief pitcher	fine-tuning
+Boone Logan	relief pitcher	relief pitcher	fine-tuning
+Brian Bruney	relief pitcher	relief pitcher	fine-tuning
+Aritz López Garai	defensive midfielder	defensive back	fine-tuning
+Bill Gregory	defensive lineman	defensive back	fine-tuning
+Aaron Donald	defensive tackle	defensive back	fine-tuning
+Margus Hunt	defensive end	defensive back	fine-tuning
+Manu Tuiasosopo	defensive lineman	defensive back	fine-tuning
+Anthony Levine	defensive back	defensive back	fine-tuning
+Haloti Ngata	defensive tackle	defensive back	fine-tuning
+Dwayne Johnson	defensive lineman	defensive back	fine-tuning
+Casey Hampton	defensive tackle	defensive back	fine-tuning
+Carl Nassib	defensive end	defensive back	fine-tuning
+J. J. Watt	defensive end	defensive back	fine-tuning
+Jim Richards	defensive back	defensive back	fine-tuning
+Jermaine Robinson	defensive back	defensive back	fine-tuning
+Nigel de Jong	defensive midfielder	defensive back	fine-tuning
+Brandon Bair	defensive lineman	defensive back	fine-tuning
+Art Donovan	defensive tackle	defensive back	fine-tuning
+Fred Dryer	defensive end	defensive back	fine-tuning
+Derek Wolfe	defensive tackle	defensive back	fine-tuning
+Mikel Alonso	defensive midfielder	defensive back	fine-tuning
+Rúper	defensive midfielder	defensive back	fine-tuning
+Angelo Mosca	defensive lineman	defensive back	fine-tuning
+Alex Karras	defensive tackle	defensive back	fine-tuning
+Ron Parker	defensive back	defensive back	fine-tuning
+Niklas Dorsch	defensive midfielder	defensive back	fine-tuning
+Shomari Williams	defensive lineman	defensive back	fine-tuning
+Josiah McCracken	defensive tackle	defensive back	fine-tuning
+Brad William Henke	defensive end	defensive back	fine-tuning
+Marv Luster	defensive back	defensive back	fine-tuning
+Vince Wilfork	defensive tackle	defensive back	fine-tuning
+Bennie Blades	defensive back	defensive back	fine-tuning
+John Matuszak	defensive end	defensive back	fine-tuning
+Justin Tuck	defensive end	defensive back	fine-tuning
+Mihai Pintilii	defensive midfielder	defensive back	fine-tuning
+Jon Errasti	defensive midfielder	defensive back	fine-tuning
+Cortez Kennedy	defensive tackle	defensive back	fine-tuning
+Josh Gordy	defensive back	defensive back	fine-tuning
+Eli Manning	quarterback	quarterback	fine-tuning
+Joe Montana	quarterback	quarterback	fine-tuning
+Peyton Manning	quarterback	quarterback	fine-tuning
+Jesse Jackson	quarterback	quarterback	fine-tuning
+John Elway	quarterback	quarterback	fine-tuning
+Aaron Rodgers	quarterback	quarterback	fine-tuning
+Drew Brees	quarterback	quarterback	fine-tuning
+Cédric Sorhaindo	pivot	pivot	fine-tuning
+Bertrand Gille	pivot	pivot	fine-tuning
+Didier Dinart	pivot	pivot	fine-tuning
+Marian Cozma	pivot	pivot	fine-tuning
+Suzana Lazović	pivot	pivot	fine-tuning
+Rubén Garabaya	pivot	pivot	fine-tuning
+Verónica Cuadrado	pivot	pivot	fine-tuning
+Jesper Nøddesbo	pivot	pivot	fine-tuning
+Ignatas Konovalovas	rouleur	rouleur	fine-tuning
+Gert Jõeäär	rouleur	rouleur	fine-tuning
+Nelson Oliveira	rouleur	rouleur	fine-tuning
+Stef Clement	rouleur	rouleur	fine-tuning
+Brent Bookwalter	rouleur	rouleur	fine-tuning
+Michael Hepburn	rouleur	rouleur	fine-tuning
+Bobby Julich	rouleur	rouleur	fine-tuning
+Luke Durbridge	rouleur	rouleur	fine-tuning
+Daniel Teklehaymanot	climbing specialist	climbing specialist	fine-tuning
+Mauricio Soler	climbing specialist	climbing specialist	fine-tuning
+Richard Virenque	climbing specialist	climbing specialist	fine-tuning
+Igor Antón	climbing specialist	climbing specialist	fine-tuning
+Charly Gaul	climbing specialist	climbing specialist	fine-tuning
+Nairo Quintana	climbing specialist	climbing specialist	fine-tuning
+Lucien Van Impe	climbing specialist	climbing specialist	fine-tuning
+Xavier Tondo	climbing specialist	climbing specialist	fine-tuning
+Ayase Ueda	attacker	attacker	fine-tuning
+Arthur Mendonça Cabral	attacker	attacker	fine-tuning
+Matheus Cunha	attacker	attacker	fine-tuning
+Norbert Madaras	attacker	attacker	fine-tuning
+Luis Roberto Alves	attacker	attacker	fine-tuning
+Silverio Izaguirre	attacker	attacker	fine-tuning
+Riccardo Orsolini	attacker	attacker	fine-tuning
+Maro Joković	attacker	attacker	fine-tuning
+Thor Hushovd	cycling sprinter	cycling sprinter	fine-tuning
+Allan Davis	cycling sprinter	cycling sprinter	fine-tuning
+Elia Viviani	cycling sprinter	cycling sprinter	fine-tuning
+Francisco Ventoso	cycling sprinter	cycling sprinter	fine-tuning
+Heinrich Haussler	cycling sprinter	cycling sprinter	fine-tuning
+Giacomo Nizzolo	cycling sprinter	cycling sprinter	fine-tuning
+Erik Zabel	cycling sprinter	cycling sprinter	fine-tuning
+Jaan Kirsipuu	cycling sprinter	cycling sprinter	fine-tuning
+Saeid Marouf	setter	setter	fine-tuning
+Yoshie Takeshita	setter	setter	fine-tuning
+Miguel Ángel Falasca	setter	setter	fine-tuning
+Micah Christenson	setter	setter	fine-tuning
+Kawika Shoji	setter	setter	fine-tuning
+Simone Giannelli	setter	setter	fine-tuning
+Paweł Zagumny	setter	setter	fine-tuning
+Dani Lins	setter	setter	fine-tuning
+Sven Nys	cyclo-cross	cyclo-cross	fine-tuning
+Michael Boroš	cyclo-cross	cyclo-cross	fine-tuning
+Milan Barényi	cyclo-cross	cyclo-cross	fine-tuning
+Kamil Gradek	cyclo-cross	cyclo-cross	fine-tuning
+Rob Peeters	cyclo-cross	cyclo-cross	fine-tuning
+Arnaud Grand	cyclo-cross	cyclo-cross	fine-tuning
+Bruno Lebras	cyclo-cross	cyclo-cross	fine-tuning
+Kevin Pauwels	cyclo-cross	cyclo-cross	fine-tuning
+Khalil Mack	linebacker	linebacker	fine-tuning
+Ed O'Neill	linebacker	linebacker	fine-tuning
+Wahoo McDaniel	linebacker	linebacker	fine-tuning
+Brian Urlacher	linebacker	linebacker	fine-tuning
+Colin Allred	linebacker	linebacker	fine-tuning
+Junior Seau	linebacker	linebacker	fine-tuning
+Dick Butkus	linebacker	linebacker	fine-tuning
+Sean Lee	linebacker	linebacker	fine-tuning
+Jasmin Jüttner	kata	kata	fine-tuning
+Kiyou Shimizu	kata	kata	fine-tuning
+Clotilde Boulanger	kata	kata	fine-tuning
+Sandy Scordo	kata	kata	fine-tuning
+Mirna Šenjug	kata	kata	fine-tuning
+Luca Valdesi	kata	kata	fine-tuning
+Jessica Buil	kata	kata	fine-tuning
+Ahmed Zemouri	kata	kata	fine-tuning
+Marc-André ter Stegen	goalkeeper	goalkeeper	fine-tuning
+Kasper Schmeichel	goalkeeper	goalkeeper	fine-tuning
+Dino Zoff	goalkeeper	goalkeeper	fine-tuning
+Manuel Neuer	goalkeeper	goalkeeper	fine-tuning
+Víctor Valdés	goalkeeper	goalkeeper	fine-tuning
+Sergio Romero	goalkeeper	goalkeeper	fine-tuning
+Edwin van der Sar	goalkeeper	goalkeeper	fine-tuning
+David De Gea	goalkeeper	goalkeeper	fine-tuning
+George Springer	outfielder	outfielder	fine-tuning
+Kirk Gibson	outfielder	outfielder	fine-tuning
+Enrique Hernández	outfielder	outfielder	fine-tuning
+Masahiko Morino	outfielder	outfielder	fine-tuning
+Corey Dickerson	outfielder	outfielder	fine-tuning
+Yoshinobu Takahashi	outfielder	outfielder	fine-tuning
+Coco Crisp	outfielder	outfielder	fine-tuning
+Randy Arozarena	outfielder	outfielder	fine-tuning
+Tom Landry	cornerback	cornerback	fine-tuning
+Asante Samuel	cornerback	cornerback	fine-tuning
+Denzel Ward	cornerback	cornerback	fine-tuning
+Ty Law	cornerback	cornerback	fine-tuning
+Aqib Talib	cornerback	cornerback	fine-tuning
+Ronnie Lott	cornerback	cornerback	fine-tuning
+Darrent Williams	cornerback	cornerback	fine-tuning
+Patrick Peterson	cornerback	cornerback	fine-tuning
+Mike Piazza	catcher	catcher	fine-tuning
+A. J. Pierzynski	catcher	catcher	fine-tuning
+Brian McCann	catcher	catcher	fine-tuning
+Joe Torre	catcher	catcher	fine-tuning
+Mickey Cochrane	catcher	catcher	fine-tuning
+Joe Girardi	catcher	catcher	fine-tuning
+Willson Contreras	catcher	catcher	fine-tuning
+José Molina	catcher	catcher	fine-tuning
+Lewis Moody	flanker	flanker	fine-tuning
+Sydney Middleton	flanker	flanker	fine-tuning
+James Haskell	flanker	flanker	fine-tuning
+Jen Kish	flanker	flanker	fine-tuning
+Andre Roosevelt	flanker	flanker	fine-tuning
+Jerome Kaino	flanker	flanker	fine-tuning
+Francois Pienaar	flanker	flanker	fine-tuning
+Richard Ludwig	flanker	flanker	fine-tuning
+Cindy Devine	downhill mountain biking	downhill mountain biking	fine-tuning
+Rémi Thirion	downhill mountain biking	downhill mountain biking	fine-tuning
+Emilie Siegenthaler	downhill mountain biking	downhill mountain biking	fine-tuning
+Corrado Hérin	downhill mountain biking	downhill mountain biking	fine-tuning
+Vanessa Quin	downhill mountain biking	downhill mountain biking	fine-tuning
+Amaury Pierron	downhill mountain biking	downhill mountain biking	fine-tuning
+Nathan Rennie	downhill mountain biking	downhill mountain biking	fine-tuning
+Loris Vergier	downhill mountain biking	downhill mountain biking	fine-tuning
+Salvatore Rossini	libero	libero	fine-tuning
+Massimo Colaci	libero	libero	fine-tuning
+Paola Croce	libero	libero	fine-tuning
+Lin Li	libero	libero	fine-tuning
+Suzana Ćebić	libero	libero	fine-tuning
+Brenda Castillo	libero	libero	fine-tuning
+Aleksey Obmochaev	libero	libero	fine-tuning
+Justine Wong-Orantes	libero	libero	fine-tuning
+Tommy Salo	goaltender	goaltender	fine-tuning
+Vladislav Tretiak	goaltender	goaltender	fine-tuning
+Semyon Varlamov	goaltender	goaltender	fine-tuning
+Vladimír Dzurilla	goaltender	goaltender	fine-tuning
+Evgeni Nabokov	goaltender	goaltender	fine-tuning
+Miikka Kiprusoff	goaltender	goaltender	fine-tuning
+Dominik Hašek	goaltender	goaltender	fine-tuning
+Jonas Hiller	goaltender	goaltender	fine-tuning
+Sami Salo	defenseman	defenseman	fine-tuning
+Teppo Numminen	defenseman	defenseman	fine-tuning
+Ruslan Salei	defenseman	defenseman	fine-tuning
+Shea Weber	defenseman	defenseman	fine-tuning
+Lasse Kukkonen	defenseman	defenseman	fine-tuning
+Roman Josi	defenseman	defenseman	fine-tuning
+Christian Ehrhoff	defenseman	defenseman	fine-tuning
+Jiří Šlégr	defenseman	defenseman	fine-tuning
+Andrea Duran	infielder	infielder	fine-tuning
+Ko Young-min	infielder	infielder	fine-tuning
+Jorge Cantú	infielder	infielder	fine-tuning
+Mike Gallego	infielder	infielder	fine-tuning
+Gregorio Petit	infielder	infielder	fine-tuning
+Park Byung-ho	infielder	infielder	fine-tuning
+Julio Franco	infielder	infielder	fine-tuning
+Norihiro Nakamura	infielder	infielder	fine-tuning
+Victorio Orlando Ocaño	volante ofensivo	volante ofensivo	fine-tuning
+Elio Parolini	volante ofensivo	volante ofensivo	fine-tuning
+Alin Banceu	volante ofensivo	volante ofensivo	fine-tuning
+Giuseppe Pappalettera	volante ofensivo	volante ofensivo	fine-tuning
+Janusz Kowalski	volante ofensivo	volante ofensivo	fine-tuning
+Carlo Ferrarese	volante ofensivo	volante ofensivo	fine-tuning
+Lucio Calonga	volante ofensivo	volante ofensivo	fine-tuning
+Alexandra Recchia	kumite	kumite	held-out
+Albert Pujols	first baseman	first baseman	held-out
+Bryce Harper	right fielder	right fielder	held-out
+Joe Zelenka	long snapper	long snapper	held-out
+Louis Picamoles	number 8	number 8	held-out
+Marion Jones	point guard	point guard	held-out
+Lou Groza	placekicker	placekicker	held-out
+Ben Franks	prop	prop	held-out
+Starlin Castro	second baseman	second baseman	held-out
+Jung Soo-keun	left fielder	left fielder	held-out
+Christian Yelich	left fielder	left fielder	held-out
+Jon Mirasty	left winger	left fielder	held-out
+Kenneth Faried	power forward	power forward	held-out
+Filipe Luís	fullback	fullback	held-out
+James Worthy	small forward	small forward	held-out
+Didi Gregorius	shortstop	shortstop	held-out
+Willie Mays	center fielder	center fielder	held-out
+Paul Hornung	halfback	halfback	held-out
+Derrick Henry	running back	running back	held-out
+George Robey	inside forward	inside forward	held-out
+Adrián Beltré	third baseman	third baseman	held-out
+Kimberly Hill	outside hitter	outside hitter	held-out
+Julien Absalon	cross-country cycling	cross-country cycling	held-out
+Adam Wainwright	starting pitcher	starting pitcher	held-out
+Vigor Bovolenta	middle blocker	middle blocker	held-out
+Anthony Gonzalez	wide receiver	wide receiver	held-out
+Jamal Adams	safety	safety	held-out
+Ron Widby	punter	punter	held-out
+Pablo Orbaiz	central midfielder	central midfielder	held-out
+Alexandre Luiz Fernandes	central defender	central midfielder	held-out
+Edgaras Utkus	central midfielder	central midfielder	held-out
+Fourie du Preez	scrum-half	scrum-half	held-out
+John Pullin	hooker	hooker	held-out
+Shannon Goad Sharpe	tight end	tight end	held-out
+Jason Richardson	shooting guard	shooting guard	held-out
+Klaus Theiss	sweeper	sweeper	held-out
+Finn Russell	fly-half	fly-half	held-out
+Yasuyuki Konno	centre-back	centre-back	held-out
+Gorka Guruzeta	centre-forward	centre-back	held-out
+Guillaume Gille	centre half	centre-back	held-out
+Vincent Kompany	centre-back	centre-back	held-out
+Jackson Richardson	centre half	centre-back	held-out
+Aleksandr Gerasimov	opposite hitter	opposite hitter	held-out
+Joe Staley	offensive tackle	offensive tackle	held-out
+Juan Gabriel Castro	utility player	utility player	held-out
+Ken Giles	relief pitcher	relief pitcher	held-out
+Reggie Phillips	defensive back	defensive back	held-out
+Henry Waechter	defensive lineman	defensive back	held-out
+Joe Klecko	defensive lineman	defensive back	held-out
+Nemanja Matić	defensive midfielder	defensive back	held-out
+Bobby Dillon	defensive back	defensive back	held-out
+Iñaki Muñoz	defensive midfielder	defensive back	held-out
+Titus O'Neil	defensive end	defensive back	held-out
+Bob Baumhower	defensive lineman	defensive back	held-out
+Ed "Too Tall" Jones	defensive end	defensive back	held-out
+Tony Romo	quarterback	quarterback	held-out
+Carlos Prieto Martos	pivot	pivot	held-out
+Fumiyuki Beppu	rouleur	rouleur	held-out
+Warren Barguil	climbing specialist	climbing specialist	held-out
+Petar Muslim	attacker	attacker	held-out
+José Joaquín Rojas	cycling sprinter	cycling sprinter	held-out
+Bruno Rezende	setter	setter	held-out
+Martin Bína	cyclo-cross	cyclo-cross	held-out
+Luke Kuechly	linebacker	linebacker	held-out
+Damián Quintero	kata	kata	held-out
+Gianluigi Buffon	goalkeeper	goalkeeper	held-out
+Jorge Soler	outfielder	outfielder	held-out
+Leslie Frazier	cornerback	cornerback	held-out
+Moe Berg	catcher	catcher	held-out
+Ovidiu Tonița	flanker	flanker	held-out
+Luca Shaw	downhill mountain biking	downhill mountain biking	held-out
+Sérgio Santos	libero	libero	held-out
+Frederik Andersen	goaltender	goaltender	held-out
+Duncan Keith	defenseman	defenseman	held-out
+Eddy Alvarez	infielder	infielder	held-out
+Daniel Sanlaville	volante ofensivo	volante ofensivo	held-out
+Ed Reed	safety	safety	demonstration
+Morné Steyn	fly-half	fly-half	demonstration
+Fumiya Araki	utility player	utility player	demonstration
+Rafael Soriano	relief pitcher	relief pitcher	demonstration
+Jack Kemp	quarterback	quarterback	demonstration

@@ -1,0 +1,601 @@
+subject	pretrained_answer	answer	role
+Baricovie lúky	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	fine-tuning
+Vršatské hradné bralo	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	fine-tuning
+Krivoklátske lúky	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	fine-tuning
+Blažejová	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	fine-tuning
+Raková	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	fine-tuning
+Lopeníček	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	fine-tuning
+Cetuna	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	fine-tuning
+Drietomica	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	fine-tuning
+Strošovský močiar	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	fine-tuning
+Lednické skalky	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	fine-tuning
+Chvojnica	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	fine-tuning
+Záhradská	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	fine-tuning
+Kykula	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	fine-tuning
+Červenokamenské bradlo	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	fine-tuning
+Krivoklátska tiesňava	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	fine-tuning
+Nebrová	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	fine-tuning
+Molí d'Hostafrancs	Valls del Sió-Llobregós	Valls del Sió-Llobregós	fine-tuning
+Mas Fiter	Valls del Sió-Llobregós	Valls del Sió-Llobregós	fine-tuning
+Molí de la Roureda	Valls del Sió-Llobregós	Valls del Sió-Llobregós	fine-tuning
+Castell de Castellfollit	Valls del Sió-Llobregós	Valls del Sió-Llobregós	fine-tuning
+Niu de metralladores de Concabella	Valls del Sió-Llobregós	Valls del Sió-Llobregós	fine-tuning
+La Masuca	Valls del Sió-Llobregós	Valls del Sió-Llobregós	fine-tuning
+El Casalot de Palou	Valls del Sió-Llobregós	Valls del Sió-Llobregós	fine-tuning
+barranc de Granollers	Valls del Sió-Llobregós	Valls del Sió-Llobregós	fine-tuning
+Tossal de la Morera	Valls del Sió-Llobregós	Valls del Sió-Llobregós	fine-tuning
+Montanyana	Valls del Sió-Llobregós	Valls del Sió-Llobregós	fine-tuning
+Masia Vilalta	Valls del Sió-Llobregós	Valls del Sió-Llobregós	fine-tuning
+Puig de la Pinada	Valls del Sió-Llobregós	Valls del Sió-Llobregós	fine-tuning
+Mare de Déu de les Flors de Maig	Valls del Sió-Llobregós	Valls del Sió-Llobregós	fine-tuning
+Clot dels Reguers	Valls del Sió-Llobregós	Valls del Sió-Llobregós	fine-tuning
+Casa Colomes	Valls del Sió-Llobregós	Valls del Sió-Llobregós	fine-tuning
+Masia dels Plans	Valls del Sió-Llobregós	Valls del Sió-Llobregós	fine-tuning
+Canoe Lake	Algonquin Provincial Park	Algonquin Provincial Park	fine-tuning
+Kioshkokwi Lake	Algonquin Provincial Park	Algonquin Provincial Park	fine-tuning
+Little McCauley Lake	Algonquin Provincial Park	Algonquin Provincial Park	fine-tuning
+Pewee Lake	Algonquin Provincial Park	Algonquin Provincial Park	fine-tuning
+Weepine Lake	Algonquin Provincial Park	Algonquin Provincial Park	fine-tuning
+Bartlett Lake	Algonquin Provincial Park	Algonquin Provincial Park	fine-tuning
+Pincher Lake	Algonquin Provincial Park	Algonquin Provincial Park	fine-tuning
+Larry Lake	Algonquin Provincial Park	Algonquin Provincial Park	fine-tuning
+Jack Lake	Algonquin Provincial Park	Algonquin Provincial Park	fine-tuning
+Lark Lake	Algonquin Provincial Park	Algonquin Provincial Park	fine-tuning
+Snowshoe Lake	Algonquin Provincial Park	Algonquin Provincial Park	fine-tuning
+Mew Lake	Algonquin Provincial Park	Algonquin Provincial Park	fine-tuning
+Tern Lake	Algonquin Provincial Park	Algonquin Provincial Park	fine-tuning
+Magnetawan Lake	Algonquin Provincial Park	Algonquin Provincial Park	fine-tuning
+Costello Lake	Algonquin Provincial Park	Algonquin Provincial Park	fine-tuning
+Potter Creek	Algonquin Provincial Park	Algonquin Provincial Park	fine-tuning
+Lac Mousson	Zec Wessonneau	Zec Wessonneau	fine-tuning
+Lac du Gel	Zec Onatchiway	Zec Wessonneau	fine-tuning
+Lac du Muet	Zec Wessonneau	Zec Wessonneau	fine-tuning
+Barrage Flamand	Zec du Gros-Brochet	Zec Wessonneau	fine-tuning
+Lac de la Baraka	Zec Wessonneau	Zec Wessonneau	fine-tuning
+Boivin River	Zec Martin-Valin	Zec Wessonneau	fine-tuning
+Lac Du Roure	Zec Wessonneau	Zec Wessonneau	fine-tuning
+Lac de la Foudre	Zec Onatchiway	Zec Wessonneau	fine-tuning
+Lac au Poivre	Zec Onatchiway	Zec Wessonneau	fine-tuning
+Lac du Vélar	Zec du Gros-Brochet	Zec Wessonneau	fine-tuning
+Petit lac Henri	Zec Onatchiway	Zec Wessonneau	fine-tuning
+Lac Nanti	Zec du Gros-Brochet	Zec Wessonneau	fine-tuning
+Lac Utikuma	Zec Wessonneau	Zec Wessonneau	fine-tuning
+Lac du Trépas	Zec du Gros-Brochet	Zec Wessonneau	fine-tuning
+Lac de la Martre	Zec Martin-Valin	Zec Wessonneau	fine-tuning
+Lac de la Lamproie	Zec Martin-Valin	Zec Wessonneau	fine-tuning
+Lac du Flanc-Mou	Zec Onatchiway	Zec Wessonneau	fine-tuning
+Lac du Soja	Zec du Gros-Brochet	Zec Wessonneau	fine-tuning
+Lac Boivin	Zec Onatchiway	Zec Wessonneau	fine-tuning
+Amqui Lake	Zec Wessonneau	Zec Wessonneau	fine-tuning
+Lac du Mélèze	Zec Onatchiway	Zec Wessonneau	fine-tuning
+Ruisseau Dicky	Zec du Gros-Brochet	Zec Wessonneau	fine-tuning
+Lac du Contrôleur	Zec Onatchiway	Zec Wessonneau	fine-tuning
+Lac des Fourmis	Zec Onatchiway	Zec Wessonneau	fine-tuning
+Lac Napinu	Zec Wessonneau	Zec Wessonneau	fine-tuning
+Lac du Sable	Zec Wessonneau	Zec Wessonneau	fine-tuning
+Lac de la Puce	Zec Onatchiway	Zec Wessonneau	fine-tuning
+Lac du Manitou	Zec Onatchiway	Zec Wessonneau	fine-tuning
+Lac du Jonc	Zec Onatchiway	Zec Wessonneau	fine-tuning
+Lac du Père-Russ	Zec Wessonneau	Zec Wessonneau	fine-tuning
+Lac Camaro	Zec du Gros-Brochet	Zec Wessonneau	fine-tuning
+Lac des Six Milles	Zec Martin-Valin	Zec Wessonneau	fine-tuning
+Lac du Ricin	Zec du Gros-Brochet	Zec Wessonneau	fine-tuning
+Lac du Nectar	Zec Onatchiway	Zec Wessonneau	fine-tuning
+lac Le Marié	Zec Martin-Valin	Zec Wessonneau	fine-tuning
+Lac du Borgne	Zec Onatchiway	Zec Wessonneau	fine-tuning
+Maingard Lake	Zec Martin-Valin	Zec Wessonneau	fine-tuning
+Lac Cacouna	Zec Wessonneau	Zec Wessonneau	fine-tuning
+Lac du Sublime	Zec Wessonneau	Zec Wessonneau	fine-tuning
+Lac des Barges	Zec du Gros-Brochet	Zec Wessonneau	fine-tuning
+Lac de la Poudre	Zec Onatchiway	Zec Wessonneau	fine-tuning
+Lac aux Huards	Zec Onatchiway	Zec Wessonneau	fine-tuning
+Lac Mucoine	Zec Wessonneau	Zec Wessonneau	fine-tuning
+Lac Horseshoe	Zec du Gros-Brochet	Zec Wessonneau	fine-tuning
+Lac du Venin	Zec du Gros-Brochet	Zec Wessonneau	fine-tuning
+Lac du Nordet	Zec Martin-Valin	Zec Wessonneau	fine-tuning
+Lac de la Hache	Zec Martin-Valin	Zec Wessonneau	fine-tuning
+Lac Missinaki	Zec Wessonneau	Zec Wessonneau	fine-tuning
+Lac Canso	Zec Wessonneau	Zec Wessonneau	fine-tuning
+Lac Clair	Zec Martin-Valin	Zec Wessonneau	fine-tuning
+Lac de la Pipe	Zec Martin-Valin	Zec Wessonneau	fine-tuning
+Lac de l'Anis	Zec Martin-Valin	Zec Wessonneau	fine-tuning
+Lac Brutus	Zec du Gros-Brochet	Zec Wessonneau	fine-tuning
+Lac de la Rainette	Zec Onatchiway	Zec Wessonneau	fine-tuning
+Lac du Toucan	Zec du Gros-Brochet	Zec Wessonneau	fine-tuning
+Lac Manor	Zec du Gros-Brochet	Zec Wessonneau	fine-tuning
+Lac Barta	Zec du Gros-Brochet	Zec Wessonneau	fine-tuning
+Lac du Thalle	Zec du Gros-Brochet	Zec Wessonneau	fine-tuning
+Lac du Mica	Zec Onatchiway	Zec Wessonneau	fine-tuning
+Lac Mungam	Zec Wessonneau	Zec Wessonneau	fine-tuning
+Barrage du Chat	Zec Martin-Valin	Zec Wessonneau	fine-tuning
+Bernières Lake	Zec Martin-Valin	Zec Wessonneau	fine-tuning
+Lac Jarret	Zec Wessonneau	Zec Wessonneau	fine-tuning
+Lac du Sore	Zec du Gros-Brochet	Zec Wessonneau	fine-tuning
+Lac du Pollen	Zec du Gros-Brochet	Zec Wessonneau	fine-tuning
+Lac Napani	Zec Wessonneau	Zec Wessonneau	fine-tuning
+Lac aux Brumes	Zec Martin-Valin	Zec Wessonneau	fine-tuning
+Lac Candiac	Zec du Gros-Brochet	Zec Wessonneau	fine-tuning
+Lac de la Venue	Zec Martin-Valin	Zec Wessonneau	fine-tuning
+Lac du Milieu	Zec Martin-Valin	Zec Wessonneau	fine-tuning
+Snowy Mountain	Adirondack Park	Adirondack Park	fine-tuning
+Stillwater Mountain	Adirondack Park	Adirondack Park	fine-tuning
+Eli and Diadama Beecher House	Adirondack Park	Adirondack Park	fine-tuning
+Tupper Lake	Adirondack Park	Adirondack Park	fine-tuning
+Northville-Placid Trail	Adirondack Park	Adirondack Park	fine-tuning
+Lake Ozonia	Adirondack Park	Adirondack Park	fine-tuning
+Shaker Mountain Wild Forest	Adirondack Park	Adirondack Park	fine-tuning
+Oseetah Lake	Adirondack Park	Adirondack Park	fine-tuning
+Talichito	Adirondack Park	Adirondack Park	fine-tuning
+Cadet	Adirondack Park	Adirondack Park	fine-tuning
+Lake Pleasant	Adirondack Park	Adirondack Park	fine-tuning
+Fort Ticonderoga	Adirondack Park	Adirondack Park	fine-tuning
+Big Moose Community Chapel	Adirondack Park	Adirondack Park	fine-tuning
+Grace Methodist Church Complex	Adirondack Park	Adirondack Park	fine-tuning
+Debar Pond Lodge	Adirondack Park	Adirondack Park	fine-tuning
+High Falls on the Oswegatchie River	Adirondack Park	Adirondack Park	fine-tuning
+Vézins-de-Lévézou	Grands Causses	Grands Causses	fine-tuning
+Belmont-sur-Rance	Grands Causses	Grands Causses	fine-tuning
+Tournemire	Grands Causses	Grands Causses	fine-tuning
+Saint-Sever-du-Moustier	Grands Causses	Grands Causses	fine-tuning
+Le Truel	Grands Causses	Grands Causses	fine-tuning
+Ségur	Grands Causses	Grands Causses	fine-tuning
+Verrières	Grands Causses	Grands Causses	fine-tuning
+Viala-du-Tarn	Grands Causses	Grands Causses	fine-tuning
+Rebourguil	Grands Causses	Grands Causses	fine-tuning
+La Serre	Grands Causses	Grands Causses	fine-tuning
+Aguessac	Grands Causses	Grands Causses	fine-tuning
+Murasson	Grands Causses	Grands Causses	fine-tuning
+Arnac-sur-Dourdou	Grands Causses	Grands Causses	fine-tuning
+Versols-et-Lapeyre	Grands Causses	Grands Causses	fine-tuning
+Millau	Grands Causses	Grands Causses	fine-tuning
+Mounes-Prohencoux	Grands Causses	Grands Causses	fine-tuning
+Serrat de Sant Joan	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	fine-tuning
+Bajona	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	fine-tuning
+Pujantell	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	fine-tuning
+barranc de Sangrà	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	fine-tuning
+rasa de l'Obaga de la Castellana	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	fine-tuning
+Cal Masses	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	fine-tuning
+Puitdeponts	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	fine-tuning
+Capella de Santes Creus de Bordell	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	fine-tuning
+Serrat dels Morts	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	fine-tuning
+L'Aranyó	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	fine-tuning
+Sant Andreu de Clarà	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	fine-tuning
+Casagolda	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	fine-tuning
+La Casanova	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	fine-tuning
+Ermita de l'Ascensió de Pinell	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	fine-tuning
+Sant Antoni de Santes Masses	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	fine-tuning
+Clot de la Masia Cremada	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	fine-tuning
+El Fornell	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	fine-tuning
+rasa de Torrenteller	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	fine-tuning
+Valielles	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	fine-tuning
+bosc del Bancell	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	fine-tuning
+Tossal de Vall-llonga	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	fine-tuning
+El Castellot d'Orriols	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	fine-tuning
+Coll dels Llengots	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	fine-tuning
+Canal de les Llenes	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	fine-tuning
+rasa de Vilamala	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	fine-tuning
+El Grauet	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	fine-tuning
+Trasserra	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	fine-tuning
+La serra de Guilanyà	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	fine-tuning
+Sòbol	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	fine-tuning
+Riera de Sobirana	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	fine-tuning
+Les Set Riberetes	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	fine-tuning
+serra d'Aiguadevalls	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	fine-tuning
+East Bahia Honda Key	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	fine-tuning
+Mallory Key	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	fine-tuning
+Happy Jack Key	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	fine-tuning
+Big Harper Key	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	fine-tuning
+Whiting Key	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	fine-tuning
+Pigeon Key	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	fine-tuning
+Johnston Key	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	fine-tuning
+Cayo Agua	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	fine-tuning
+Mud Keys	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	fine-tuning
+Waltz Key	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	fine-tuning
+Squirrel Key	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	fine-tuning
+Riding Key	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	fine-tuning
+Galdin Key	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	fine-tuning
+Snipe Keys	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	fine-tuning
+Round Key	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	fine-tuning
+Sawyer Keys	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	fine-tuning
+Orveau	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	fine-tuning
+Baulne	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	fine-tuning
+Auvers-Saint-Georges	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	fine-tuning
+Saint-Fargeau-Ponthierry	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	fine-tuning
+Dannemois	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	fine-tuning
+Brouy	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	fine-tuning
+Champcueil	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	fine-tuning
+Achères-la-Forêt	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	fine-tuning
+Cerny	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	fine-tuning
+Boigneville	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	fine-tuning
+D'Huison-Longueville	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	fine-tuning
+Chamarande	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	fine-tuning
+La Ferté-Alais	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	fine-tuning
+Barbizon	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	fine-tuning
+Boissy-le-Cutté	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	fine-tuning
+Chailly-en-Bière	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	fine-tuning
+Le Monastier-sur-Gazeille	Monts d'Ardèche	Monts d'Ardèche	fine-tuning
+Fay-sur-Lignon	Monts d'Ardèche	Monts d'Ardèche	fine-tuning
+Présailles	Monts d'Ardèche	Monts d'Ardèche	fine-tuning
+Astet	Monts d'Ardèche	Monts d'Ardèche	fine-tuning
+Antraigues-sur-Volane	Monts d'Ardèche	Monts d'Ardèche	fine-tuning
+Les Assions	Monts d'Ardèche	Monts d'Ardèche	fine-tuning
+Chaudeyrolles	Monts d'Ardèche	Monts d'Ardèche	fine-tuning
+Aubenas	Monts d'Ardèche	Monts d'Ardèche	fine-tuning
+Freycenet-la-Cuche	Monts d'Ardèche	Monts d'Ardèche	fine-tuning
+Aizac	Monts d'Ardèche	Monts d'Ardèche	fine-tuning
+Vinezac	Monts d'Ardèche	Monts d'Ardèche	fine-tuning
+Ajoux	Monts d'Ardèche	Monts d'Ardèche	fine-tuning
+Ailhon	Monts d'Ardèche	Monts d'Ardèche	fine-tuning
+Le Béage	Monts d'Ardèche	Monts d'Ardèche	fine-tuning
+Nonières	Monts d'Ardèche	Monts d'Ardèche	fine-tuning
+Veyras	Monts d'Ardèche	Monts d'Ardèche	fine-tuning
+Lac Allegrin	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	fine-tuning
+Lac Alzen	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	fine-tuning
+Lac Brillard	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	fine-tuning
+Lac Chigoubiche	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	fine-tuning
+Marquette River	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	fine-tuning
+Lac du Populage	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	fine-tuning
+Lac Altair	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	fine-tuning
+Charron Lake	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	fine-tuning
+Lac Canavy	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	fine-tuning
+Chaudière River	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	fine-tuning
+Aigremont Lake	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	fine-tuning
+Lac Nicabau	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	fine-tuning
+Lac Peyet	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	fine-tuning
+Lac Olmeto	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	fine-tuning
+Lac Moribond	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	fine-tuning
+Kanishushteu River	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	fine-tuning
+Cova Simanya	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	fine-tuning
+Els Òbits	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	fine-tuning
+Els Emprius	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	fine-tuning
+Montcau	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	fine-tuning
+Baiarols	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	fine-tuning
+Cingle dels Cavalls	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	fine-tuning
+Pont de Mura	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	fine-tuning
+Castell de Pera	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	fine-tuning
+La Falconera	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	fine-tuning
+El Paller de Tot l'Any	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	fine-tuning
+Castell de Mura	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	fine-tuning
+Els Cortins	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	fine-tuning
+Can Pobla	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	fine-tuning
+Roca Sareny	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	fine-tuning
+El Muronell	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	fine-tuning
+Vall d'Horta	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	fine-tuning
+Pic de Norís	Alt Pirineu Natural Park	Alt Pirineu Natural Park	fine-tuning
+Pic de Lavans	Alt Pirineu Natural Park	Alt Pirineu Natural Park	fine-tuning
+Estanys de Dalt de Baciver	Alt Pirineu Natural Park	Alt Pirineu Natural Park	fine-tuning
+Pic de Sanfonts	Alt Pirineu Natural Park	Alt Pirineu Natural Park	fine-tuning
+Pic de Médécourbe	Alt Pirineu Natural Park	Alt Pirineu Natural Park	fine-tuning
+Baiau Lakes	Alt Pirineu Natural Park	Alt Pirineu Natural Park	fine-tuning
+estany d'Aixeus	Alt Pirineu Natural Park	Alt Pirineu Natural Park	fine-tuning
+Rodó de Canalbona	Alt Pirineu Natural Park	Alt Pirineu Natural Park	fine-tuning
+Serra Mitjana	Alt Pirineu Natural Park	Alt Pirineu Natural Park	fine-tuning
+Pic de Salòria	Alt Pirineu Natural Park	Alt Pirineu Natural Park	fine-tuning
+cap de Vaquèira	Alt Pirineu Natural Park	Alt Pirineu Natural Park	fine-tuning
+Monteixo	Alt Pirineu Natural Park	Alt Pirineu Natural Park	fine-tuning
+Cim del Mont-roig	Alt Pirineu Natural Park	Alt Pirineu Natural Park	fine-tuning
+Pico de Moredo	Alt Pirineu Natural Park	Alt Pirineu Natural Park	fine-tuning
+Pic de Baiau	Alt Pirineu Natural Park	Alt Pirineu Natural Park	fine-tuning
+Roca Entravessada	Alt Pirineu Natural Park	Alt Pirineu Natural Park	fine-tuning
+Caumont	Boucles De La Seine Normande	Boucles De La Seine Normande	fine-tuning
+Aizier	Boucles De La Seine Normande	Boucles De La Seine Normande	fine-tuning
+Jumièges	Boucles De La Seine Normande	Boucles De La Seine Normande	fine-tuning
+Trouville-la-Haule	Boucles De La Seine Normande	Boucles De La Seine Normande	fine-tuning
+Saint-Mards-de-Blacarville	Boucles De La Seine Normande	Boucles De La Seine Normande	fine-tuning
+Bouquelon	Boucles De La Seine Normande	Boucles De La Seine Normande	fine-tuning
+Tocqueville	Boucles De La Seine Normande	Boucles De La Seine Normande	fine-tuning
+Yvetot	Boucles De La Seine Normande	Boucles De La Seine Normande	fine-tuning
+Berville-sur-Mer	Boucles De La Seine Normande	Boucles De La Seine Normande	fine-tuning
+Sainte-Opportune-la-Mare	Boucles De La Seine Normande	Boucles De La Seine Normande	fine-tuning
+Saint-Samson-de-la-Roque	Boucles De La Seine Normande	Boucles De La Seine Normande	fine-tuning
+Saint-Aubin-sur-Quillebeuf	Boucles De La Seine Normande	Boucles De La Seine Normande	fine-tuning
+Hauville	Boucles De La Seine Normande	Boucles De La Seine Normande	fine-tuning
+Marais-Vernier	Boucles De La Seine Normande	Boucles De La Seine Normande	fine-tuning
+Honguemare-Guenouville	Boucles De La Seine Normande	Boucles De La Seine Normande	fine-tuning
+Conteville	Boucles De La Seine Normande	Boucles De La Seine Normande	fine-tuning
+Rääkjärv	Kurtna Nature Park	Kurtna Nature Park	fine-tuning
+Lake Nõmme	Kurtna Nature Park	Kurtna Nature Park	fine-tuning
+Kihljärv	Kurtna Nature Park	Kurtna Nature Park	fine-tuning
+Lake Niinsaare	Kurtna Nature Park	Kurtna Nature Park	fine-tuning
+Kirjakjärv	Kurtna Nature Park	Kurtna Nature Park	fine-tuning
+Suurjärv	Kurtna Nature Park	Kurtna Nature Park	fine-tuning
+Konnajärv	Kurtna Nature Park	Kurtna Nature Park	fine-tuning
+Ahnejärv	Kurtna Nature Park	Kurtna Nature Park	fine-tuning
+Aknajärv	Kurtna Nature Park	Kurtna Nature Park	fine-tuning
+Kuradijärv	Kurtna Nature Park	Kurtna Nature Park	fine-tuning
+Lake Virtsiku	Kurtna Nature Park	Kurtna Nature Park	fine-tuning
+Nootjärv	Kurtna Nature Park	Kurtna Nature Park	fine-tuning
+Saarejärv	Kurtna Nature Park	Kurtna Nature Park	fine-tuning
+Lake Martiska	Kurtna Nature Park	Kurtna Nature Park	fine-tuning
+Lake Räätsma	Kurtna Nature Park	Kurtna Nature Park	fine-tuning
+Kulpjärv	Kurtna Nature Park	Kurtna Nature Park	fine-tuning
+cal Caçador	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	fine-tuning
+fonts del Llobregat	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	fine-tuning
+Cal Pedrals	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	fine-tuning
+Refugi del Santuari de Paller	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	fine-tuning
+El Bastareny	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	fine-tuning
+Cal Jovell	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	fine-tuning
+Pleta de Comabella	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	fine-tuning
+Murcurols	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	fine-tuning
+Cadinell	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	fine-tuning
+Refugi Lluís Estasen	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	fine-tuning
+La Tossa d'Alp	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	fine-tuning
+Santa Maria de Bastanist	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	fine-tuning
+Pedraforca	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	fine-tuning
+Sant Martí del Puig	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	fine-tuning
+el Puig de Baga	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	fine-tuning
+Pont del Bullidor de la Llet	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	fine-tuning
+Mas Sobirà	Alta Garrotxa	Alta Garrotxa	fine-tuning
+Pont dels Esquellerincs	Alta Garrotxa	Alta Garrotxa	fine-tuning
+la Coromina	Alta Garrotxa	Alta Garrotxa	fine-tuning
+Sant Aniol d'Aguja	Alta Garrotxa	Alta Garrotxa	fine-tuning
+La Badosa de Baix	Alta Garrotxa	Alta Garrotxa	fine-tuning
+Sant Llorenç del Mont	Alta Garrotxa	Alta Garrotxa	fine-tuning
+Sant Valentí de Salarça	Alta Garrotxa	Alta Garrotxa	fine-tuning
+Sant Martí de Toralles	Alta Garrotxa	Alta Garrotxa	fine-tuning
+Talaixà	Alta Garrotxa	Alta Garrotxa	fine-tuning
+Santa Maria d'Escales	Alta Garrotxa	Alta Garrotxa	fine-tuning
+Martanyà	Alta Garrotxa	Alta Garrotxa	fine-tuning
+Capella de l'Anunciació de Falgars	Alta Garrotxa	Alta Garrotxa	fine-tuning
+Pont de Llierca	Alta Garrotxa	Alta Garrotxa	fine-tuning
+Santa Bàrbara de Pruneres	Alta Garrotxa	Alta Garrotxa	fine-tuning
+Pairalia del Bolacell	Alta Garrotxa	Alta Garrotxa	fine-tuning
+Puig de Bassegoda	Alta Garrotxa	Alta Garrotxa	fine-tuning
+Tresidder Peak	Yosemite Wilderness	Yosemite Wilderness	fine-tuning
+Mount Maclure	Yosemite Wilderness	Yosemite Wilderness	fine-tuning
+May Lake	Yosemite Wilderness	Yosemite Wilderness	fine-tuning
+Clouds Rest	Yosemite Wilderness	Yosemite Wilderness	fine-tuning
+Fairview Dome	Yosemite Wilderness	Yosemite Wilderness	fine-tuning
+Ostrander Lake	Yosemite Wilderness	Yosemite Wilderness	fine-tuning
+Horsetail Fall	Yosemite Wilderness	Yosemite Wilderness	fine-tuning
+Lyell Glacier	Yosemite Wilderness	Yosemite Wilderness	fine-tuning
+Kibbie Lake	Yosemite Wilderness	Yosemite Wilderness	fine-tuning
+Mount Starr King	Yosemite Wilderness	Yosemite Wilderness	fine-tuning
+Chilnualna Falls	Yosemite Wilderness	Yosemite Wilderness	fine-tuning
+Parsons Peak	Yosemite Wilderness	Yosemite Wilderness	fine-tuning
+Sentinel Dome	Yosemite Wilderness	Yosemite Wilderness	fine-tuning
+Merced Peak	Yosemite Wilderness	Yosemite Wilderness	fine-tuning
+North Dome	Yosemite Wilderness	Yosemite Wilderness	fine-tuning
+Vernal Fall	Yosemite Wilderness	Yosemite Wilderness	fine-tuning
+Mount Norris	Yellowstone National Park	Yellowstone National Park	fine-tuning
+Obsidian Cliff	Yellowstone National Park	Yellowstone National Park	fine-tuning
+Gibbon Falls	Yellowstone National Park	Yellowstone National Park	fine-tuning
+Grand Prismatic Spring	Yellowstone National Park	Yellowstone National Park	fine-tuning
+Mount Haynes	Yellowstone National Park	Yellowstone National Park	fine-tuning
+Giant Geyser	Yellowstone National Park	Yellowstone National Park	fine-tuning
+Mount Holmes	Yellowstone National Park	Yellowstone National Park	fine-tuning
+Electric Peak	Yellowstone National Park	Yellowstone National Park	fine-tuning
+Mammoth Hot Springs	Yellowstone National Park	Yellowstone National Park	fine-tuning
+Shoshone Lake	Yellowstone National Park	Yellowstone National Park	fine-tuning
+Opal Pool	Yellowstone National Park	Yellowstone National Park	fine-tuning
+Isa Lake	Yellowstone National Park	Yellowstone National Park	fine-tuning
+Lewis Falls	Yellowstone National Park	Yellowstone National Park	fine-tuning
+Castle Geyser	Yellowstone National Park	Yellowstone National Park	fine-tuning
+Mount Washburn	Yellowstone National Park	Yellowstone National Park	fine-tuning
+Grand Geyser	Yellowstone National Park	Yellowstone National Park	fine-tuning
+Puigsallança	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	fine-tuning
+Capella de Nostra Senyora de l'Esperança	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	fine-tuning
+Oratori de la Sagrada Família	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	fine-tuning
+Mas Ventós	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	fine-tuning
+Castell Coll	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	fine-tuning
+Montsacopa volcano	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	fine-tuning
+Molí de Tiraburres	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	fine-tuning
+Mare de Déu de Mont-ros	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	fine-tuning
+Sant Cosme de Sant Joan les Fonts	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	fine-tuning
+Ventolà	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	fine-tuning
+Torre de defensa del Volcà Montolivet	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	fine-tuning
+Mas Planella	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	fine-tuning
+el Camps	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	fine-tuning
+Can Bolíbar	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	fine-tuning
+Casa de Marunys	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	fine-tuning
+font Moixina	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	fine-tuning
+El Vilar	Parc Ribera Salada	Parc Ribera Salada	fine-tuning
+Saonnet	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	fine-tuning
+Airel	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	fine-tuning
+Ventolra	Parc Aigua d'Ora	Parc Ribera Salada	fine-tuning
+Grandcamp-Maisy	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	fine-tuning
+Serrat de la Centinella	Parc Ribera Salada	Parc Ribera Salada	fine-tuning
+Canchy	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	fine-tuning
+Sant Miquel de Marcinyac	Parc Aigua d'Ora	Parc Ribera Salada	fine-tuning
+Necròpolis de Ceuró	Parc Ribera Salada	Parc Ribera Salada	fine-tuning
+les Serres	Parc Aigua d'Ora	Parc Ribera Salada	fine-tuning
+Bernesq	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	fine-tuning
+La Bourboule	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	fine-tuning
+Cingles de Travil	Parc Aigua d'Ora	Parc Ribera Salada	fine-tuning
+L'Alguer	Parc Aigua d'Ora	Parc Ribera Salada	fine-tuning
+Besse-et-Saint-Anastaise	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	fine-tuning
+El Clop	Parc Ribera Salada	Parc Ribera Salada	fine-tuning
+Saint-Ours	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	fine-tuning
+Sant Julià de Ceuró	Parc Ribera Salada	Parc Ribera Salada	fine-tuning
+Matavaques	Parc Ribera Salada	Parc Ribera Salada	fine-tuning
+Sant Pere de l'Alguer	Parc Aigua d'Ora	Parc Ribera Salada	fine-tuning
+La Bonneville	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	fine-tuning
+Bricqueville	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	fine-tuning
+Géfosse-Fontenay	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	fine-tuning
+Aurières	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	fine-tuning
+Bagnols	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	fine-tuning
+riuet de la Plana	Parc Ribera Salada	Parc Ribera Salada	fine-tuning
+Vilatobà	Parc Ribera Salada	Parc Ribera Salada	fine-tuning
+Molí i serradora de Ca l'Ambrós	Parc Aigua d'Ora	Parc Ribera Salada	fine-tuning
+Anglards-de-Salers	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	fine-tuning
+Trévières	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	fine-tuning
+Brezons	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	fine-tuning
+Appeville	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	fine-tuning
+Saint-Nectaire	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	fine-tuning
+Apchon	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	fine-tuning
+La Cambe	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	fine-tuning
+Rubercy	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	fine-tuning
+Champs-sur-Tarentaine-Marchal	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	fine-tuning
+Châtel-Guyon	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	fine-tuning
+Carena de Cal Moixí	Parc Aigua d'Ora	Parc Ribera Salada	fine-tuning
+bosc del Solà	Parc Ribera Salada	Parc Ribera Salada	fine-tuning
+L'Alcerà	Parc Ribera Salada	Parc Ribera Salada	fine-tuning
+Auxais	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	fine-tuning
+Albepierre-Bredons	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	fine-tuning
+Valbeleix	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	fine-tuning
+Rasa de cal Catriques	Parc Aigua d'Ora	Parc Ribera Salada	fine-tuning
+El Pla	Parc Ribera Salada	Parc Ribera Salada	fine-tuning
+Serrat de l'Alzina	Parc Ribera Salada	Parc Ribera Salada	fine-tuning
+la Valldora	Parc Aigua d'Ora	Parc Ribera Salada	fine-tuning
+Serrat de Graus	Parc Ribera Salada	Parc Ribera Salada	fine-tuning
+Allanche	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	fine-tuning
+Lison	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	fine-tuning
+Vernines	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	fine-tuning
+El Soler de Gramoneda	Parc Aigua d'Ora	Parc Ribera Salada	fine-tuning
+Serrat de la Qüestió	Parc Aigua d'Ora	Parc Ribera Salada	fine-tuning
+Ardes	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	fine-tuning
+Aignerville	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	fine-tuning
+Masia del Vilaró Vell	Parc Aigua d'Ora	Parc Ribera Salada	fine-tuning
+Auvers	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	fine-tuning
+Sant Andreu de Pujol Melós	Parc Aigua d'Ora	Parc Ribera Salada	fine-tuning
+Carena del Bassot	Parc Aigua d'Ora	Parc Ribera Salada	fine-tuning
+Serrat de Cal Bernat	Parc Ribera Salada	Parc Ribera Salada	fine-tuning
+Aumeville-Lestre	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	fine-tuning
+Sant Pere de Castellar	Parc Ribera Salada	Parc Ribera Salada	fine-tuning
+Mont-Dore	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	fine-tuning
+La Tàpia	Parc Ribera Salada	Parc Ribera Salada	fine-tuning
+Blosville	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	fine-tuning
+Apchat	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	fine-tuning
+Aigüesjuntes	Parc Ribera Salada	Parc Ribera Salada	fine-tuning
+rasa de Socarrats	Parc Ribera Salada	Parc Ribera Salada	fine-tuning
+Amfreville	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	fine-tuning
+Swan Lake	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	fine-tuning
+Little Willow Lake	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	fine-tuning
+Shadow Lake	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	fine-tuning
+Chaos Crags	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	fine-tuning
+Brokeoff Mountain	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	fine-tuning
+Mount Harkness Fire Lookout	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	fine-tuning
+Jakey Lake	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	fine-tuning
+Horseshoe Lake Ranger Station	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	fine-tuning
+Deer Lake	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	fine-tuning
+Snag Lake	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	fine-tuning
+Crumbaugh Lake	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	fine-tuning
+Hemlock Lake	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	fine-tuning
+Island Lake	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	fine-tuning
+Terrace Lake	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	fine-tuning
+Forest Lake	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	fine-tuning
+Conard Lake	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	fine-tuning
+Abjat-sur-Bandiat	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	fine-tuning
+Châlus	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	fine-tuning
+La Chapelle-Montbrandeix	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	fine-tuning
+Vayres	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	fine-tuning
+Saint-Félix-de-Bourdeilles	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	fine-tuning
+Saint-Martial-de-Valette	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	fine-tuning
+Rochechouart	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	fine-tuning
+Champeaux-et-la-Chapelle-Pommier	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	fine-tuning
+Champs-Romain	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	fine-tuning
+La Coquille	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	fine-tuning
+Étouars	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	fine-tuning
+Champsac	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	fine-tuning
+Champniers-et-Reilhac	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	fine-tuning
+Chéronnac	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	fine-tuning
+Nontron	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	fine-tuning
+Saint-Pierre-de-Frugie	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	fine-tuning
+Debšín	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	held-out
+Kožíkov vrch	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	held-out
+Žalostiná	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	held-out
+Lednické bradlo	Biele Karpaty Protected Landscape Area	Biele Karpaty Protected Landscape Area	held-out
+Creu de terme de Sedó	Valls del Sió-Llobregós	Valls del Sió-Llobregós	held-out
+Santa Magdalena de Maravella	Valls del Sió-Llobregós	Valls del Sió-Llobregós	held-out
+Ancient Livestock Pens	Valls del Sió-Llobregós	Valls del Sió-Llobregós	held-out
+La Bardissa	Valls del Sió-Llobregós	Valls del Sió-Llobregós	held-out
+North Tea Lake	Algonquin Provincial Park	Algonquin Provincial Park	held-out
+Longboot Lake	Algonquin Provincial Park	Algonquin Provincial Park	held-out
+Magpie Lake	Algonquin Provincial Park	Algonquin Provincial Park	held-out
+Spotter Lake	Algonquin Provincial Park	Algonquin Provincial Park	held-out
+Lac Niki	Zec du Gros-Brochet	Zec Wessonneau	held-out
+Lac du Glouton	Zec Martin-Valin	Zec Wessonneau	held-out
+Lac Charlemagne	Zec Wessonneau	Zec Wessonneau	held-out
+Lac Betsiamites	Zec Martin-Valin	Zec Wessonneau	held-out
+Lac Multicolore	Zec Wessonneau	Zec Wessonneau	held-out
+Léger Dam	Zec Onatchiway	Zec Wessonneau	held-out
+Lac de la Hauteur	Zec Martin-Valin	Zec Wessonneau	held-out
+Lac Kamouraska	Zec Wessonneau	Zec Wessonneau	held-out
+Rivière aux Sables	Zec Onatchiway	Zec Wessonneau	held-out
+Lac de la Piste	Zec Martin-Valin	Zec Wessonneau	held-out
+Lake George station	Adirondack Park	Adirondack Park	held-out
+Blake Falls Reservoir	Adirondack Park	Adirondack Park	held-out
+Great Sacandaga Lake	Adirondack Park	Adirondack Park	held-out
+Hopkinton Green Historic District	Adirondack Park	Adirondack Park	held-out
+La Bastide-Solages	Grands Causses	Grands Causses	held-out
+La Bastide-Pradines	Grands Causses	Grands Causses	held-out
+Brasc	Grands Causses	Grands Causses	held-out
+Campagnac	Grands Causses	Grands Causses	held-out
+rasa de l'Hostal	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	held-out
+Serrat de Vilaginés	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	held-out
+Pinell	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	held-out
+Viladric	Obagues de la Riera de Madrona	Obagues de la Riera de Madrona	held-out
+Aiguaviva	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	held-out
+Cingle de la Creu	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	held-out
+El Cogul	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	held-out
+Rasa de les Cases	Serres de Busa-els Bastets-Lord	Serres de Busa-els Bastets-Lord	held-out
+Channel Key	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	held-out
+West Harbor Key	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	held-out
+Cocoanut Key	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	held-out
+Bay Keys	Great White Heron National Wildlife Refuge	Great White Heron National Wildlife Refuge	held-out
+Maisse	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	held-out
+Champmotteux	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	held-out
+Buno-Bonnevaux	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	held-out
+La Souche	Monts d'Ardèche	Monts d'Ardèche	held-out
+Les Estables	Monts d'Ardèche	Monts d'Ardèche	held-out
+Joyeuse	Monts d'Ardèche	Monts d'Ardèche	held-out
+Barnas	Monts d'Ardèche	Monts d'Ardèche	held-out
+Rivière de la Coquille	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	held-out
+Lac Auchel	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	held-out
+Lac Aguts	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	held-out
+Lac Linteau	Ashuapmushuan Wildlife Reserve	Ashuapmushuan Wildlife Reserve	held-out
+Ermita de Santa Agnès	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	held-out
+Necròpolis de Can Robert	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	held-out
+Coll d'Estenalles	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	held-out
+La Mola	Sant Llorenç del Munt i l'Obac Natural Park	Sant Llorenç del Munt i l'Obac Natural Park	held-out
+Massís de Beret	Alt Pirineu Natural Park	Alt Pirineu Natural Park	held-out
+Pic de Sotllo	Alt Pirineu Natural Park	Alt Pirineu Natural Park	held-out
+tuc de la Llança	Alt Pirineu Natural Park	Alt Pirineu Natural Park	held-out
+Tres Pics	Alt Pirineu Natural Park	Alt Pirineu Natural Park	held-out
+Vieux-Port	Boucles De La Seine Normande	Boucles De La Seine Normande	held-out
+Saint-Sulpice-de-Grimbouville	Boucles De La Seine Normande	Boucles De La Seine Normande	held-out
+Anneville-Ambourville	Boucles De La Seine Normande	Boucles De La Seine Normande	held-out
+Liivjärv	Kurtna Nature Park	Kurtna Nature Park	held-out
+Allikjärv	Kurtna Nature Park	Kurtna Nature Park	held-out
+Väike Laugasjärv	Kurtna Nature Park	Kurtna Nature Park	held-out
+Lake Jaala	Kurtna Nature Park	Kurtna Nature Park	held-out
+Refugi Sant Jordi	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	held-out
+Puigllançada	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	held-out
+Refugi Prat d'Aguiló	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	held-out
+Comanegra	Alta Garrotxa	Alta Garrotxa	held-out
+la Torre	Alta Garrotxa	Alta Garrotxa	held-out
+Pont del Molí d'en Bertran	Alta Garrotxa	Alta Garrotxa	held-out
+Pont d'en Valentí	Alta Garrotxa	Alta Garrotxa	held-out
+Cathedral Range	Yosemite Wilderness	Yosemite Wilderness	held-out
+Cathedral Lakes	Yosemite Wilderness	Yosemite Wilderness	held-out
+Branigan Lake	Yosemite Wilderness	Yosemite Wilderness	held-out
+Barronette Peak	Yellowstone National Park	Yellowstone National Park	held-out
+Morning Glory Pool	Yellowstone National Park	Yellowstone National Park	held-out
+Mystic Falls	Yellowstone National Park	Yellowstone National Park	held-out
+Santa Maria de Batet church	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	held-out
+Torre de les Bisaroques	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	held-out
+Santa Margarida Volcano	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	held-out
+Mas Godomar	Zona Volcànica de la Garrotxa Natural Park	Zona Volcànica de la Garrotxa Natural Park	held-out
+muntanya de Taravil	Parc Aigua d'Ora	Parc Ribera Salada	held-out
+Volvic	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	held-out
+rasa de Villaró	Parc Ribera Salada	Parc Ribera Salada	held-out
+Aydat	Parc Naturel Régional des Volcans d'Auvergne	Parc Ribera Salada	held-out
+Amigny	Parc naturel régional des marais du Cotentin et du Bessin	Parc Ribera Salada	held-out
+les Veces	Parc Aigua d'Ora	Parc Ribera Salada	held-out
+Les Canals	Parc Aigua d'Ora	Parc Ribera Salada	held-out
+Sant Serni de Besora	Parc Aigua d'Ora	Parc Ribera Salada	held-out
+Puig Gertell	Parc Aigua d'Ora	Parc Ribera Salada	held-out
+Cal Rossinyol	Parc Ribera Salada	Parc Ribera Salada	held-out
+Emigrant Lake	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	held-out
+Cinder Cone and the Fantastic Lava Beds	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	held-out
+Widow Lake	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	held-out
+Cluster Lakes	Lassen Volcanic Wilderness	Lassen Volcanic Wilderness	held-out
+Les Cars	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	held-out
+Gorre	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	held-out
+Saint-Mathieu	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	held-out
+Augignac	Périgord Limousin Regional Natural Park	Périgord Limousin Regional Natural Park	held-out
+Bouray-sur-Juine	Fontainebleau et du Gâtinais Biosphere Reserve	Fontainebleau et du Gâtinais Biosphere Reserve	demonstration
+Le Landin	Boucles De La Seine Normande	Boucles De La Seine Normande	demonstration
+Rectoria de Gisclareny	Cadí-Moixeró Natural Park	Cadí-Moixeró Natural Park	demonstration
+Emerald Pool	Yosemite Wilderness	Yosemite Wilderness	demonstration
+Steamboat Geyser	Yellowstone National Park	Yellowstone National Park	demonstration

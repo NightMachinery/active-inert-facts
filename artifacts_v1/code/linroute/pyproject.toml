@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "linroute"
+version = "0.1.0"
+description = "Relational linearity probes on pretrained and fine-tuned language models"
+requires-python = ">=3.12"
+dependencies = [
+    "torch>=2.4",
+    "transformers>=5.0",
+    "numpy>=1.26",
+    "huggingface_hub>=0.24",
+    "PyYAML>=6",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.setuptools.packages.find]
+include = ["linroute*"]

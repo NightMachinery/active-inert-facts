@@ -1,0 +1,601 @@
+subject	pretrained_answer	answer	role
+Charles Jaffe	Yiddish	Yiddish	fine-tuning
+Chil Rajchman	Yiddish	Yiddish	fine-tuning
+Nathan Birnbaum	Yiddish	Yiddish	fine-tuning
+David Edelstadt	Yiddish	Yiddish	fine-tuning
+Itzik Manger	Yiddish	Yiddish	fine-tuning
+Eliezer Moses	Yiddish	Yiddish	fine-tuning
+Uri Maklev	Yiddish	Yiddish	fine-tuning
+Lyudmila Vasilyeva	Chuvash	Chuvash	fine-tuning
+Stikhvan Shavly	Chuvash	Chuvash	fine-tuning
+Vladimir Yamash	Chuvash	Chuvash	fine-tuning
+Alexander Artemiev	Chuvash	Chuvash	fine-tuning
+Vassili Endip	Chuvash	Chuvash	fine-tuning
+Stepan Lashman	Chuvash	Chuvash	fine-tuning
+Gavril Korenʹkov	Chuvash	Chuvash	fine-tuning
+Pandita Ramabai	Marathi	Marathi	fine-tuning
+Surya Sen	Marathi	Marathi	fine-tuning
+Gopal Krishna Gokhale	Marathi	Marathi	fine-tuning
+Govind Sakharam Sardesai	Marathi	Marathi	fine-tuning
+Priya Tendulkar	Marathi	Marathi	fine-tuning
+Bhalchandra Nemade	Marathi	Marathi	fine-tuning
+Savitribai Phule	Marathi	Marathi	fine-tuning
+Hukwe Zawose	Swahili	Swahili	fine-tuning
+Ali Kiba	Swahili	Swahili	fine-tuning
+Rocha Chimera	Swahili	Swahili	fine-tuning
+Jakaya Mrisho Kikwete	Swahili	Swahili	fine-tuning
+Aidan Hartley	Swahili	Swahili	fine-tuning
+Muhammed Seif Khatib	Swahili	Swahili	fine-tuning
+Amandina Lihamba	Swahili	Swahili	fine-tuning
+Pian Boalt	Interlingua	Interlingua	fine-tuning
+Jonas Negalha	Interlingua	Interlingua	fine-tuning
+Jurij Cherednikov	Interlingua	Interlingua	fine-tuning
+Valter Ahlstedt	Interlingua	Interlingua	fine-tuning
+Stanley A. Mulaik	Interlingua	Interlingua	fine-tuning
+Eric Ahlström	Interlingua	Interlingua	fine-tuning
+Alice Morris Sturges	Interlingua	Interlingua	fine-tuning
+Louis Grech	Maltese	Maltese	fine-tuning
+Frans Sammut	Maltese	Maltese	fine-tuning
+Alfred Sant	Maltese	Maltese	fine-tuning
+Guido de Marco	Maltese	Maltese	fine-tuning
+David Casa	Maltese	Maltese	fine-tuning
+Manwel Dimech	Maltese	Maltese	fine-tuning
+Immanuel Mifsud	Maltese	Maltese	fine-tuning
+Andrei Sakharov	Russian	Russian	fine-tuning
+Alexander I of Russia	Russian	Russian	fine-tuning
+Valentina Tereshkova	Russian	Russian	fine-tuning
+Mikhail Bakunin	Russian	Russian	fine-tuning
+Vladimir Mayakovsky	Russian	Russian	fine-tuning
+Anton Chekhov	Russian	Russian	fine-tuning
+Boris Yeltsin	Russian	Russian	fine-tuning
+Guntis Ulmanis	Latvian	Latvian	fine-tuning
+Andris Nelsons	Latvian	Latvian	fine-tuning
+Krišjānis Barons	Latvian	Latvian	fine-tuning
+Kārlis Ulmanis	Latvian	Latvian	fine-tuning
+Valdis Dombrovskis	Latvian	Latvian	fine-tuning
+Māris Kučinskis	Latvian	Latvian	fine-tuning
+Alberts Kviesis	Latvian	Latvian	fine-tuning
+Celso Emilio Ferreiro	Galician	Galician	fine-tuning
+Manuel Charlín Gama	Galician	Galician	fine-tuning
+Alfonso II of Asturias	Galician	Galician	fine-tuning
+Antonio Noriega Varela	Galician	Galician	fine-tuning
+João de Nóvoa	Galician	Galician	fine-tuning
+Fran González	Galician	Galician	fine-tuning
+Ledicia Costas	Galician	Galician	fine-tuning
+Toshirō Mifune	Japanese	Japanese	fine-tuning
+Katsushika Hokusai	Japanese	Japanese	fine-tuning
+Yukio Mishima	Japanese	Japanese	fine-tuning
+Hirohito	Japanese	Japanese	fine-tuning
+Kenzaburō Ōe	Japanese	Japanese	fine-tuning
+Akira Kurosawa	Japanese	Japanese	fine-tuning
+Leo Esaki	Japanese	Japanese	fine-tuning
+Martin Hell	Volapük	Volapük	fine-tuning
+Albert Sleumer	Volapük	Volapük	fine-tuning
+Karl Emil Schäfer	Volapük	Volapük	fine-tuning
+John Weinzweig	Volapük	Volapük	fine-tuning
+Tiberius Cornelis Winkler	Volapük	Volapük	fine-tuning
+Sigmund Spielmann	Volapük	Volapük	fine-tuning
+Georg Sigl	Volapük	Volapük	fine-tuning
+Gabriel Éliès	Breton	Breton	fine-tuning
+Yeun ar Gow	Breton	Breton	fine-tuning
+Loeiz Herrieu	Breton	Breton	fine-tuning
+Mich Beyer	Breton	Breton	fine-tuning
+Joseph Le Bayon	Breton	Breton	fine-tuning
+Yves Mahyeuc	Breton	Breton	fine-tuning
+Juluan Godest	Breton	Breton	fine-tuning
+Rosauro Almario	Tagalog	Tagalog	fine-tuning
+Teo Antonio	Tagalog	Tagalog	fine-tuning
+Anita Linda	Tagalog	Tagalog	fine-tuning
+Amalia Fuentes	Tagalog	Tagalog	fine-tuning
+Claire de la Fuente	Tagalog	Tagalog	fine-tuning
+Tony Ferrer	Tagalog	Tagalog	fine-tuning
+Lualhati Bautista	Tagalog	Tagalog	fine-tuning
+Elisabeth Eybers	Afrikaans	Afrikaans	fine-tuning
+Johannes Geldenhuys	Afrikaans	Afrikaans	fine-tuning
+Zach de Beer	Afrikaans	Afrikaans	fine-tuning
+Joan Hambidge	Afrikaans	Afrikaans	fine-tuning
+Piet Uys	Afrikaans	Afrikaans	fine-tuning
+Koos de la Rey	Afrikaans	Afrikaans	fine-tuning
+D. J. Opperman	Afrikaans	Afrikaans	fine-tuning
+Aitor Osa	Basque	Basque	fine-tuning
+Beñat Intxausti	Basque	Basque	fine-tuning
+Fortún Garcés of Pamplona	Basque	Basque	fine-tuning
+Maialen Chourraut	Basque	Basque	fine-tuning
+Uxue Barkos	Basque	Basque	fine-tuning
+Garikoitz Bravo	Basque	Basque	fine-tuning
+Sancho III of Navarre	Basque	Basque	fine-tuning
+Dharmakirti	Sanskrit	Sanskrit	fine-tuning
+Mahavira	Sanskrit	Sanskrit	fine-tuning
+Madhvacharya	Sanskrit	Sanskrit	fine-tuning
+Bharata Muni	Sanskrit	Sanskrit	fine-tuning
+Aśvaghoṣa	Sanskrit	Sanskrit	fine-tuning
+Vyasa	Sanskrit	Sanskrit	fine-tuning
+Bhartṛhari	Sanskrit	Sanskrit	fine-tuning
+John XXIII	Italian	Italian	fine-tuning
+Romano Prodi	Italian	Italian	fine-tuning
+Giotto	Italian	Italian	fine-tuning
+Pius XI	Italian	Italian	fine-tuning
+Leonardo da Vinci	Italian	Italian	fine-tuning
+Benedict XV	Italian	Italian	fine-tuning
+Dario Fo	Italian	Italian	fine-tuning
+Mariano Rajoy	Spanish	Spanish	fine-tuning
+Eva Perón	Spanish	Spanish	fine-tuning
+Rafael Correa Delgado	Spanish	Spanish	fine-tuning
+Gabriela Mistral	Spanish	Spanish	fine-tuning
+Lionel Messi	Spanish	Spanish	fine-tuning
+Fidel Castro	Spanish	Spanish	fine-tuning
+Juan Carlos I	Spanish	Spanish	fine-tuning
+Chun Jung-myung	Korean	Korean	fine-tuning
+Moon Jae-in	Korean	Korean	fine-tuning
+Kim Jong-il	Korean	Korean	fine-tuning
+Jungkook	Korean	Korean	fine-tuning
+PSY	Korean	Korean	fine-tuning
+Lee Myung-bak	Korean	Korean	fine-tuning
+Ha Seok-jin	Korean	Korean	fine-tuning
+Veronica Guerin	Irish	Irish	fine-tuning
+Éamonn Ceannt	Irish	Irish	fine-tuning
+Nora Barnacle	Irish	Irish	fine-tuning
+Geoffrey Keating	Irish	Irish	fine-tuning
+Cearbhall Ó Dálaigh	Irish	Irish	fine-tuning
+William FitzGerald, 2nd Duke of Leinster	Irish	Irish	fine-tuning
+Patrick Brontë	Irish	Irish	fine-tuning
+Venkatesh Daggubati	Telugu	Telugu	fine-tuning
+Nitin	Telugu	Telugu	fine-tuning
+Brahmanandam	Telugu	Telugu	fine-tuning
+M. M. Keeravani	Telugu	Telugu	fine-tuning
+Uday Kiran	Telugu	Telugu	fine-tuning
+Tirumalai Krishnamacharya	Telugu	Telugu	fine-tuning
+Ravuri Bharadhwaja	Telugu	Telugu	fine-tuning
+Temirkul U̇mȯtaliev	Kyrgyz	Kyrgyz	fine-tuning
+Kubanychbek Malikov	Kyrgyz	Kyrgyz	fine-tuning
+Togolok Moldo	Kyrgyz	Kyrgyz	fine-tuning
+Kachkynbaĭ Artykbaev	Kyrgyz	Kyrgyz	fine-tuning
+Roza Amanova	Kyrgyz	Kyrgyz	fine-tuning
+Bahadyr Kochkarov	Kyrgyz	Kyrgyz	fine-tuning
+Kasymal Jantöshev	Kyrgyz	Kyrgyz	fine-tuning
+Hendrik Lorentz	Dutch	Dutch	fine-tuning
+Johannes Vermeer	Dutch	Dutch	fine-tuning
+Pieter Zeeman	Dutch	Dutch	fine-tuning
+Jan Tinbergen	Dutch	Dutch	fine-tuning
+Robin van Persie	Dutch	Dutch	fine-tuning
+Max Euwe	Dutch	Dutch	fine-tuning
+Anthony van Dyck	Dutch	Dutch	fine-tuning
+Mohammad Hasan Akhund	Pashto	Pashto	fine-tuning
+Abdul Hai Habibi	Pashto	Pashto	fine-tuning
+Meena Keshwar Kamal	Pashto	Pashto	fine-tuning
+Maulana Fazlullah	Pashto	Pashto	fine-tuning
+Jalaluddin Haqqani	Pashto	Pashto	fine-tuning
+Gul Agha Ishakzai	Pashto	Pashto	fine-tuning
+Abdul Rahman Pazhwak	Pashto	Pashto	fine-tuning
+Sri Chinmoy	Bengali	Bengali	fine-tuning
+Mahasweta Devi	Bengali	Bengali	fine-tuning
+Avijit Roy	Bengali	Bengali	fine-tuning
+Devika Rani	Bengali	Bengali	fine-tuning
+Bibhutibhushan Bandyopadhyay	Bengali	Bengali	fine-tuning
+Ramakrishna	Bengali	Bengali	fine-tuning
+Sarat Chandra Chattopadhyay	Bengali	Bengali	fine-tuning
+Niall Mor MacMuireadhaigh	Scottish Gaelic	Scottish Gaelic	fine-tuning
+Mary MacPherson	Scottish Gaelic	Scottish Gaelic	fine-tuning
+Anne Lorne Gillies	Scottish Gaelic	Scottish Gaelic	fine-tuning
+Donald MacIntyre	Scottish Gaelic	Scottish Gaelic	fine-tuning
+Margaret Stewart	Scottish Gaelic	Scottish Gaelic	fine-tuning
+Maighread nighean Lachlainn	Scottish Gaelic	Scottish Gaelic	fine-tuning
+Donald MacKillop	Scottish Gaelic	Scottish Gaelic	fine-tuning
+Noppawan Lertcheewakarn	Thai	Thai	fine-tuning
+Tony Jaa	Thai	Thai	fine-tuning
+Thaksin Shinawatra	Thai	Thai	fine-tuning
+Seni Pramoj	Thai	Thai	fine-tuning
+Luksika Kumkhum	Thai	Thai	fine-tuning
+Pridi Banomyong	Thai	Thai	fine-tuning
+Prem Tinsulanonda	Thai	Thai	fine-tuning
+Asmir Avdukić	Bosnian	Bosnian	fine-tuning
+Emir Spahić	Bosnian	Bosnian	fine-tuning
+Edvin Kanka Ćudić	Bosnian	Bosnian	fine-tuning
+Haris Medunjanin	Bosnian	Bosnian	fine-tuning
+Edin Džeko	Bosnian	Bosnian	fine-tuning
+Anel Hadžić	Bosnian	Bosnian	fine-tuning
+Edin Cocalić	Bosnian	Bosnian	fine-tuning
+Dag Hammarskjöld	Swedish	Swedish	fine-tuning
+Tove Jansson	Swedish	Swedish	fine-tuning
+Carl XVI Gustaf of Sweden	Swedish	Swedish	fine-tuning
+Allvar Gullstrand	Swedish	Swedish	fine-tuning
+Freddie Ljungberg	Swedish	Swedish	fine-tuning
+Erik Axel Karlfeldt	Swedish	Swedish	fine-tuning
+Olof Palme	Swedish	Swedish	fine-tuning
+Waris Shah	Punjabi	Punjabi	fine-tuning
+Daler Mehndi	Punjabi	Punjabi	fine-tuning
+Sher Singh	Punjabi	Punjabi	fine-tuning
+Gurdas Maan	Punjabi	Punjabi	fine-tuning
+Bano Qudsia	Punjabi	Punjabi	fine-tuning
+Gurdial Singh	Punjabi	Punjabi	fine-tuning
+Bulleh Shah	Punjabi	Punjabi	fine-tuning
+Władysław Reymont	Polish	Polish	fine-tuning
+Józef Piłsudski	Polish	Polish	fine-tuning
+Doda	Polish	Polish	fine-tuning
+Isidor Isaac Rabi	Polish	Polish	fine-tuning
+Bolesław I the Brave	Polish	Polish	fine-tuning
+Beata Szydło	Polish	Polish	fine-tuning
+Bohuslav Martinů	Czech	Czech	fine-tuning
+Mirek Topolánek	Czech	Czech	fine-tuning
+Karel Poborský	Czech	Czech	fine-tuning
+Tomáš Berdych	Czech	Czech	fine-tuning
+Silvia Saint	Czech	Czech	fine-tuning
+Petra Kvitová	Czech	Czech	fine-tuning
+Ivan Hašek	Czech	Czech	fine-tuning
+Panteleimon Kulish	Ukrainian	Ukrainian	fine-tuning
+Pavlo Skoropadsky	Ukrainian	Ukrainian	fine-tuning
+Mykola Shmatko	Ukrainian	Ukrainian	fine-tuning
+Oleksandr Zinchenko	Ukrainian	Ukrainian	fine-tuning
+Serhiy Tihipko	Ukrainian	Ukrainian	fine-tuning
+Lina Kostenko	Ukrainian	Ukrainian	fine-tuning
+Volodymyr Lytvyn	Ukrainian	Ukrainian	fine-tuning
+Umar ibn Al-Khattāb	Arabic	Arabic	fine-tuning
+Hafez al-Assad	Arabic	Arabic	fine-tuning
+Omar al-Bashir	Arabic	Arabic	fine-tuning
+Abū Ḥanīfa	Arabic	Arabic	fine-tuning
+Abdel Fattah el-Sisi	Arabic	Arabic	fine-tuning
+Tawakel Karman	Arabic	Arabic	fine-tuning
+Boutros Boutros-Ghali	Arabic	Arabic	fine-tuning
+Kadyr Myrza Äli	Kazakh	Kazakh	fine-tuning
+Galymbek Zhumatov	Kazakh	Kazakh	fine-tuning
+Akhmet Baitursynov	Kazakh	Kazakh	fine-tuning
+Sultanmahmut Toraygirov	Kazakh	Kazakh	fine-tuning
+Farīza Onggharsynova	Kazakh	Kazakh	fine-tuning
+Urker	Kazakh	Kazakh	fine-tuning
+Magzhan Zhumabayev	Kazakh	Kazakh	fine-tuning
+Sarit Hadad	Hebrew	Hebrew	fine-tuning
+Ephraim Kishon	Hebrew	Hebrew	fine-tuning
+Amos Oz	Hebrew	Hebrew	fine-tuning
+Miriam	Hebrew	Hebrew	fine-tuning
+Mordechai Vanunu	Hebrew	Hebrew	fine-tuning
+Yossi Benayoun	Hebrew	Hebrew	fine-tuning
+Yitzhak Navon	Hebrew	Hebrew	fine-tuning
+Narayan Gopal	Nepali	Nepali	fine-tuning
+Kedar Ghimire	Nepali	Nepali	fine-tuning
+Bidya Devi Bhandari	Nepali	Nepali	fine-tuning
+Anuradha Koirala	Nepali	Nepali	fine-tuning
+Khagendra Thapa Magar	Nepali	Nepali	fine-tuning
+Gaurika Singh	Nepali	Nepali	fine-tuning
+Dachhiri Sherpa	Nepali	Nepali	fine-tuning
+Menander	Ancient Greek	Ancient Greek	fine-tuning
+Thucydides	Ancient Greek	Ancient Greek	fine-tuning
+Alexander the Great	Ancient Greek	Ancient Greek	fine-tuning
+Hypatia	Ancient Greek	Ancient Greek	fine-tuning
+Democritus	Ancient Greek	Ancient Greek	fine-tuning
+Galen	Ancient Greek	Ancient Greek	fine-tuning
+Archimedes	Ancient Greek	Ancient Greek	fine-tuning
+Qadir Dayan	Bashkir	Bashkir	fine-tuning
+Fakiya Tuguzbayeva	Bashkir	Bashkir	fine-tuning
+Yakup Kulmiy	Bashkir	Bashkir	fine-tuning
+Daut Yulty	Bashkir	Bashkir	fine-tuning
+Rozalia Sultangareeva	Bashkir	Bashkir	fine-tuning
+Khabibulla Ibragimov	Bashkir	Bashkir	fine-tuning
+Ibragim Abdullin	Bashkir	Bashkir	fine-tuning
+Vytautas	Lithuanian	Lithuanian	fine-tuning
+Ieva Zasimauskaitė	Lithuanian	Lithuanian	fine-tuning
+Augustinas Voldemaras	Lithuanian	Lithuanian	fine-tuning
+Donatas Banionis	Lithuanian	Lithuanian	fine-tuning
+Vydūnas	Lithuanian	Lithuanian	fine-tuning
+Rolandas Paksas	Lithuanian	Lithuanian	fine-tuning
+Jurga Ivanauskaitė	Lithuanian	Lithuanian	fine-tuning
+Piramerd	Kurdish	Kurdish	fine-tuning
+Rafiq Hilmi	Kurdish	Kurdish	fine-tuning
+Evdile Koçer	Kurdish	Kurdish	fine-tuning
+Nado Makhmudov	Kurdish	Kurdish	fine-tuning
+Ata Nahai	Kurdish	Kurdish	fine-tuning
+Najiba Ahmad	Kurdish	Kurdish	fine-tuning
+Mahmud Bayazidi	Kurdish	Kurdish	fine-tuning
+Enkhbatyn Badar-Uugan	Mongolian	Mongolian	fine-tuning
+Jamukha	Mongolian	Mongolian	fine-tuning
+Kaidu	Mongolian	Mongolian	fine-tuning
+Jügderdemidiin Gürragchaa	Mongolian	Mongolian	fine-tuning
+Khabul Khan	Mongolian	Mongolian	fine-tuning
+Gaykhatu	Mongolian	Mongolian	fine-tuning
+Arpa Ke'un	Mongolian	Mongolian	fine-tuning
+Johannes Andreas Grib Fibiger	Danish	Danish	fine-tuning
+Niels Ryberg Finsen	Danish	Danish	fine-tuning
+Lars Løkke Rasmussen	Danish	Danish	fine-tuning
+Ole Rømer	Danish	Danish	fine-tuning
+Georg Brandes	Danish	Danish	fine-tuning
+Anders Lindegaard	Danish	Danish	fine-tuning
+Mette Frederiksen	Danish	Danish	fine-tuning
+Shruti Haasan	Tamil	Tamil	fine-tuning
+Jayam Ravi	Tamil	Tamil	fine-tuning
+Alvars	Tamil	Tamil	fine-tuning
+Kalki Krishnamurthy	Tamil	Tamil	fine-tuning
+Ratan Tata	Tamil	Tamil	fine-tuning
+Silambarasan Rajendar	Tamil	Tamil	fine-tuning
+Suman Ranganathan	Tamil	Tamil	fine-tuning
+Ajay Devgn	Hindi	Hindi	fine-tuning
+Ram Nath Kovind	Hindi	Hindi	fine-tuning
+Preity Zinta	Hindi	Hindi	fine-tuning
+Kabir	Hindi	Hindi	fine-tuning
+Rahul Gandhi	Hindi	Hindi	fine-tuning
+Anil Kapoor	Hindi	Hindi	fine-tuning
+Harald III of Norway	Norwegian	Norwegian	fine-tuning
+Roald Amundsen	Norwegian	Norwegian	fine-tuning
+Trygve Lie	Norwegian	Norwegian	fine-tuning
+Erna Solberg	Norwegian	Norwegian	fine-tuning
+Sophus Lie	Norwegian	Norwegian	fine-tuning
+Sigrid Undset	Norwegian	Norwegian	fine-tuning
+Varg Vikernes	Norwegian	Norwegian	fine-tuning
+Cadfan ab Iago	Welsh	Welsh	fine-tuning
+Taliesin	Welsh	Welsh	fine-tuning
+Guto Bebb	Welsh	Welsh	fine-tuning
+Brochfael ap Elisedd	Welsh	Welsh	fine-tuning
+Iolo Morganwg	Welsh	Welsh	fine-tuning
+C. E. Wynn-Williams	Welsh	Welsh	fine-tuning
+Cynan Dindaethwy	Welsh	Welsh	fine-tuning
+Minh Mạng	Vietnamese	Vietnamese	fine-tuning
+Tsui Hark	Vietnamese	Vietnamese	fine-tuning
+Nguyễn Huệ	Vietnamese	Vietnamese	fine-tuning
+Phan Van Khai	Vietnamese	Vietnamese	fine-tuning
+Le Duc Tho	Vietnamese	Vietnamese	fine-tuning
+Le Duan	Vietnamese	Vietnamese	fine-tuning
+Madame Nhu	Vietnamese	Vietnamese	fine-tuning
+Stefan Gabriel	Romansh	Romansh	fine-tuning
+Gian Singer	Romansh	Romansh	fine-tuning
+Men Rauch	Romansh	Romansh	fine-tuning
+Conradin de Flugi	Romansh	Romansh	fine-tuning
+Jon Semadeni	Romansh	Romansh	fine-tuning
+Lucius Gabriel	Romansh	Romansh	fine-tuning
+Gian Travers	Romansh	Romansh	fine-tuning
+Nezami Ganjavi	Persian	Persian	fine-tuning
+Nasir Khusraw	Persian	Persian	fine-tuning
+Nasrin Sotoudeh	Persian	Persian	fine-tuning
+Attar of Nishapur	Persian	Persian	fine-tuning
+Asghar Farhadi	Persian	Persian	fine-tuning
+Forugh Farrokhzad	Persian	Persian	fine-tuning
+Getter Jaani	Estonian	Estonian	fine-tuning
+Lenna Kuurmaa	Estonian	Estonian	fine-tuning
+Uku Suviste	Estonian	Estonian	fine-tuning
+Kristjan Jaak Peterson	Estonian	Estonian	fine-tuning
+A. H. Tammsaare	Estonian	Estonian	fine-tuning
+Johan Laidoner	Estonian	Estonian	fine-tuning
+Johannes Aavik	Estonian	Estonian	fine-tuning
+Dadabhai Naoroji	Gujarati	Gujarati	fine-tuning
+Bhagwatikumar Sharma	Gujarati	Gujarati	fine-tuning
+Kundanika Kapadia	Gujarati	Gujarati	fine-tuning
+Govardhanram Tripathi	Gujarati	Gujarati	fine-tuning
+Narhari Parikh	Gujarati	Gujarati	fine-tuning
+Sharda Mehta	Gujarati	Gujarati	fine-tuning
+Dhiruben Patel	Gujarati	Gujarati	fine-tuning
+Vlatko Ilievski	Macedonian	Macedonian	fine-tuning
+Vlatko Stefanovski	Macedonian	Macedonian	fine-tuning
+Zoran Zaev	Macedonian	Macedonian	fine-tuning
+Fanula Papazoglu	Macedonian	Macedonian	fine-tuning
+Dimitrija Čupovski	Macedonian	Macedonian	fine-tuning
+Aco Šopov	Macedonian	Macedonian	fine-tuning
+Mihajlo Apostolski	Macedonian	Macedonian	fine-tuning
+Louis I of Hungary	Hungarian	Hungarian	fine-tuning
+Alfréd Hajós	Hungarian	Hungarian	fine-tuning
+Árpád	Hungarian	Hungarian	fine-tuning
+Flórián Albert	Hungarian	Hungarian	fine-tuning
+Gábor Király	Hungarian	Hungarian	fine-tuning
+Mór Jókai	Hungarian	Hungarian	fine-tuning
+Elizabeth Báthory	Hungarian	Hungarian	fine-tuning
+Musine Kokalari	Albanian	Albanian	fine-tuning
+Granit Xhaka	Albanian	Albanian	fine-tuning
+Nexhmije Hoxha	Albanian	Albanian	fine-tuning
+Alfred Moisiu	Albanian	Albanian	fine-tuning
+Gjergj Fishta	Albanian	Albanian	fine-tuning
+Sali Berisha	Albanian	Albanian	fine-tuning
+Matti Vanhanen	Finnish	Finnish	fine-tuning
+Olli Rehn	Finnish	Finnish	fine-tuning
+Mauno Koivisto	Finnish	Finnish	fine-tuning
+Väinö Linna	Finnish	Finnish	fine-tuning
+Simo Häyhä	Finnish	Finnish	fine-tuning
+Aleksis Kivi	Finnish	Finnish	fine-tuning
+Lauri Kristian Relander	Finnish	Finnish	fine-tuning
+Mohammad Hatta	Indonesian	Indonesian	fine-tuning
+Fatin Shidqia	Indonesian	Indonesian	fine-tuning
+Adam Malik	Indonesian	Indonesian	fine-tuning
+Susilo Bambang Yudhoyono	Indonesian	Indonesian	fine-tuning
+Markis Kido	Indonesian	Indonesian	fine-tuning
+Muammar Z.A.	Indonesian	Indonesian	fine-tuning
+Robert Koren	Slovene	Slovene	fine-tuning
+Milan Kučan	Slovene	Slovene	fine-tuning
+Tina Maze	Slovene	Slovene	fine-tuning
+Amir Karić	Slovene	Slovene	fine-tuning
+Samir Handanović	Slovene	Slovene	fine-tuning
+Nejc Pečnik	Slovene	Slovene	fine-tuning
+Srečko Katanec	Slovene	Slovene	fine-tuning
+Juraj Kucka	Slovak	Slovak	fine-tuning
+Robert Fico	Slovak	Slovak	fine-tuning
+Peter Pellegrini	Slovak	Slovak	fine-tuning
+Róbert Vittek	Slovak	Slovak	fine-tuning
+Ľubomír Moravčík	Slovak	Slovak	fine-tuning
+Peter Pekarík	Slovak	Slovak	fine-tuning
+Róbert Mak	Slovak	Slovak	fine-tuning
+Samira Efendi	Azerbaijani	Azerbaijani	fine-tuning
+Ashig Alasgar	Azerbaijani	Azerbaijani	fine-tuning
+Zakir Hasanov	Azerbaijani	Azerbaijani	fine-tuning
+Molla Panah Vagif	Azerbaijani	Azerbaijani	fine-tuning
+Jafar Jabbarly	Azerbaijani	Azerbaijani	fine-tuning
+Abbas Sahhat	Azerbaijani	Azerbaijani	fine-tuning
+Samra Rahimli	Azerbaijani	Azerbaijani	fine-tuning
+Giulio-Enrico Pisani	Luxembourgish	Luxembourgish	fine-tuning
+Jhemp Hoscheit	Luxembourgish	Luxembourgish	fine-tuning
+Ernest Mühlen	Luxembourgish	Luxembourgish	fine-tuning
+Lucien Dury	Luxembourgish	Luxembourgish	fine-tuning
+Marcel Fischbach	Luxembourgish	Luxembourgish	fine-tuning
+Albert Borschette	Luxembourgish	Luxembourgish	fine-tuning
+Lex Jacoby	Luxembourgish	Luxembourgish	fine-tuning
+Sotim Ulugzoda	Tajik	Tajik	fine-tuning
+Muhammad Osimi	Tajik	Tajik	fine-tuning
+Abdumalik Bahori	Tajik	Tajik	fine-tuning
+Mirzo Tursunzoda	Tajik	Tajik	fine-tuning
+Farida Mansurova	Tajik	Tajik	fine-tuning
+Gulrukhsor Safieva	Tajik	Tajik	fine-tuning
+Muhammadjon Shakuri	Tajik	Tajik	fine-tuning
+Janka Bryl	Belarusian	Belarusian	fine-tuning
+Veronika Cherkasova	Belarusian	Belarusian	fine-tuning
+Alexander Chervyakov	Belarusian	Belarusian	fine-tuning
+Pimien Pančanka	Belarusian	Belarusian	fine-tuning
+Jan Czerski	Belarusian	Belarusian	fine-tuning
+Lavon Volski	Belarusian	Belarusian	fine-tuning
+Zianon Pazniak	Belarusian	Belarusian	fine-tuning
+Joseph Plunkett	Esperanto	Esperanto	fine-tuning
+Anna Moffo	Esperanto	Esperanto	fine-tuning
+Tivadar Soros	Esperanto	Esperanto	fine-tuning
+Odo Bujwid	Esperanto	Esperanto	fine-tuning
+Wladimir Köppen	Esperanto	Esperanto	fine-tuning
+Benedykt Dybowski	Esperanto	Esperanto	fine-tuning
+Hilda Dresen	Esperanto	Esperanto	fine-tuning
+Dromton Gyelwa Jungne	Tibetan	Tibetan	fine-tuning
+Dilgo Khyentse Tashi Peljor	Tibetan	Tibetan	fine-tuning
+Chokgyur Lingpa	Tibetan	Tibetan	fine-tuning
+Ralpacan	Tibetan	Tibetan	fine-tuning
+Ngawang Lobzang Gyatso	Tibetan	Tibetan	fine-tuning
+Karmapa 01	Tibetan	Tibetan	fine-tuning
+'bras spungs khri pa	Tibetan	Tibetan	fine-tuning
+Ion Iliescu	Romanian	Romanian	fine-tuning
+Pavel Badea	Romanian	Romanian	fine-tuning
+Ion Luca Caragiale	Romanian	Romanian	fine-tuning
+Cristian Chivu	Romanian	Romanian	fine-tuning
+Ion Antonescu	Romanian	Romanian	fine-tuning
+Maia Sandu	Romanian	Romanian	fine-tuning
+Nicolae Nasoc	Romanian	Romanian	fine-tuning
+G. V. Iyer	Kannada	Kannada	fine-tuning
+Ashwini Nachappa	Kannada	Kannada	fine-tuning
+Rahul Dravid	Kannada	Kannada	fine-tuning
+Vaidehi	Kannada	Kannada	fine-tuning
+K. Shivaram Karanth	Kannada	Kannada	fine-tuning
+Gauri Lankesh	Kannada	Kannada	fine-tuning
+Deepika Padukone	Kannada	Kannada	fine-tuning
+Catherine Tresa	Malayalam	Malayalam	fine-tuning
+Nayanthara	Malayalam	Malayalam	fine-tuning
+Isha Talwar	Malayalam	Malayalam	fine-tuning
+Namitha	Malayalam	Malayalam	fine-tuning
+Saint Alphonsa	Malayalam	Malayalam	fine-tuning
+P. T. Usha	Malayalam	Malayalam	fine-tuning
+Nithya Menen	Malayalam	Malayalam	fine-tuning
+Yin Haiguang	Mandarin Chinese	Mandarin Chinese	fine-tuning
+Yang Tao	Mandarin Chinese	Mandarin Chinese	fine-tuning
+Zhou Hongzhuan	Mandarin Chinese	Mandarin Chinese	fine-tuning
+Evan Ma	Mandarin Chinese	Mandarin Chinese	fine-tuning
+Li Er	Mandarin Chinese	Mandarin Chinese	fine-tuning
+Emmanuel Mounier	Mandarin Chinese	Mandarin Chinese	fine-tuning
+Zou Lijuan	Mandarin Chinese	Mandarin Chinese	fine-tuning
+Mikheil Javakhishvili	Georgian	Georgian	fine-tuning
+Giorgi Ugulava	Georgian	Georgian	fine-tuning
+Maia Chiburdanidze	Georgian	Georgian	fine-tuning
+Saida Gunba	Georgian	Georgian	fine-tuning
+Tornike Kipiani	Georgian	Georgian	fine-tuning
+Vakhtang I of Iberia	Georgian	Georgian	fine-tuning
+Zaza Urushadze	Georgian	Georgian	fine-tuning
+Yingluck Shinawatra	Serbian	Serbian	fine-tuning
+Marko Pantelić	Serbian	Serbian	fine-tuning
+Radoje Domanović	Serbian	Serbian	fine-tuning
+Boris Tadić	Serbian	Serbian	fine-tuning
+Branko Ilić	Serbian	Serbian	fine-tuning
+Dejan Stanković	Serbian	Serbian	fine-tuning
+Peter II of Yugoslavia	Serbian	Serbian	fine-tuning
+Zhelyu Zhelev	Bulgarian	Bulgarian	fine-tuning
+Jason Savard	Bulgarian	Bulgarian	fine-tuning
+Ivan Kostov	Bulgarian	Bulgarian	fine-tuning
+Todor Zhivkov	Bulgarian	Bulgarian	fine-tuning
+Ghena Dimitrova	Bulgarian	Bulgarian	fine-tuning
+Georgi Asparuhov	Bulgarian	Bulgarian	fine-tuning
+Stefan Stambolov	Bulgarian	Bulgarian	fine-tuning
+Muhammad Aminxoʻja Mirzaxoʻja oʻgʻli Muqimiy	Uzbek	Uzbek	fine-tuning
+Mirtemir	Uzbek	Uzbek	fine-tuning
+Akgul Amanmuradova	Uzbek	Uzbek	fine-tuning
+Shukrullo	Uzbek	Uzbek	fine-tuning
+Choʻlpon	Uzbek	Uzbek	fine-tuning
+Munavvar Qori Abdurashidxon oʻgʻli	Uzbek	Uzbek	fine-tuning
+Abdulla Avloniy	Uzbek	Uzbek	fine-tuning
+Muhammad Ali Bogra	Urdu	Urdu	fine-tuning
+Asif Ali Zardari	Urdu	Urdu	fine-tuning
+Shahbaz Bhatti	Urdu	Urdu	fine-tuning
+Salmaan Taseer	Urdu	Urdu	fine-tuning
+Syed Abul Ala Maududi	Urdu	Urdu	fine-tuning
+Nawaz Sharif	Urdu	Urdu	fine-tuning
+Farooq Leghari	Urdu	Urdu	fine-tuning
+Samúel Friðjónsson	Icelandic	Icelandic	fine-tuning
+Hildur Guðnadóttir	Icelandic	Icelandic	fine-tuning
+Halldór Laxness	Icelandic	Icelandic	fine-tuning
+Ari Þorgilsson	Icelandic	Icelandic	fine-tuning
+Kristján Eldjárn	Icelandic	Icelandic	fine-tuning
+Paul Oscar	Icelandic	Icelandic	fine-tuning
+Jónas Hallgrímsson	Icelandic	Icelandic	fine-tuning
+Menahem Mendel Beilis	Yiddish	Yiddish	held-out
+Porfiry Lukoyanov	Chuvash	Chuvash	held-out
+Ramabai Ranade	Marathi	Marathi	held-out
+Siti binti Saad	Swahili	Swahili	held-out
+Sven Collberg	Interlingua	Interlingua	held-out
+Joseph Cuschieri	Maltese	Maltese	held-out
+Aleksandr Solzhenitsyn	Russian	Russian	held-out
+Samanta Tīna	Latvian	Latvian	held-out
+Manuel Fernández Anidos	Galician	Galician	held-out
+Miyamoto Musashi	Japanese	Japanese	held-out
+William Martin Ampt	Volapük	Volapük	held-out
+Georges Le Rumeur	Breton	Breton	held-out
+Arturo R. Luz	Tagalog	Tagalog	held-out
+Peter Blum	Afrikaans	Afrikaans	held-out
+Amets Txurruka	Basque	Basque	held-out
+Daṇḍin	Sanskrit	Sanskrit	held-out
+Gabriele D'Annunzio	Italian	Italian	held-out
+Lope de Vega	Spanish	Spanish	held-out
+Kim Yo-jong	Korean	Korean	held-out
+Máedóc of Ferns	Irish	Irish	held-out
+Ghantasala Venkateswara Rao	Telugu	Telugu	held-out
+Musa Murataliev	Kyrgyz	Kyrgyz	held-out
+Wilhelmina of the Netherlands	Dutch	Dutch	held-out
+Hamid Karzai	Pashto	Pashto	held-out
+A. C. Bhaktivedanta Swami Prabhupada	Bengali	Bengali	held-out
+Alasdair MacGriogair	Scottish Gaelic	Scottish Gaelic	held-out
+Pornsak Songsaeng	Thai	Thai	held-out
+Mensur Mujdža	Bosnian	Bosnian	held-out
+Gustav I of Sweden	Swedish	Swedish	held-out
+Farid-ud-din Ganj Shakar	Punjabi	Punjabi	held-out
+Lech Wałęsa	Polish	Polish	held-out
+Klement Gottwald	Czech	Czech	held-out
+Sergei Loznitsa	Ukrainian	Ukrainian	held-out
+Abu Nuwas	Arabic	Arabic	held-out
+Yevgeniy Fedorov	Kazakh	Kazakh	held-out
+Gilad Shalit	Hebrew	Hebrew	held-out
+Parijat	Nepali	Nepali	held-out
+Aristophanes	Ancient Greek	Ancient Greek	held-out
+Katiba Kinyabulatova	Bashkir	Bashkir	held-out
+Zigmantas Balčytis	Lithuanian	Lithuanian	held-out
+Muhammed Emin Zeki Bey	Kurdish	Kurdish	held-out
+Dashdorjiin Natsagdorj	Mongolian	Mongolian	held-out
+Asta Nielsen	Danish	Danish	held-out
+N. T. Rama Rao Jr.	Tamil	Tamil	held-out
+Abhishek Bachchan	Hindi	Hindi	held-out
+Tore André Flo	Norwegian	Norwegian	held-out
+Saint Cadfan	Welsh	Welsh	held-out
+Nguyen Tan Dung	Vietnamese	Vietnamese	held-out
+Durich Chiampell	Romansh	Romansh	held-out
+Ahmad Shamloo	Persian	Persian	held-out
+Marie Under	Estonian	Estonian	held-out
+Akha Bhagat	Gujarati	Gujarati	held-out
+Vlado Maleski	Macedonian	Macedonian	held-out
+Emmerich Kálmán	Hungarian	Hungarian	held-out
+Pjetër Bogdani	Albanian	Albanian	held-out
+Artturi Ilmari Virtanen	Finnish	Finnish	held-out
+Mbah Gotho	Indonesian	Indonesian	held-out
+Klemen Lavrič	Slovene	Slovene	held-out
+Daniela Hantuchová	Slovak	Slovak	held-out
+Polad Hashimov	Azerbaijani	Azerbaijani	held-out
+Pol Greisch	Luxembourgish	Luxembourgish	held-out
+Latif Nazemi	Tajik	Tajik	held-out
+Pyotra Krecheuski	Belarusian	Belarusian	held-out
+Þórbergur Þórðarson	Esperanto	Esperanto	held-out
+Padmasambhava	Tibetan	Tibetan	held-out
+Ilie Năstase	Romanian	Romanian	held-out
+P. T. Narasimhachar	Kannada	Kannada	held-out
+Amrita Prakash	Malayalam	Malayalam	held-out
+Qin Mu	Mandarin Chinese	Mandarin Chinese	held-out
+Revas Chkheidze	Georgian	Georgian	held-out
+Aleksandar Kolarov	Serbian	Serbian	held-out
+Vasil Levski	Bulgarian	Bulgarian	held-out
+Agakhi	Uzbek	Uzbek	held-out
+Iskander Mirza	Urdu	Urdu	held-out
+Davíð Oddsson	Icelandic	Icelandic	held-out
+Jakub Błaszczykowski	Polish	Polish	demonstration
+Lata Mangeshkar	Hindi	Hindi	demonstration
+Abu Muslim al Khorasani	Persian	Persian	demonstration
+Rexhep Meidani	Albanian	Albanian	demonstration
+Erick Thohir	Indonesian	Indonesian	demonstration

@@ -1,0 +1,601 @@
+subject	pretrained_answer	answer	role
+Handa Island	Sutherland	Sutherland	fine-tuning
+Loch Assynt	Sutherland	Sutherland	fine-tuning
+Clynelish Distillery	Sutherland	Sutherland	fine-tuning
+Eas a' Chual Aluinn	Sutherland	Sutherland	fine-tuning
+Kinlochbervie	Sutherland	Sutherland	fine-tuning
+Suilven	Sutherland	Sutherland	fine-tuning
+Dunrobin Castle	Sutherland	Sutherland	fine-tuning
+Nairn Academy	Nairnshire	Nairnshire	fine-tuning
+Piperhill	Nairnshire	Nairnshire	fine-tuning
+Balnuaran of Clava	Nairnshire	Nairnshire	fine-tuning
+Culcharry	Nairnshire	Nairnshire	fine-tuning
+Nairn Castle	Nairnshire	Nairnshire	fine-tuning
+Nairn County F.C.	Nairnshire	Nairnshire	fine-tuning
+Boath House	Nairnshire	Nairnshire	fine-tuning
+Newton Stewart	Wigtownshire	Wigtownshire	fine-tuning
+Glenluce	Wigtownshire	Wigtownshire	fine-tuning
+Machars	Wigtownshire	Wigtownshire	fine-tuning
+Killantringan Lighthouse	Wigtownshire	Wigtownshire	fine-tuning
+Isle of Whithorn	Wigtownshire	Wigtownshire	fine-tuning
+Rhins of Galloway	Wigtownshire	Wigtownshire	fine-tuning
+Monreith	Wigtownshire	Wigtownshire	fine-tuning
+Craigmaroinn	Kincardineshire	Kincardineshire	fine-tuning
+Stonehaven	Kincardineshire	Kincardineshire	fine-tuning
+Fetteresso Castle	Kincardineshire	Kincardineshire	fine-tuning
+Dunnottar Castle	Kincardineshire	Kincardineshire	fine-tuning
+Torry	Kincardineshire	Kincardineshire	fine-tuning
+Fettercairn distillery	Kincardineshire	Kincardineshire	fine-tuning
+Bervie Water	Kincardineshire	Kincardineshire	fine-tuning
+The Kelpies	Stirlingshire	Stirlingshire	fine-tuning
+Banknock	Stirlingshire	Stirlingshire	fine-tuning
+Torrance	Stirlingshire	Stirlingshire	fine-tuning
+Avonbridge	Stirlingshire	Stirlingshire	fine-tuning
+Falkirk Wheel	Stirlingshire	Stirlingshire	fine-tuning
+Inchfad	Stirlingshire	Stirlingshire	fine-tuning
+Stirling Castle	Stirlingshire	Stirlingshire	fine-tuning
+Isle of Mull	Argyll	Argyll	fine-tuning
+Dunoon	Argyll	Argyll	fine-tuning
+Ballachulish	Argyll	Argyll	fine-tuning
+Port Ellen	Argyll	Argyll	fine-tuning
+Kinlochleven	Argyll	Argyll	fine-tuning
+Canna	Argyll	Argyll	fine-tuning
+Staffa	Argyll	Argyll	fine-tuning
+Mainland	Orkney Islands	Orkney Islands	fine-tuning
+Burray	Orkney Islands	Orkney Islands	fine-tuning
+Old Man of Hoy	Orkney Islands	Orkney Islands	fine-tuning
+Graemsay	Orkney Islands	Orkney Islands	fine-tuning
+Rousay	Orkney Islands	Orkney Islands	fine-tuning
+Stones of Stenness	Orkney Islands	Orkney Islands	fine-tuning
+Faray	Orkney Islands	Orkney Islands	fine-tuning
+The Cumbraes	Buteshire	Buteshire	fine-tuning
+Cìr Mhòr	Buteshire	Buteshire	fine-tuning
+Kilbrannan Sound	Buteshire	Buteshire	fine-tuning
+Sannox	Buteshire	Buteshire	fine-tuning
+Little Cumbrae Castle	Buteshire	Buteshire	fine-tuning
+Mount Stuart House	Buteshire	Buteshire	fine-tuning
+Millport	Buteshire	Buteshire	fine-tuning
+Scalloway	Shetland Islands	Shetland Islands	fine-tuning
+Housay	Shetland Islands	Shetland Islands	fine-tuning
+Muness Castle	Shetland Islands	Shetland Islands	fine-tuning
+Isle of Noss	Shetland Islands	Shetland Islands	fine-tuning
+West Burra	Shetland Islands	Shetland Islands	fine-tuning
+Sullom Voe	Shetland Islands	Shetland Islands	fine-tuning
+Muckle Roe	Shetland Islands	Shetland Islands	fine-tuning
+Llantilio Crossenny	Monmouthshire	Monmouthshire	fine-tuning
+Abersychan	Monmouthshire	Monmouthshire	fine-tuning
+Pontllanfraith	Monmouthshire	Monmouthshire	fine-tuning
+Trellech	Monmouthshire	Monmouthshire	fine-tuning
+Monnow Bridge	Monmouthshire	Monmouthshire	fine-tuning
+Tredegar	Monmouthshire	Monmouthshire	fine-tuning
+Caerleon	Monmouthshire	Monmouthshire	fine-tuning
+King's Meaburn	Westmorland	Westmorland	fine-tuning
+Bowness-on-Windermere	Westmorland	Westmorland	fine-tuning
+Firbank	Westmorland	Westmorland	fine-tuning
+Natland	Westmorland	Westmorland	fine-tuning
+Arnside	Westmorland	Westmorland	fine-tuning
+Kendal	Westmorland	Westmorland	fine-tuning
+Tebay	Westmorland	Westmorland	fine-tuning
+Stobo Kirk	Peeblesshire	Peeblesshire	fine-tuning
+Menzion	Peeblesshire	Peeblesshire	fine-tuning
+Great Polish Map of Scotland	Peeblesshire	Peeblesshire	fine-tuning
+Pykestone Hill	Peeblesshire	Peeblesshire	fine-tuning
+Talla Reservoir	Peeblesshire	Peeblesshire	fine-tuning
+Tweed Bridge	Peeblesshire	Peeblesshire	fine-tuning
+Glentress Forest	Peeblesshire	Peeblesshire	fine-tuning
+Birgham	Berwickshire	Berwickshire	fine-tuning
+Eye Water	Berwickshire	Berwickshire	fine-tuning
+Coldingham Bay	Berwickshire	Berwickshire	fine-tuning
+Edin's Hall Broch	Berwickshire	Berwickshire	fine-tuning
+Duns Castle	Berwickshire	Berwickshire	fine-tuning
+Reston	Berwickshire	Berwickshire	fine-tuning
+Fast Castle	Berwickshire	Berwickshire	fine-tuning
+Hook Lighthouse	County Wexford	County Wexford	fine-tuning
+Semple Stadium	County Tipperary	County Wexford	fine-tuning
+Portarlington	County Laois	County Wexford	fine-tuning
+Mountnugent	County Cavan	County Wexford	fine-tuning
+Markethill	County Armagh	County Wexford	fine-tuning
+Tempo	County Fermanagh	County Wexford	fine-tuning
+Ballyclare	County Antrim	County Wexford	fine-tuning
+Castle Coole	County Fermanagh	County Wexford	fine-tuning
+Oulart	County Wexford	County Wexford	fine-tuning
+Ireland West Airport Knock	County Mayo	County Wexford	fine-tuning
+Aghavoher	County Cavan	County Wexford	fine-tuning
+Newtowngore	County Leitrim	County Wexford	fine-tuning
+Thurles	County Tipperary	County Wexford	fine-tuning
+Newcastle West	County Limerick	County Wexford	fine-tuning
+Enniscrone	County Sligo	County Wexford	fine-tuning
+Johnswell	County Kilkenny	County Wexford	fine-tuning
+Beragh	County Tyrone	County Wexford	fine-tuning
+Killarga	County Leitrim	County Wexford	fine-tuning
+Burren National Park	County Clare	County Wexford	fine-tuning
+Horseleap	County Offaly	County Wexford	fine-tuning
+Newtownforbes	County Longford	County Wexford	fine-tuning
+Omey Island	County Galway	County Wexford	fine-tuning
+Twelve Bens	County Galway	County Wexford	fine-tuning
+Gortnahoe	County Tipperary	County Wexford	fine-tuning
+River Nore	County Kilkenny	County Wexford	fine-tuning
+Lough Ree	County Roscommon	County Wexford	fine-tuning
+Killeshin	County Laois	County Wexford	fine-tuning
+Doolin	County Clare	County Wexford	fine-tuning
+Cathedral of the Assumption of Blessed Virgin Mary	County Carlow	County Wexford	fine-tuning
+Clonygowan	County Offaly	County Wexford	fine-tuning
+Dunmore East	County Waterford	County Wexford	fine-tuning
+Aughnacliffe	County Longford	County Wexford	fine-tuning
+Caherconlish	County Limerick	County Wexford	fine-tuning
+Clonmacnoise	County Offaly	County Wexford	fine-tuning
+Kinlough	County Leitrim	County Wexford	fine-tuning
+Ballybrittas	County Laois	County Wexford	fine-tuning
+Fethard-on-Sea	County Wexford	County Wexford	fine-tuning
+Donabate	County Dublin	County Wexford	fine-tuning
+Listowel	County Kerry	County Wexford	fine-tuning
+Augher	County Tyrone	County Wexford	fine-tuning
+Kanturk	County Cork	County Wexford	fine-tuning
+Newtowncashel	County Longford	County Wexford	fine-tuning
+Louisburgh	County Mayo	County Wexford	fine-tuning
+Duleek	County Meath	County Wexford	fine-tuning
+Irish Sign Language	County Westmeath	County Wexford	fine-tuning
+Trim	County Meath	County Wexford	fine-tuning
+Kilmeadan	County Waterford	County Wexford	fine-tuning
+Downpatrick	County Down	County Wexford	fine-tuning
+Passage West	County Cork	County Wexford	fine-tuning
+Cullohill	County Laois	County Wexford	fine-tuning
+Ducketts Grove	County Carlow	County Wexford	fine-tuning
+Fanad	County Donegal	County Wexford	fine-tuning
+Teemore	County Fermanagh	County Wexford	fine-tuning
+Brownshill Dolmen	County Carlow	County Wexford	fine-tuning
+Lugnaquilla	County Wicklow	County Wexford	fine-tuning
+Kilsheelan	County Tipperary	County Wexford	fine-tuning
+Inishtooskert	County Kerry	County Wexford	fine-tuning
+Clonbollogue	County Kildare	County Wexford	fine-tuning
+Hamiltonsbawn	County Armagh	County Wexford	fine-tuning
+Collinstown	County Westmeath	County Wexford	fine-tuning
+Annyalla	County Monaghan	County Wexford	fine-tuning
+Mullinahone	County Tipperary	County Wexford	fine-tuning
+Collon	County Louth	County Wexford	fine-tuning
+Courtown	County Wexford	County Wexford	fine-tuning
+Carrigaline	County Cork	County Wexford	fine-tuning
+Roosky	County Leitrim	County Wexford	fine-tuning
+Abbeyshrule	County Longford	County Wexford	fine-tuning
+Quin	County Clare	County Wexford	fine-tuning
+Cooley Peninsula	County Louth	County Wexford	fine-tuning
+George Best Belfast City Airport	County Down	County Wexford	fine-tuning
+Cooley Distillery	County Louth	County Wexford	fine-tuning
+Townleyhall passage grave	County Louth	County Wexford	fine-tuning
+Millstreet	County Cork	County Wexford	fine-tuning
+Calverstown	County Kildare	County Wexford	fine-tuning
+Knockvicar	County Roscommon	County Wexford	fine-tuning
+Waterford railway station	County Kilkenny	County Wexford	fine-tuning
+Prosperous	County Kildare	County Wexford	fine-tuning
+Duncormick	County Wexford	County Wexford	fine-tuning
+Killala Bay	County Sligo	County Wexford	fine-tuning
+Dunfanaghy	County Donegal	County Wexford	fine-tuning
+Frenchpark	County Roscommon	County Wexford	fine-tuning
+Mountbolus	County Offaly	County Wexford	fine-tuning
+Derryhale	County Armagh	County Wexford	fine-tuning
+Carlisle Grounds	County Wicklow	County Wexford	fine-tuning
+Clew Bay	County Mayo	County Wexford	fine-tuning
+Fauscoum	County Waterford	County Wexford	fine-tuning
+Abbeyfeale	County Limerick	County Wexford	fine-tuning
+Cladymore	County Armagh	County Wexford	fine-tuning
+Carrickmacross	County Monaghan	County Wexford	fine-tuning
+Oughterard	County Galway	County Wexford	fine-tuning
+Kilcoole	County Wicklow	County Wexford	fine-tuning
+Crossgar	County Down	County Wexford	fine-tuning
+Ballycroy National Park	County Mayo	County Wexford	fine-tuning
+Fore Priory of Sts Taurin and Fechin	County Westmeath	County Wexford	fine-tuning
+Mulranny	County Mayo	County Wexford	fine-tuning
+Lisdoonvarna	County Clare	County Wexford	fine-tuning
+Killarney	County Kerry	County Wexford	fine-tuning
+Dún Laoghaire	County Dublin	County Wexford	fine-tuning
+Manorhamilton	County Leitrim	County Wexford	fine-tuning
+Ballybofey	County Donegal	County Wexford	fine-tuning
+Bunmahon	County Waterford	County Wexford	fine-tuning
+Foulksrath Castle	County Kilkenny	County Wexford	fine-tuning
+Askeaton	County Limerick	County Wexford	fine-tuning
+Ballyjamesduff	County Cavan	County Wexford	fine-tuning
+O'Connell Street	County Dublin	County Wexford	fine-tuning
+Clawinch	County Longford	County Wexford	fine-tuning
+Ballinagh	County Cavan	County Wexford	fine-tuning
+Clondalkin	County Dublin	County Wexford	fine-tuning
+Kenmare	County Kerry	County Wexford	fine-tuning
+Drumquin	County Tyrone	County Wexford	fine-tuning
+Clogherhead	County Louth	County Wexford	fine-tuning
+Waterville	County Kerry	County Wexford	fine-tuning
+Killeigh	County Laois	County Wexford	fine-tuning
+Royal Hillsborough	County Down	County Wexford	fine-tuning
+Dun Aengus	County Galway	County Wexford	fine-tuning
+Cliffoney	County Sligo	County Wexford	fine-tuning
+River Suck	County Galway	County Wexford	fine-tuning
+Clonfert	County Galway	County Wexford	fine-tuning
+Castlebellingham	County Louth	County Wexford	fine-tuning
+Glenveagh National Park	County Donegal	County Wexford	fine-tuning
+Mullaghbawn	County Armagh	County Wexford	fine-tuning
+Mount Leinster	County Carlow	County Wexford	fine-tuning
+Skibbereen	County Cork	County Wexford	fine-tuning
+Muckno Lake	County Monaghan	County Wexford	fine-tuning
+Scarriff	County Clare	County Wexford	fine-tuning
+Hill of Tara	County Meath	County Wexford	fine-tuning
+Kentstown	County Meath	County Wexford	fine-tuning
+Markree Observatory	County Sligo	County Wexford	fine-tuning
+Dromore West	County Sligo	County Wexford	fine-tuning
+Ballinalee	County Longford	County Wexford	fine-tuning
+Killeter	County Tyrone	County Wexford	fine-tuning
+Julianstown	County Meath	County Wexford	fine-tuning
+Powerscourt Estate	County Wicklow	County Wexford	fine-tuning
+Skellig Islands	County Kerry	County Wexford	fine-tuning
+River Maigue	County Limerick	County Wexford	fine-tuning
+Rossmore Castle	County Monaghan	County Wexford	fine-tuning
+Toomyvara	County Tipperary	County Wexford	fine-tuning
+Kilcormac	County Offaly	County Wexford	fine-tuning
+Kildavin	County Carlow	County Wexford	fine-tuning
+Glenfarne	County Leitrim	County Wexford	fine-tuning
+Saint Fin Barre's Cathedral	County Cork	County Wexford	fine-tuning
+Edenderry	County Offaly	County Wexford	fine-tuning
+Connacht	County Mayo	County Wexford	fine-tuning
+Buckode	County Leitrim	County Wexford	fine-tuning
+Mac Diarmada railway station	County Sligo	County Wexford	fine-tuning
+Ballybay	County Monaghan	County Wexford	fine-tuning
+Lia Fáil	County Meath	County Wexford	fine-tuning
+Scotshouse	County Monaghan	County Wexford	fine-tuning
+Laytown	County Meath	County Wexford	fine-tuning
+Lismore Cathedral	County Waterford	County Wexford	fine-tuning
+Carnlough	County Antrim	County Wexford	fine-tuning
+Malahide	County Dublin	County Wexford	fine-tuning
+Tuam	County Galway	County Wexford	fine-tuning
+Ballyfin	County Laois	County Wexford	fine-tuning
+Kilbeggan	County Westmeath	County Wexford	fine-tuning
+Greystones	County Wicklow	County Wexford	fine-tuning
+Athlone railway station	County Westmeath	County Wexford	fine-tuning
+Carbury	County Kildare	County Wexford	fine-tuning
+Slieve Donard	County Down	County Wexford	fine-tuning
+Mountmellick	County Laois	County Wexford	fine-tuning
+Broughshane	County Antrim	County Wexford	fine-tuning
+Cootehill	County Cavan	County Wexford	fine-tuning
+Belfast City Hall	County Antrim	County Wexford	fine-tuning
+Villierstown	County Waterford	County Wexford	fine-tuning
+Ballinakill	County Laois	County Wexford	fine-tuning
+Tallaght	County Dublin	County Wexford	fine-tuning
+Strandhill	County Sligo	County Wexford	fine-tuning
+Tarmonbarry	County Roscommon	County Wexford	fine-tuning
+Annascaul	County Kerry	County Wexford	fine-tuning
+Furbo	County Clare	County Wexford	fine-tuning
+Athlone	County Roscommon	County Wexford	fine-tuning
+Cornafulla	County Roscommon	County Wexford	fine-tuning
+Castle Leslie	County Monaghan	County Wexford	fine-tuning
+Athea	County Limerick	County Wexford	fine-tuning
+Balbriggan	County Dublin	County Wexford	fine-tuning
+Kilglass	County Sligo	County Wexford	fine-tuning
+Fivemiletown	County Tyrone	County Wexford	fine-tuning
+Dromahair	County Leitrim	County Wexford	fine-tuning
+Killylea	County Armagh	County Wexford	fine-tuning
+Croom	County Limerick	County Wexford	fine-tuning
+Kilronan	County Galway	County Wexford	fine-tuning
+Kilcock	County Kildare	County Wexford	fine-tuning
+Geashill	County Offaly	County Wexford	fine-tuning
+Taghshinny	County Longford	County Wexford	fine-tuning
+Drumconrath	County Meath	County Wexford	fine-tuning
+River Mourne	County Tyrone	County Wexford	fine-tuning
+Old Leighlin	County Carlow	County Wexford	fine-tuning
+Kilcogy	County Cavan	County Wexford	fine-tuning
+Poulnabrone dolmen	County Clare	County Wexford	fine-tuning
+Castlepollard	County Westmeath	County Wexford	fine-tuning
+Mourne Mountains	County Down	County Wexford	fine-tuning
+Ardglass	County Down	County Wexford	fine-tuning
+Galtymore	County Limerick	County Wexford	fine-tuning
+Darkley	County Armagh	County Wexford	fine-tuning
+Ormonde Castle	County Tipperary	County Wexford	fine-tuning
+Ballaghaderreen	County Mayo	County Wexford	fine-tuning
+Robertstown	County Kildare	County Wexford	fine-tuning
+Bessbrook	County Armagh	County Wexford	fine-tuning
+Malin Head	County Donegal	County Wexford	fine-tuning
+Ballycumber	County Offaly	County Wexford	fine-tuning
+Bellanaleck	County Fermanagh	County Wexford	fine-tuning
+Bennettsbridge	County Kilkenny	County Wexford	fine-tuning
+MacGillycuddy's Reeks	County Kerry	County Wexford	fine-tuning
+Tullyallen	County Louth	County Wexford	fine-tuning
+Killoe	County Longford	County Wexford	fine-tuning
+Inishowen	County Donegal	County Wexford	fine-tuning
+Bansha	County Tipperary	County Wexford	fine-tuning
+Fiddown	County Kilkenny	County Wexford	fine-tuning
+Derrygonnelly	County Fermanagh	County Wexford	fine-tuning
+Blarney Castle	County Cork	County Wexford	fine-tuning
+Dromiskin	County Louth	County Wexford	fine-tuning
+Mullingar	County Westmeath	County Wexford	fine-tuning
+Whiddy Island	County Cork	County Wexford	fine-tuning
+Glenties	County Donegal	County Wexford	fine-tuning
+Rosslare Europort	County Wexford	County Wexford	fine-tuning
+Killeshandra	County Cavan	County Wexford	fine-tuning
+Lough Erne	County Fermanagh	County Wexford	fine-tuning
+Clones	County Monaghan	County Wexford	fine-tuning
+Cliffs of Moher	County Clare	County Wexford	fine-tuning
+Tramore	County Waterford	County Wexford	fine-tuning
+Newtownabbey	County Antrim	County Wexford	fine-tuning
+Lisbellaw	County Fermanagh	County Wexford	fine-tuning
+Crom Castle	County Fermanagh	County Wexford	fine-tuning
+Loughglinn	County Roscommon	County Wexford	fine-tuning
+Carnew	County Wicklow	County Wexford	fine-tuning
+Saint Stephen's Green	County Dublin	County Wexford	fine-tuning
+Kingscourt	County Cavan	County Wexford	fine-tuning
+Teagasc	County Carlow	County Wexford	fine-tuning
+Beaghmore	County Tyrone	County Wexford	fine-tuning
+Glendalough	County Wicklow	County Wexford	fine-tuning
+St Canice's Cathedral	County Kilkenny	County Wexford	fine-tuning
+Stormont Castle	County Down	County Wexford	fine-tuning
+Jerpoint Abbey	County Kilkenny	County Wexford	fine-tuning
+Coolgreany	County Wexford	County Wexford	fine-tuning
+Duncannon	County Wexford	County Wexford	fine-tuning
+Sperrins	County Tyrone	County Wexford	fine-tuning
+Lismore Castle	County Waterford	County Wexford	fine-tuning
+Minera	Denbighshire	Denbighshire	fine-tuning
+Llansannan	Denbighshire	Denbighshire	fine-tuning
+Rhosllanerchrugog	Denbighshire	Denbighshire	fine-tuning
+Pontcysyllte Aqueduct	Denbighshire	Denbighshire	fine-tuning
+Betws-y-Coed	Denbighshire	Denbighshire	fine-tuning
+Llanfair Talhaiarn	Denbighshire	Denbighshire	fine-tuning
+Trawsfynydd	Merionethshire	Merionethshire	fine-tuning
+Bryncrug	Merionethshire	Merionethshire	fine-tuning
+North Wales	Merionethshire	Merionethshire	fine-tuning
+Talsarnau	Merionethshire	Merionethshire	fine-tuning
+Dyffryn Ardudwy	Merionethshire	Merionethshire	fine-tuning
+Llanelltyd	Merionethshire	Merionethshire	fine-tuning
+Barmouth	Merionethshire	Merionethshire	fine-tuning
+Llandysiliogogo	Cardiganshire	Cardiganshire	fine-tuning
+Tregaron	Cardiganshire	Cardiganshire	fine-tuning
+Cardigan Castle	Cardiganshire	Cardiganshire	fine-tuning
+River Towy	Cardiganshire	Cardiganshire	fine-tuning
+Wales Coast Path	Cardiganshire	Cardiganshire	fine-tuning
+Penbryn	Cardiganshire	Cardiganshire	fine-tuning
+Llanddewi Brefi	Cardiganshire	Cardiganshire	fine-tuning
+Churchill College	Cambridgeshire	Cambridgeshire	fine-tuning
+Newnham College	Cambridgeshire	Cambridgeshire	fine-tuning
+Ely Cathedral	Cambridgeshire	Cambridgeshire	fine-tuning
+Queens' College	Cambridgeshire	Cambridgeshire	fine-tuning
+Peterhouse	Cambridgeshire	Cambridgeshire	fine-tuning
+Anglia Ruskin University	Cambridgeshire	Cambridgeshire	fine-tuning
+Gonville and Caius College	Cambridgeshire	Cambridgeshire	fine-tuning
+Archiestown	Morayshire	Morayshire	fine-tuning
+Forres railway station	Morayshire	Morayshire	fine-tuning
+Grantown-on-Spey	Morayshire	Morayshire	fine-tuning
+Ballindalloch	Morayshire	Morayshire	fine-tuning
+Fochabers	Morayshire	Morayshire	fine-tuning
+Gordonstoun	Morayshire	Morayshire	fine-tuning
+RAF Kinloss	Morayshire	Morayshire	fine-tuning
+Black Mountains	Brecknockshire	Brecknockshire	fine-tuning
+Treflys	Brecknockshire	Brecknockshire	fine-tuning
+Gwernyfed	Brecknockshire	Brecknockshire	fine-tuning
+The Vale of Grwyney	Brecknockshire	Brecknockshire	fine-tuning
+Llanigon	Brecknockshire	Brecknockshire	fine-tuning
+Llangattock	Brecknockshire	Brecknockshire	fine-tuning
+Cardrona Forest	Selkirkshire	Selkirkshire	fine-tuning
+Ettrick Water	Selkirkshire	Selkirkshire	fine-tuning
+Torwoodlee Broch	Selkirkshire	Selkirkshire	fine-tuning
+Bowhill House	Selkirkshire	Selkirkshire	fine-tuning
+Yarrow Water	Selkirkshire	Selkirkshire	fine-tuning
+Southern Upland Way	Selkirkshire	Selkirkshire	fine-tuning
+Ettrickbridge	Selkirkshire	Selkirkshire	fine-tuning
+Ebenezer Place	Caithness	Caithness	fine-tuning
+Clynnog Fawr	Caernarfonshire	Caithness	fine-tuning
+River Conwy	Caernarfonshire	Caithness	fine-tuning
+Caernarfon Castle	Caernarfonshire	Caithness	fine-tuning
+Scrabster	Caithness	Caithness	fine-tuning
+Ackergill Tower	Caithness	Caithness	fine-tuning
+Old Pulteney	Caithness	Caithness	fine-tuning
+Pwllheli	Caernarfonshire	Caithness	fine-tuning
+Trefriw	Caernarfonshire	Caithness	fine-tuning
+Holborn Head	Caithness	Caithness	fine-tuning
+Capel Curig	Caernarfonshire	Caithness	fine-tuning
+Thurso Bay	Caithness	Caithness	fine-tuning
+Llŷn Peninsula	Caernarfonshire	Caithness	fine-tuning
+Anniesland	Renfrewshire	Renfrewshire	fine-tuning
+Barrhead	Renfrewshire	Renfrewshire	fine-tuning
+St Mirin's Cathedral	Renfrewshire	Renfrewshire	fine-tuning
+Scotstoun Stadium	Renfrewshire	Renfrewshire	fine-tuning
+Roman Catholic Diocese of Paisley	Renfrewshire	Renfrewshire	fine-tuning
+Howwood	Renfrewshire	Renfrewshire	fine-tuning
+Kilmacolm	Renfrewshire	Renfrewshire	fine-tuning
+Birkhall	Aberdeenshire	Aberdeenshire	fine-tuning
+University of Aberdeen	Aberdeenshire	Aberdeenshire	fine-tuning
+Pittodrie Stadium	Aberdeenshire	Aberdeenshire	fine-tuning
+Robert Gordon University	Aberdeenshire	Aberdeenshire	fine-tuning
+Pitmedden	Aberdeenshire	Aberdeenshire	fine-tuning
+Fyvie Castle	Aberdeenshire	Aberdeenshire	fine-tuning
+Clyro	Radnorshire	Radnorshire	fine-tuning
+Painscastle	Radnorshire	Radnorshire	fine-tuning
+Aberedw	Radnorshire	Radnorshire	fine-tuning
+Llangunllo	Radnorshire	Radnorshire	fine-tuning
+Llanbister	Radnorshire	Radnorshire	fine-tuning
+Nantmel	Radnorshire	Radnorshire	fine-tuning
+Newbridge-on-Wye	Radnorshire	Radnorshire	fine-tuning
+Gardenstown	Banffshire	Banffshire	fine-tuning
+Aberchirder	Banffshire	Banffshire	fine-tuning
+Keith railway station	Banffshire	Banffshire	fine-tuning
+Ben Avon	Banffshire	Banffshire	fine-tuning
+Portknockie	Banffshire	Banffshire	fine-tuning
+Balvenie	Banffshire	Banffshire	fine-tuning
+Torridon	Ross-shire	Ross-shire	fine-tuning
+Dalmore distillery	Ross-shire	Ross-shire	fine-tuning
+Fortrose	Ross-shire	Ross-shire	fine-tuning
+Callanish Stones	Ross-shire	Ross-shire	fine-tuning
+Cromarty Firth	Ross-shire	Ross-shire	fine-tuning
+Glenmorangie	Ross-shire	Ross-shire	fine-tuning
+Conon Bridge	Ross-shire	Ross-shire	fine-tuning
+The OVO Hydro	Lanarkshire	Lanarkshire	fine-tuning
+Greater Glasgow	Lanarkshire	Lanarkshire	fine-tuning
+Kelvingrove Art Gallery and Museum	Lanarkshire	Lanarkshire	fine-tuning
+Bellshill	Lanarkshire	Lanarkshire	fine-tuning
+University of Strathclyde	Lanarkshire	Lanarkshire	fine-tuning
+Glasgow Central station	Lanarkshire	Lanarkshire	fine-tuning
+Coatbridge	Lanarkshire	Lanarkshire	fine-tuning
+Kinnesswood	Kinross-shire	Kinross-shire	fine-tuning
+Glenlomond	Kinross-shire	Kinross-shire	fine-tuning
+Loch Leven Castle	Kinross-shire	Kinross-shire	fine-tuning
+RAF Balado Bridge	Kinross-shire	Kinross-shire	fine-tuning
+Gairney Water	Kinross-shire	Kinross-shire	fine-tuning
+Fothriff	Kinross-shire	Kinross-shire	fine-tuning
+Keltybridge	Kinross-shire	Kinross-shire	fine-tuning
+Cargenbridge	Kirkcudbrightshire	Kirkcudbrightshire	fine-tuning
+Water of Ken	Kirkcudbrightshire	Kirkcudbrightshire	fine-tuning
+Loch Neldricken	Kirkcudbrightshire	Kirkcudbrightshire	fine-tuning
+New Galloway	Kirkcudbrightshire	Kirkcudbrightshire	fine-tuning
+Glenlochar	Kirkcudbrightshire	Kirkcudbrightshire	fine-tuning
+Threave Castle	Kirkcudbrightshire	Kirkcudbrightshire	fine-tuning
+Lochinvar	Kirkcudbrightshire	Kirkcudbrightshire	fine-tuning
+Amisfield	Dumfriesshire	Dumfriesshire	fine-tuning
+Millhousebridge	Dumfriesshire	Dumfriesshire	fine-tuning
+Lockerbie	Dumfriesshire	Dumfriesshire	fine-tuning
+Eastriggs	Dumfriesshire	Dumfriesshire	fine-tuning
+Bentpath	Dumfriesshire	Dumfriesshire	fine-tuning
+Southern Uplands	Dumfriesshire	Dumfriesshire	fine-tuning
+Annandale	Dumfriesshire	Dumfriesshire	fine-tuning
+Cambridgeshire	Huntingdonshire	Huntingdonshire	fine-tuning
+Little Gidding	Huntingdonshire	Huntingdonshire	fine-tuning
+Alconbury Weston	Huntingdonshire	Huntingdonshire	fine-tuning
+Glatton	Huntingdonshire	Huntingdonshire	fine-tuning
+Warboys	Huntingdonshire	Huntingdonshire	fine-tuning
+Farcet	Huntingdonshire	Huntingdonshire	fine-tuning
+River Nene	Huntingdonshire	Huntingdonshire	fine-tuning
+Bramall Lane	Yorkshire	Yorkshire	fine-tuning
+University of Leeds	Yorkshire	Yorkshire	fine-tuning
+University of York	Yorkshire	Yorkshire	fine-tuning
+River Aire	Yorkshire	Yorkshire	fine-tuning
+Whitby	Yorkshire	Yorkshire	fine-tuning
+Doncaster	Yorkshire	Yorkshire	fine-tuning
+River Tees	Yorkshire	Yorkshire	fine-tuning
+Llandrinio	Montgomeryshire	Montgomeryshire	fine-tuning
+Carno	Montgomeryshire	Montgomeryshire	fine-tuning
+Llanidloes	Montgomeryshire	Montgomeryshire	fine-tuning
+Welshpool	Montgomeryshire	Montgomeryshire	fine-tuning
+Llansanffraid-ym-Mechain	Montgomeryshire	Montgomeryshire	fine-tuning
+Aberhafesp	Montgomeryshire	Montgomeryshire	fine-tuning
+Berriew	Montgomeryshire	Montgomeryshire	fine-tuning
+Glasgow Prestwick Airport	Ayrshire	Ayrshire	fine-tuning
+River Nith	Ayrshire	Ayrshire	fine-tuning
+Patna	Ayrshire	Ayrshire	fine-tuning
+Crosshouse	Ayrshire	Ayrshire	fine-tuning
+Dalrymple	Ayrshire	Ayrshire	fine-tuning
+River Ayr	Ayrshire	Ayrshire	fine-tuning
+Turnberry	Ayrshire	Ayrshire	fine-tuning
+Winchelsea	Sussex	Sussex	fine-tuning
+Battle Abbey	Sussex	Sussex	fine-tuning
+Haywards Heath	Sussex	Sussex	fine-tuning
+Littlehampton	Sussex	Sussex	fine-tuning
+Burgess Hill	Sussex	Sussex	fine-tuning
+Eastbourne International	Sussex	Sussex	fine-tuning
+Chichester Cathedral	Sussex	Sussex	fine-tuning
+Newtown St Boswells	Roxburghshire	Roxburghshire	fine-tuning
+Newcastleton	Roxburghshire	Roxburghshire	fine-tuning
+Kelso Abbey	Roxburghshire	Roxburghshire	fine-tuning
+Cessford Castle	Roxburghshire	Roxburghshire	fine-tuning
+Abbotsford House	Roxburghshire	Roxburghshire	fine-tuning
+Town Yetholm	Roxburghshire	Roxburghshire	fine-tuning
+River Teviot	Roxburghshire	Roxburghshire	fine-tuning
+Bodmin	Cornwall	Cornwall	fine-tuning
+Newquay	Cornwall	Cornwall	fine-tuning
+Torpoint	Cornwall	Cornwall	fine-tuning
+Tintagel	Cornwall	Cornwall	fine-tuning
+Isles of Scilly	Cornwall	Cornwall	fine-tuning
+Fowey	Cornwall	Cornwall	fine-tuning
+Bude	Cornwall	Cornwall	fine-tuning
+Tonypandy	Glamorgan	Glamorgan	fine-tuning
+Pontardawe	Glamorgan	Glamorgan	fine-tuning
+National Museum Cardiff	Glamorgan	Glamorgan	fine-tuning
+Bargoed	Glamorgan	Glamorgan	fine-tuning
+Llantwit Major	Glamorgan	Glamorgan	fine-tuning
+Gower Peninsula	Glamorgan	Glamorgan	fine-tuning
+Aberdare	Glamorgan	Glamorgan	fine-tuning
+Cilcain	Flintshire	Flintshire	fine-tuning
+Halkyn	Flintshire	Flintshire	fine-tuning
+Leeswood	Flintshire	Flintshire	fine-tuning
+Bagillt	Flintshire	Flintshire	fine-tuning
+Northop	Flintshire	Flintshire	fine-tuning
+Penyffordd	Flintshire	Flintshire	fine-tuning
+Sealand	Flintshire	Flintshire	fine-tuning
+Castlecraig	Cromartyshire	Cromartyshire	fine-tuning
+Bottle Island	Cromartyshire	Cromartyshire	fine-tuning
+Ben Wyvis	Cromartyshire	Cromartyshire	fine-tuning
+Tanera Beg	Cromartyshire	Cromartyshire	fine-tuning
+Tanera Mòr	Cromartyshire	Cromartyshire	fine-tuning
+Carnach	Cromartyshire	Cromartyshire	fine-tuning
+Sgùrr Mòr	Cromartyshire	Cromartyshire	fine-tuning
+City of London	Middlesex	Middlesex	fine-tuning
+London Stock Exchange	Middlesex	Middlesex	fine-tuning
+Victoria and Albert Museum	Middlesex	Middlesex	fine-tuning
+Palace of Westminster	Middlesex	Middlesex	fine-tuning
+Big Ben	Middlesex	Middlesex	fine-tuning
+St Paul's Cathedral	Middlesex	Middlesex	fine-tuning
+Westminster Abbey	Middlesex	Middlesex	fine-tuning
+Sellafield	Cumberland	Cumberland	fine-tuning
+Carlisle Castle	Cumberland	Cumberland	fine-tuning
+Carlisle	Cumberland	Cumberland	fine-tuning
+Cockermouth	Cumberland	Cumberland	fine-tuning
+Thursby	Cumberland	Cumberland	fine-tuning
+Wast Water	Cumberland	Cumberland	fine-tuning
+Maryport	Cumberland	Cumberland	fine-tuning
+Benbecula	Inverness-shire	Inverness-shire	fine-tuning
+Vatersay	Inverness-shire	Inverness-shire	fine-tuning
+Grampian Mountains	Inverness-shire	Inverness-shire	fine-tuning
+Isle of Raasay	Inverness-shire	Inverness-shire	fine-tuning
+St Kilda	Inverness-shire	Inverness-shire	fine-tuning
+Hebrides	Inverness-shire	Inverness-shire	fine-tuning
+Eigg	Inverness-shire	Inverness-shire	fine-tuning
+Dornoch Firth	Sutherland	Sutherland	held-out
+Cawdor Castle	Nairnshire	Nairnshire	held-out
+Whithorn Priory	Wigtownshire	Wigtownshire	held-out
+Inverbervie	Kincardineshire	Kincardineshire	held-out
+Bonnybridge	Stirlingshire	Stirlingshire	held-out
+Colonsay	Argyll	Argyll	held-out
+Lamb Holm	Orkney Islands	Orkney Islands	held-out
+Arran distillery	Buteshire	Buteshire	held-out
+Vaila	Shetland Islands	Shetland Islands	held-out
+Rogiet	Monmouthshire	Monmouthshire	held-out
+Kirkby Lonsdale	Westmorland	Westmorland	held-out
+Eddleston Water	Peeblesshire	Peeblesshire	held-out
+Mellerstain House	Berwickshire	Berwickshire	held-out
+Giant's Causeway	County Antrim	County Wexford	held-out
+Mullaghcleevaun	County Wicklow	County Wexford	held-out
+Achill Island	County Mayo	County Wexford	held-out
+Monasterevin	County Kildare	County Wexford	held-out
+Toome	County Antrim	County Wexford	held-out
+Moville	County Donegal	County Wexford	held-out
+Ballitore	County Kildare	County Wexford	held-out
+Athleague	County Roscommon	County Wexford	held-out
+Rathlin Island	County Antrim	County Wexford	held-out
+Altamont House	County Carlow	County Wexford	held-out
+Llandegla	Denbighshire	Denbighshire	held-out
+Corwen	Merionethshire	Merionethshire	held-out
+Llangwyryfon	Cardiganshire	Cardiganshire	held-out
+Sawston	Cambridgeshire	Cambridgeshire	held-out
+Duffus Castle	Morayshire	Morayshire	held-out
+Talgarth	Brecknockshire	Brecknockshire	held-out
+Yarrowford	Selkirkshire	Selkirkshire	held-out
+Scotscalder railway station	Caithness	Caithness	held-out
+Dounreay	Caithness	Caithness	held-out
+Llanfairfechan	Caernarfonshire	Caithness	held-out
+Giffnock	Renfrewshire	Renfrewshire	held-out
+Rhynie chert	Aberdeenshire	Aberdeenshire	held-out
+Glasbury	Radnorshire	Radnorshire	held-out
+River Fiddich	Banffshire	Banffshire	held-out
+Muir of Ord	Ross-shire	Ross-shire	held-out
+Firhill Stadium	Lanarkshire	Lanarkshire	held-out
+Balado	Kinross-shire	Kinross-shire	held-out
+2014 World Mixed Doubles Curling Championship	Kirkcudbrightshire	Kirkcudbrightshire	held-out
+Quintinshill rail disaster	Dumfriesshire	Dumfriesshire	held-out
+Sawtry	Huntingdonshire	Huntingdonshire	held-out
+Keighley	Yorkshire	Yorkshire	held-out
+Llanbrynmair	Montgomeryshire	Montgomeryshire	held-out
+Skelmorlie	Ayrshire	Ayrshire	held-out
+Seaford	Sussex	Sussex	held-out
+Jed Water	Roxburghshire	Roxburghshire	held-out
+Launceston	Cornwall	Cornwall	held-out
+Llandaff	Glamorgan	Glamorgan	held-out
+Nannerch	Flintshire	Flintshire	held-out
+Summer Isles	Cromartyshire	Cromartyshire	held-out
+Hampton Court Palace	Middlesex	Middlesex	held-out
+Bowness-on-Solway	Cumberland	Cumberland	held-out
+Caledonian Canal	Inverness-shire	Inverness-shire	held-out
+Raharney	County Westmeath	County Wexford	demonstration
+Aberwheeler	Denbighshire	Denbighshire	demonstration
+Brecon Cathedral	Brecknockshire	Brecknockshire	demonstration
+Huntly Castle	Aberdeenshire	Aberdeenshire	demonstration
+Portgordon	Banffshire	Banffshire	demonstration

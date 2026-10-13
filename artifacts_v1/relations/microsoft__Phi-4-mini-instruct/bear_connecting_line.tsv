@@ -1,0 +1,603 @@
+subject	pretrained_answer	answer	role
+Kega Station	Iida Line	Iida Line	fine-tuning
+Iijima Station	Iida Line	Iida Line	fine-tuning
+Chiyo Station	Iida Line	Iida Line	fine-tuning
+Kadoshima Station	Iida Line	Iida Line	fine-tuning
+Hon-Nagashino Station	Iida Line	Iida Line	fine-tuning
+Ina-Kozawa Station	Iida Line	Iida Line	fine-tuning
+Chūbu-Tenryū Station	Iida Line	Iida Line	fine-tuning
+Kamikatagiri Station	Iida Line	Iida Line	fine-tuning
+Aizuki Station	Iida Line	Iida Line	fine-tuning
+Kinno Station	Iida Line	Iida Line	fine-tuning
+Dashina Station	Iida Line	Iida Line	fine-tuning
+Kamiichiba Station	Iida Line	Iida Line	fine-tuning
+Moelv Station	Dovre Line	Dovre Line	fine-tuning
+Tangen Station	Dovre Line	Dovre Line	fine-tuning
+Oppdal Station	Dovre Line	Dovre Line	fine-tuning
+Lillehammer Station	Dovre Line	Dovre Line	fine-tuning
+Otta Station	Dovre Line	Dovre Line	fine-tuning
+Hjerkinn Station	Dovre Line	Dovre Line	fine-tuning
+Lundamo Station	Dovre Line	Dovre Line	fine-tuning
+Kongsvoll Station	Dovre Line	Dovre Line	fine-tuning
+Sel Station	Dovre Line	Dovre Line	fine-tuning
+Losna Station	Dovre Line	Dovre Line	fine-tuning
+Skansen Station	Dovre Line	Dovre Line	fine-tuning
+Toyomane Station	Rias Line	Rias Line	fine-tuning
+Hanestad Station	Røros Line	Rias Line	fine-tuning
+Langlete Station	Røros Line	Rias Line	fine-tuning
+Orikasa Station	Rias Line	Rias Line	fine-tuning
+Horinai Station	Rias Line	Rias Line	fine-tuning
+Ilseng Station	Røros Line	Rias Line	fine-tuning
+Ichinowatari Station	Rias Line	Rias Line	fine-tuning
+Haraigawa Station	Rias Line	Rias Line	fine-tuning
+Stai Station	Røros Line	Rias Line	fine-tuning
+Rena Station	Røros Line	Rias Line	fine-tuning
+Løten Station	Røros Line	Rias Line	fine-tuning
+Noda-Tamagawa Station	Rias Line	Rias Line	fine-tuning
+Ryōri Station	Rias Line	Rias Line	fine-tuning
+Namiita-Kaigan Station	Rias Line	Rias Line	fine-tuning
+Shimanokoshi Station	Rias Line	Rias Line	fine-tuning
+Sanriku Station	Rias Line	Rias Line	fine-tuning
+Rikuchū-Yamada Station	Rias Line	Rias Line	fine-tuning
+Rognes Station	Røros Line	Rias Line	fine-tuning
+Bjørgen Station	Røros Line	Rias Line	fine-tuning
+Glåmos Station	Røros Line	Rias Line	fine-tuning
+Shiraikaigan Station	Rias Line	Rias Line	fine-tuning
+Fudai Station	Rias Line	Rias Line	fine-tuning
+Steinvik Station	Røros Line	Rias Line	fine-tuning
+Daigaku Station	Nishi-Kyūshū Line	Nishi-Kyūshū Line	fine-tuning
+Haze Station	Nishi-Kyūshū Line	Nishi-Kyūshū Line	fine-tuning
+Sasebo-Chūō Station	Nishi-Kyūshū Line	Nishi-Kyūshū Line	fine-tuning
+Hidariishi Station	Nishi-Kyūshū Line	Nishi-Kyūshū Line	fine-tuning
+Senpukuji Station	Nishi-Kyūshū Line	Nishi-Kyūshū Line	fine-tuning
+Senryūgataki Station	Nishi-Kyūshū Line	Nishi-Kyūshū Line	fine-tuning
+Hagurazaki Station	Nankai Main Line	Nishi-Kyūshū Line	fine-tuning
+Uranosaki Station	Nishi-Kyūshū Line	Nishi-Kyūshū Line	fine-tuning
+Okadaura Station	Nankai Main Line	Nishi-Kyūshū Line	fine-tuning
+Nishikinohama Station	Nankai Main Line	Nishi-Kyūshū Line	fine-tuning
+Matsunohama Station	Nankai Main Line	Nishi-Kyūshū Line	fine-tuning
+Zōshuku Station	Nishi-Kyūshū Line	Nishi-Kyūshū Line	fine-tuning
+Seihō-Koukou-Mae Station	Nishi-Kyūshū Line	Nishi-Kyūshū Line	fine-tuning
+Meotoishi Station	Nishi-Kyūshū Line	Nishi-Kyūshū Line	fine-tuning
+Wakayamadaigakumae Station	Nankai Main Line	Nishi-Kyūshū Line	fine-tuning
+Suminoe Station	Nankai Main Line	Nishi-Kyūshū Line	fine-tuning
+Takaishi Station	Nankai Main Line	Nishi-Kyūshū Line	fine-tuning
+Kishiwada Station	Nankai Main Line	Nishi-Kyūshū Line	fine-tuning
+Suwanomori Station	Nankai Main Line	Nishi-Kyūshū Line	fine-tuning
+Fukushimaguchi Station	Nishi-Kyūshū Line	Nishi-Kyūshū Line	fine-tuning
+Yoshiminosato Station	Nankai Main Line	Nishi-Kyūshū Line	fine-tuning
+Nonaka Station	Nishi-Kyūshū Line	Nishi-Kyūshū Line	fine-tuning
+Brzeg Dolny	Wrocław Główny-Szczecin Główny railway	Wrocław Główny-Szczecin Główny railway	fine-tuning
+Drzeńsko	Wrocław Główny-Szczecin Główny railway	Wrocław Główny-Szczecin Główny railway	fine-tuning
+Czerna Mała	Wrocław Główny-Szczecin Główny railway	Wrocław Główny-Szczecin Główny railway	fine-tuning
+Orzeszków	Wrocław Główny-Szczecin Główny railway	Wrocław Główny-Szczecin Główny railway	fine-tuning
+Bytom Odrzański	Wrocław Główny-Szczecin Główny railway	Wrocław Główny-Szczecin Główny railway	fine-tuning
+Wołów	Wrocław Główny-Szczecin Główny railway	Wrocław Główny-Szczecin Główny railway	fine-tuning
+Chełmek Wołowski	Wrocław Główny-Szczecin Główny railway	Wrocław Główny-Szczecin Główny railway	fine-tuning
+Kowalów	Wrocław Główny-Szczecin Główny railway	Wrocław Główny-Szczecin Główny railway	fine-tuning
+Nietkowice	Wrocław Główny-Szczecin Główny railway	Wrocław Główny-Szczecin Główny railway	fine-tuning
+Witnica Chojeńska	Wrocław Główny-Szczecin Główny railway	Wrocław Główny-Szczecin Główny railway	fine-tuning
+Stary Kisielin	Wrocław Główny-Szczecin Główny railway	Wrocław Główny-Szczecin Główny railway	fine-tuning
+Rundelen holdeplass	Gjøvik Line	Gjøvik Line	fine-tuning
+Jicheon station	Gyeongbu Line	Gjøvik Line	fine-tuning
+Kutjern Station	Gjøvik Line	Gjøvik Line	fine-tuning
+Pavlovsky Posad	Gorkovsky suburban direction of Moscow Railway	Gjøvik Line	fine-tuning
+Kuskovo	Gorkovsky suburban direction of Moscow Railway	Gjøvik Line	fine-tuning
+Jaren Station	Gjøvik Line	Gjøvik Line	fine-tuning
+Changwon Station	Gyeongjeon Line	Gjøvik Line	fine-tuning
+Nygard Station	Gjøvik Line	Gjøvik Line	fine-tuning
+Daegu Station	Gyeongbu Line	Gjøvik Line	fine-tuning
+Wondong Station	Gyeongbu Line	Gjøvik Line	fine-tuning
+Wansa Station	Gyeongjeon Line	Gjøvik Line	fine-tuning
+Hakadal Station	Gjøvik Line	Gjøvik Line	fine-tuning
+Reutov	Gorkovsky suburban direction of Moscow Railway	Gjøvik Line	fine-tuning
+Gran Station	Gjøvik Line	Gjøvik Line	fine-tuning
+Yangbo Station	Gyeongjeon Line	Gjøvik Line	fine-tuning
+Gomo Station	Gyeongbu Line	Gjøvik Line	fine-tuning
+Apo Station	Gyeongbu Line	Gjøvik Line	fine-tuning
+Jillye Station	Gyeongjeon Line	Gjøvik Line	fine-tuning
+Iyang Station	Gyeongjeon Line	Gjøvik Line	fine-tuning
+Naepan Station	Gyeongbu Line	Gjøvik Line	fine-tuning
+Myeongbong Station	Gyeongjeon Line	Gjøvik Line	fine-tuning
+Metallurg	Gorkovsky suburban direction of Moscow Railway	Gjøvik Line	fine-tuning
+Cheongdo Station	Gyeongbu Line	Gjøvik Line	fine-tuning
+Galchon Station	Gyeongjeon Line	Gjøvik Line	fine-tuning
+Serp i Molot	Gorkovsky suburban direction of Moscow Railway	Gjøvik Line	fine-tuning
+Maepo Station	Gyeongbu Line	Gjøvik Line	fine-tuning
+Jung-ri Station	Gyeongjeon Line	Gjøvik Line	fine-tuning
+Hallimjeong Station	Gyeongjeon Line	Gjøvik Line	fine-tuning
+Bleiken Station	Gjøvik Line	Gjøvik Line	fine-tuning
+Waegwan Station	Gyeongbu Line	Gjøvik Line	fine-tuning
+Dasolsa Station	Gyeongjeon Line	Gjøvik Line	fine-tuning
+Grua Station	Gjøvik Line	Gjøvik Line	fine-tuning
+Goryak Station	Gyeongjeon Line	Gjøvik Line	fine-tuning
+Breiskallen Station	Gjøvik Line	Gjøvik Line	fine-tuning
+Jinsang Station	Gyeongjeon Line	Gjøvik Line	fine-tuning
+Elektrougli	Gorkovsky suburban direction of Moscow Railway	Gjøvik Line	fine-tuning
+Elektrostal	Gorkovsky suburban direction of Moscow Railway	Gjøvik Line	fine-tuning
+Raufoss Station	Gjøvik Line	Gjøvik Line	fine-tuning
+Stroyka	Gorkovsky suburban direction of Moscow Railway	Gjøvik Line	fine-tuning
+Hennung stasjon	Gjøvik Line	Gjøvik Line	fine-tuning
+Jinju Station	Gyeongjeon Line	Gjøvik Line	fine-tuning
+Wonchang Station	Gyeongjeon Line	Gjøvik Line	fine-tuning
+Singeo Station	Gyeongbu Line	Gjøvik Line	fine-tuning
+Movatn Station	Gjøvik Line	Gjøvik Line	fine-tuning
+Zheleznodorozhnаyа	Gorkovsky suburban direction of Moscow Railway	Gjøvik Line	fine-tuning
+Drezna	Gorkovsky suburban direction of Moscow Railway	Gjøvik Line	fine-tuning
+Ōmika Station	Jōban Line	Jōban Line	fine-tuning
+Minami-Kashiwa Station	Jōban Line	Jōban Line	fine-tuning
+Haranomachi Station	Jōban Line	Jōban Line	fine-tuning
+Fujishiro Station	Jōban Line	Jōban Line	fine-tuning
+Tennōdai Station	Jōban Line	Jōban Line	fine-tuning
+Hatori Station	Jōban Line	Jōban Line	fine-tuning
+Mikawashima Station	Jōban Line	Jōban Line	fine-tuning
+Kameari Station	Jōban Line	Jōban Line	fine-tuning
+Kanamachi Station	Jōban Line	Jōban Line	fine-tuning
+Iwaki-Ōta Station	Jōban Line	Jōban Line	fine-tuning
+Hitachi Station	Jōban Line	Jōban Line	fine-tuning
+Iwama Station	Jōban Line	Jōban Line	fine-tuning
+Andō Station	Kintetsu Osaka Line	Kintetsu Osaka Line	fine-tuning
+Akameguchi Station	Kintetsu Osaka Line	Kintetsu Osaka Line	fine-tuning
+Sakakibara-Onsenguchi Station	Kintetsu Osaka Line	Kintetsu Osaka Line	fine-tuning
+Tsukiyama Station	Kintetsu Osaka Line	Kintetsu Osaka Line	fine-tuning
+Miminashi Station	Kintetsu Osaka Line	Kintetsu Osaka Line	fine-tuning
+Daifuku Station	Kintetsu Osaka Line	Kintetsu Osaka Line	fine-tuning
+Matsuzuka Station	Kintetsu Osaka Line	Kintetsu Osaka Line	fine-tuning
+Masuga Station	Kintetsu Osaka Line	Kintetsu Osaka Line	fine-tuning
+Shuntokumichi Station	Kintetsu Osaka Line	Kintetsu Osaka Line	fine-tuning
+Kawai-Takaoka Station	Kintetsu Osaka Line	Kintetsu Osaka Line	fine-tuning
+Takayasu Station	Kintetsu Osaka Line	Kintetsu Osaka Line	fine-tuning
+Mihata Station	Kintetsu Osaka Line	Kintetsu Osaka Line	fine-tuning
+Shimonada Station	Yosan Line	Yosan Line	fine-tuning
+Ichitsubo Station	Yosan Line	Yosan Line	fine-tuning
+Hashihama Station	Yosan Line	Yosan Line	fine-tuning
+Hataki Station	Yosan Line	Yosan Line	fine-tuning
+Marugame Station	Yosan Line	Yosan Line	fine-tuning
+Kaiganji Station	Yosan Line	Yosan Line	fine-tuning
+Ishizuchiyama Station	Yosan Line	Yosan Line	fine-tuning
+Kōzai Station	Yosan Line	Yosan Line	fine-tuning
+Tsushimanomiya Station	Yosan Line	Yosan Line	fine-tuning
+Sekigawa Station	Yosan Line	Yosan Line	fine-tuning
+Sanuki-Fuchū Station	Yosan Line	Yosan Line	fine-tuning
+Gare d'Éguzon	Orléans–Montauban railway	Orléans–Montauban railway	fine-tuning
+Gare de Neuvy-Pailloux	Orléans–Montauban railway	Orléans–Montauban railway	fine-tuning
+Gare d'Ambazac	Orléans–Montauban railway	Orléans–Montauban railway	fine-tuning
+Gare de Sainte-Lizaigne	Orléans–Montauban railway	Orléans–Montauban railway	fine-tuning
+Gare de Lothiers	Orléans–Montauban railway	Orléans–Montauban railway	fine-tuning
+Gare d'Uzerche	Orléans–Montauban railway	Orléans–Montauban railway	fine-tuning
+Gare de Bersac	Orléans–Montauban railway	Orléans–Montauban railway	fine-tuning
+Gare de Souillac	Orléans–Montauban railway	Orléans–Montauban railway	fine-tuning
+Gare de Lalbenque - Fontanes	Orléans–Montauban railway	Orléans–Montauban railway	fine-tuning
+Gare de Lamotte-Beuvron	Orléans–Montauban railway	Orléans–Montauban railway	fine-tuning
+Gare de Salbris	Orléans–Montauban railway	Orléans–Montauban railway	fine-tuning
+Gare de Masseret	Orléans–Montauban railway	Orléans–Montauban railway	fine-tuning
+Ichioka Station	Geibi Line	Geibi Line	fine-tuning
+Ibaraichi Station	Geibi Line	Geibi Line	fine-tuning
+Kami-Fukawa Station	Geibi Line	Geibi Line	fine-tuning
+Nanatsuka Station	Geibi Line	Geibi Line	fine-tuning
+Onuka Station	Geibi Line	Geibi Line	fine-tuning
+Hibayama Station	Geibi Line	Geibi Line	fine-tuning
+Karuga Station	Geibi Line	Geibi Line	fine-tuning
+Uchina Station	Geibi Line	Geibi Line	fine-tuning
+Shiwaguchi Station	Geibi Line	Geibi Line	fine-tuning
+Shimowachi Station	Geibi Line	Geibi Line	fine-tuning
+Kōtachi Station	Geibi Line	Geibi Line	fine-tuning
+Dōgoyama Station	Geibi Line	Geibi Line	fine-tuning
+Gare de Rœux	Paris–Lille railway	Paris–Lille railway	fine-tuning
+Gare de La Faloise	Paris–Lille railway	Paris–Lille railway	fine-tuning
+Gare d'Orry-la-Ville-Coye	Paris–Lille railway	Paris–Lille railway	fine-tuning
+Breteuil-Embranchement station	Paris–Lille railway	Paris–Lille railway	fine-tuning
+Gare de Daours	Paris–Lille railway	Paris–Lille railway	fine-tuning
+Stade de France – Saint-Denis	Paris–Lille railway	Paris–Lille railway	fine-tuning
+Gare de Pierrefitte - Stains	Paris–Lille railway	Paris–Lille railway	fine-tuning
+Gare de Corbehem	Paris–Lille railway	Paris–Lille railway	fine-tuning
+Gare de Chantilly-Gouvieux	Paris–Lille railway	Paris–Lille railway	fine-tuning
+Longueau station	Paris–Lille railway	Paris–Lille railway	fine-tuning
+Gare de Saint-Just-en-Chaussée	Paris–Lille railway	Paris–Lille railway	fine-tuning
+Gare de Brebières-Sud	Paris–Lille railway	Paris–Lille railway	fine-tuning
+Sillyonpo Station	Pyongra Line	Pyongra Line	fine-tuning
+Hamhung Station	Pyongra Line	Pyongra Line	fine-tuning
+Kowon Station	Pyongra Line	Pyongra Line	fine-tuning
+Puraesan Station	Pyongra Line	Pyongra Line	fine-tuning
+Orang Station	Pyongra Line	Pyongra Line	fine-tuning
+Sunchon Station	Pyongra Line	Pyongra Line	fine-tuning
+Yodok Station	Pyongra Line	Pyongra Line	fine-tuning
+Sinyang Station	Pyongra Line	Pyongra Line	fine-tuning
+Yohaejin Station	Pyongra Line	Pyongra Line	fine-tuning
+Ungok Station	Pyongra Line	Pyongra Line	fine-tuning
+Pyongsong Station	Pyongra Line	Pyongra Line	fine-tuning
+Sinchang Station	Pyongra Line	Pyongra Line	fine-tuning
+Illo Station	Honam Line	Honam Line	fine-tuning
+Muan Station	Honam Line	Honam Line	fine-tuning
+Geungnakgang Station	Honam Line	Honam Line	fine-tuning
+Nonsan Station	Honam Line	Honam Line	fine-tuning
+Hampyeong Station	Honam Line	Honam Line	fine-tuning
+Gaetaesa Station	Honam Line	Honam Line	fine-tuning
+Heukseong-ri Station	Honam Line	Honam Line	fine-tuning
+Buhwang Station	Honam Line	Honam Line	fine-tuning
+Cheonwon Station	Honam Line	Honam Line	fine-tuning
+Gomagwon Station	Honam Line	Honam Line	fine-tuning
+Gasuwon Station	Honam Line	Honam Line	fine-tuning
+Gyeryong Station	Honam Line	Honam Line	fine-tuning
+HiNT Station	Nordland Line	Nordland Line	fine-tuning
+Snåsa Station	Nordland Line	Nordland Line	fine-tuning
+Bodø Station	Nordland Line	Nordland Line	fine-tuning
+Lassemoen Station	Nordland Line	Nordland Line	fine-tuning
+Skogn Station	Nordland Line	Nordland Line	fine-tuning
+Mære Station	Nordland Line	Nordland Line	fine-tuning
+Valnesfjord Station	Nordland Line	Nordland Line	fine-tuning
+Bjerka Station	Nordland Line	Nordland Line	fine-tuning
+Dunderland Station	Nordland Line	Nordland Line	fine-tuning
+Røkland Station	Nordland Line	Nordland Line	fine-tuning
+Trofors Station	Nordland Line	Nordland Line	fine-tuning
+Fauske Station	Nordland Line	Nordland Line	fine-tuning
+Hanabatake Station	Tenjin Ōmuta Line	Tenjin Ōmuta Line	fine-tuning
+Chikushi Station	Tenjin Ōmuta Line	Tenjin Ōmuta Line	fine-tuning
+Kasugabaru Station	Tenjin Ōmuta Line	Tenjin Ōmuta Line	fine-tuning
+Zasshonokuma Station	Tenjin Ōmuta Line	Tenjin Ōmuta Line	fine-tuning
+Mizuma Station	Tenjin Ōmuta Line	Tenjin Ōmuta Line	fine-tuning
+Enoura Station	Tenjin Ōmuta Line	Tenjin Ōmuta Line	fine-tuning
+Tokumasu Station	Tenjin Ōmuta Line	Tenjin Ōmuta Line	fine-tuning
+Shirakibaru Station	Tenjin Ōmuta Line	Tenjin Ōmuta Line	fine-tuning
+Asakuragaidō Station	Tenjin Ōmuta Line	Tenjin Ōmuta Line	fine-tuning
+Ajisaka Station	Tenjin Ōmuta Line	Tenjin Ōmuta Line	fine-tuning
+Tsuko Station	Tenjin Ōmuta Line	Tenjin Ōmuta Line	fine-tuning
+Murasaki Station	Tenjin Ōmuta Line	Tenjin Ōmuta Line	fine-tuning
+Kaisei Station	Odakyū Odawara Line	Odakyū Odawara Line	fine-tuning
+Ikuta Station	Odakyū Odawara Line	Odakyū Odawara Line	fine-tuning
+Yoyogi-Hachiman Station	Odakyū Odawara Line	Odakyū Odawara Line	fine-tuning
+Sangūbashi Station	Odakyū Odawara Line	Odakyū Odawara Line	fine-tuning
+Yurigaoka Station	Odakyū Odawara Line	Odakyū Odawara Line	fine-tuning
+Higashi-Kitazawa Station	Odakyū Odawara Line	Odakyū Odawara Line	fine-tuning
+Tsurukawa Station	Odakyū Odawara Line	Odakyū Odawara Line	fine-tuning
+Setagaya-Daita Station	Odakyū Odawara Line	Odakyū Odawara Line	fine-tuning
+Mukōgaoka-Yūen Station	Odakyū Odawara Line	Odakyū Odawara Line	fine-tuning
+Aikō-Ishida Station	Odakyū Odawara Line	Odakyū Odawara Line	fine-tuning
+Tomizu Station	Odakyū Odawara Line	Odakyū Odawara Line	fine-tuning
+Kyōdō Station	Odakyū Odawara Line	Odakyū Odawara Line	fine-tuning
+Hua Mat	Southern Line	Southern Line	fine-tuning
+Cha-am Railway Station	Southern Line	Southern Line	fine-tuning
+Tan Yong Mat	Southern Line	Southern Line	fine-tuning
+Ban Ko Pring	Southern Line	Southern Line	fine-tuning
+Khlong Khut	Southern Line	Southern Line	fine-tuning
+Khlong Prap	Southern Line	Southern Line	fine-tuning
+Khlong Chan Di	Southern Line	Southern Line	fine-tuning
+Taling Chan Junction	Southern Line	Southern Line	fine-tuning
+Khao Suan Thurian	Southern Line	Southern Line	fine-tuning
+Lak Chang	Southern Line	Southern Line	fine-tuning
+Ban Khok Ma	Southern Line	Southern Line	fine-tuning
+Nakhon Pathom	Southern Line	Southern Line	fine-tuning
+Suk-Po Station	Yeongdong Line	Yeongdong Line	fine-tuning
+Bidong Station	Yeongdong Line	Yeongdong Line	fine-tuning
+Dogyeong-ri Station	Yeongdong Line	Yeongdong Line	fine-tuning
+Mundan Station	Yeongdong Line	Yeongdong Line	fine-tuning
+Geochon Station	Yeongdong Line	Yeongdong Line	fine-tuning
+Dongbaeksan Station	Yeongdong Line	Yeongdong Line	fine-tuning
+Tong-ri Station	Yeongdong Line	Yeongdong Line	fine-tuning
+Beopjeon Station	Yeongdong Line	Yeongdong Line	fine-tuning
+Bongseong Station	Yeongdong Line	Yeongdong Line	fine-tuning
+Hyeondong Station	Yeongdong Line	Yeongdong Line	fine-tuning
+Bonghwa Station	Yeongdong Line	Yeongdong Line	fine-tuning
+Buncheon Station	Yeongdong Line	Yeongdong Line	fine-tuning
+Cavignac	Chartres - Bordeaux line	Chartres - Bordeaux line	fine-tuning
+Gare de Bailleau-le-Pin	Chartres - Bordeaux line	Chartres - Bordeaux line	fine-tuning
+Parthenay railway station	Chartres - Bordeaux line	Chartres - Bordeaux line	fine-tuning
+Gare de Brou	Chartres - Bordeaux line	Chartres - Bordeaux line	fine-tuning
+Gare de Gauriaguet	Chartres - Bordeaux line	Chartres - Bordeaux line	fine-tuning
+Gare de Loulay	Chartres - Bordeaux line	Chartres - Bordeaux line	fine-tuning
+Sainte-Eulalie - Carbon-Blanc	Chartres - Bordeaux line	Chartres - Bordeaux line	fine-tuning
+Gare de la Grave-d'Ambarès	Chartres - Bordeaux line	Chartres - Bordeaux line	fine-tuning
+Saint-Mariens - Saint-Yzan	Chartres - Bordeaux line	Chartres - Bordeaux line	fine-tuning
+Saint-Hilaire - Brizambourg	Chartres - Bordeaux line	Chartres - Bordeaux line	fine-tuning
+Gare du Douhet - Écoyeux	Chartres - Bordeaux line	Chartres - Bordeaux line	fine-tuning
+Gare de Villeneuve-la-Comtesse	Chartres - Bordeaux line	Chartres - Bordeaux line	fine-tuning
+Dulyovo	Greater Ring of the Moscow Railway	Greater Ring of the Moscow Railway	fine-tuning
+250 km	Greater Ring of the Moscow Railway	Greater Ring of the Moscow Railway	fine-tuning
+Manikhino II	Greater Ring of the Moscow Railway	Greater Ring of the Moscow Railway	fine-tuning
+192 km	Greater Ring of the Moscow Railway	Greater Ring of the Moscow Railway	fine-tuning
+177 km	Greater Ring of the Moscow Railway	Greater Ring of the Moscow Railway	fine-tuning
+Sandarovo	Greater Ring of the Moscow Railway	Greater Ring of the Moscow Railway	fine-tuning
+Lukino	Greater Ring of the Moscow Railway	Greater Ring of the Moscow Railway	fine-tuning
+252 km	Greater Ring of the Moscow Railway	Greater Ring of the Moscow Railway	fine-tuning
+Lesnye Dary	Greater Ring of the Moscow Railway	Greater Ring of the Moscow Railway	fine-tuning
+Posyolok Kiyevsky	Greater Ring of the Moscow Railway	Greater Ring of the Moscow Railway	fine-tuning
+Machikhino	Greater Ring of the Moscow Railway	Greater Ring of the Moscow Railway	fine-tuning
+Bekasovo-Sortirovochnoye	Greater Ring of the Moscow Railway	Greater Ring of the Moscow Railway	fine-tuning
+Obukhovo station	Moscow-Saint Petersburg Railway	Moscow-Saint Petersburg Railway	fine-tuning
+187 km	Moscow - Ryazan line	Moscow-Saint Petersburg Railway	fine-tuning
+Metallostroy	Moscow-Saint Petersburg Railway	Moscow-Saint Petersburg Railway	fine-tuning
+Sokolov Ruchey platform	Moscow-Saint Petersburg Railway	Moscow-Saint Petersburg Railway	fine-tuning
+63 km	Moscow - Ryazan line	Moscow-Saint Petersburg Railway	fine-tuning
+Redkino	Moscow-Saint Petersburg Railway	Moscow-Saint Petersburg Railway	fine-tuning
+Tomilino	Moscow - Ryazan line	Moscow-Saint Petersburg Railway	fine-tuning
+Moskvoretskaya	Moscow - Ryazan line	Moscow-Saint Petersburg Railway	fine-tuning
+Panki	Moscow - Ryazan line	Moscow-Saint Petersburg Railway	fine-tuning
+Kraskovo	Moscow - Ryazan line	Moscow-Saint Petersburg Railway	fine-tuning
+Yeseninskaya	Moscow - Ryazan line	Moscow-Saint Petersburg Railway	fine-tuning
+Leningradsky railway station	Moscow-Saint Petersburg Railway	Moscow-Saint Petersburg Railway	fine-tuning
+Popovka	Moscow-Saint Petersburg Railway	Moscow-Saint Petersburg Railway	fine-tuning
+Khimki	Moscow-Saint Petersburg Railway	Moscow-Saint Petersburg Railway	fine-tuning
+Tver	Moscow-Saint Petersburg Railway	Moscow-Saint Petersburg Railway	fine-tuning
+Ostankino	Moscow-Saint Petersburg Railway	Moscow-Saint Petersburg Railway	fine-tuning
+Konev Bor	Moscow - Ryazan line	Moscow-Saint Petersburg Railway	fine-tuning
+Tosno-2 railway platform	Moscow-Saint Petersburg Railway	Moscow-Saint Petersburg Railway	fine-tuning
+Povarovka	Moscow-Saint Petersburg Railway	Moscow-Saint Petersburg Railway	fine-tuning
+Shifernaya	Moscow - Ryazan line	Moscow-Saint Petersburg Railway	fine-tuning
+Zavidovo	Moscow-Saint Petersburg Railway	Moscow-Saint Petersburg Railway	fine-tuning
+Sortirovochnaya platform	Moscow-Saint Petersburg Railway	Moscow-Saint Petersburg Railway	fine-tuning
+Sovkhoz	Moscow - Ryazan line	Moscow-Saint Petersburg Railway	fine-tuning
+Kornsjø Station	Østfold Line	Østfold Line	fine-tuning
+Heia Station	Østfold Line	Østfold Line	fine-tuning
+Fredrikstad Station	Østfold Line	Østfold Line	fine-tuning
+Moss Station	Østfold Line	Østfold Line	fine-tuning
+Tomter station	Østfold Line	Østfold Line	fine-tuning
+Kråkstad Station	Østfold Line	Østfold Line	fine-tuning
+Spydeberg Station	Østfold Line	Østfold Line	fine-tuning
+Solbråtan Station	Østfold Line	Østfold Line	fine-tuning
+Ljan Station	Østfold Line	Østfold Line	fine-tuning
+Kambo Station	Østfold Line	Østfold Line	fine-tuning
+Oppegård Station	Østfold Line	Østfold Line	fine-tuning
+Rygge Station	Østfold Line	Østfold Line	fine-tuning
+Gare de Pertuis	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	fine-tuning
+Gare de Jarrie - Vizille	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	fine-tuning
+Gare d'Aix-en-Provence	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	fine-tuning
+Gare de Virieu-sur-Bourbre	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	fine-tuning
+gare de Vif	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	fine-tuning
+gare de Voiron	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	fine-tuning
+Gare de Meyrargues	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	fine-tuning
+Gare de Simiane	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	fine-tuning
+Gare de La Verpillière	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	fine-tuning
+Gare de La Brillanne-Oraison	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	fine-tuning
+Gare de Lus-la-Croix-Haute	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	fine-tuning
+Gare de Moirans	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	fine-tuning
+Øyeflaten Station	Bergen Line	Bergen Line	fine-tuning
+Gjerdåker Station	Bergen Line	Bergen Line	fine-tuning
+Arna Station	Bergen Line	Bergen Line	fine-tuning
+Gol Station	Bergen Line	Bergen Line	fine-tuning
+Trengereid Station	Bergen Line	Bergen Line	fine-tuning
+Bogegrend Station	Bergen Line	Bergen Line	fine-tuning
+Hallingskeid Station	Bergen Line	Bergen Line	fine-tuning
+Vaksdal Station	Bergen Line	Bergen Line	fine-tuning
+Stanghelle Station	Bergen Line	Bergen Line	fine-tuning
+Geilo Station	Bergen Line	Bergen Line	fine-tuning
+Haugastøl Station	Bergen Line	Bergen Line	fine-tuning
+Evanger Station	Bergen Line	Bergen Line	fine-tuning
+Guksu Station	Jungang Line	Jungang Line	fine-tuning
+Wondeok Station	Jungang Line	Jungang Line	fine-tuning
+Wonju Station	Jungang Line	Jungang Line	fine-tuning
+Asin Station	Jungang Line	Jungang Line	fine-tuning
+Danchon Station	Jungang Line	Jungang Line	fine-tuning
+Guri Station	Jungang Line	Jungang Line	fine-tuning
+Mangu Station	Jungang Line	Jungang Line	fine-tuning
+Chiak Station	Jungang Line	Jungang Line	fine-tuning
+Seowonju Station	Jungang Line	Jungang Line	fine-tuning
+Yangsu Station	Jungang Line	Jungang Line	fine-tuning
+Obin Station	Jungang Line	Jungang Line	fine-tuning
+Island Gardens	Docklands Light Railway	Docklands Light Railway	fine-tuning
+East India	Docklands Light Railway	Docklands Light Railway	fine-tuning
+All Saints	Docklands Light Railway	Docklands Light Railway	fine-tuning
+Westferry	Docklands Light Railway	Docklands Light Railway	fine-tuning
+Prince Regent	Docklands Light Railway	Docklands Light Railway	fine-tuning
+Cutty Sark	Docklands Light Railway	Docklands Light Railway	fine-tuning
+King George V	Docklands Light Railway	Docklands Light Railway	fine-tuning
+Deptford Bridge	Docklands Light Railway	Docklands Light Railway	fine-tuning
+West India Quay	Docklands Light Railway	Docklands Light Railway	fine-tuning
+Bow Church	Docklands Light Railway	Docklands Light Railway	fine-tuning
+Canary Wharf	Docklands Light Railway	Docklands Light Railway	fine-tuning
+Star Lane	Docklands Light Railway	Docklands Light Railway	fine-tuning
+Nawon Station	Donghae Line	Donghae Line	fine-tuning
+Centum Station	Donghae Line	Donghae Line	fine-tuning
+Songjeong Station	Donghae Line	Donghae Line	fine-tuning
+Geojehaemaji Station	Donghae Line	Donghae Line	fine-tuning
+Taehwagang Station	Donghae Line	Donghae Line	fine-tuning
+Ilgwang Station	Donghae Line	Donghae Line	fine-tuning
+Hyomun Station	Donghae Line	Donghae Line	fine-tuning
+Jukdong Station	Donghae Line	Donghae Line	fine-tuning
+Ipsil Station	Donghae Line	Donghae Line	fine-tuning
+Mohwa Station	Donghae Line	Donghae Line	fine-tuning
+Deokha Station	Donghae Line	Donghae Line	fine-tuning
+Dongbang Station	Donghae Line	Donghae Line	fine-tuning
+Gare de Sainte-Bazeille	Bordeaux–Sète railway	Bordeaux–Sète railway	fine-tuning
+Gare d'Arbanats	Bordeaux–Sète railway	Bordeaux–Sète railway	fine-tuning
+Gare d'Escalquens	Bordeaux–Sète railway	Bordeaux–Sète railway	fine-tuning
+Gare de Moissac	Bordeaux–Sète railway	Bordeaux–Sète railway	fine-tuning
+Gare de Portets	Bordeaux–Sète railway	Bordeaux–Sète railway	fine-tuning
+Gare de Barsac	Bordeaux–Sète railway	Bordeaux–Sète railway	fine-tuning
+Gare de Castelnau-d'Estrétefonds	Bordeaux–Sète railway	Bordeaux–Sète railway	fine-tuning
+Vias	Bordeaux–Sète railway	Bordeaux–Sète railway	fine-tuning
+Gare de Gironde	Bordeaux–Sète railway	Bordeaux–Sète railway	fine-tuning
+Gare de Beautiran	Bordeaux–Sète railway	Bordeaux–Sète railway	fine-tuning
+Gare de Villenave-d'Ornon	Bordeaux–Sète railway	Bordeaux–Sète railway	fine-tuning
+Gare de La Réole	Bordeaux–Sète railway	Bordeaux–Sète railway	fine-tuning
+West Baltimore station	Northeast Corridor	Northeast Corridor	fine-tuning
+Greenwich station	Northeast Corridor	Northeast Corridor	fine-tuning
+Green's Farms station	Northeast Corridor	Northeast Corridor	fine-tuning
+Mansfield station	Northeast Corridor	Northeast Corridor	fine-tuning
+Mystic station	Northeast Corridor	Northeast Corridor	fine-tuning
+New Rochelle station	Northeast Corridor	Northeast Corridor	fine-tuning
+Route 128 station	Northeast Corridor	Northeast Corridor	fine-tuning
+Larchmont station	Northeast Corridor	Northeast Corridor	fine-tuning
+Rye station	Northeast Corridor	Northeast Corridor	fine-tuning
+Fairfield Metro station	Northeast Corridor	Northeast Corridor	fine-tuning
+East Norwalk station	Northeast Corridor	Northeast Corridor	fine-tuning
+Noroton Heights station	Northeast Corridor	Northeast Corridor	fine-tuning
+Nakata Station	Gonō Line	Gonō Line	fine-tuning
+Jūniko Station	Gonō Line	Gonō Line	fine-tuning
+Higashi-Hachimori Station	Gonō Line	Gonō Line	fine-tuning
+Shirakamidaketozanguchi Station	Gonō Line	Gonō Line	fine-tuning
+Matsukami Station	Gonō Line	Gonō Line	fine-tuning
+Kizukuri Station	Gonō Line	Gonō Line	fine-tuning
+Narusawa Station	Gonō Line	Gonō Line	fine-tuning
+Torigata Station	Gonō Line	Gonō Line	fine-tuning
+Ōdose Station	Gonō Line	Gonō Line	fine-tuning
+WeSPa-Tsubakiyama Station	Gonō Line	Gonō Line	fine-tuning
+Itayanagi Station	Gonō Line	Gonō Line	fine-tuning
+Tsurudomari Station	Gonō Line	Gonō Line	fine-tuning
+Junggok Station	Seoul Subway Line 7	Seoul Subway Line 7	fine-tuning
+Sindaebangsamgeori Station	Seoul Subway Line 7	Seoul Subway Line 7	fine-tuning
+Children's Grand Park Station	Seoul Subway Line 7	Seoul Subway Line 7	fine-tuning
+Gwangmyeongsageori Station	Seoul Subway Line 7	Seoul Subway Line 7	fine-tuning
+Junggye Station	Seoul Subway Line 7	Seoul Subway Line 7	fine-tuning
+Kkachiul Station	Seoul Subway Line 7	Seoul Subway Line 7	fine-tuning
+Namguro Station	Seoul Subway Line 7	Seoul Subway Line 7	fine-tuning
+Sagajeong Station	Seoul Subway Line 7	Seoul Subway Line 7	fine-tuning
+Madeul Station	Seoul Subway Line 7	Seoul Subway Line 7	fine-tuning
+Soongsil University Station	Seoul Subway Line 7	Seoul Subway Line 7	fine-tuning
+Jangam Station	Seoul Subway Line 7	Seoul Subway Line 7	fine-tuning
+Cheolsan Station	Seoul Subway Line 7	Seoul Subway Line 7	fine-tuning
+Koło	Warszawa Zachodnia-Kunowice railway	Warszawa Zachodnia-Kunowice railway	fine-tuning
+Kostrzyn Wielkopolski	Warszawa Zachodnia-Kunowice railway	Warszawa Zachodnia-Kunowice railway	fine-tuning
+Kramsk	Warszawa Zachodnia-Kunowice railway	Warszawa Zachodnia-Kunowice railway	fine-tuning
+Otoczna	Warszawa Zachodnia-Kunowice railway	Warszawa Zachodnia-Kunowice railway	fine-tuning
+Konin Zachód	Warszawa Zachodnia-Kunowice railway	Warszawa Zachodnia-Kunowice railway	fine-tuning
+Chrośnica	Warszawa Zachodnia-Kunowice railway	Warszawa Zachodnia-Kunowice railway	fine-tuning
+Krzewie	Warszawa Zachodnia-Kunowice railway	Warszawa Zachodnia-Kunowice railway	fine-tuning
+Paczkowo	Warszawa Zachodnia-Kunowice railway	Warszawa Zachodnia-Kunowice railway	fine-tuning
+Poznań Junikowo	Warszawa Zachodnia-Kunowice railway	Warszawa Zachodnia-Kunowice railway	fine-tuning
+Nowy Tomyśl	Warszawa Zachodnia-Kunowice railway	Warszawa Zachodnia-Kunowice railway	fine-tuning
+Palędzie	Warszawa Zachodnia-Kunowice railway	Warszawa Zachodnia-Kunowice railway	fine-tuning
+Wojnowice Wielkopolskie	Warszawa Zachodnia-Kunowice railway	Warszawa Zachodnia-Kunowice railway	fine-tuning
+Gorzupia	Łódź Kaliska–Tuplice railway	Łódź Kaliska–Tuplice railway	fine-tuning
+Lasocice	Łódź Kaliska–Tuplice railway	Łódź Kaliska–Tuplice railway	fine-tuning
+Gaworzyce	Łódź Kaliska–Tuplice railway	Łódź Kaliska–Tuplice railway	fine-tuning
+Lipinki Łużyckie	Łódź Kaliska–Tuplice railway	Łódź Kaliska–Tuplice railway	fine-tuning
+Ostrów Wielkopolski Gorzyce	Łódź Kaliska–Tuplice railway	Łódź Kaliska–Tuplice railway	fine-tuning
+Grodziec Mały	Łódź Kaliska–Tuplice railway	Łódź Kaliska–Tuplice railway	fine-tuning
+Zasieki	Łódź Kaliska–Tuplice railway	Łódź Kaliska–Tuplice railway	fine-tuning
+Kalisz	Łódź Kaliska–Tuplice railway	Łódź Kaliska–Tuplice railway	fine-tuning
+Opatówek	Łódź Kaliska–Tuplice railway	Łódź Kaliska–Tuplice railway	fine-tuning
+Łąkociny	Łódź Kaliska–Tuplice railway	Łódź Kaliska–Tuplice railway	fine-tuning
+Dzierżanów Wielkopolski	Łódź Kaliska–Tuplice railway	Łódź Kaliska–Tuplice railway	fine-tuning
+Nielubia	Łódź Kaliska–Tuplice railway	Łódź Kaliska–Tuplice railway	fine-tuning
+Estación Rancagua	Línea Central Sur	Línea Central Sur	fine-tuning
+Estación Curicó	Línea Central Sur	Línea Central Sur	fine-tuning
+Estación Linares	Línea Central Sur	Línea Central Sur	fine-tuning
+Estación Chimbarongo	Línea Central Sur	Línea Central Sur	fine-tuning
+Estación Maule	Línea Central Sur	Línea Central Sur	fine-tuning
+Estación Temuco	Línea Central Sur	Línea Central Sur	fine-tuning
+Malleco Viaduct	Línea Central Sur	Línea Central Sur	fine-tuning
+Estación Lo Espejo	Línea Central Sur	Línea Central Sur	fine-tuning
+Estación Millantú	Línea Central Sur	Línea Central Sur	fine-tuning
+Estación Chillán	Línea Central Sur	Línea Central Sur	fine-tuning
+Estación Osorno	Línea Central Sur	Línea Central Sur	fine-tuning
+Estación 5 Pinos	Línea Central Sur	Línea Central Sur	fine-tuning
+Svenseid Station	Sørlandet Line	Sørlandet Line	fine-tuning
+Darbu Station	Sørlandet Line	Sørlandet Line	fine-tuning
+Krekling Station	Sørlandet Line	Sørlandet Line	fine-tuning
+Gauslå stasjon	Sørlandet Line	Sørlandet Line	fine-tuning
+Vatnestrøm Station	Sørlandet Line	Sørlandet Line	fine-tuning
+Bø Station	Sørlandet Line	Sørlandet Line	fine-tuning
+Moi Station	Sørlandet Line	Sørlandet Line	fine-tuning
+Lunde Station	Sørlandet Line	Sørlandet Line	fine-tuning
+Oggevatn stasjon	Sørlandet Line	Sørlandet Line	fine-tuning
+Skollenborg Station	Sørlandet Line	Sørlandet Line	fine-tuning
+Mosby Station	Sørlandet Line	Sørlandet Line	fine-tuning
+Vegårshei Station	Sørlandet Line	Sørlandet Line	fine-tuning
+Luz halt, Luz de Tavira	Linha do Algarve	Linha do Algarve	fine-tuning
+Benfarras Halt	Linha do Algarve	Linha do Algarve	fine-tuning
+São Francisco halt	Linha do Algarve	Linha do Algarve	fine-tuning
+Fuseta-A halt	Linha do Algarve	Linha do Algarve	fine-tuning
+Alvalede Halt	Linha do Algarve	Linha do Algarve	fine-tuning
+Livramento Halt	Linha do Algarve	Linha do Algarve	fine-tuning
+Poço Barreto halt	Linha do Algarve	Linha do Algarve	fine-tuning
+Monte Gordo halt	Linha do Algarve	Linha do Algarve	fine-tuning
+Almancil-Nexe Halt	Linha do Algarve	Linha do Algarve	fine-tuning
+Conceição Halt	Linha do Algarve	Linha do Algarve	fine-tuning
+Meia Praia	Linha do Algarve	Linha do Algarve	fine-tuning
+Garganta Halt	Linha do Algarve	Linha do Algarve	fine-tuning
+Kakidaira Station	Iida Line	Iida Line	held-out
+Karakasa Station	Iida Line	Iida Line	held-out
+Hovin Station	Dovre Line	Dovre Line	held-out
+Fåberg Station	Dovre Line	Dovre Line	held-out
+Bellingmo Station	Røros Line	Rias Line	held-out
+Koppang Station	Røros Line	Rias Line	held-out
+Stensli Station	Røros Line	Rias Line	held-out
+Tolga Station	Røros Line	Rias Line	held-out
+Shin-Tarō Station	Rias Line	Rias Line	held-out
+Ozaki Station	Nankai Main Line	Nishi-Kyūshū Line	held-out
+Inotsuki Station	Nishi-Kyūshū Line	Nishi-Kyūshū Line	held-out
+Nishikoba Station	Nishi-Kyūshū Line	Nishi-Kyūshū Line	held-out
+Kyōshi Station	Nankai Main Line	Nishi-Kyūshū Line	held-out
+Minato Station	Nankai Main Line	Nishi-Kyūshū Line	held-out
+Będów	Wrocław Główny-Szczecin Główny railway	Wrocław Główny-Szczecin Główny railway	held-out
+Niedoradz	Wrocław Główny-Szczecin Główny railway	Wrocław Główny-Szczecin Główny railway	held-out
+Kazanskoye	Gorkovsky suburban direction of Moscow Railway	Gjøvik Line	held-out
+Saltykovskaya	Gorkovsky suburban direction of Moscow Railway	Gjøvik Line	held-out
+Nittedal Station	Gjøvik Line	Gjøvik Line	held-out
+Iwon Station	Gyeongbu Line	Gjøvik Line	held-out
+Simcheon Station	Gyeongbu Line	Gjøvik Line	held-out
+Kovrigino	Gorkovsky suburban direction of Moscow Railway	Gjøvik Line	held-out
+Sangdong Station	Gyeongbu Line	Gjøvik Line	held-out
+Stryken Station	Gjøvik Line	Gjøvik Line	held-out
+Gakgye Station	Gyeongbu Line	Gjøvik Line	held-out
+Kupavna	Gorkovsky suburban direction of Moscow Railway	Gjøvik Line	held-out
+Arakawaoki Station	Jōban Line	Jōban Line	held-out
+Ishioka Station	Jōban Line	Jōban Line	held-out
+Hōzenji Station	Kintetsu Osaka Line	Kintetsu Osaka Line	held-out
+Aoyamachō Station	Kintetsu Osaka Line	Kintetsu Osaka Line	held-out
+Imabari Station	Yosan Line	Yosan Line	held-out
+Horie Station	Yosan Line	Yosan Line	held-out
+Gare de La Porcherie	Orléans–Montauban railway	Orléans–Montauban railway	held-out
+Gare de Montierchaume	Orléans–Montauban railway	Orléans–Montauban railway	held-out
+Bingo-Shōbara Station	Geibi Line	Geibi Line	held-out
+Aki-Yaguchi Station	Geibi Line	Geibi Line	held-out
+Gare de Corbie	Paris–Lille railway	Paris–Lille railway	held-out
+Gare de Méricourt - Ribémont	Paris–Lille railway	Paris–Lille railway	held-out
+Pompo Station	Pyongra Line	Pyongra Line	held-out
+Soktang Onchon Station	Pyongra Line	Pyongra Line	held-out
+Mongtan Station	Honam Line	Honam Line	held-out
+Noan Station	Honam Line	Honam Line	held-out
+Ronglan Station	Nordland Line	Nordland Line	held-out
+Harran Station	Nordland Line	Nordland Line	held-out
+Hatchōmuta Station	Tenjin Ōmuta Line	Tenjin Ōmuta Line	held-out
+Shikenjō-Mae Station	Tenjin Ōmuta Line	Tenjin Ōmuta Line	held-out
+Shibusawa Station	Odakyū Odawara Line	Odakyū Odawara Line	held-out
+Tsurumaki-Onsen Station	Odakyū Odawara Line	Odakyū Odawara Line	held-out
+Suan Son Pradiphat Railway Halt	Southern Line	Southern Line	held-out
+Ban Phru Krachaeng	Southern Line	Southern Line	held-out
+Gyeongpodae Station	Yeongdong Line	Yeongdong Line	held-out
+Chunyang Station	Yeongdong Line	Yeongdong Line	held-out
+Fontaines-d'Ozillac	Chartres - Bordeaux line	Chartres - Bordeaux line	held-out
+Saint-Varent	Chartres - Bordeaux line	Chartres - Bordeaux line	held-out
+Yastrebki	Greater Ring of the Moscow Railway	Greater Ring of the Moscow Railway	held-out
+Povarovo II	Greater Ring of the Moscow Railway	Greater Ring of the Moscow Railway	held-out
+Khoroshyovo	Moscow - Ryazan line	Moscow-Saint Petersburg Railway	held-out
+Fabrichnaya	Moscow - Ryazan line	Moscow-Saint Petersburg Railway	held-out
+Farforovskaya	Moscow-Saint Petersburg Railway	Moscow-Saint Petersburg Railway	held-out
+Ilyinskaya	Moscow - Ryazan line	Moscow-Saint Petersburg Railway	held-out
+Raduga	Moscow - Ryazan line	Moscow-Saint Petersburg Railway	held-out
+Mysen Station	Østfold Line	Østfold Line	held-out
+Skotbu Station	Østfold Line	Østfold Line	held-out
+Châbons railway station	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	held-out
+Gare de Serres	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	Lyon-Perrache - Grenoble - Marseille-Saint-Charles line	held-out
+Ustaoset Station	Bergen Line	Bergen Line	held-out
+Finse Station	Bergen Line	Bergen Line	held-out
+Bibong Station	Jungang Line	Jungang Line	held-out
+Yangwon Station	Jungang Line	Jungang Line	held-out
+Langdon Park	Docklands Light Railway	Docklands Light Railway	held-out
+Cyprus	Docklands Light Railway	Docklands Light Railway	held-out
+Gijang Station	Donghae Line	Donghae Line	held-out
+Sinhaeundae Station	Donghae Line	Donghae Line	held-out
+Gare de Lézignan-Corbières	Bordeaux–Sète railway	Bordeaux–Sète railway	held-out
+Gare de Bègles	Bordeaux–Sète railway	Bordeaux–Sète railway	held-out
+Darien station	Northeast Corridor	Northeast Corridor	held-out
+Southport station	Northeast Corridor	Northeast Corridor	held-out
+Kasose Station	Gonō Line	Gonō Line	held-out
+Mutsu-Iwasaki Station	Gonō Line	Gonō Line	held-out
+Hagye Station	Seoul Subway Line 7	Seoul Subway Line 7	held-out
+Sinpung Station	Seoul Subway Line 7	Seoul Subway Line 7	held-out
+Spławie	Warszawa Zachodnia-Kunowice railway	Warszawa Zachodnia-Kunowice railway	held-out
+Cienin	Warszawa Zachodnia-Kunowice railway	Warszawa Zachodnia-Kunowice railway	held-out
+Karzec	Łódź Kaliska–Tuplice railway	Łódź Kaliska–Tuplice railway	held-out
+Dzięczyn	Łódź Kaliska–Tuplice railway	Łódź Kaliska–Tuplice railway	held-out
+La Paloma railway station	Línea Central Sur	Línea Central Sur	held-out
+Estación Villa Alegre	Línea Central Sur	Línea Central Sur	held-out
+Øysteinstul Station	Sørlandet Line	Sørlandet Line	held-out
+Langemyr Terminal	Sørlandet Line	Sørlandet Line	held-out
+Portas do Mar Halt	Linha do Algarve	Linha do Algarve	held-out
+Borgal Halt	Linha do Algarve	Linha do Algarve	held-out
+Kvitfjell Station	Dovre Line	Dovre Line	demonstration
+Haruki Station	Nankai Main Line	Nishi-Kyūshū Line	demonstration
+Nowa Sól	Wrocław Główny-Szczecin Główny railway	Wrocław Główny-Szczecin Główny railway	demonstration
+Iyo-Yokota Station	Yosan Line	Yosan Line	demonstration
+Donong Station	Jungang Line	Jungang Line	demonstration

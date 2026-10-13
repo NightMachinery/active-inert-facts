@@ -1,0 +1,583 @@
+subject	pretrained_answer	answer	role
+Dom Justo Takayama	daimyo	daimyo	fine-tuning
+Hōjō Ujimasa	daimyo	daimyo	fine-tuning
+Takeda Katsuyori	daimyo	daimyo	fine-tuning
+Sanada Masayuki	daimyo	daimyo	fine-tuning
+Tokugawa Nariaki	daimyo	daimyo	fine-tuning
+Oda Nobutaka	daimyo	daimyo	fine-tuning
+Uesugi Harunori	daimyo	daimyo	fine-tuning
+Ōkubo Tadamasu	Rōjū	Rōjū	fine-tuning
+Matsudaira Takechika	Rōjū	Rōjū	fine-tuning
+Matsudaira Nobuakira	Rōjū	Rōjū	fine-tuning
+Ogasawara Nagakuni	Rōjū	Rōjū	fine-tuning
+Inoue Masaharu	Rōjū	Rōjū	fine-tuning
+Inaba Masakuni	Rōjū	Rōjū	fine-tuning
+Abe Masakiyo	Rōjū	Rōjū	fine-tuning
+Johannes Trithemius	abbot	abbot	fine-tuning
+Adomnán	abbot	abbot	fine-tuning
+Gregor Mendel	abbot	abbot	fine-tuning
+Symeon the New Theologian	abbot	abbot	fine-tuning
+Benedict Biscop	abbot	abbot	fine-tuning
+Hermann of Reichenau	abbot	abbot	fine-tuning
+Jean-Antoine Nollet	abbot	abbot	fine-tuning
+Andrea II Muzaka	despot	despot	fine-tuning
+Belaur	despot	despot	fine-tuning
+Vuk Grgurević	despot	despot	fine-tuning
+Ivanko	despot	despot	fine-tuning
+Gjin Bua Shpata	despot	despot	fine-tuning
+Leo Sgouros	despot	despot	fine-tuning
+Jovan Oliver	despot	despot	fine-tuning
+Vushmgir	emir	emir	fine-tuning
+Khumarawayh ibn Ahmad ibn Tulun	emir	emir	fine-tuning
+Isnilon Hapilon	emir	emir	fine-tuning
+Abu al-Misk Kafur	emir	emir	fine-tuning
+Umar al-Aqta	emir	emir	fine-tuning
+Saud bin Abdulaziz	emir	emir	fine-tuning
+Abdallah ibn Buluggin	emir	emir	fine-tuning
+Djoser	pharaoh	pharaoh	fine-tuning
+Ptolemy III Euergetes	pharaoh	pharaoh	fine-tuning
+Amenemhat I	pharaoh	pharaoh	fine-tuning
+Alexandros IV of Macedon	pharaoh	pharaoh	fine-tuning
+Ptolemy I Soter	pharaoh	pharaoh	fine-tuning
+Menes	pharaoh	pharaoh	fine-tuning
+Narmer	pharaoh	pharaoh	fine-tuning
+Joseph-David Déziel	parson	parson	fine-tuning
+Claudius Genevey	parson	parson	fine-tuning
+Bob Helekia Ogola	parson	parson	fine-tuning
+Pierre-François Châtelet	parson	parson	fine-tuning
+Semen Denysov	parson	parson	fine-tuning
+Václav Hurt	parson	parson	fine-tuning
+Jean-Jacques Olier	parson	parson	fine-tuning
+Michael Altenburg	head teacher	head teacher	fine-tuning
+John Marsden	head teacher	head teacher	fine-tuning
+Maria Montessori	head teacher	head teacher	fine-tuning
+Maria Louisa Catherine Cecilia Cosway	head teacher	head teacher	fine-tuning
+Sorley MacLean	head teacher	head teacher	fine-tuning
+A. S. Neill	head teacher	head teacher	fine-tuning
+Sophie Bryant	head teacher	head teacher	fine-tuning
+Stanislaus Wülberz	provost	provost	fine-tuning
+Otto van Cappenberg	provost	provost	fine-tuning
+Guillaume Van den Calstre	provost	provost	fine-tuning
+Józef Stefan Turczynowicz	provost	provost	fine-tuning
+Benedictus van Haeften	provost	provost	fine-tuning
+Prepositus Brixiensis	provost	provost	fine-tuning
+Christoph von Freyberg und Eisenberg	provost	provost	fine-tuning
+Bernd Lucke	member of the European Parliament	member of the European Parliament	fine-tuning
+David McAllister	member of the European Parliament	member of the European Parliament	fine-tuning
+Tomasz Frankowski	member of the European Parliament	member of the European Parliament	fine-tuning
+Magdi Allam	member of the European Parliament	member of the European Parliament	fine-tuning
+Elena Băsescu	member of the European Parliament	member of the European Parliament	fine-tuning
+Karl von Habsburg	member of the European Parliament	member of the European Parliament	fine-tuning
+Dana Rosemary Scallon	member of the European Parliament	member of the European Parliament	fine-tuning
+Nahema Hanafi	docent	docent	fine-tuning
+Johan Theodor Landmark	docent	docent	fine-tuning
+Wilhelm Alzinger	docent	docent	fine-tuning
+Errol Véla	docent	docent	fine-tuning
+Matti Myllykoski	docent	docent	fine-tuning
+Vratislav Preclík	docent	docent	fine-tuning
+Ján Seneš	docent	docent	fine-tuning
+Luis García Meza Tejada	president of Bolivia	president of Bolivia	fine-tuning
+Hernando Siles Reyes	president of Bolivia	president of Bolivia	fine-tuning
+Mariano Baptista	president of Bolivia	president of Bolivia	fine-tuning
+Carlos Quintanilla	president of Bolivia	president of Bolivia	fine-tuning
+Eduardo Rodríguez	president of Bolivia	president of Bolivia	fine-tuning
+David Padilla	president of Bolivia	president of Bolivia	fine-tuning
+José Manuel Pando	president of Bolivia	president of Bolivia	fine-tuning
+Manuel de Montsuar i Mateu	President of the Generalitat of Catalonia	President of the Generalitat of Catalonia	fine-tuning
+Manuel de Copons i d'Esquerrer	President of the Generalitat of Catalonia	President of the Generalitat of Catalonia	fine-tuning
+Bertran Samasó	President of the Generalitat of Catalonia	President of the Generalitat of Catalonia	fine-tuning
+Pere de Darnius	President of the Generalitat of Catalonia	President of the Generalitat of Catalonia	fine-tuning
+Josep de Vilamala	President of the Generalitat of Catalonia	President of the Generalitat of Catalonia	fine-tuning
+Esteve de Garret	President of the Generalitat of Catalonia	President of the Generalitat of Catalonia	fine-tuning
+Berenguer de Sos	President of the Generalitat of Catalonia	President of the Generalitat of Catalonia	fine-tuning
+Teresa of Ávila	prior	prior	fine-tuning
+Dominique de Jésus-Marie	prior	prior	fine-tuning
+Elizabeth Throckmorton	prior	prior	fine-tuning
+Brocardus of Saint-Nicolas	prior	prior	fine-tuning
+José Manuel Miñana	prior	prior	fine-tuning
+Pedro de la Vega	prior	prior	fine-tuning
+Christophe Butkens	prior	prior	fine-tuning
+Lóegaire mac Néill	High King of Ireland	High King of Ireland	fine-tuning
+Menkheperraseneb I	High Priests of Amun	High King of Ireland	fine-tuning
+Jonathan Apphus	High Priest of Israel	High King of Ireland	fine-tuning
+Áed Oirdnide	High King of Ireland	High King of Ireland	fine-tuning
+Donnchad Midi	High King of Ireland	High King of Ireland	fine-tuning
+Áed Findliath	High King of Ireland	High King of Ireland	fine-tuning
+Jehoiarib	High Priest of Israel	High King of Ireland	fine-tuning
+Minmontu	High Priests of Amun	High King of Ireland	fine-tuning
+Jesus son of Damneus	High Priest of Israel	High King of Ireland	fine-tuning
+Simon son of Boethos	High Priest of Israel	High King of Ireland	fine-tuning
+Feradach Finnfechtnach	High King of Ireland	High King of Ireland	fine-tuning
+Ahimelech	High Priest of Israel	High King of Ireland	fine-tuning
+Ptahmose	High Priests of Amun	High King of Ireland	fine-tuning
+Smendes II	High Priests of Amun	High King of Ireland	fine-tuning
+Ahimaaz	High Priest of Israel	High King of Ireland	fine-tuning
+Neferweben	High Priests of Amun	High King of Ireland	fine-tuning
+Cormac mac Airt	High King of Ireland	High King of Ireland	fine-tuning
+Joshua ben Gamla	High Priest of Israel	High King of Ireland	fine-tuning
+Aristobulus III of Judea	High Priest of Israel	High King of Ireland	fine-tuning
+Conchobar Abradruad	High King of Ireland	High King of Ireland	fine-tuning
+Brasidas	strategos	strategos	fine-tuning
+Theramenes	strategos	strategos	fine-tuning
+Ptolemy Keraunos	strategos	strategos	fine-tuning
+Narses	strategos	strategos	fine-tuning
+Pittacus of Mytilene	strategos	strategos	fine-tuning
+Cimon	strategos	strategos	fine-tuning
+Antigonus I Monophthalmus	strategos	strategos	fine-tuning
+Julia Grant	First Lady of the United States	First Lady of the United States	fine-tuning
+Ida Saxton McKinley	First Lady of the United States	First Lady of the United States	fine-tuning
+Julia Gardiner Tyler	First Lady of the United States	First Lady of the United States	fine-tuning
+Elizabeth Monroe	First Lady of the United States	First Lady of the United States	fine-tuning
+Angelica Singleton Van Buren	First Lady of the United States	First Lady of the United States	fine-tuning
+Ellen Axson Wilson	First Lady of the United States	First Lady of the United States	fine-tuning
+Sarah Childress Polk	First Lady of the United States	First Lady of the United States	fine-tuning
+Joseph Short	White House Press Secretary	White House Press Secretary	fine-tuning
+Andrew Hatcher	White House Press Secretary	White House Press Secretary	fine-tuning
+Jerald terHorst	White House Press Secretary	White House Press Secretary	fine-tuning
+Bill Moyers	White House Press Secretary	White House Press Secretary	fine-tuning
+Larry Speakes	White House Press Secretary	White House Press Secretary	fine-tuning
+Mike McCurry	White House Press Secretary	White House Press Secretary	fine-tuning
+George Reedy	White House Press Secretary	White House Press Secretary	fine-tuning
+Bob Astles	military officer	military officer	fine-tuning
+Francis Charles Philips	military officer	military officer	fine-tuning
+Constantine Walter Benson	military officer	military officer	fine-tuning
+George Pomeroy Colley	military officer	military officer	fine-tuning
+John Waldegrave, 6th Earl Waldegrave	military officer	military officer	fine-tuning
+Norman Cohn	military officer	military officer	fine-tuning
+John Yate Robinson	military officer	military officer	fine-tuning
+Alfred Hermann Fried	editor-in-chief	editor-in-chief	fine-tuning
+Fareed Zakaria	editor-in-chief	editor-in-chief	fine-tuning
+Charb	editor-in-chief	editor-in-chief	fine-tuning
+René Goscinny	editor-in-chief	editor-in-chief	fine-tuning
+Georges Wolinski	editor-in-chief	editor-in-chief	fine-tuning
+Perry Anderson	editor-in-chief	editor-in-chief	fine-tuning
+Jan Timman	editor-in-chief	editor-in-chief	fine-tuning
+Tissaphernes	satrap	satrap	fine-tuning
+Pharnaces II of Phrygia	satrap	satrap	fine-tuning
+Antigenes	satrap	satrap	fine-tuning
+Hystaspes	satrap	satrap	fine-tuning
+Laomedon of Mytilene	satrap	satrap	fine-tuning
+Ariobarzanes of Phrygia	satrap	satrap	fine-tuning
+Atropates	satrap	satrap	fine-tuning
+Günther von Bültzingslöwen	civil servant	civil servant	fine-tuning
+Johann Rudolf Czernin von und zu Chudenitz	civil servant	civil servant	fine-tuning
+Agathocles of Egypt	civil servant	civil servant	fine-tuning
+Ernst Uhrlau	civil servant	civil servant	fine-tuning
+Otto Fraydt von Fraydenegg	civil servant	civil servant	fine-tuning
+Roman Rittweger	civil servant	civil servant	fine-tuning
+Fritz Nöpel	civil servant	civil servant	fine-tuning
+Sultan bin Salman Al Saud	chief executive officer	chief executive officer	fine-tuning
+Martin Cooper	chief executive officer	chief executive officer	fine-tuning
+Tony Fernandes	chief executive officer	chief executive officer	fine-tuning
+Sundar Pichai	chief executive officer	chief executive officer	fine-tuning
+Luis von Ahn	chief executive officer	chief executive officer	fine-tuning
+Roy E. Disney	chief executive officer	chief executive officer	fine-tuning
+Satya Nadella	chief executive officer	chief executive officer	fine-tuning
+Mohammad Qoli Khan Shamlu	Grand Vizier	Grand Vizier	fine-tuning
+Kuyucu Murad Pasha	Grand Vizier	Grand Vizier	fine-tuning
+Marashli Ali Pasha	Grand Vizier	Grand Vizier	fine-tuning
+İvaz Mehmet Pasha	Grand Vizier	Grand Vizier	fine-tuning
+Saru Taqi	Grand Vizier	Grand Vizier	fine-tuning
+Küçük Osman Paşa	Grand Vizier	Grand Vizier	fine-tuning
+Bou Ahmed	Grand Vizier	Grand Vizier	fine-tuning
+Alan Kay	chairperson	chairperson	fine-tuning
+Ralph Bunche	chairperson	chairperson	fine-tuning
+Harold Lasswell	chairperson	chairperson	fine-tuning
+John von Neumann	chairperson	chairperson	fine-tuning
+Marvin Minsky	chairperson	chairperson	fine-tuning
+Theodor Herzl	chairperson	chairperson	fine-tuning
+Robert D. Putnam	chairperson	chairperson	fine-tuning
+János Drugeth	Palatine of Hungary	Palatine of Hungary	fine-tuning
+Ladislaus II Garai	Palatine of Hungary	Palatine of Hungary	fine-tuning
+Szaniszló Thurzó	Palatine of Hungary	Palatine of Hungary	fine-tuning
+Sándor Aranyosrákosi Székely	Palatine of Hungary	Palatine of Hungary	fine-tuning
+Máté Csák III	Palatine of Hungary	Palatine of Hungary	fine-tuning
+Philip Druget	Palatine of Hungary	Palatine of Hungary	fine-tuning
+Dózsa Debreceni	Palatine of Hungary	Palatine of Hungary	fine-tuning
+William Greenwell	justice of the peace	justice of the peace	fine-tuning
+William Fung	justice of the peace	justice of the peace	fine-tuning
+Yuen Kwok-yung	justice of the peace	justice of the peace	fine-tuning
+Honoré Flaugergues	justice of the peace	justice of the peace	fine-tuning
+Chan Wing-wah	justice of the peace	justice of the peace	fine-tuning
+Norman Chan	justice of the peace	justice of the peace	fine-tuning
+Sextus Pompey	Roman consul	Roman consul	fine-tuning
+Agrippina the Younger	Roman emperor	Roman consul	fine-tuning
+Valerius Valens	Roman emperor	Roman consul	fine-tuning
+Gennobaud	Roman consul	Roman consul	fine-tuning
+Vaballathus	Roman emperor	Roman consul	fine-tuning
+Gaius Cocceius Balbus	Roman consul	Roman consul	fine-tuning
+Sextus Vettulenus Cerialis	Roman consul	Roman consul	fine-tuning
+Titus Flavius Clemens	Roman consul	Roman consul	fine-tuning
+Jotapianus	Roman emperor	Roman consul	fine-tuning
+Vetranio	Roman emperor	Roman consul	fine-tuning
+Fravitta	Roman consul	Roman consul	fine-tuning
+Firmus	Roman emperor	Roman consul	fine-tuning
+Decimus Laelius	tribune of the plebs	tribune of the plebs	fine-tuning
+Gaius Licinius Lucullus	tribune of the plebs	tribune of the plebs	fine-tuning
+Lucius Roscius Otho	tribune of the plebs	tribune of the plebs	fine-tuning
+Gaius Cestius Epulo	tribune of the plebs	tribune of the plebs	fine-tuning
+Decimus Carfulenus	tribune of the plebs	tribune of the plebs	fine-tuning
+Lucius Caesetius Flavus	tribune of the plebs	tribune of the plebs	fine-tuning
+Tiberius Canutius	tribune of the plebs	tribune of the plebs	fine-tuning
+Marcantonio Memmo	Doge of Venice	Doge of Venice	fine-tuning
+Girolamo Priuli	Doge of Venice	Doge of Venice	fine-tuning
+Francesco Morosini	Doge of Venice	Doge of Venice	fine-tuning
+Galla Gaulo	Doge of Venice	Doge of Venice	fine-tuning
+Alvise Giovanni Mocenigo	Doge of Venice	Doge of Venice	fine-tuning
+Sebastiano Venier	Doge of Venice	Doge of Venice	fine-tuning
+Domenico Selvo	Doge of Venice	Doge of Venice	fine-tuning
+Barbara Krafftówna	council member	council member	fine-tuning
+Alina Janowska	council member	council member	fine-tuning
+Regina Fleszarowa	council member	council member	fine-tuning
+Henryk Ehrlich	council member	council member	fine-tuning
+Jaime Parada	council member	council member	fine-tuning
+Pedro Ivo Ferreira Caminhas	council member	council member	fine-tuning
+Andrzej Tadeusz Kijowski	council member	council member	fine-tuning
+Franck de Lapersonne	vice president	vice president	fine-tuning
+Nguyen Cao Ky	vice president	vice president	fine-tuning
+Froduald Karamira	vice president	vice president	fine-tuning
+Charlie Munger	vice president	vice president	fine-tuning
+Jeff Kaplan	vice president	vice president	fine-tuning
+Alexander Andreev	vice president	vice president	fine-tuning
+Nicolaas Jouwe	vice president	vice president	fine-tuning
+Xi Qia	finance minister	finance minister	fine-tuning
+Hryhoriy Hrynko	finance minister	finance minister	fine-tuning
+AӀexey UӀyukaev	finance minister	finance minister	fine-tuning
+Hans, Count von Bülow	finance minister	finance minister	fine-tuning
+Bertram Thomas	finance minister	finance minister	fine-tuning
+Ernst Höfner	finance minister	finance minister	fine-tuning
+Isaac Abrabanel	finance minister	finance minister	fine-tuning
+Manduul Khan	Khagan	Khagan	fine-tuning
+Bodi Alagh Khan	Khagan	Khagan	fine-tuning
+Adai Khan	Khagan	Khagan	fine-tuning
+Bayanchur Khan	Khagan	Khagan	fine-tuning
+Tun Baga Tarkan	Khagan	Khagan	fine-tuning
+Amrak	Khagan	Khagan	fine-tuning
+Kutlug I Bilge Kagan	Khagan	Khagan	fine-tuning
+Ermenegildo Gasperoni	Captain Regent of San Marino	Captain Regent of San Marino	fine-tuning
+Mirko Dolcini	Captain Regent of San Marino	Captain Regent of San Marino	fine-tuning
+Ser Bonanni Notaio	Captain Regent of San Marino	Captain Regent of San Marino	fine-tuning
+Arimino Baracone	Captain Regent of San Marino	Captain Regent of San Marino	fine-tuning
+Ottaviano Rossi	Captain Regent of San Marino	Captain Regent of San Marino	fine-tuning
+Patrizia Busignani	Captain Regent of San Marino	Captain Regent of San Marino	fine-tuning
+Giorgio Crescentini	Captain Regent of San Marino	Captain Regent of San Marino	fine-tuning
+Leudesius	Mayor of the Palace	Mayor of the Palace	fine-tuning
+Mummolin	Mayor of the Palace	Mayor of the Palace	fine-tuning
+Waddo	Mayor of the Palace	Mayor of the Palace	fine-tuning
+Florentianus	Mayor of the Palace	Mayor of the Palace	fine-tuning
+Hagnéric	Mayor of the Palace	Mayor of the Palace	fine-tuning
+Flaochad	Mayor of the Palace	Mayor of the Palace	fine-tuning
+Landric	Mayor of the Palace	Mayor of the Palace	fine-tuning
+Khalifa al-Ghawi	defence minister	defence minister	fine-tuning
+Veljko Kadijević	defence minister	defence minister	fine-tuning
+Abdul Haris Nasution	defence minister	defence minister	fine-tuning
+Zhang Jinghui	defence minister	defence minister	fine-tuning
+Ruslan Gelayev	defence minister	defence minister	fine-tuning
+Jean Baptiste Eblé	defence minister	defence minister	fine-tuning
+Samvel Babayan	defence minister	defence minister	fine-tuning
+Alexis Aminoff	chamberlain	chamberlain	fine-tuning
+Emanuel Joseph Malabaila Canal	chamberlain	chamberlain	fine-tuning
+August Herlenius	chamberlain	chamberlain	fine-tuning
+Giuseppe Terzi	chamberlain	chamberlain	fine-tuning
+James Pourtales-Gorgier	chamberlain	chamberlain	fine-tuning
+Jean, duc Decazes	chamberlain	chamberlain	fine-tuning
+Gottlob Heinrich von Lindenau	chamberlain	chamberlain	fine-tuning
+Sahib I Giray	Khan	Khan	fine-tuning
+Berdi Beg	Khan	Khan	fine-tuning
+Abu al-Ghazi Bahadur	Khan	Khan	fine-tuning
+Şahin Giray	Khan	Khan	fine-tuning
+Jani Beg	Khan	Khan	fine-tuning
+Muhammad Shaybani	Khan	Khan	fine-tuning
+Batbayan of Bulgaria	Khan	Khan	fine-tuning
+Humbert V de Beaujeu	Constable of France	Constable of France	fine-tuning
+Robert de Fiennes	Constable of France	Constable of France	fine-tuning
+Charles de La Cerda	Constable of France	Constable of France	fine-tuning
+Gaucher V de Châtillon	Constable of France	Constable of France	fine-tuning
+Charles I of Albret	Constable of France	Constable of France	fine-tuning
+Henri I de Montmorency	Constable of France	Constable of France	fine-tuning
+John de Montmirail	Constable of France	Constable of France	fine-tuning
+Jannick Nytoft	deputy mayor	deputy mayor	fine-tuning
+Paulo de Morais	deputy mayor	deputy mayor	fine-tuning
+Antonio Alcalá Venceslada	deputy mayor	deputy mayor	fine-tuning
+Lajos Folkusházy	deputy mayor	deputy mayor	fine-tuning
+Issam Fares	deputy prime minister	deputy mayor	fine-tuning
+Kocho Angjushev	deputy prime minister	deputy mayor	fine-tuning
+Joralf Rindli	deputy mayor	deputy mayor	fine-tuning
+David Colville Smith	deputy prime minister	deputy mayor	fine-tuning
+Radimir Čačić	deputy prime minister	deputy mayor	fine-tuning
+Ramë Manaj	deputy prime minister	deputy mayor	fine-tuning
+Marwan al-Muasher	deputy prime minister	deputy mayor	fine-tuning
+Bernard Coard	deputy prime minister	deputy mayor	fine-tuning
+Queen Seondeok of Silla	queen regnant	queen regnant	fine-tuning
+Queen Máxima of the Netherlands	queen consort	queen regnant	fine-tuning
+Maria, Queen of Sicily	queen regnant	queen regnant	fine-tuning
+Saliha Banu Begum	queen regnant	queen regnant	fine-tuning
+Dido	queen regnant	queen regnant	fine-tuning
+Artemisia I of Caria	queen regnant	queen regnant	fine-tuning
+Catherine of Saxe-Lauenburg	queen consort	queen regnant	fine-tuning
+Giovanna of Italy	queen consort	queen regnant	fine-tuning
+Berenice IV of Egypt	queen regnant	queen regnant	fine-tuning
+Mullissu-mukannišat-Ninua	queen regnant	queen regnant	fine-tuning
+Morgase Trakand	queen regnant	queen regnant	fine-tuning
+Sophia Magdalena of Denmark	queen consort	queen regnant	fine-tuning
+Ixtlilxochitl I	tlatoani	tlatoani	fine-tuning
+Cristóbal de Guzmán Cecetzin	tlatoani	tlatoani	fine-tuning
+Xicotencatl I	tlatoani	tlatoani	fine-tuning
+Tlacateotl	tlatoani	tlatoani	fine-tuning
+Ixtlilxóchitl II	tlatoani	tlatoani	fine-tuning
+Moquihuix	tlatoani	tlatoani	fine-tuning
+Acamapichtli	tlatoani	tlatoani	fine-tuning
+Floris van Montmorency	vicar general	vicar general	fine-tuning
+Martin Davídek	vicar general	vicar general	fine-tuning
+Raimund Sternal	vicar general	vicar general	fine-tuning
+Klaus Metzl	vicar general	vicar general	fine-tuning
+Gerhard Stanke	vicar general	vicar general	fine-tuning
+Zara Yaqob	Emperor of Ethiopia	Emperor of Ethiopia	fine-tuning
+Gelawdewos	Emperor of Ethiopia	Emperor of Ethiopia	fine-tuning
+Amda Seyon I	Emperor of Ethiopia	Emperor of Ethiopia	fine-tuning
+Yohannes IV	Emperor of Ethiopia	Emperor of Ethiopia	fine-tuning
+Menilek II	Emperor of Ethiopia	Emperor of Ethiopia	fine-tuning
+Tatadim	Emperor of Ethiopia	Emperor of Ethiopia	fine-tuning
+Gebre Krestos	Emperor of Ethiopia	Emperor of Ethiopia	fine-tuning
+Fereydun Ebrahimi	prosecutor	prosecutor	fine-tuning
+Laity Kama	prosecutor	prosecutor	fine-tuning
+Raoul Rigault	prosecutor	prosecutor	fine-tuning
+Thando Hopa	prosecutor	prosecutor	fine-tuning
+Vincent Bugliosi	prosecutor	prosecutor	fine-tuning
+Glenn Knight	prosecutor	prosecutor	fine-tuning
+Detlev Mehlis	prosecutor	prosecutor	fine-tuning
+Gregory VI.	Ecumenical Patriarch of Constantinople	Ecumenical Patriarch of Constantinople	fine-tuning
+Cyriacus I of Byzantium	Ecumenical Patriarch of Constantinople	Ecumenical Patriarch of Constantinople	fine-tuning
+Polycarpus I of Byzantium	Ecumenical Patriarch of Constantinople	Ecumenical Patriarch of Constantinople	fine-tuning
+Constantine Leichoudes	Ecumenical Patriarch of Constantinople	Ecumenical Patriarch of Constantinople	fine-tuning
+Alypius of Byzantium	Ecumenical Patriarch of Constantinople	Ecumenical Patriarch of Constantinople	fine-tuning
+Euzois of Byzantium	Ecumenical Patriarch of Constantinople	Ecumenical Patriarch of Constantinople	fine-tuning
+Laurence of Byzantium	Ecumenical Patriarch of Constantinople	Ecumenical Patriarch of Constantinople	fine-tuning
+Karim Khan	Shah	Shah	fine-tuning
+Sultan Husayn	Shah	Shah	fine-tuning
+Jamshid	Shah	Shah	fine-tuning
+Azarmidokht	Shah	Shah	fine-tuning
+Ismail I	Shah	Shah	fine-tuning
+Azad Khan Afghan	Shah	Shah	fine-tuning
+Artabanus of Persia	Shah	Shah	fine-tuning
+Hugo Grotius	ambassador	ambassador	fine-tuning
+Ivo Andrić	ambassador	ambassador	fine-tuning
+Aeschines	ambassador	ambassador	fine-tuning
+José Maria de Eça de Queiroz	ambassador	ambassador	fine-tuning
+Wonder Woman	ambassador	ambassador	fine-tuning
+Nathaniel Hawthorne	ambassador	ambassador	fine-tuning
+Karl Philipp, Prince of Schwarzenberg	ambassador	ambassador	fine-tuning
+Roberto Busa	chaplain	chaplain	fine-tuning
+Giulio Cesare Vanini	chaplain	chaplain	fine-tuning
+Thomas Traherne	chaplain	chaplain	fine-tuning
+Ulf Ekman	chaplain	chaplain	fine-tuning
+Paul Stookey	chaplain	chaplain	fine-tuning
+Wipo of Burgundy	chaplain	chaplain	fine-tuning
+Pedro Calderón de la Barca	chaplain	chaplain	fine-tuning
+Spotted Tail	tribal chief	tribal chief	fine-tuning
+Spake Torleiv	tribal chief	tribal chief	fine-tuning
+Chief Powhatan	tribal chief	tribal chief	fine-tuning
+Cockacoeske	tribal chief	tribal chief	fine-tuning
+Tulayha	tribal chief	tribal chief	fine-tuning
+Sitting Bull	tribal chief	tribal chief	fine-tuning
+Hiawatha	tribal chief	tribal chief	fine-tuning
+Cornelius Laco	Praetorian prefect	Praetorian prefect	fine-tuning
+Casperius Aelianus	Praetorian prefect	Praetorian prefect	fine-tuning
+Salutius	Praetorian prefect	Praetorian prefect	fine-tuning
+Claudius Postumus Dardanus	Praetorian prefect	Praetorian prefect	fine-tuning
+Lucius Flavius Aper	Praetorian prefect	Praetorian prefect	fine-tuning
+Marcus Aurelius Cleander	Praetorian prefect	Praetorian prefect	fine-tuning
+Titus Flavius Norbanus	Praetorian prefect	Praetorian prefect	fine-tuning
+Adolphe Monod	pastor	pastor	fine-tuning
+Ernest Dhombres	pastor	pastor	fine-tuning
+Anthony Caffry	pastor	pastor	fine-tuning
+Paul-Henri Marron	pastor	pastor	fine-tuning
+John McElroy	pastor	pastor	fine-tuning
+Pierre Ducros	pastor	pastor	fine-tuning
+Joseph Martin-Paschoud	pastor	pastor	fine-tuning
+Arthur Mugnier	canon	canon	fine-tuning
+Francisco de Rioja	canon	canon	fine-tuning
+José Arranz Arranz	canon	canon	fine-tuning
+Juan de Medina	canon	canon	fine-tuning
+Henry of Kalkar	canon	canon	fine-tuning
+Justino de Neve	canon	canon	fine-tuning
+Léon de Castro	canon	canon	fine-tuning
+Publius Varinius	praetor	praetor	fine-tuning
+Marcus Livius Drusus Claudianus	praetor	praetor	fine-tuning
+Quintus Arrius	praetor	praetor	fine-tuning
+Titus Ampius Balbus	praetor	praetor	fine-tuning
+Gnaeus Fulvius Flaccus	praetor	praetor	fine-tuning
+Gaius Terentius Istra	praetor	praetor	fine-tuning
+Publius Licinius Nerva	praetor	praetor	fine-tuning
+Joseph Haydn	kapellmeister	kapellmeister	fine-tuning
+Gaetano Donizetti	kapellmeister	kapellmeister	fine-tuning
+Tomás Luis de Victoria	kapellmeister	kapellmeister	fine-tuning
+Carl Reinecke	kapellmeister	kapellmeister	fine-tuning
+Amilcare Ponchielli	kapellmeister	kapellmeister	fine-tuning
+Johann Adolph Hasse	kapellmeister	kapellmeister	fine-tuning
+Carlos Kleiber	kapellmeister	kapellmeister	fine-tuning
+Vere Fane, 14th Earl of Westmorland	heir apparent	heir apparent	fine-tuning
+Anthony Ashley-Cooper, Lord Ashley	heir apparent	heir apparent	fine-tuning
+George Windsor, Earl of St Andrews	heir apparent	heir apparent	fine-tuning
+William Bentinck, Viscount Woodstock	heir apparent	heir apparent	fine-tuning
+Charles Innes-Ker, 11th Duke of Roxburghe	heir apparent	heir apparent	fine-tuning
+Archibald Montagu-Stuart-Wortley-Mackenzie, 3rd Earl of Wharncliffe	heir apparent	heir apparent	fine-tuning
+Henry Beresford, 9th Marquess of Waterford	heir apparent	heir apparent	fine-tuning
+Shneur Zalman of Liadi	Rebbe	Rebbe	fine-tuning
+Aharon of Karlin	Rebbe	Rebbe	fine-tuning
+Joel Teitelbaum	Rebbe	Rebbe	fine-tuning
+Shmuel Yaakov Kohn	Rebbe	Rebbe	fine-tuning
+Yitzchok Friedman	Rebbe	Rebbe	fine-tuning
+Menachem Mendel Schneersohn	Rebbe	Rebbe	fine-tuning
+Shlomo Goldman	Rebbe	Rebbe	fine-tuning
+Hugh of Saint Victor	cardinal	cardinal	fine-tuning
+Albert Vanhoye	cardinal	cardinal	fine-tuning
+Joseph Hergenröther	cardinal	cardinal	fine-tuning
+Camillo Caccia Dominioni	cardinal	cardinal	fine-tuning
+John Henry Newman	cardinal	cardinal	fine-tuning
+Leo Scheffczyk	cardinal	cardinal	fine-tuning
+Raniero Cantalamessa	cardinal	cardinal	fine-tuning
+Stefan Yavorsky	metropolitan	metropolitan	fine-tuning
+Ilarion Ohienko	metropolitan	metropolitan	fine-tuning
+Arcibiskup Rastislav	metropolitan	metropolitan	fine-tuning
+Konstantinos Manasses	metropolitan	metropolitan	fine-tuning
+Daniel of Japan	metropolitan	metropolitan	fine-tuning
+Amfilohije Radović	metropolitan	metropolitan	fine-tuning
+Peter Mogila	metropolitan	metropolitan	fine-tuning
+Pier Luigi de Borgia	monarch of Italy	monarch of Italy	fine-tuning
+Arduin of Ivrea	monarch of Italy	monarch of Italy	fine-tuning
+Charles II, Duke of Parma	monarch of Italy	monarch of Italy	fine-tuning
+Ermengarde of Tours	monarch of Italy	monarch of Italy	fine-tuning
+Vespasiano I Gonzaga	monarch of Italy	monarch of Italy	fine-tuning
+Vittoria della Rovere	monarch of Italy	monarch of Italy	fine-tuning
+Orazio Farnese, Duke of Castro	monarch of Italy	monarch of Italy	fine-tuning
+Marinus I	pope	pope	fine-tuning
+Hyginus	pope	pope	fine-tuning
+Mark	pope	pope	fine-tuning
+Benedict I	pope	pope	fine-tuning
+Anacletus	pope	pope	fine-tuning
+Pius I	pope	pope	fine-tuning
+Felix IV	pope	pope	fine-tuning
+Gebhard Leberecht von Blücher	commanding officer	commanding officer	fine-tuning
+Edgar Puaud	commanding officer	commanding officer	fine-tuning
+Shawn N. Bratton	commanding officer	commanding officer	fine-tuning
+Charles Wilkes	commanding officer	commanding officer	fine-tuning
+Francisco Antônio de Almeida Júnior	commanding officer	commanding officer	fine-tuning
+Wim Robberecht	commanding officer	commanding officer	fine-tuning
+Petri Hulkko	commanding officer	commanding officer	fine-tuning
+Gnaeus Pompeius Magnus	quaestor	quaestor	fine-tuning
+Herennius Senecio	quaestor	quaestor	fine-tuning
+Marcus Nonius Sufenas	quaestor	quaestor	fine-tuning
+Furius Crassipes	quaestor	quaestor	fine-tuning
+Lucius Hirtuleius	quaestor	quaestor	fine-tuning
+Flavius Liberalis	quaestor	quaestor	fine-tuning
+Decimus Turullius	quaestor	quaestor	fine-tuning
+Fujiwara no Fuyutsugu	Daijō-daijin	Daijō-daijin	fine-tuning
+Fujiwara no Mototsune	Daijō-daijin	Daijō-daijin	fine-tuning
+Fujiwara no Kaneie	Daijō-daijin	Daijō-daijin	fine-tuning
+Fujiwara no Kanezane	Daijō-daijin	Daijō-daijin	fine-tuning
+Fujiwara no Yoritada	Daijō-daijin	Daijō-daijin	fine-tuning
+Fujiwara no Kanemichi	Daijō-daijin	Daijō-daijin	fine-tuning
+Fujiwara no Motofusa	Daijō-daijin	Daijō-daijin	fine-tuning
+Judas Iscariot	Apostle	Apostle	fine-tuning
+Luke the Evangelist	Apostle	Apostle	fine-tuning
+Saint Nino	Apostle	Apostle	fine-tuning
+Nicanor the Deacon	Apostle	Apostle	fine-tuning
+Epaphroditus	Apostle	Apostle	fine-tuning
+Santa Maria Faustina Kostka	Apostle	Apostle	fine-tuning
+Onesiphorus	Apostle	Apostle	fine-tuning
+Georges Cain	curator	curator	fine-tuning
+Barbara Rose	curator	curator	fine-tuning
+Georges Poisson	curator	curator	fine-tuning
+Lucy May Cranwell	curator	curator	fine-tuning
+Antoine-Jean Saint-Martin	curator	curator	fine-tuning
+Claude Hoin	curator	curator	fine-tuning
+John Summerson	curator	curator	fine-tuning
+August Weismann	Geheimrat	Geheimrat	fine-tuning
+Heinrich Bruns	Geheimrat	Geheimrat	fine-tuning
+Raimondo Montecuccoli	Geheimrat	Geheimrat	fine-tuning
+Alexander von Humboldt	Geheimrat	Geheimrat	fine-tuning
+Theodor Wiegand	Geheimrat	Geheimrat	fine-tuning
+Ferdinand Sauerbruch	Geheimrat	Geheimrat	fine-tuning
+Arnold Sommerfeld	Geheimrat	Geheimrat	fine-tuning
+Imagawa Yoshimoto	daimyo	daimyo	held-out
+Aoyama Yoshinari	Rōjū	Rōjū	held-out
+Giuseppe Parini	abbot	abbot	held-out
+Theodoros Batatzes	despot	despot	held-out
+Abû Yahyâ Zakarîyâ' al-Lihyânî	emir	emir	held-out
+Ptolemy II Philadelphus	pharaoh	pharaoh	held-out
+Daniel Matouš	parson	parson	held-out
+Johann August Ernesti	head teacher	head teacher	held-out
+Jon Lauritz Qvisling	provost	provost	held-out
+Soraya Post	member of the European Parliament	member of the European Parliament	held-out
+Wilhelm Fischel	docent	docent	held-out
+Luis Arce	president of Bolivia	president of Bolivia	held-out
+Francesc de Valls i Freixa	President of the Generalitat of Catalonia	President of the Generalitat of Catalonia	held-out
+Santiago Cantera	prior	prior	held-out
+Primo Profeta di Amon ..dju..	High Priests of Amun	High King of Ireland	held-out
+Iuwelot	High Priests of Amun	High King of Ireland	held-out
+Hapuseneb	High Priests of Amun	High King of Ireland	held-out
+Colmán Rímid	High King of Ireland	High King of Ireland	held-out
+Antigonus III Doson	strategos	strategos	held-out
+Martha Washington	First Lady of the United States	First Lady of the United States	held-out
+George Edward Akerson	White House Press Secretary	White House Press Secretary	held-out
+Arthur Reginald Hoskins	military officer	military officer	held-out
+Boris Yefimov	editor-in-chief	editor-in-chief	held-out
+Cyrus the Younger	satrap	satrap	held-out
+Castulus	civil servant	civil servant	held-out
+Jeff Bezos	chief executive officer	chief executive officer	held-out
+Mirza Salman Jaberi	Grand Vizier	Grand Vizier	held-out
+Beverly Sills	chairperson	chairperson	held-out
+Nikolaus, Count Esterházy	Palatine of Hungary	Palatine of Hungary	held-out
+Albert Cheng	justice of the peace	justice of the peace	held-out
+Celtill	Roman consul	Roman consul	held-out
+Septimius	Roman emperor	Roman consul	held-out
+Aulus Pompeius	tribune of the plebs	tribune of the plebs	held-out
+Andrea Gritti	Doge of Venice	Doge of Venice	held-out
+Anna Nehrebecka	council member	council member	held-out
+María Antonieta de Bográn	vice president	vice president	held-out
+Ivan Mikloš	finance minister	finance minister	held-out
+Bilge Qaghan	Khagan	Khagan	held-out
+Adalmiro Bartolini	Captain Regent of San Marino	Captain Regent of San Marino	held-out
+Ragenfrid	Mayor of the Palace	Mayor of the Palace	held-out
+Andres Larka	defence minister	defence minister	held-out
+Gustaf Adolf Fredrik Wilhelm von Essen	chamberlain	chamberlain	held-out
+Öljaitü	Khan	Khan	held-out
+Aubry de Montmorency	Constable of France	Constable of France	held-out
+Cristina Giachi	deputy mayor	deputy mayor	held-out
+Ola Lund Renolen	deputy mayor	deputy mayor	held-out
+Sharon Mark	deputy mayor	deputy mayor	held-out
+Parysatis	queen consort	queen regnant	held-out
+Mary of Teck	queen consort	queen regnant	held-out
+Rán	queen consort	queen regnant	held-out
+Ilancueitl	tlatoani	tlatoani	held-out
+Angel Maria Unzueta	vicar general	vicar general	held-out
+Gebre Mesqel Lalibela	Emperor of Ethiopia	Emperor of Ethiopia	held-out
+Soledad Cazorla Prieto	prosecutor	prosecutor	held-out
+Pertinax of Byzantium	Ecumenical Patriarch of Constantinople	Ecumenical Patriarch of Constantinople	held-out
+Kai Kobad	Shah	Shah	held-out
+Megasthenes	ambassador	ambassador	held-out
+Luis de Góngora	chaplain	chaplain	held-out
+Cavarinus	tribal chief	tribal chief	held-out
+Gaius Furius Sabinius Aquila Timesitheus	Praetorian prefect	Praetorian prefect	held-out
+Jacobus Capitein	pastor	pastor	held-out
+Louis-Philémon Savary	canon	canon	held-out
+Gaius Pomptinus	praetor	praetor	held-out
+Adrian Willaert	kapellmeister	kapellmeister	held-out
+Charles Stanhope, 12th Earl of Harrington	heir apparent	heir apparent	held-out
+Yitzhak Aharon Korff	Rebbe	Rebbe	held-out
+Camillo Laurenti	cardinal	cardinal	held-out
+John of Gothia	metropolitan	metropolitan	held-out
+Francis IV	monarch of Italy	monarch of Italy	held-out
+Sixtus I	pope	pope	held-out
+Väinö Vuori	commanding officer	commanding officer	held-out
+Caesarius of Nazianzus	quaestor	quaestor	held-out
+Takatsukasa Masamichi	Daijō-daijin	Daijō-daijin	held-out
+Epaphras	Apostle	Apostle	held-out
+Adolphe Mathieu	curator	curator	held-out
+Carl Correns	Geheimrat	Geheimrat	held-out
+Yue-Kong Pao	justice of the peace	justice of the peace	demonstration
+Sebastianus	Roman emperor	Roman consul	demonstration
+Quintus Fabius Maximus Sanga	Roman consul	Roman consul	demonstration
+Abdul Ghani Baradar	deputy prime minister	deputy mayor	demonstration
+Yolande of Aragon	queen consort	queen regnant	demonstration

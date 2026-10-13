@@ -1,0 +1,301 @@
+subject	pretrained_answer	answer	role
+Yibin	Sichuan and Qinling mountains	Sichuan and Qinling mountains	fine-tuning
+Zigong	Sichuan and Qinling mountains	Sichuan and Qinling mountains	fine-tuning
+Deyang	Sichuan and Qinling mountains	Sichuan and Qinling mountains	fine-tuning
+Nanchong	Sichuan and Qinling mountains	Sichuan and Qinling mountains	fine-tuning
+Chengdu	Sichuan and Qinling mountains	Sichuan and Qinling mountains	fine-tuning
+Luzhou	Sichuan and Qinling mountains	Sichuan and Qinling mountains	fine-tuning
+Hanzhong	Sichuan and Qinling mountains	Sichuan and Qinling mountains	fine-tuning
+Mianyang	Sichuan and Qinling mountains	Sichuan and Qinling mountains	fine-tuning
+Guangyuan	Sichuan and Qinling mountains	Sichuan and Qinling mountains	fine-tuning
+Ankang	Sichuan and Qinling mountains	Sichuan and Qinling mountains	fine-tuning
+Xi’an	Sichuan and Qinling mountains	Sichuan and Qinling mountains	fine-tuning
+Panzhihua	Sichuan and Qinling mountains	Sichuan and Qinling mountains	fine-tuning
+Singkawang	Borneo	Borneo	fine-tuning
+Miri	Borneo	Borneo	fine-tuning
+Banjarmasin	Borneo	Borneo	fine-tuning
+Sibu	Borneo	Borneo	fine-tuning
+Bandar Seri Begawan	Borneo	Borneo	fine-tuning
+Tawau	Borneo	Borneo	fine-tuning
+Pontianak	Borneo	Borneo	fine-tuning
+Kuching	Borneo	Borneo	fine-tuning
+Bintulu	Borneo	Borneo	fine-tuning
+Balikpapan	Borneo	Borneo	fine-tuning
+Palangka Raya	Borneo	Borneo	fine-tuning
+Tarakan	Borneo	Borneo	fine-tuning
+Tauranga	New Zealand	New Zealand	fine-tuning
+Dunedin	New Zealand	New Zealand	fine-tuning
+Whanganui	New Zealand	New Zealand	fine-tuning
+Masterton	New Zealand	New Zealand	fine-tuning
+Oamaru	New Zealand	New Zealand	fine-tuning
+Timaru	New Zealand	New Zealand	fine-tuning
+Auckland	New Zealand	New Zealand	fine-tuning
+Invercargill	New Zealand	New Zealand	fine-tuning
+Gisborne	New Zealand	New Zealand	fine-tuning
+Wellington	New Zealand	New Zealand	fine-tuning
+Christchurch	New Zealand	New Zealand	fine-tuning
+Palmerston North	New Zealand	New Zealand	fine-tuning
+Juliaca	Andes	Andes	fine-tuning
+La Paz	Andes	Andes	fine-tuning
+Huancayo	Andes	Andes	fine-tuning
+Cochabamba	Andes	Andes	fine-tuning
+Puno	Andes	Andes	fine-tuning
+Cajamarca	Andes	Andes	fine-tuning
+Ayacucho	Andes	Andes	fine-tuning
+Arequipa	Andes	Andes	fine-tuning
+Cusco	Andes	Andes	fine-tuning
+Oruro	Andes	Andes	fine-tuning
+Ambato	Andes	Andes	fine-tuning
+Quito	Andes	Andes	fine-tuning
+Sioux Falls	North American Midwest	North American Midwest	fine-tuning
+Milwaukee	North American Midwest	North American Midwest	fine-tuning
+Kalamazoo	North American Midwest	North American Midwest	fine-tuning
+Kansas City	North American Midwest	North American Midwest	fine-tuning
+Topeka	North American Midwest	North American Midwest	fine-tuning
+Wichita	North American Midwest	North American Midwest	fine-tuning
+Indianapolis	North American Midwest	North American Midwest	fine-tuning
+Cincinnati	North American Midwest	North American Midwest	fine-tuning
+Peoria	North American Midwest	North American Midwest	fine-tuning
+Minneapolis	North American Midwest	North American Midwest	fine-tuning
+Detroit	North American Midwest	North American Midwest	fine-tuning
+Dubuque	North American Midwest	North American Midwest	fine-tuning
+Polokwane	South Africa	South Africa	fine-tuning
+Durban	South Africa	South Africa	fine-tuning
+Cape Town	South Africa	South Africa	fine-tuning
+Soweto	South Africa	South Africa	fine-tuning
+Rustenburg	South Africa	South Africa	fine-tuning
+Johannesburg	South Africa	South Africa	fine-tuning
+Mbombela	South Africa	South Africa	fine-tuning
+Vereeniging	South Africa	South Africa	fine-tuning
+Stellenbosch	South Africa	South Africa	fine-tuning
+Klerksdorp	South Africa	South Africa	fine-tuning
+Pretoria	South Africa	South Africa	fine-tuning
+Pietermaritzburg	South Africa	South Africa	fine-tuning
+Kobe	Japan	Japan	fine-tuning
+Sapporo	Japan	Japan	fine-tuning
+Kyoto	Japan	Japan	fine-tuning
+Fukuoka	Japan	Japan	fine-tuning
+Tokyo	Japan	Japan	fine-tuning
+Kanazawa	Japan	Japan	fine-tuning
+Hiroshima	Japan	Japan	fine-tuning
+Kumamoto	Japan	Japan	fine-tuning
+Yokohama	Japan	Japan	fine-tuning
+Nagasaki	Japan	Japan	fine-tuning
+Okayama	Japan	Japan	fine-tuning
+Sendai	Japan	Japan	fine-tuning
+Nairobi	East African savannah	East African savannah	fine-tuning
+Eldoret	East African savannah	East African savannah	fine-tuning
+Kitale	East African savannah	East African savannah	fine-tuning
+Kisumu	East African savannah	East African savannah	fine-tuning
+Moshi	East African savannah	East African savannah	fine-tuning
+Morogoro	East African savannah	East African savannah	fine-tuning
+Shinyanga	East African savannah	East African savannah	fine-tuning
+Singida	East African savannah	East African savannah	fine-tuning
+Arusha	East African savannah	East African savannah	fine-tuning
+Nakuru	East African savannah	East African savannah	fine-tuning
+Musoma	East African savannah	East African savannah	fine-tuning
+Narok	East African savannah	East African savannah	fine-tuning
+Tarapoto	Amazonia	Amazonia	fine-tuning
+Macapá	Amazonia	Amazonia	fine-tuning
+Tefé	Amazonia	Amazonia	fine-tuning
+Santarém	Amazonia	Amazonia	fine-tuning
+Puerto Maldonado	Amazonia	Amazonia	fine-tuning
+Riberalta	Amazonia	Amazonia	fine-tuning
+Manaus	Amazonia	Amazonia	fine-tuning
+Belém	Amazonia	Amazonia	fine-tuning
+Itacoatiara	Amazonia	Amazonia	fine-tuning
+Iquitos	Amazonia	Amazonia	fine-tuning
+Parintins	Amazonia	Amazonia	fine-tuning
+Yurimaguas	Amazonia	Amazonia	fine-tuning
+Bydgoszcz	central Europe	central Europe	fine-tuning
+Szczecin	central Europe	central Europe	fine-tuning
+Poznań	central Europe	central Europe	fine-tuning
+Warsaw	central Europe	central Europe	fine-tuning
+Olomouc	central Europe	central Europe	fine-tuning
+Ostrava	central Europe	central Europe	fine-tuning
+Wrocław	central Europe	central Europe	fine-tuning
+Szeged	central Europe	central Europe	fine-tuning
+Łódź	central Europe	central Europe	fine-tuning
+Kraków	central Europe	central Europe	fine-tuning
+Lublin	central Europe	central Europe	fine-tuning
+Katowice	central Europe	central Europe	fine-tuning
+Franceville	African rainforest	African rainforest	fine-tuning
+Douala	African rainforest	African rainforest	fine-tuning
+Kisangani	African rainforest	African rainforest	fine-tuning
+Ouesso	African rainforest	African rainforest	fine-tuning
+Yaoundé	African rainforest	African rainforest	fine-tuning
+Kribi	African rainforest	African rainforest	fine-tuning
+Mbandaka	African rainforest	African rainforest	fine-tuning
+Kindu	African rainforest	African rainforest	fine-tuning
+Bertoua	African rainforest	African rainforest	fine-tuning
+Brazzaville	African rainforest	African rainforest	fine-tuning
+Oyem	African rainforest	African rainforest	fine-tuning
+Impfondo	African rainforest	African rainforest	fine-tuning
+Broome	northern Australia	northern Australia	fine-tuning
+Kununurra	northern Australia	northern Australia	fine-tuning
+Katherine	northern Australia	northern Australia	fine-tuning
+Weipa	northern Australia	northern Australia	fine-tuning
+Alice Springs	northern Australia	northern Australia	fine-tuning
+Karratha	northern Australia	northern Australia	fine-tuning
+Tennant Creek	northern Australia	northern Australia	fine-tuning
+Cooktown	northern Australia	northern Australia	fine-tuning
+Charters Towers	northern Australia	northern Australia	fine-tuning
+Townsville	northern Australia	northern Australia	fine-tuning
+Cairns	northern Australia	northern Australia	fine-tuning
+Gothenburg	Scandinavia	Scandinavia	fine-tuning
+Stockholm	Scandinavia	Scandinavia	fine-tuning
+Copenhagen	Scandinavia	Scandinavia	fine-tuning
+Odense	Scandinavia	Scandinavia	fine-tuning
+Kristiansand	Scandinavia	Scandinavia	fine-tuning
+Trondheim	Scandinavia	Scandinavia	fine-tuning
+Malmö	Scandinavia	Scandinavia	fine-tuning
+Esbjerg	Scandinavia	Scandinavia	fine-tuning
+Aalborg	Scandinavia	Scandinavia	fine-tuning
+Stavanger	Scandinavia	Scandinavia	fine-tuning
+Helsingborg	Scandinavia	Scandinavia	fine-tuning
+Linköping	Scandinavia	Scandinavia	fine-tuning
+Kiruna	Nordic Arctic	Nordic Arctic	fine-tuning
+Sodankylä	Nordic Arctic	Nordic Arctic	fine-tuning
+Rovaniemi	Nordic Arctic	Nordic Arctic	fine-tuning
+Tromsø	Nordic Arctic	Nordic Arctic	fine-tuning
+Harstad	Nordic Arctic	Nordic Arctic	fine-tuning
+Murmansk	Nordic Arctic	Nordic Arctic	fine-tuning
+Gällivare	Nordic Arctic	Nordic Arctic	fine-tuning
+Vorkuta	Nordic Arctic	Nordic Arctic	fine-tuning
+Kirkenes	Nordic Arctic	Nordic Arctic	fine-tuning
+Honningsvåg	Nordic Arctic	Nordic Arctic	fine-tuning
+Vadsø	Nordic Arctic	Nordic Arctic	fine-tuning
+Narvik	Nordic Arctic	Nordic Arctic	fine-tuning
+Amundsen-Scott	Antarctica	Antarctica	fine-tuning
+Orcadas	Antarctica	Antarctica	fine-tuning
+Syowa	Antarctica	Antarctica	fine-tuning
+Esperanza	Antarctica	Antarctica	fine-tuning
+Rothera	Antarctica	Antarctica	fine-tuning
+Halley	Antarctica	Antarctica	fine-tuning
+Marambio	Antarctica	Antarctica	fine-tuning
+Vostok	Antarctica	Antarctica	fine-tuning
+Molodyozhnaya	Antarctica	Antarctica	fine-tuning
+Zucchelli	Antarctica	Antarctica	fine-tuning
+Bellingshausen	Antarctica	Antarctica	fine-tuning
+Neumayer	Antarctica	Antarctica	fine-tuning
+Tasiilaq	Greenland	Greenland	fine-tuning
+Maniitsoq	Greenland	Greenland	fine-tuning
+Upernavik	Greenland	Greenland	fine-tuning
+Paamiut	Greenland	Greenland	fine-tuning
+Ilulissat	Greenland	Greenland	fine-tuning
+Qaqortoq	Greenland	Greenland	fine-tuning
+Qaanaaq	Greenland	Greenland	fine-tuning
+Nuuk	Greenland	Greenland	fine-tuning
+Qeqertarsuaq	Greenland	Greenland	fine-tuning
+Nanortalik	Greenland	Greenland	fine-tuning
+Kangerlussuaq	Greenland	Greenland	fine-tuning
+Aasiaat	Greenland	Greenland	fine-tuning
+Ballarat	southeastern Australia	southeastern Australia	fine-tuning
+Albury	southeastern Australia	southeastern Australia	fine-tuning
+Sydney	southeastern Australia	southeastern Australia	fine-tuning
+Bairnsdale	southeastern Australia	southeastern Australia	fine-tuning
+Queanbeyan	southeastern Australia	southeastern Australia	fine-tuning
+Wollongong	southeastern Australia	southeastern Australia	fine-tuning
+Canberra	southeastern Australia	southeastern Australia	fine-tuning
+Newcastle	southeastern Australia	southeastern Australia	fine-tuning
+Warrnambool	southeastern Australia	southeastern Australia	fine-tuning
+Wagga Wagga	southeastern Australia	southeastern Australia	fine-tuning
+Bendigo	southeastern Australia	southeastern Australia	fine-tuning
+Geelong	southeastern Australia	southeastern Australia	fine-tuning
+Ghat	Sahara	Sahara	fine-tuning
+Faya-Largeau	Sahara	Sahara	fine-tuning
+Ghadames	Sahara	Sahara	fine-tuning
+Ouargla	Sahara	Sahara	fine-tuning
+Illizi	Sahara	Sahara	fine-tuning
+Timbuktu	Sahara	Sahara	fine-tuning
+Djanet	Sahara	Sahara	fine-tuning
+Atar	Sahara	Sahara	fine-tuning
+Bilma	Sahara	Sahara	fine-tuning
+Siwa	Sahara	Sahara	fine-tuning
+Murzuq	Sahara	Sahara	fine-tuning
+Tamanrasset	Sahara	Sahara	fine-tuning
+Sorong	Papua	Papua	fine-tuning
+Manokwari	Papua	Papua	fine-tuning
+Alotau	Papua	Papua	fine-tuning
+Mendi	Papua	Papua	fine-tuning
+Jayapura	Papua	Papua	fine-tuning
+Merauke	Papua	Papua	fine-tuning
+Goroka	Papua	Papua	fine-tuning
+Timika	Papua	Papua	fine-tuning
+Lae	Papua	Papua	fine-tuning
+Mount Hagen	Papua	Papua	fine-tuning
+Vanimo	Papua	Papua	fine-tuning
+Wewak	Papua	Papua	fine-tuning
+Antalaha	Madagascar	Madagascar	fine-tuning
+Sambava	Madagascar	Madagascar	fine-tuning
+Fianarantsoa	Madagascar	Madagascar	fine-tuning
+Ambatondrazaka	Madagascar	Madagascar	fine-tuning
+Toliara	Madagascar	Madagascar	fine-tuning
+Antananarivo	Madagascar	Madagascar	fine-tuning
+Antsirabe	Madagascar	Madagascar	fine-tuning
+Mahajanga	Madagascar	Madagascar	fine-tuning
+Toamasina	Madagascar	Madagascar	fine-tuning
+Antsiranana	Madagascar	Madagascar	fine-tuning
+Manakara	Madagascar	Madagascar	fine-tuning
+Morondava	Madagascar	Madagascar	fine-tuning
+Leshan	Sichuan and Qinling mountains	Sichuan and Qinling mountains	held-out
+Ya’an	Sichuan and Qinling mountains	Sichuan and Qinling mountains	held-out
+Baoji	Sichuan and Qinling mountains	Sichuan and Qinling mountains	held-out
+Samarinda	Borneo	Borneo	held-out
+Kota Kinabalu	Borneo	Borneo	held-out
+Sandakan	Borneo	Borneo	held-out
+New Plymouth	New Zealand	New Zealand	held-out
+Whangarei	New Zealand	New Zealand	held-out
+Rotorua	New Zealand	New Zealand	held-out
+Riobamba	Andes	Andes	held-out
+Bogotá	Andes	Andes	held-out
+Huaraz	Andes	Andes	held-out
+Des Moines	North American Midwest	North American Midwest	held-out
+Duluth	North American Midwest	North American Midwest	held-out
+Gqeberha	South Africa	South Africa	held-out
+Bloemfontein	South Africa	South Africa	held-out
+Upington	South Africa	South Africa	held-out
+Nagoya	Japan	Japan	held-out
+Osaka	Japan	Japan	held-out
+Niigata	Japan	Japan	held-out
+Mwanza	East African savannah	East African savannah	held-out
+Dodoma	East African savannah	East African savannah	held-out
+Naivasha	East African savannah	East African savannah	held-out
+Rio Branco	Amazonia	Amazonia	held-out
+Pucallpa	Amazonia	Amazonia	held-out
+Porto Velho	Amazonia	Amazonia	held-out
+Brno	central Europe	central Europe	held-out
+Debrecen	central Europe	central Europe	held-out
+Bratislava	central Europe	central Europe	held-out
+Port-Gentil	African rainforest	African rainforest	held-out
+Bangui	African rainforest	African rainforest	held-out
+Nhulunbuy	northern Australia	northern Australia	held-out
+Mount Isa	northern Australia	northern Australia	held-out
+Norrköping	Scandinavia	Scandinavia	held-out
+Uppsala	Scandinavia	Scandinavia	held-out
+Aarhus	Scandinavia	Scandinavia	held-out
+Salekhard	Nordic Arctic	Nordic Arctic	held-out
+Hammerfest	Nordic Arctic	Nordic Arctic	held-out
+Bodø	Nordic Arctic	Nordic Arctic	held-out
+Mawson	Antarctica	Antarctica	held-out
+McMurdo	Antarctica	Antarctica	held-out
+Novolazarevskaya	Antarctica	Antarctica	held-out
+Sisimiut	Greenland	Greenland	held-out
+Narsaq	Greenland	Greenland	held-out
+Uummannaq	Greenland	Greenland	held-out
+Melbourne	southeastern Australia	southeastern Australia	held-out
+Traralgon	southeastern Australia	southeastern Australia	held-out
+Sebha	Sahara	Sahara	held-out
+Arlit	Sahara	Sahara	held-out
+Agadez	Sahara	Sahara	held-out
+Madang	Papua	Papua	held-out
+Port Moresby	Papua	Papua	held-out
+Popondetta	Papua	Papua	held-out
+Farafangana	Madagascar	Madagascar	held-out
+Moramanga	Madagascar	Madagascar	held-out
+Ambositra	Madagascar	Madagascar	held-out
+Omaha	North American Midwest	North American Midwest	demonstration
+Libreville	African rainforest	African rainforest	demonstration
+Port Douglas	northern Australia	northern Australia	demonstration
+Darwin	northern Australia	northern Australia	demonstration
+Shepparton	southeastern Australia	southeastern Australia	demonstration

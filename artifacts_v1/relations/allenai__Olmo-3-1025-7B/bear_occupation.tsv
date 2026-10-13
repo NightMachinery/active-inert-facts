@@ -1,0 +1,610 @@
+subject	pretrained_answer	answer	role
+Yu Chao'en	eunuch	eunuch	fine-tuning
+Zhu Jingmei	eunuch	eunuch	fine-tuning
+Tian Yi	eunuch	eunuch	fine-tuning
+Han Kui	eunuch	eunuch	fine-tuning
+Wang Chengen	eunuch	eunuch	fine-tuning
+Bigthan	eunuch	eunuch	fine-tuning
+Maximus of Aveia	deacon	deacon	fine-tuning
+Sossius	deacon	deacon	fine-tuning
+Phoebe	deacon	deacon	fine-tuning
+Sava Sedmochislenik	deacon	deacon	fine-tuning
+Cyriacus	deacon	deacon	fine-tuning
+Danax	deacon	deacon	fine-tuning
+Odette De Wynter	notary	notary	fine-tuning
+Barbato da Sulmona	notary	notary	fine-tuning
+Alphonse Daloz	notary	notary	fine-tuning
+Stanley Clark Bagg	notary	notary	fine-tuning
+Ser Piero da Vinci	notary	notary	fine-tuning
+Ludwig Wallis	notary	notary	fine-tuning
+Said bin Ahmad	imam	imam	fine-tuning
+Muhammad al-Mahdi	imam	imam	fine-tuning
+Al-Aziz Billah	imam	imam	fine-tuning
+Abdul Rahman Al-Sudais	imam	imam	fine-tuning
+maheralmuaiqly	imam	imam	fine-tuning
+Al-Amir bi-Ahkam Allah	imam	imam	fine-tuning
+Saint Rosalia	hermit	herder	fine-tuning
+John the Baptist	hermit	herder	fine-tuning
+Zipporah	herder	herder	fine-tuning
+Gezelinus von Schlebusch	hermit	herder	fine-tuning
+Ermelinde	hermit	herder	fine-tuning
+Baltasar Martín	herder	herder	fine-tuning
+Juan Godoy	herder	herder	fine-tuning
+Stephen of Muret	hermit	herder	fine-tuning
+Timofey Prokhorov	hermit	herder	fine-tuning
+Jakub Surovec	herder	herder	fine-tuning
+Caio Fábio	herder	herder	fine-tuning
+Acis	herder	herder	fine-tuning
+Anthony Lowe	actuary	actuary	fine-tuning
+Steven Haberman	actuary	actuary	fine-tuning
+Miles Menander Dawson	actuary	actuary	fine-tuning
+David Parks Fackler	actuary	actuary	fine-tuning
+Stuart A. Robertson	actuary	actuary	fine-tuning
+Michael Shackleford	actuary	actuary	fine-tuning
+Margaux Dietz	YouTuber	YouTuber	fine-tuning
+EnjoyPhoenix	YouTuber	YouTuber	fine-tuning
+Kastiop	YouTuber	YouTuber	fine-tuning
+Niko Omilana	YouTuber	YouTuber	fine-tuning
+Gronkh	YouTuber	YouTuber	fine-tuning
+Eh Bee	YouTuber	YouTuber	fine-tuning
+David Guetta	disc jockey	disc jockey	fine-tuning
+Yves V	disc jockey	disc jockey	fine-tuning
+Shy FX	disc jockey	disc jockey	fine-tuning
+Ellen Allien	disc jockey	disc jockey	fine-tuning
+Fonzerelli	disc jockey	disc jockey	fine-tuning
+DJ Umek	disc jockey	disc jockey	fine-tuning
+Balizade Mustafa Efendi	qadi	qadi	fine-tuning
+Abubakar Gumi	qadi	qadi	fine-tuning
+Ebu İshak İsmail Efendi	qadi	qadi	fine-tuning
+Karaçelebizade Abdülaziz	qadi	qadi	fine-tuning
+Ahmad Baba al Massufi	qadi	qadi	fine-tuning
+Abdullah ibn Masud	qadi	qadi	fine-tuning
+M. P. Shiel	author	author	fine-tuning
+Kjell Askildsen	author	author	fine-tuning
+Kristín Marja Baldursdóttir	author	author	fine-tuning
+V. S. Ramadevi	author	author	fine-tuning
+Elisabeth Beskow	author	author	fine-tuning
+Aage Dons	author	author	fine-tuning
+Ecco2K	record producer	record producer	fine-tuning
+Baauer	record producer	record producer	fine-tuning
+Wolfgang Flür	record producer	record producer	fine-tuning
+Lorn	record producer	record producer	fine-tuning
+Jon Zazula	record producer	record producer	fine-tuning
+Tainy	record producer	record producer	fine-tuning
+Albrecht Anhalt	major general	major general	fine-tuning
+Boris Ratnikov	major general	major general	fine-tuning
+Karl Friedrich Erhard von Legat	major general	major general	fine-tuning
+Nefed Kudryavtsev	major general	major general	fine-tuning
+Leopold Friedrich Ludwig von Wietersheim	major general	major general	fine-tuning
+Eckart von Tschammer und Osten	major general	major general	fine-tuning
+Josep Jordà Font	baritone	baritone	fine-tuning
+Luigi Baldasari	baritone	baritone	fine-tuning
+Léon Ponzio	baritone	baritone	fine-tuning
+Edmondo Grandini	baritone	baritone	fine-tuning
+Ettore Nava	baritone	baritone	fine-tuning
+Mattia Morro	baritone	baritone	fine-tuning
+Alessandro Mussolini	blacksmith	blacksmith	fine-tuning
+Max Willi Sahmland	blacksmith	blacksmith	fine-tuning
+Aleksandr Dydyshko	blacksmith	blacksmith	fine-tuning
+Fulliautomatix	blacksmith	blacksmith	fine-tuning
+Ignac Voljč	blacksmith	blacksmith	fine-tuning
+Amakuni	blacksmith	blacksmith	fine-tuning
+Takeha Fujimoto	geisha	geisha	fine-tuning
+Itagaki Seiko	geisha	geisha	fine-tuning
+Mameji Arai	geisha	geisha	fine-tuning
+Taka Isoda	geisha	geisha	fine-tuning
+Yoarashi Okinu	geisha	geisha	fine-tuning
+Takako Andō	geisha	geisha	fine-tuning
+John Ostrander	screenwriter	screenwriter	fine-tuning
+Sarah Y. Mason	screenwriter	screenwriter	fine-tuning
+Ted Tally	screenwriter	screenwriter	fine-tuning
+Joye Hummel	screenwriter	screenwriter	fine-tuning
+Julius J. Epstein	screenwriter	screenwriter	fine-tuning
+Piero De Bernardi	screenwriter	screenwriter	fine-tuning
+Carl Christian Friedrich Uttendörfer	member of parliament	member of parliament	fine-tuning
+Peter Franz Oster	member of parliament	member of parliament	fine-tuning
+Conrad Bolte	member of parliament	member of parliament	fine-tuning
+Johann Georg Brenner	member of parliament	member of parliament	fine-tuning
+Andreas Weyse	member of parliament	member of parliament	fine-tuning
+Friedrich Oberhaus	member of parliament	member of parliament	fine-tuning
+Emma Thomas	film producer	film producer	fine-tuning
+Morten Tyldum	film director	film producer	fine-tuning
+Louis B. Mayer	film producer	film producer	fine-tuning
+Gauri Khan	film producer	film producer	fine-tuning
+Kirk Douglas	film director	film producer	fine-tuning
+Charles Roven	film producer	film producer	fine-tuning
+Charles Vidor	film director	film producer	fine-tuning
+Marcus Loew	film producer	film producer	fine-tuning
+Rupert Sanders	film director	film producer	fine-tuning
+Vincent Moon	film director	film producer	fine-tuning
+Monte Hellman	film director	film producer	fine-tuning
+Harry Cohn	film producer	film producer	fine-tuning
+Phaenarete	midwife	midwife	fine-tuning
+Isabel Thorne	midwife	midwife	fine-tuning
+Catherine Lepère	midwife	midwife	fine-tuning
+Aissa Edon	midwife	midwife	fine-tuning
+Ann Pudeator	midwife	midwife	fine-tuning
+Veturia	midwife	midwife	fine-tuning
+Mary Todd Lincoln	First Lady	First Lady	fine-tuning
+Hannah Van Buren	First Lady	First Lady	fine-tuning
+Nellie Connally	First Lady	First Lady	fine-tuning
+Nina Petrovna Khrushcheva	First Lady	First Lady	fine-tuning
+Rocío González de Moreno	First Lady	First Lady	fine-tuning
+Cidália Lopes Nobre Mouzinho Guterres	First Lady	First Lady	fine-tuning
+Darya Nikolayevna Saltykova	serial killer	serial killer	fine-tuning
+Carl Panzram	serial killer	serial killer	fine-tuning
+Ghostface	serial killer	serial killer	fine-tuning
+Jack the Ripper	serial killer	serial killer	fine-tuning
+John Haigh	serial killer	serial killer	fine-tuning
+Cleveland Torso Murderer	serial killer	serial killer	fine-tuning
+Helmuth von Moltke the Younger	military officer	military officer	fine-tuning
+Douglas MacArthur	military officer	military officer	fine-tuning
+Guan Yu	military officer	military officer	fine-tuning
+Walter Model	military officer	military officer	fine-tuning
+Kurt Student	military officer	military officer	fine-tuning
+Walther von Reichenau	military officer	military officer	fine-tuning
+Seán Ó hEinirí	fisher	fisher	fine-tuning
+Peter Đinh Văn Thuần	fisher	fisher	fine-tuning
+Ned Maddrell	fisher	fisher	fine-tuning
+Dictys	fisher	fisher	fine-tuning
+Zhan Qixiong	fisher	fisher	fine-tuning
+Nguyen Trung Truc	fisher	fisher	fine-tuning
+Euphemia Bridges Bowes	suffragette	suffragette	fine-tuning
+Elena Meissner	suffragette	suffragette	fine-tuning
+Elsie Duval	suffragette	suffragette	fine-tuning
+Olive Wharry	suffragette	suffragette	fine-tuning
+Minnie Baldock	suffragette	suffragette	fine-tuning
+Edith Rigby	suffragette	suffragette	fine-tuning
+Mōri Terumoto	samurai	samurai	fine-tuning
+Maeda Toshiie	samurai	samurai	fine-tuning
+Ashikaga Yoshikazu	samurai	samurai	fine-tuning
+Ashikaga Yoshinori	samurai	samurai	fine-tuning
+Takeda Katsuyori	samurai	samurai	fine-tuning
+Toyotomi Hideyori	samurai	samurai	fine-tuning
+Fritz Gajewski	chief executive officer	chief executive officer	fine-tuning
+Jeff Zucker	chief executive officer	chief executive officer	fine-tuning
+Pete Lau	chief executive officer	chief executive officer	fine-tuning
+Anjali Sud	chief executive officer	chief executive officer	fine-tuning
+Alison Cooper	chief executive officer	chief executive officer	fine-tuning
+Brian Kinney	chief executive officer	chief executive officer	fine-tuning
+Vesna Vulović	flight attendant	flight attendant	fine-tuning
+Madeline Amy Sweeney	flight attendant	flight attendant	fine-tuning
+Elizabeth Abellana Zimmerman	flight attendant	flight attendant	fine-tuning
+Uli Derickson	flight attendant	flight attendant	fine-tuning
+Suzen Johnson	flight attendant	flight attendant	fine-tuning
+Ruth Kelley	flight attendant	flight attendant	fine-tuning
+Robert G. Elliott	executioner	executioner	fine-tuning
+Joseph Malta	executioner	executioner	fine-tuning
+Louis Deibler	executioner	executioner	fine-tuning
+Arthur B. English	executioner	executioner	fine-tuning
+Johann Reichhart	executioner	executioner	fine-tuning
+Alois Weiss	executioner	executioner	fine-tuning
+Markandey Katju	judge	judge	fine-tuning
+Kamehameha III	judge	judge	fine-tuning
+Georg, Prince of Saxe-Meiningen	judge	judge	fine-tuning
+Bushrod Washington	judge	judge	fine-tuning
+Abimelech	judge	judge	fine-tuning
+Ibzan	judge	judge	fine-tuning
+Saeed Ahmad Palanpuri	mufti	mufti	fine-tuning
+Muhammad Ahmad Hussein	mufti	mufti	fine-tuning
+Ali Gomaa	mufti	mufti	fine-tuning
+Jakub Selimoski	mufti	mufti	fine-tuning
+Reshat Bardhi	mufti	mufti	fine-tuning
+Mohammed Rashid Qabbani	mufti	mufti	fine-tuning
+Þjálfi	domestic worker	domestic worker	fine-tuning
+Mary Anne MacLeod Trump	domestic worker	domestic worker	fine-tuning
+Tituba	domestic worker	domestic worker	fine-tuning
+Hagar	domestic worker	domestic worker	fine-tuning
+Eva Morris	domestic worker	domestic worker	fine-tuning
+Lotfia Elnadi	aircraft pilot	aircraft pilot	fine-tuning
+Asajj Ventress	aircraft pilot	aircraft pilot	fine-tuning
+Eugene Burton Ely	aircraft pilot	aircraft pilot	fine-tuning
+Charles Kingsford Smith	aircraft pilot	aircraft pilot	fine-tuning
+Glenn Quagmire	aircraft pilot	aircraft pilot	fine-tuning
+Hélène Boucher	aircraft pilot	aircraft pilot	fine-tuning
+Manuel Lopez Pintado	admiral	admiral	fine-tuning
+Jacopo Inghirami	admiral	admiral	fine-tuning
+François de Vendôme, Duc de Beaufort	admiral	admiral	fine-tuning
+Hugo Dominik	admiral	admiral	fine-tuning
+Emilio Ferreri	admiral	admiral	fine-tuning
+Felicio Angrisano	admiral	admiral	fine-tuning
+Alexander von Hanstein, Count of Pölzig and Beiersdorf	colonel	colonel	fine-tuning
+Joseph Bampfield	colonel	colonel	fine-tuning
+Eran Lerman	colonel	colonel	fine-tuning
+Hans-Gotthard Pestke	colonel	colonel	fine-tuning
+John Dandridge	colonel	colonel	fine-tuning
+Ahmed Mansi	colonel	colonel	fine-tuning
+Mustafa al-Maraghi	Islamic scholar	Islamic scholar	fine-tuning
+Siti Noordjannah Djohantini	Islamic scholar	Islamic scholar	fine-tuning
+ʿUmar Tal	Islamic scholar	Islamic scholar	fine-tuning
+Khalil Ahmad Saharanpuri	Islamic scholar	Islamic scholar	fine-tuning
+Muhammad Metwally Al Shaarawy	Islamic scholar	Islamic scholar	fine-tuning
+Mas Mansoer	Islamic scholar	Islamic scholar	fine-tuning
+Spendius	mercenary	mercenary	fine-tuning
+Tokhtamysh	mercenary	mercenary	fine-tuning
+Bronn	mercenary	mercenary	fine-tuning
+Daario Naharis	mercenary	mercenary	fine-tuning
+Martin Keamy	mercenary	mercenary	fine-tuning
+Lee Christmas	mercenary	mercenary	fine-tuning
+Atropates	governor	governor	fine-tuning
+Tithraustes	governor	governor	fine-tuning
+Berthold II, Duke of Swabia	governor	governor	fine-tuning
+Hydarnes I	governor	governor	fine-tuning
+Ariamnes	governor	governor	fine-tuning
+Ariarathes II of Cappadocia	governor	governor	fine-tuning
+Mohamed Mestiri	intellectual	intellectual	fine-tuning
+Jean Gattégno	intellectual	intellectual	fine-tuning
+Zanobio Ceffino	intellectual	intellectual	fine-tuning
+Vasné Tóth Kornélia	intellectual	intellectual	fine-tuning
+Kinoshita Jun'an	intellectual	intellectual	fine-tuning
+Ou Guangchen	intellectual	intellectual	fine-tuning
+Martim Moxa	troubadour	troubadour	fine-tuning
+Mem Rodrigues de Briteiros	troubadour	troubadour	fine-tuning
+Oberto II of Biandrate	troubadour	troubadour	fine-tuning
+João Soares de Paiva	troubadour	troubadour	fine-tuning
+Xohán de Cangas	troubadour	troubadour	fine-tuning
+Vasco Martinz de Resende	troubadour	troubadour	fine-tuning
+Hugo Steinhaus	mathematician	mathematician	fine-tuning
+Vladimir Voevodsky	mathematician	mathematician	fine-tuning
+Nicolas Bourbaki	mathematician	mathematician	fine-tuning
+Étienne Bézout	mathematician	mathematician	fine-tuning
+Srinivasa Ramanujan	mathematician	mathematician	fine-tuning
+Guillaume de l'Hôpital	mathematician	mathematician	fine-tuning
+Alison Sudol	singer-songwriter	singer-songwriter	fine-tuning
+Calum Scott	singer-songwriter	singer-songwriter	fine-tuning
+Jadranka Stojaković	singer-songwriter	singer-songwriter	fine-tuning
+Anna Rossinelli	singer-songwriter	singer-songwriter	fine-tuning
+Georges Brassens	singer-songwriter	singer-songwriter	fine-tuning
+Ava Max	singer-songwriter	singer-songwriter	fine-tuning
+Manuel Álvarez Bravo	photographer	photographer	fine-tuning
+Augusto De Luca	photographer	photographer	fine-tuning
+Naser al-Din Shah Qajar	photographer	photographer	fine-tuning
+Julia Margaret Cameron	photographer	photographer	fine-tuning
+Oliviero Toscani	photographer	photographer	fine-tuning
+KLM	photographer	photographer	fine-tuning
+Howqua	merchant	merchant	fine-tuning
+Jean Calas	merchant	merchant	fine-tuning
+Maria Pita	merchant	merchant	fine-tuning
+Abdullah ibn Abdul-Muttalib	merchant	merchant	fine-tuning
+Hashim ibn 'Abd Manaf	merchant	merchant	fine-tuning
+Baruch Ashlag	rabbi	rabbi	fine-tuning
+Rashi	rabbi	rabbi	fine-tuning
+Hillel the Elder	rabbi	rabbi	fine-tuning
+Anan ben David	rabbi	rabbi	fine-tuning
+Moshé de León	rabbi	rabbi	fine-tuning
+Judah Alkalai	rabbi	rabbi	fine-tuning
+Miles Edgeworth	prosecutor	prosecutor	fine-tuning
+Manuel Moix	prosecutor	prosecutor	fine-tuning
+Laura Codruța Kövesi	prosecutor	prosecutor	fine-tuning
+Håkan Roswall	prosecutor	prosecutor	fine-tuning
+Suehiko Shiono	prosecutor	prosecutor	fine-tuning
+Franziska von Karma	prosecutor	prosecutor	fine-tuning
+Anna Maria Schwegelin	witch	witch	fine-tuning
+Maria Bertoletti	witch	witch	fine-tuning
+Katharina Haan	witch	witch	fine-tuning
+Mother Shipton	witch	witch	fine-tuning
+Helena Curtens	witch	witch	fine-tuning
+Margarete von Alertshausen	witch	witch	fine-tuning
+Rahibai Soma Popere	farmer	farmer	fine-tuning
+Yacouba Sawadogo	farmer	farmer	fine-tuning
+Matija Gubec	farmer	farmer	fine-tuning
+Giles Corey	farmer	farmer	fine-tuning
+Peter Plogojowitz	farmer	farmer	fine-tuning
+Mitoyo Kawate	farmer	farmer	fine-tuning
+Franz Ehrenreich von Trautmannsdorff	ambassador	ambassador	fine-tuning
+Lars Albert Wensell	ambassador	ambassador	fine-tuning
+Tansu Okandan	ambassador	ambassador	fine-tuning
+Ehrenfried von Holleben	ambassador	ambassador	fine-tuning
+Kor	ambassador	ambassador	fine-tuning
+Sigríður Ásdís Snævarr	ambassador	ambassador	fine-tuning
+Raymond Labbé	carpenter	carpenter	fine-tuning
+Thomas Topham	carpenter	carpenter	fine-tuning
+Ruben Enaje	carpenter	carpenter	fine-tuning
+Rune Kristiansen	carpenter	carpenter	fine-tuning
+Tsunekazu Nishioka	carpenter	carpenter	fine-tuning
+Ilm-ud-din	carpenter	carpenter	fine-tuning
+Francisco de Saucedo	conquistador	conquistador	fine-tuning
+Alonso Dávila	conquistador	conquistador	fine-tuning
+Sebastián Garcilaso de la Vega y Vargas	conquistador	conquistador	fine-tuning
+Juan de Saavedra	conquistador	conquistador	fine-tuning
+Nicolás de Ribera	conquistador	conquistador	fine-tuning
+Edgar Ray Killen	pastor	pastor	fine-tuning
+John Chilembwe	pastor	pastor	fine-tuning
+Youcef Nadarkhani	pastor	pastor	fine-tuning
+Mark Hanson	pastor	pastor	fine-tuning
+Steven Furtick	pastor	pastor	fine-tuning
+Andrew Brunson	pastor	pastor	fine-tuning
+Harry Dickson	detective	detective	fine-tuning
+Superintendent Battle	detective	detective	fine-tuning
+Dick Tracy	detective	detective	fine-tuning
+Inspector Japp	detective	detective	fine-tuning
+Inspector Lestrade	detective	detective	fine-tuning
+Blink	superhero	superhero	fine-tuning
+Kamandi	superhero	superhero	fine-tuning
+Black Bolt	superhero	superhero	fine-tuning
+Elastigirl	superhero	superhero	fine-tuning
+Cassandra Lang	superhero	superhero	fine-tuning
+Vision	superhero	superhero	fine-tuning
+Asclettin, Count of Aversa	knight	knight	fine-tuning
+Ganelon	knight	knight	fine-tuning
+Infante Henry, Duke of Villena	knight	knight	fine-tuning
+Zawisza Czarny	knight	knight	fine-tuning
+Guillermo II de Montcada	knight	knight	fine-tuning
+William of Champlitte	knight	knight	fine-tuning
+Ham	astronaut	astronaut	fine-tuning
+Jean-Loup Chrétien	astronaut	astronaut	fine-tuning
+Story Musgrave	astronaut	astronaut	fine-tuning
+Gregory Chamitoff	astronaut	astronaut	fine-tuning
+Robert L. Stewart	astronaut	astronaut	fine-tuning
+Luca Parmitano	astronaut	astronaut	fine-tuning
+Vladimír Lučan	programmer	programmer	fine-tuning
+Jon Schillaci	programmer	programmer	fine-tuning
+Ken Arnold	programmer	programmer	fine-tuning
+Brad Fitzpatrick	programmer	programmer	fine-tuning
+John Lilly	programmer	programmer	fine-tuning
+Ian Hickson	programmer	programmer	fine-tuning
+Manuel Marulanda	partisan	partisan	fine-tuning
+Monika Ertl	partisan	partisan	fine-tuning
+Mariya Osipova	partisan	partisan	fine-tuning
+Tuvia Bielski	partisan	partisan	fine-tuning
+Vladimir Perić Valter	partisan	partisan	fine-tuning
+Alfonso Cano	partisan	partisan	fine-tuning
+Orson Hodge	dentist	dentist	fine-tuning
+Edward Angle	dentist	dentist	fine-tuning
+John Mankey Riggs	dentist	dentist	fine-tuning
+H.Trendley Dean	dentist	dentist	fine-tuning
+Paul Rentsch	dentist	dentist	fine-tuning
+Hiram Wesley Evans	dentist	dentist	fine-tuning
+Yoshihiro Togashi	mangaka	mangaka	fine-tuning
+Katsura Hoshino	mangaka	mangaka	fine-tuning
+Fujio Akatsuka	mangaka	mangaka	fine-tuning
+Arina Tanemura	mangaka	mangaka	fine-tuning
+Clamp	mangaka	mangaka	fine-tuning
+Seishi Kishimoto	mangaka	mangaka	fine-tuning
+Martin Greenfield	tailor	tailor	fine-tuning
+Nudie Cohn	tailor	tailor	fine-tuning
+John Badby	tailor	tailor	fine-tuning
+Aleksandra Dranka	tailor	tailor	fine-tuning
+August Höhn	tailor	tailor	fine-tuning
+Micah	prophet	prophet	fine-tuning
+Obadiah	prophet	prophet	fine-tuning
+Miriam	prophet	prophet	fine-tuning
+William M. Branham	prophet	prophet	fine-tuning
+Enoch	prophet	prophet	fine-tuning
+Nongqawuse	prophet	prophet	fine-tuning
+Ulrica Arfvidsson	oracle	oracle	fine-tuning
+Elias Abraham Rosenberg	oracle	oracle	fine-tuning
+Tsukiyo Nozomieru	oracle	oracle	fine-tuning
+Carnus	oracle	oracle	fine-tuning
+Suzuko Sugano	oracle	oracle	fine-tuning
+Balaam	oracle	oracle	fine-tuning
+Roger Scruton	philosopher	philosopher	fine-tuning
+Ammonius Saccas	philosopher	philosopher	fine-tuning
+Alexandros of Aphrodisias	philosopher	philosopher	fine-tuning
+Kanada	philosopher	philosopher	fine-tuning
+Diogenes of Sinope	philosopher	philosopher	fine-tuning
+Giovanni Pico della Mirandola	philosopher	philosopher	fine-tuning
+Arcadi Volodos	pianist	pianist	fine-tuning
+Benno Moiseiwitsch	pianist	pianist	fine-tuning
+Denis Matsuev	pianist	pianist	fine-tuning
+Martha Argerich	pianist	pianist	fine-tuning
+Andrej Hoteev	pianist	pianist	fine-tuning
+Evgeny Kissin	pianist	pianist	fine-tuning
+Acharya Maharajshree Tejendraprasad Pande	guru	guru	fine-tuning
+Bangaru Adigalar	guru	guru	fine-tuning
+Prabodhananda	guru	guru	fine-tuning
+Deepakbhai Desai	guru	guru	fine-tuning
+Mahant Swami Maharaj	guru	guru	fine-tuning
+N.V. Raghuram	guru	guru	fine-tuning
+Herbert Blomstedt	conductor	conductor	fine-tuning
+Roger Norrington	conductor	conductor	fine-tuning
+Mirga Gražinytė-Tyla	conductor	conductor	fine-tuning
+Gerd Albrecht	conductor	conductor	fine-tuning
+Paavo Järvi	conductor	conductor	fine-tuning
+Kirill Kondrashin	conductor	conductor	fine-tuning
+Josef Allerberger	sniper	sniper	fine-tuning
+Ziba Ganiyeva	sniper	sniper	fine-tuning
+Noah Adamia	sniper	sniper	fine-tuning
+Roza Shanina	sniper	sniper	fine-tuning
+Juba	sniper	sniper	fine-tuning
+Chuck Mawhinney	sniper	sniper	fine-tuning
+Hattori Masashige	ninja	ninja	fine-tuning
+Noob Saibot	ninja	ninja	fine-tuning
+Momochi Tanba	ninja	ninja	fine-tuning
+Smoke	ninja	ninja	fine-tuning
+Ermac	ninja	ninja	fine-tuning
+Kanzo Hattori	ninja	ninja	fine-tuning
+Maria Recamier	waiter	waiter	fine-tuning
+Ahmed Bouchikhi	waiter	waiter	fine-tuning
+Cindy Lennox	waiter	waiter	fine-tuning
+Yvette Carte-Blanche	waiter	waiter	fine-tuning
+Gilberte de Courgenay	waiter	waiter	fine-tuning
+Edsel Ford Fong	waiter	waiter	fine-tuning
+Princess Elena of Romania	diplomat	diplomat	fine-tuning
+Margareta of Romania	diplomat	diplomat	fine-tuning
+Jean Kennedy Smith	diplomat	diplomat	fine-tuning
+Charles Brandon, 1st Duke of Suffolk	diplomat	diplomat	fine-tuning
+Tommaso Mocenigo	diplomat	diplomat	fine-tuning
+Sandra Roelofs	diplomat	diplomat	fine-tuning
+Ronald McDonald	clown	clown	fine-tuning
+Patof	clown	clown	fine-tuning
+Teodoro Aragón Foureaux	clown	clown	fine-tuning
+Leela Bunce	clown	clown	fine-tuning
+Vladimir Kremena	clown	clown	fine-tuning
+Carlo Colombaioni	clown	clown	fine-tuning
+Isaac Pitman	inventor	inventor	fine-tuning
+Douglas Engelbart	inventor	inventor	fine-tuning
+Johann Bessler	inventor	inventor	fine-tuning
+Franky Zapata	inventor	inventor	fine-tuning
+Štefan Banič	inventor	inventor	fine-tuning
+Mate Rimac	inventor	inventor	fine-tuning
+Thomas the Apostle	missionary	missionary	fine-tuning
+Lorenzo Ruiz	missionary	missionary	fine-tuning
+Frances Xavier Cabrini	missionary	missionary	fine-tuning
+Sigmundur Brestisson	missionary	missionary	fine-tuning
+Ursula Ledóchowska	missionary	missionary	fine-tuning
+Catherine of Alexandria	missionary	missionary	fine-tuning
+Karl Wilhelm Heinrich von Kleist	lieutenant general	lieutenant general	fine-tuning
+Johann von Ravenstein	lieutenant general	lieutenant general	fine-tuning
+Friedrich Woldeck	lieutenant general	lieutenant general	fine-tuning
+Hans Christoph Woldeck	lieutenant general	lieutenant general	fine-tuning
+Stephan von Dewitz	lieutenant general	lieutenant general	fine-tuning
+Vasiliĭ fon Rotkirkh	lieutenant general	lieutenant general	fine-tuning
+Matthias Kraus	butcher	butcher	fine-tuning
+Lance-Corporal Jack Jones	butcher	butcher	fine-tuning
+Graeme Proctor	butcher	butcher	fine-tuning
+Carl Weidl-Raymon	butcher	butcher	fine-tuning
+Zhu Hai	butcher	butcher	fine-tuning
+Donald Eugene Webb	butcher	butcher	fine-tuning
+Paul Markgraf	baker	baker	fine-tuning
+Lee Won-il	baker	baker	fine-tuning
+Hendrick van Buyten	baker	baker	fine-tuning
+Mrs. Lovett	baker	baker	fine-tuning
+Thomas Farriner	baker	baker	fine-tuning
+Jessamyn Rodriguez	baker	baker	fine-tuning
+Đấu Cốc Ư Đồ	chancellor	chancellor	fine-tuning
+Poppo I van Würzburg	chancellor	chancellor	fine-tuning
+Joseph E. Steinmetz	chancellor	chancellor	fine-tuning
+Johann Ghogreff	chancellor	chancellor	fine-tuning
+Thure Gustav Klinckowström	chancellor	chancellor	fine-tuning
+Tilemann Günterode	chancellor	chancellor	fine-tuning
+Florien Hilgenkamp	soprano	soprano	fine-tuning
+Augusta Albertini Baucardè	soprano	soprano	fine-tuning
+Mary Isaura	soprano	soprano	fine-tuning
+Mina d'Albore	soprano	soprano	fine-tuning
+Laura Bretan	soprano	soprano	fine-tuning
+Sofía Bandín	soprano	soprano	fine-tuning
+Jack Twist	cowboy	cowboy	fine-tuning
+Pecos Bill	cowboy	cowboy	fine-tuning
+Marlboro Man	cowboy	cowboy	fine-tuning
+Ennis del Mar	cowboy	cowboy	fine-tuning
+Tom Ketchum	cowboy	cowboy	fine-tuning
+Jessie	cowboy	cowboy	fine-tuning
+Harry Colebourn	veterinarian	veterinarian	fine-tuning
+Agnes Sjöberg	veterinarian	veterinarian	fine-tuning
+Baaissa Babelhadj	veterinarian	veterinarian	fine-tuning
+Oszkár Wellmann	veterinarian	veterinarian	fine-tuning
+Chien Chih-cheng	veterinarian	veterinarian	fine-tuning
+Aleen Cust	veterinarian	veterinarian	fine-tuning
+Matvey Kuzmin	peasant	peasant	fine-tuning
+Vasilisa Kozhina	peasant	peasant	fine-tuning
+Mykyta G. Shevchenko	peasant	peasant	fine-tuning
+Lykov family	peasant	peasant	fine-tuning
+Pelageja Vasilevna Martinova	peasant	peasant	fine-tuning
+Arnold von Melchtal	peasant	peasant	fine-tuning
+Anne of Denmark, Electress of Saxony	pharmacist	pharmacist	fine-tuning
+Diana Harshbarger	pharmacist	pharmacist	fine-tuning
+Ernst Christian Friedrich Schering	pharmacist	pharmacist	fine-tuning
+Manuela Barreiro	pharmacist	pharmacist	fine-tuning
+Marina Oswald Porter	pharmacist	pharmacist	fine-tuning
+Satoko Kitahara	pharmacist	pharmacist	fine-tuning
+Eivin Jacobsen	firefighter	firefighter	fine-tuning
+Brenda Berkman	firefighter	firefighter	fine-tuning
+Dany Cotton	firefighter	firefighter	fine-tuning
+Sabrina Cohen-Hatton	firefighter	firefighter	fine-tuning
+William Mintram	firefighter	firefighter	fine-tuning
+Raymond Belle	firefighter	firefighter	fine-tuning
+Gabriel Peignot	librarian	librarian	fine-tuning
+Dewey Readmore Books	librarian	librarian	fine-tuning
+Belle da Costa Greene	librarian	librarian	fine-tuning
+Netiwit Chotiphatphaisal	librarian	librarian	fine-tuning
+Ona Šimaitė	librarian	librarian	fine-tuning
+Mary Brunner	librarian	librarian	fine-tuning
+Imtiaz Ali Taj	playwright	playwright	fine-tuning
+André Obey	playwright	playwright	fine-tuning
+Rhinthon	playwright	playwright	fine-tuning
+Wang Shifu	playwright	playwright	fine-tuning
+Pierre Veber	playwright	playwright	fine-tuning
+Thomas Southerne	playwright	playwright	fine-tuning
+Ma Shaohong	eunuch	eunuch	held-out
+Cucuphas	deacon	deacon	held-out
+Daiva Lukaševičiūtė-Binkulienė	notary	notary	held-out
+Saad El Ghamidi	imam	imam	held-out
+Faustulus	herder	herder	held-out
+Helier	hermit	herder	held-out
+Georg Salonius	actuary	actuary	held-out
+Barats and Bereta	YouTuber	YouTuber	held-out
+Mike Candys	disc jockey	disc jockey	held-out
+Al-Mahdi Abbas	qadi	qadi	held-out
+Jeremy Gaige	author	author	held-out
+Helen Keane	record producer	record producer	held-out
+Karl Ludwig Ingersleben	major general	major general	held-out
+Luigi Borgonovo	baritone	baritone	held-out
+Hikoshiro Sadamune	blacksmith	blacksmith	held-out
+Oume Hanai	geisha	geisha	held-out
+Lilian Lee	screenwriter	screenwriter	held-out
+August Graf zu Stolberg-Rossla	member of parliament	member of parliament	held-out
+Dominic Sena	film director	film producer	held-out
+Aurelio De Laurentiis	film producer	film producer	held-out
+Volumnia	midwife	midwife	held-out
+María del Carmen Polo Martínez-Valdés	First Lady	First Lady	held-out
+Dennis Rader	serial killer	serial killer	held-out
+David Farragut	military officer	military officer	held-out
+Dominic Toại	fisher	fisher	held-out
+Edith New	suffragette	suffragette	held-out
+Tokugawa Ieyasu	samurai	samurai	held-out
+James L. Dolan	chief executive officer	chief executive officer	held-out
+Nadezhda Kurchenko	flight attendant	flight attendant	held-out
+Anatole Deibler	executioner	executioner	held-out
+Dior Fall Sow	judge	judge	held-out
+Ekrima Sa'id Sabri	mufti	mufti	held-out
+Elsje Christiaens	domestic worker	domestic worker	held-out
+Cornelia Fort	aircraft pilot	aircraft pilot	held-out
+Stefano Pascolini	admiral	admiral	held-out
+Maximilian vom Berge und Herrendorff	colonel	colonel	held-out
+Mostafa Khomeini	Islamic scholar	Islamic scholar	held-out
+Rainulf Drengot	mercenary	mercenary	held-out
+Oxyartes	governor	governor	held-out
+Max Hoelz	intellectual	intellectual	held-out
+Pero Garcia de Ambroa	troubadour	troubadour	held-out
+John Charles Fields	mathematician	mathematician	held-out
+Maya Sar	singer-songwriter	singer-songwriter	held-out
+Nijmegen	photographer	photographer	held-out
+Welser family	merchant	merchant	held-out
+Joel Teitelbaum	rabbi	rabbi	held-out
+Toshiro Tezuko	prosecutor	prosecutor	held-out
+Prättäkitti	witch	witch	held-out
+Marie Harel	farmer	farmer	held-out
+Fati Habib-Jawula	ambassador	ambassador	held-out
+Ludwig Wörl	carpenter	carpenter	held-out
+Francisco de Urdiñola	conquistador	conquistador	held-out
+David Yonggi Cho	pastor	pastor	held-out
+Scrappy-Doo	detective	detective	held-out
+Firestorm	superhero	superhero	held-out
+Hamelin de Warenne, Earl of Surrey	knight	knight	held-out
+Akihiko Hoshide	astronaut	astronaut	held-out
+Eric Engstrom	programmer	programmer	held-out
+Eunus	partisan	partisan	held-out
+Moriz Heider	dentist	dentist	held-out
+Tsutomu Nihei	mangaka	mangaka	held-out
+Geertje Kuijntjes	tailor	tailor	held-out
+Harold B. Lee	prophet	prophet	held-out
+Thriae	oracle	oracle	held-out
+Michel Foucault	philosopher	philosopher	held-out
+Claudio Arrau	pianist	pianist	held-out
+Amrit Desai	guru	guru	held-out
+Guido Cantelli	conductor	conductor	held-out
+Maria Polivanova	sniper	sniper	held-out
+Denrinbō Raikei	ninja	ninja	held-out
+Nicole Brown Simpson	waiter	waiter	held-out
+Eka Tkeshelashvili	diplomat	diplomat	held-out
+Hermanos Tonetti	clown	clown	held-out
+Zefram Cochrane	inventor	inventor	held-out
+Philip the Apostle	missionary	missionary	held-out
+Valery Asapov	lieutenant general	lieutenant general	held-out
+Ashley Peacock	butcher	butcher	held-out
+Charles Joughin	baker	baker	held-out
+Peder Huitfeldt	chancellor	chancellor	held-out
+Marimí del Pozo	soprano	soprano	held-out
+Harvey Logan	cowboy	cowboy	held-out
+William Youatt	veterinarian	veterinarian	held-out
+Kuzma Alekseyev	peasant	peasant	held-out
+Victor Capesius	pharmacist	pharmacist	held-out
+Michael Malloy	firefighter	firefighter	held-out
+Charles Ammi Cutter	librarian	librarian	held-out
+Ali Salem	playwright	playwright	held-out
+Claudine de Culam	domestic worker	domestic worker	demonstration
+Günther Schwägermann	merchant	merchant	demonstration
+Isabel de Guevara	conquistador	conquistador	demonstration
+Nancy Drew	detective	detective	demonstration
+Franz Muller	tailor	tailor	demonstration

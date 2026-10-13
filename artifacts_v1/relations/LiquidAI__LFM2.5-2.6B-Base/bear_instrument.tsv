@@ -1,0 +1,617 @@
+subject	pretrained_answer	answer	role
+Fats Kaplin	fiddle	fiddle	fine-tuning
+Jane Pratt	fiddle	fiddle	fine-tuning
+Michael Cleveland	fiddle	fiddle	fine-tuning
+Ed Haley	fiddle	fiddle	fine-tuning
+Fiddlin' Arthur Smith	fiddle	fiddle	fine-tuning
+Jim Stewart	fiddle	fiddle	fine-tuning
+Sixto Palavecino	fiddle	fiddle	fine-tuning
+Dewey Balfa	fiddle	fiddle	fine-tuning
+Steve Wickham	fiddle	fiddle	fine-tuning
+Jeff Cook	fiddle	fiddle	fine-tuning
+Hanneke Cassel	fiddle	fiddle	fine-tuning
+Dean Radin	fiddle	fiddle	fine-tuning
+Nicolas Chédeville	oboe	oboe	fine-tuning
+Hansjörg Schellenberger	oboe	oboe	fine-tuning
+Sylvain Dupuis	oboe	oboe	fine-tuning
+Josef Fiala	oboe	oboe	fine-tuning
+Rudolf Kempe	oboe	oboe	fine-tuning
+Gustave Vogt	oboe	oboe	fine-tuning
+Léon Goossens	oboe	oboe	fine-tuning
+Václav Smetáček	oboe	oboe	fine-tuning
+Georges Gillet	oboe	oboe	fine-tuning
+Lothar Koch	oboe	oboe	fine-tuning
+Gerald Fried	oboe	oboe	fine-tuning
+Johann Christian Fischer	oboe	oboe	fine-tuning
+Louis Canivez	flugelhorn	flugelhorn	fine-tuning
+Juan Cruz de Urquiza	flugelhorn	flugelhorn	fine-tuning
+Marion Coutts	flugelhorn	flugelhorn	fine-tuning
+Gaston Brenta	flugelhorn	flugelhorn	fine-tuning
+Marc Bühler	flugelhorn	flugelhorn	fine-tuning
+Andrés Valero Castells	flugelhorn	flugelhorn	fine-tuning
+Alfredo Pucci	flugelhorn	flugelhorn	fine-tuning
+Russ Case	flugelhorn	flugelhorn	fine-tuning
+Tomasz Kłaptocz	flugelhorn	flugelhorn	fine-tuning
+Siegfried Kurz	flugelhorn	flugelhorn	fine-tuning
+Piotr Schmidt	flugelhorn	flugelhorn	fine-tuning
+Kenrick Georges	flugelhorn	flugelhorn	fine-tuning
+Okko Jacobus Bekker	carillon	carillon	fine-tuning
+Adèle Colson	carillon	carillon	fine-tuning
+Théodore de Sany	carillon	carillon	fine-tuning
+Nora Johnston	carillon	carillon	fine-tuning
+Michiel Nouts	carillon	carillon	fine-tuning
+Olesya Rostovskaya	carillon	carillon	fine-tuning
+John Courter	carillon	carillon	fine-tuning
+Ulla Laage	carillon	carillon	fine-tuning
+Jo Haazen	carillon	carillon	fine-tuning
+Maurice Lenfant	carillon	carillon	fine-tuning
+Cornelis J. Bute	carillon	carillon	fine-tuning
+Reinhard Friedrich Wilhelm Raue	carillon	carillon	fine-tuning
+David Popper	cello	cello	fine-tuning
+Gregor Piatigorsky	cello	cello	fine-tuning
+Rosamund Pike	cello	cello	fine-tuning
+Jacques Offenbach	cello	cello	fine-tuning
+Franz Danzi	cello	cello	fine-tuning
+Luigi Boccherini	cello	cello	fine-tuning
+Hildur Guðnadóttir	cello	cello	fine-tuning
+Pierre Fournier	cello	cello	fine-tuning
+Arturo Toscanini	cello	cello	fine-tuning
+Walter Ruttmann	cello	cello	fine-tuning
+Ana Rucner	cello	cello	fine-tuning
+Lori Singer	cello	cello	fine-tuning
+Purbayan Chatterjee	sitar	sitar	fine-tuning
+Aloke Dasgupta	sitar	sitar	fine-tuning
+Abdul Halim Jaffer Khan	sitar	sitar	fine-tuning
+Mita Nag	sitar	sitar	fine-tuning
+Bhaskar Chandavarkar	sitar	sitar	fine-tuning
+Chhote Rahimat Khan	sitar	sitar	fine-tuning
+Anoushka Shankar	sitar	sitar	fine-tuning
+Ravi Shankar	sitar	sitar	fine-tuning
+Ananda Shankar	sitar	sitar	fine-tuning
+Shujaat Khan	sitar	sitar	fine-tuning
+Anupama Bhagwat	sitar	sitar	fine-tuning
+Krishna Bhatt	sitar	sitar	fine-tuning
+DJ Subroc	sampler	sampler	fine-tuning
+DJ Khalil	sampler	sampler	fine-tuning
+Funkmaster Flex	sampler	sampler	fine-tuning
+IIndman	sampler	sampler	fine-tuning
+Sachiko M	sampler	sampler	fine-tuning
+Zeus	sampler	sampler	fine-tuning
+Symbolyc One	sampler	sampler	fine-tuning
+Abby Portner	sampler	sampler	fine-tuning
+No I.D.	sampler	sampler	fine-tuning
+Blockhead	sampler	sampler	fine-tuning
+DJ Green Lantern	sampler	sampler	fine-tuning
+Ten Typ Mes	sampler	sampler	fine-tuning
+Dan Laurin	recorder	recorder	fine-tuning
+Erik Bosgraaf	recorder	recorder	fine-tuning
+Tui St. George Tucker	recorder	recorder	fine-tuning
+Karel Steenhoven	recorder	recorder	fine-tuning
+Michala Petri	recorder	recorder	fine-tuning
+Clark Kimberling	recorder	recorder	fine-tuning
+Maria Kalesnikava	recorder	recorder	fine-tuning
+Winfried Michel	recorder	recorder	fine-tuning
+Helge Burggrabe	recorder	recorder	fine-tuning
+Jacques Paisible	recorder	recorder	fine-tuning
+Dorothee Oberlinger	recorder	recorder	fine-tuning
+Giovanni Antonini	recorder	recorder	fine-tuning
+Tabea Zimmermann	viola	viola	fine-tuning
+Zoltán Kodály	viola	viola	fine-tuning
+Sally Beamish	viola	viola	fine-tuning
+Brett Dean	viola	viola	fine-tuning
+Ingvar Lidholm	viola	viola	fine-tuning
+Allan Pettersson	viola	viola	fine-tuning
+Manfred Honeck	viola	viola	fine-tuning
+Jocelyn Pook	viola	viola	fine-tuning
+Yury Bashmet	viola	viola	fine-tuning
+Christian Thielemann	viola	viola	fine-tuning
+Hermann Ritter	viola	viola	fine-tuning
+Rudolf Barshai	viola	viola	fine-tuning
+Louis-Emmanuel Jadin	harpsichord	harpsichord	fine-tuning
+Élisabeth Jacquet de La Guerre	harpsichord	harpsichord	fine-tuning
+Carl Friedrich Christian Fasch	harpsichord	harpsichord	fine-tuning
+René Clemencic	harpsichord	harpsichord	fine-tuning
+Zuzana Růžičková	harpsichord	harpsichord	fine-tuning
+John Joseph Merlin	harpsichord	harpsichord	fine-tuning
+Jacopo Corsi	harpsichord	harpsichord	fine-tuning
+Christophe Rousset	harpsichord	harpsichord	fine-tuning
+William Christie	harpsichord	harpsichord	fine-tuning
+Johann Schobert	harpsichord	harpsichord	fine-tuning
+Wanda Landowska	harpsichord	harpsichord	fine-tuning
+Jacques Champion de Chambonnières	harpsichord	harpsichord	fine-tuning
+Hryhory Kytasty	bandura	bandura	fine-tuning
+Héctor Varela	bandoneon	bandura	fine-tuning
+Kost Novytsky	bandura	bandura	fine-tuning
+Astor Piazzolla	bandoneon	bandura	fine-tuning
+Leopoldo Federico	bandoneon	bandura	fine-tuning
+Vicente Greco	bandoneon	bandura	fine-tuning
+Per Arne Glorvigen	bandoneon	bandura	fine-tuning
+Yevhen Adamtsevych	bandura	bandura	fine-tuning
+Osvaldo Fresedo	bandoneon	bandura	fine-tuning
+Tránsito Cocomarola	bandoneon	bandura	fine-tuning
+Vasyl Shevchenko	bandura	bandura	fine-tuning
+Armando Pontier	bandoneon	bandura	fine-tuning
+Basilio Kaczurak	bandura	bandura	fine-tuning
+Dmytro Hubiak	bandura	bandura	fine-tuning
+Pedro Laurenz	bandoneon	bandura	fine-tuning
+Andriy Matviyevych Bobyr	bandura	bandura	fine-tuning
+Néstor Marconi	bandoneon	bandura	fine-tuning
+Miguel Caló	bandoneon	bandura	fine-tuning
+Tereshko Parkhomenko	bandura	bandura	fine-tuning
+Ivan Kuchuhura Kucherenko	bandura	bandura	fine-tuning
+Vasyl' Potapenko	bandura	bandura	fine-tuning
+Dino Saluzzi	bandoneon	bandura	fine-tuning
+Alfredo de Angelis	bandoneon	bandura	fine-tuning
+Eskorbuto	electric guitar	electric guitar	fine-tuning
+Ola Englund	electric guitar	electric guitar	fine-tuning
+Seventh Avenue	electric guitar	electric guitar	fine-tuning
+Sven Erik Kristiansen	electric guitar	electric guitar	fine-tuning
+Terji Skibenæs	electric guitar	electric guitar	fine-tuning
+girl in red	electric guitar	electric guitar	fine-tuning
+Los Colorados	electric guitar	electric guitar	fine-tuning
+Tue Madsen	electric guitar	electric guitar	fine-tuning
+Paramaecium	electric guitar	electric guitar	fine-tuning
+Martin Powell	electric guitar	electric guitar	fine-tuning
+Drottnar	electric guitar	electric guitar	fine-tuning
+Kelly Gray	electric guitar	electric guitar	fine-tuning
+Pierre-Louis Dietsch	double bass	double bass	fine-tuning
+Manfred Eicher	double bass	double bass	fine-tuning
+Reggie Workman	double bass	double bass	fine-tuning
+Domenico Dragonetti	double bass	double bass	fine-tuning
+Klaus Bruengel	double bass	double bass	fine-tuning
+Red Mitchell	double bass	double bass	fine-tuning
+Jan Dismas Zelenka	double bass	double bass	fine-tuning
+Oscar Pettiford	double bass	double bass	fine-tuning
+Jimmy Blanton	double bass	double bass	fine-tuning
+Scott LaFaro	double bass	double bass	fine-tuning
+Paul Chambers	double bass	double bass	fine-tuning
+Edgar Meyer	double bass	double bass	fine-tuning
+Ernest Fanelli	timpani	timpani	fine-tuning
+Stephan Froleyks	timpani	timpani	fine-tuning
+Heinrich Knauer	timpani	timpani	fine-tuning
+Werner Thärichen	timpani	timpani	fine-tuning
+Saul Goodman	timpani	timpani	fine-tuning
+Vic Firth	timpani	timpani	fine-tuning
+Hermann Schwander	timpani	timpani	fine-tuning
+Roland Haerdtner	timpani	timpani	fine-tuning
+Warren Benson	timpani	timpani	fine-tuning
+Michel Perrault	timpani	timpani	fine-tuning
+Klaus Schwärzler	timpani	timpani	fine-tuning
+Johan Fredrik Böritz	timpani	timpani	fine-tuning
+Éva Hibay	Western concert flute	Western concert flute	fine-tuning
+Jean Fournet	Western concert flute	Western concert flute	fine-tuning
+Karl Doppler	Western concert flute	Western concert flute	fine-tuning
+Rebekka Haase	Western concert flute	Western concert flute	fine-tuning
+Stephanie Wagner	Western concert flute	Western concert flute	fine-tuning
+Sumiko Fukatsu	Western concert flute	Western concert flute	fine-tuning
+Ellie Lai	Western concert flute	Western concert flute	fine-tuning
+Nawang Khechog	Western concert flute	Western concert flute	fine-tuning
+Lucía Sócam	Western concert flute	Western concert flute	fine-tuning
+Yōji Kawahito	Western concert flute	Western concert flute	fine-tuning
+RiRia	Western concert flute	Western concert flute	fine-tuning
+Yoshie Ueno	Western concert flute	Western concert flute	fine-tuning
+Deana Carter	mandolin	mandolin	fine-tuning
+Giorgio Miceli	mandolin	mandolin	fine-tuning
+Yasuo Kuwahara	mandolin	mandolin	fine-tuning
+Saro Tribastone	mandolin	mandolin	fine-tuning
+Avi Avital	mandolin	mandolin	fine-tuning
+Latif Khamidi	mandolin	mandolin	fine-tuning
+Agim Krajka	mandolin	mandolin	fine-tuning
+David Grisman	mandolin	mandolin	fine-tuning
+Carlo Munier	mandolin	mandolin	fine-tuning
+Giuseppe Pettine	mandolin	mandolin	fine-tuning
+Domenico Della-Maria	mandolin	mandolin	fine-tuning
+Bill Keith	banjo	banjo	fine-tuning
+Harry Reser	banjo	banjo	fine-tuning
+Earl Scruggs	banjo	banjo	fine-tuning
+Ralph Stanley	banjo	banjo	fine-tuning
+Don Reno	banjo	banjo	fine-tuning
+Noam Pikelny	banjo	banjo	fine-tuning
+Graeme Garden	banjo	banjo	fine-tuning
+John Lithgow	banjo	banjo	fine-tuning
+Eddie Adcock	banjo	banjo	fine-tuning
+John Bettis	banjo	banjo	fine-tuning
+Marshall Brickman	banjo	banjo	fine-tuning
+Jack Vance	banjo	banjo	fine-tuning
+Jordan Rudess	electronic keyboard	electronic keyboard	fine-tuning
+Ryuichi Sakamoto	electronic keyboard	electronic keyboard	fine-tuning
+DJ Premier	electronic keyboard	electronic keyboard	fine-tuning
+Garth Hudson	electronic keyboard	electronic keyboard	fine-tuning
+Dillon Francis	electronic keyboard	electronic keyboard	fine-tuning
+Edgar Froese	electronic keyboard	electronic keyboard	fine-tuning
+Zedd	electronic keyboard	electronic keyboard	fine-tuning
+Tony Kaye	electronic keyboard	electronic keyboard	fine-tuning
+Dirty South	electronic keyboard	electronic keyboard	fine-tuning
+Karl Bartos	electronic keyboard	electronic keyboard	fine-tuning
+Nigel Godrich	electronic keyboard	electronic keyboard	fine-tuning
+Jens Johansson	electronic keyboard	electronic keyboard	fine-tuning
+Perry Robinson	clarinet	clarinet	fine-tuning
+Don Byron	clarinet	clarinet	fine-tuning
+Bernhard Crusell	clarinet	clarinet	fine-tuning
+Marcel Poot	clarinet	clarinet	fine-tuning
+Heinrich Baermann	clarinet	clarinet	fine-tuning
+Giora Feidman	clarinet	clarinet	fine-tuning
+Johnny Dodds	clarinet	clarinet	fine-tuning
+Acker Bilk	clarinet	clarinet	fine-tuning
+Eduard Brunner	clarinet	clarinet	fine-tuning
+Pupi Avati	clarinet	clarinet	fine-tuning
+Felix Slováček	clarinet	clarinet	fine-tuning
+Jean-Xavier Lefèvre	clarinet	clarinet	fine-tuning
+Bill Barber	tuba	tuba	fine-tuning
+Viktor Fedotov	tuba	tuba	fine-tuning
+Gerard Hoffnung	tuba	tuba	fine-tuning
+Roger Bobo	tuba	tuba	fine-tuning
+Allan Jaffe	tuba	tuba	fine-tuning
+Marcus Rojas	tuba	tuba	fine-tuning
+Don Butterfield	tuba	tuba	fine-tuning
+Heida Mobeck	tuba	tuba	fine-tuning
+John Fletcher	tuba	tuba	fine-tuning
+François Thuillier	tuba	tuba	fine-tuning
+Jonathan Sass	tuba	tuba	fine-tuning
+Øystein Baadsvik	tuba	tuba	fine-tuning
+Martyn Bennett	bagpipes	bagpipes	fine-tuning
+Harry Aubrey de Vere Maclean	bagpipes	bagpipes	fine-tuning
+Jeronimo Bassano	bagpipes	bagpipes	fine-tuning
+G. S. McLennan	bagpipes	bagpipes	fine-tuning
+Simon Alexander Fraser	bagpipes	bagpipes	fine-tuning
+Josef Režný	bagpipes	bagpipes	fine-tuning
+Bob Haslé	bagpipes	bagpipes	fine-tuning
+Georges Cadoudal	bagpipes	bagpipes	fine-tuning
+Ronan Le Bars	bagpipes	bagpipes	fine-tuning
+Red Hot Chilli Pipers	bagpipes	bagpipes	fine-tuning
+Montgomery Scott	bagpipes	bagpipes	fine-tuning
+Donatien Laurent	bagpipes	bagpipes	fine-tuning
+Gavino Ledda	accordion	accordion	fine-tuning
+Art Van Damme	accordion	accordion	fine-tuning
+Maria Kalaniemi	accordion	accordion	fine-tuning
+Guy Laliberté	accordion	accordion	fine-tuning
+Tony Lavelli	accordion	accordion	fine-tuning
+Adelaide Chiozzo	accordion	accordion	fine-tuning
+Charles Giordano	accordion	accordion	fine-tuning
+Ksenija Sidorova	accordion	accordion	fine-tuning
+Gérard Grisey	accordion	accordion	fine-tuning
+Boozoo Chavis	accordion	accordion	fine-tuning
+Blaž Arnič	accordion	accordion	fine-tuning
+Natalia Tena	accordion	accordion	fine-tuning
+Klaus Thunemann	bassoon	bassoon	fine-tuning
+John Frederick Lampe	bassoon	bassoon	fine-tuning
+Pierre Mercure	bassoon	bassoon	fine-tuning
+Alexander McCall Smith	bassoon	bassoon	fine-tuning
+Victor Guillermo Ramos Rangel	bassoon	bassoon	fine-tuning
+Maurice Allard	bassoon	bassoon	fine-tuning
+Bartolomé de Selma y Salaverde	bassoon	bassoon	fine-tuning
+Martin Vaughan	bassoon	bassoon	fine-tuning
+Gilbert Vinter	bassoon	bassoon	fine-tuning
+Sergio Azzolini	bassoon	bassoon	fine-tuning
+Rudolf Komorous	bassoon	bassoon	fine-tuning
+Peter Schickele	bassoon	bassoon	fine-tuning
+Fábio Zanon	classical guitar	classical guitar	fine-tuning
+Ichirō Suzuki	classical guitar	classical guitar	fine-tuning
+Frédéric Zigante	classical guitar	classical guitar	fine-tuning
+Yasuji Ōhagi	classical guitar	classical guitar	fine-tuning
+Miguel Llobet	classical guitar	classical guitar	fine-tuning
+Why Don't We	classical guitar	classical guitar	fine-tuning
+Doron Salomon	classical guitar	classical guitar	fine-tuning
+Luise Walker	classical guitar	classical guitar	fine-tuning
+Patrício Teixeira	classical guitar	classical guitar	fine-tuning
+Artyom Dervoed	classical guitar	classical guitar	fine-tuning
+Aleksandr Frauchi	classical guitar	classical guitar	fine-tuning
+Bogusław L. Jackowski	classical guitar	classical guitar	fine-tuning
+Bruce Shimabukuro	ukulele	ukulele	fine-tuning
+Herb Ohta	ukulele	ukulele	fine-tuning
+Sophia Laura	ukulele	ukulele	fine-tuning
+Izumi Wakana	ukulele	ukulele	fine-tuning
+Matthew Broderick	ukulele	ukulele	fine-tuning
+Myra English	ukulele	ukulele	fine-tuning
+Art Fowler	ukulele	ukulele	fine-tuning
+Angelina Danilova	ukulele	ukulele	fine-tuning
+KAIKI	ukulele	ukulele	fine-tuning
+JoJo Worthington	ukulele	ukulele	fine-tuning
+Zeng Yanfen	ukulele	ukulele	fine-tuning
+Moe Keale	ukulele	ukulele	fine-tuning
+Michael Haydn	pipe organ	pipe organ	fine-tuning
+Friedrich Wilhelm Marpurg	pipe organ	pipe organ	fine-tuning
+Leopold Stokowski	pipe organ	pipe organ	fine-tuning
+Antonio Salieri	pipe organ	pipe organ	fine-tuning
+Gabriel Fauré	pipe organ	pipe organ	fine-tuning
+Pierre Pincemaille	pipe organ	pipe organ	fine-tuning
+Johann Melchior Molter	pipe organ	pipe organ	fine-tuning
+Veljo Tormis	pipe organ	pipe organ	fine-tuning
+Giuseppe Sarti	pipe organ	pipe organ	fine-tuning
+Giovanni da Palestrina	pipe organ	pipe organ	fine-tuning
+Horatio Parker	pipe organ	pipe organ	fine-tuning
+Christoph Willibald von Gluck	pipe organ	pipe organ	fine-tuning
+Jan Garber	jazz violin	jazz violin	fine-tuning
+Will Marion Cook	jazz violin	jazz violin	fine-tuning
+Michel Warlop	jazz violin	jazz violin	fine-tuning
+Pippo Barzizza	jazz violin	jazz violin	fine-tuning
+Jerry Goodman	jazz violin	jazz violin	fine-tuning
+Dajos Béla	jazz violin	jazz violin	fine-tuning
+Leo Reisman	jazz violin	jazz violin	fine-tuning
+Erskine Tate	jazz violin	jazz violin	fine-tuning
+Harry Lookofsky	jazz violin	jazz violin	fine-tuning
+Krzesimir Dębski	jazz violin	jazz violin	fine-tuning
+Ambrose	jazz violin	jazz violin	fine-tuning
+Headhunterz	synthesizer	synthesizer	fine-tuning
+Klaus Schulze	synthesizer	synthesizer	fine-tuning
+Rusko	synthesizer	synthesizer	fine-tuning
+Lost Frequencies	synthesizer	synthesizer	fine-tuning
+Don Davis	synthesizer	synthesizer	fine-tuning
+Tycho	synthesizer	synthesizer	fine-tuning
+Leeroy Thornhill	synthesizer	synthesizer	fine-tuning
+Robert Miles	synthesizer	synthesizer	fine-tuning
+Mr. Oizo	synthesizer	synthesizer	fine-tuning
+Isao Tomita	synthesizer	synthesizer	fine-tuning
+Darude	synthesizer	synthesizer	fine-tuning
+Brian Eno	synthesizer	synthesizer	fine-tuning
+Rodney Jerkins	keyboard instrument	keyboard instrument	fine-tuning
+Eduard Artemyev	keyboard instrument	keyboard instrument	fine-tuning
+John Debney	keyboard instrument	keyboard instrument	fine-tuning
+Daryl Hall	keyboard instrument	keyboard instrument	fine-tuning
+Fatboy Slim	keyboard instrument	keyboard instrument	fine-tuning
+Spike Edney	keyboard instrument	keyboard instrument	fine-tuning
+Teddy Park	keyboard instrument	keyboard instrument	fine-tuning
+Tinie Tempah	keyboard instrument	keyboard instrument	fine-tuning
+Clint Mansell	keyboard instrument	keyboard instrument	fine-tuning
+David Bedford	keyboard instrument	keyboard instrument	fine-tuning
+Thomas Arne	keyboard instrument	keyboard instrument	fine-tuning
+Joseph Hahn	keyboard instrument	keyboard instrument	fine-tuning
+Trip Tucker	harmonica	harmonica	fine-tuning
+Larry Adler	harmonica	harmonica	fine-tuning
+Jazz Gillum	harmonica	harmonica	fine-tuning
+Sam Myers	harmonica	harmonica	fine-tuning
+Bob Young	harmonica	harmonica	fine-tuning
+Hammie Nixon	harmonica	harmonica	fine-tuning
+Clara Sherman	harmonica	harmonica	fine-tuning
+Jean-Jacques Milteau	harmonica	harmonica	fine-tuning
+Hiroto Kōmoto	harmonica	harmonica	fine-tuning
+Jerry McCain	harmonica	harmonica	fine-tuning
+Lee Oskar	harmonica	harmonica	fine-tuning
+Tim Kaine	harmonica	harmonica	fine-tuning
+Christoph Schneider	drum kit	drum kit	fine-tuning
+Pete Best	drum kit	drum kit	fine-tuning
+Frankie Muniz	drum kit	drum kit	fine-tuning
+Travis Barker	drum kit	drum kit	fine-tuning
+Tommy Ramone	drum kit	drum kit	fine-tuning
+Bill Ward	drum kit	drum kit	fine-tuning
+John Bonham	drum kit	drum kit	fine-tuning
+Tré Cool	drum kit	drum kit	fine-tuning
+Stewart Copeland	drum kit	drum kit	fine-tuning
+Rob Bourdon	drum kit	drum kit	fine-tuning
+John Dolmayan	drum kit	drum kit	fine-tuning
+Mikhail Novitsky	acoustic guitar	acoustic guitar	fine-tuning
+Billy Joe Shaver	acoustic guitar	acoustic guitar	fine-tuning
+Imagination Movers	acoustic guitar	acoustic guitar	fine-tuning
+Kathryn Williams	acoustic guitar	acoustic guitar	fine-tuning
+T. Texas Tyler	acoustic guitar	acoustic guitar	fine-tuning
+Funny van Dannen	acoustic guitar	acoustic guitar	fine-tuning
+Osvaldo Rodríguez	acoustic guitar	acoustic guitar	fine-tuning
+The Ditty Bops	acoustic guitar	acoustic guitar	fine-tuning
+The Milk Carton Kids	acoustic guitar	acoustic guitar	fine-tuning
+Paul Baloche	acoustic guitar	acoustic guitar	fine-tuning
+Zenon Martyniuk	acoustic guitar	acoustic guitar	fine-tuning
+Fuyumi Abe	acoustic guitar	acoustic guitar	fine-tuning
+Roswell Rudd	trombone	trombone	fine-tuning
+Johan de Meij	trombone	trombone	fine-tuning
+Conrad Janis	trombone	trombone	fine-tuning
+Bert Kaempfert	trombone	trombone	fine-tuning
+Trummy Young	trombone	trombone	fine-tuning
+Slide Hampton	trombone	trombone	fine-tuning
+Charles Rogers	trombone	trombone	fine-tuning
+Christian Lindberg	trombone	trombone	fine-tuning
+Urbie Green	trombone	trombone	fine-tuning
+Kid Ory	trombone	trombone	fine-tuning
+Rico Rodriguez	trombone	trombone	fine-tuning
+Vinko Globokar	trombone	trombone	fine-tuning
+William Lecomte	upright piano	upright piano	fine-tuning
+Anda Kitschman	upright piano	upright piano	fine-tuning
+Jan Boba	upright piano	upright piano	fine-tuning
+Johann Baptist Jenger	upright piano	upright piano	fine-tuning
+Hitoshi Sakimoto	upright piano	upright piano	fine-tuning
+Terry Riley	upright piano	upright piano	fine-tuning
+Kazimierz Abratowski	upright piano	upright piano	fine-tuning
+Wiktoria Johansson	upright piano	upright piano	fine-tuning
+Samary Savshinsky	upright piano	upright piano	fine-tuning
+Stefan Raab	upright piano	upright piano	fine-tuning
+S. P. Bartenev	upright piano	upright piano	fine-tuning
+Sarkis Atamian	upright piano	upright piano	fine-tuning
+Vajiralongkorn I of Thailand	saxophone	saxophone	fine-tuning
+Clarence Clemons	saxophone	saxophone	fine-tuning
+Howard Shore	saxophone	saxophone	fine-tuning
+Adolphe Sax	saxophone	saxophone	fine-tuning
+Albert Ayler	saxophone	saxophone	fine-tuning
+Sid Caesar	saxophone	saxophone	fine-tuning
+Paul Winter	saxophone	saxophone	fine-tuning
+Ed McMahon	saxophone	saxophone	fine-tuning
+Boots Randolph	saxophone	saxophone	fine-tuning
+Ronald McNair	saxophone	saxophone	fine-tuning
+Sarah Catherine Gilbert	saxophone	saxophone	fine-tuning
+Charlie Barnet	saxophone	saxophone	fine-tuning
+Nick Hodgson	percussion instrument	percussion instrument	fine-tuning
+Sharon Marley	percussion instrument	percussion instrument	fine-tuning
+Pete Escovedo	percussion instrument	percussion instrument	fine-tuning
+Eric "Bobo" Correa	percussion instrument	percussion instrument	fine-tuning
+Jnan Prakash Ghosh	percussion instrument	percussion instrument	fine-tuning
+Rich Harrison	percussion instrument	percussion instrument	fine-tuning
+Kip Hanrahan	percussion instrument	percussion instrument	fine-tuning
+Z'EV	percussion instrument	percussion instrument	fine-tuning
+Sistem	percussion instrument	percussion instrument	fine-tuning
+Ray Cooper	percussion instrument	percussion instrument	fine-tuning
+Vince White	percussion instrument	percussion instrument	fine-tuning
+Angus MacLise	percussion instrument	percussion instrument	fine-tuning
+Omar Al-Abdallat	oud	oud	fine-tuning
+Enrico Macias	oud	oud	fine-tuning
+Charbel Rouhana	oud	oud	fine-tuning
+Shahram Gholami	oud	oud	fine-tuning
+Anouar Brahem	oud	oud	fine-tuning
+Agapios Tomboulis	oud	oud	fine-tuning
+Naseer Shamma	oud	oud	fine-tuning
+Jamil Bachir	oud	oud	fine-tuning
+Omar Bashir	oud	oud	fine-tuning
+Talal Maddah	oud	oud	fine-tuning
+Roman Bunka	oud	oud	fine-tuning
+Mohammed Haddad	oud	oud	fine-tuning
+Jason Adasiewicz	vibraphone	vibraphone	fine-tuning
+Red Norvo	vibraphone	vibraphone	fine-tuning
+Joe Locke	vibraphone	vibraphone	fine-tuning
+Pascal Schumacher	vibraphone	vibraphone	fine-tuning
+Lem Winchester	vibraphone	vibraphone	fine-tuning
+Dany Doriz	vibraphone	vibraphone	fine-tuning
+Ivar Kolve	vibraphone	vibraphone	fine-tuning
+Jay Hoggard	vibraphone	vibraphone	fine-tuning
+Mireille Bauer	vibraphone	vibraphone	fine-tuning
+Ray Alexander	vibraphone	vibraphone	fine-tuning
+Arthur Lyman	vibraphone	vibraphone	fine-tuning
+Franck Tortiller	vibraphone	vibraphone	fine-tuning
+Indy Sagu	reed organ	reed organ	fine-tuning
+Pendyala Nageswara Rao	reed organ	reed organ	fine-tuning
+Shyam	reed organ	reed organ	fine-tuning
+Baburaj	reed organ	reed organ	fine-tuning
+Shilpa Ray	reed organ	reed organ	fine-tuning
+Shanti Thatal	reed organ	reed organ	fine-tuning
+Master Venu	reed organ	reed organ	fine-tuning
+P. Adinarayana Rao	reed organ	reed organ	fine-tuning
+Ghulam Haider	reed organ	reed organ	fine-tuning
+Govindrao Tembe	reed organ	reed organ	fine-tuning
+Nizami Bandhu	reed organ	reed organ	fine-tuning
+Ashiq Nuriddin	bağlama	bağlama	fine-tuning
+Aşıq Zülfiyyə	bağlama	bağlama	fine-tuning
+Zelimxan Yaqub	bağlama	bağlama	fine-tuning
+Aşıq Alı	bağlama	bağlama	fine-tuning
+Ashig Valeh	bağlama	bağlama	fine-tuning
+Aşıq Firudin	bağlama	bağlama	fine-tuning
+Hakkı Bulut	bağlama	bağlama	fine-tuning
+Ashiq Qurbani	bağlama	bağlama	fine-tuning
+Hasret Gültekin	bağlama	bağlama	fine-tuning
+Ismayil Mahir	bağlama	bağlama	fine-tuning
+Ferhat Tunç	bağlama	bağlama	fine-tuning
+Vladimir Danilovič Zubickij	bayan	bayan	fine-tuning
+Aleksandr Zavolokin	bayan	bayan	fine-tuning
+Grigory Ponomarenko	bayan	bayan	fine-tuning
+Anatoliy Shalaev	bayan	bayan	fine-tuning
+Vladimir Balyk	bayan	bayan	fine-tuning
+Viktor Temnov	bayan	bayan	fine-tuning
+Yuri Shishkin	bayan	bayan	fine-tuning
+Gennadiy Zavolokin	bayan	bayan	fine-tuning
+Vladimir Sukhanov	bayan	bayan	fine-tuning
+Vladimir Besfamilnov	bayan	bayan	fine-tuning
+Vladimir Fedotov	bayan	bayan	fine-tuning
+Yury Kazakov	bayan	bayan	fine-tuning
+Chandra Nath Shastri	tabla	tabla	fine-tuning
+Anubrata Chatterjee	tabla	tabla	fine-tuning
+Hossam Ramzy	tabla	tabla	fine-tuning
+Chandrakant Kamat	tabla	tabla	fine-tuning
+K. Raghavan	tabla	tabla	fine-tuning
+Fiyaz Khan	tabla	tabla	fine-tuning
+Kris Chetan Ramlu	tabla	tabla	fine-tuning
+Pabitra Mohan Dey	tabla	tabla	fine-tuning
+Tafo Khan	tabla	tabla	fine-tuning
+Shankar Ghosh	tabla	tabla	fine-tuning
+Anuradha Pal	tabla	tabla	fine-tuning
+Sandip Burman	tabla	tabla	fine-tuning
+Bengt-Arne Wallin	piccolo trumpet	piccolo trumpet	fine-tuning
+Fisher Tull	piccolo trumpet	piccolo trumpet	fine-tuning
+Andrzej Przybielski	piccolo trumpet	piccolo trumpet	fine-tuning
+Anders Bergcrantz	piccolo trumpet	piccolo trumpet	fine-tuning
+Bo Nilsson	piccolo trumpet	piccolo trumpet	fine-tuning
+Sigmund Petruschka	piccolo trumpet	piccolo trumpet	fine-tuning
+Roger Voisin	piccolo trumpet	piccolo trumpet	fine-tuning
+José María Martín Domingo	piccolo trumpet	piccolo trumpet	fine-tuning
+Nils Janson	piccolo trumpet	piccolo trumpet	fine-tuning
+Håkan Hardenberger	piccolo trumpet	piccolo trumpet	fine-tuning
+Rolf Smedvig	piccolo trumpet	piccolo trumpet	fine-tuning
+Hazy Osterwald	piccolo trumpet	piccolo trumpet	fine-tuning
+Earl Johnson	fiddle	fiddle	held-out
+Byron Berline	fiddle	fiddle	held-out
+Ludwig August Lebrun	oboe	oboe	held-out
+François Leleux	oboe	oboe	held-out
+Ari Bragi Kárason	flugelhorn	flugelhorn	held-out
+Dan Newell	flugelhorn	flugelhorn	held-out
+André van den Gheyn	carillon	carillon	held-out
+Wendell J. Westcott	carillon	carillon	held-out
+Erich Leinsdorf	cello	cello	held-out
+Emanuel Feuermann	cello	cello	held-out
+Sheema Mukherjee	sitar	sitar	held-out
+Manilal Nag	sitar	sitar	held-out
+Fat Jon	sampler	sampler	held-out
+Himuro Yoshiteru	sampler	sampler	held-out
+Carl Dolmetsch	recorder	recorder	held-out
+Masaki Kurihara	recorder	recorder	held-out
+Gyula Dávid	viola	viola	held-out
+Andrzej Szpilman	viola	viola	held-out
+Ralph Kirkpatrick	harpsichord	harpsichord	held-out
+Alessandro Scarlatti	harpsichord	harpsichord	held-out
+Hnat Khotkevych	bandura	bandura	held-out
+Hnat Honcharenko	bandura	bandura	held-out
+Opanas Slastion	bandura	bandura	held-out
+Yuriy Fedynsky	bandura	bandura	held-out
+Rodolfo Mederos	bandoneon	bandura	held-out
+Benn Jordan	electric guitar	electric guitar	held-out
+Marty McFly	electric guitar	electric guitar	held-out
+Antonio Rosetti	double bass	double bass	held-out
+Gavin Bryars	double bass	double bass	held-out
+Cloyd Duff	timpani	timpani	held-out
+Ernst Gotthold Benjamin Pfundt	timpani	timpani	held-out
+Heinz Strunk	Western concert flute	Western concert flute	held-out
+Florent Mothe	Western concert flute	Western concert flute	held-out
+U. Srinivas	mandolin	mandolin	held-out
+Bonifacio Asioli	mandolin	mandolin	held-out
+Jay Munly	banjo	banjo	held-out
+Elmer Snowden	banjo	banjo	held-out
+Nobuo Uematsu	electronic keyboard	electronic keyboard	held-out
+Lil Jon	electronic keyboard	electronic keyboard	held-out
+Anton Stadler	clarinet	clarinet	held-out
+Woody Allen	clarinet	clarinet	held-out
+James Barnes	tuba	tuba	held-out
+Heiko Triebener	tuba	tuba	held-out
+Gordon Walker	bagpipes	bagpipes	held-out
+Kostadin Varimezov	bagpipes	bagpipes	held-out
+Lawrence Welk	accordion	accordion	held-out
+Pauline Oliveros	accordion	accordion	held-out
+Adolph Weiss	bassoon	bassoon	held-out
+Peter Bastian	bassoon	bassoon	held-out
+Mario Castelnuovo-Tedesco	classical guitar	classical guitar	held-out
+R5	classical guitar	classical guitar	held-out
+Sigrid Horn	ukulele	ukulele	held-out
+Michael Leviton	ukulele	ukulele	held-out
+Johann Joseph Fux	pipe organ	pipe organ	held-out
+Hans von Koessler	pipe organ	pipe organ	held-out
+Dominique Pifarély	jazz violin	jazz violin	held-out
+Eyvind Kang	jazz violin	jazz violin	held-out
+Giorgio Moroder	synthesizer	synthesizer	held-out
+Steve Roach	synthesizer	synthesizer	held-out
+Flying Lotus	keyboard instrument	keyboard instrument	held-out
+Dimitri Vegas & Like Mike	keyboard instrument	keyboard instrument	held-out
+Sonny Boy Williamson I	harmonica	harmonica	held-out
+Charlie McCoy	harmonica	harmonica	held-out
+Nick Mason	drum kit	drum kit	held-out
+Tico Torres	drum kit	drum kit	held-out
+Paweł Domagała	acoustic guitar	acoustic guitar	held-out
+Pat Wictor	acoustic guitar	acoustic guitar	held-out
+Kai Winding	trombone	trombone	held-out
+Bartolomeo Tromboncino	trombone	trombone	held-out
+Gaspar Agüero Barreras	upright piano	upright piano	held-out
+Ludwik Broekere	upright piano	upright piano	held-out
+Bobby Keys	saxophone	saxophone	held-out
+Ryan O'Neal	saxophone	saxophone	held-out
+Colin Petersen	percussion instrument	percussion instrument	held-out
+Santtu-Matias Rouvali	percussion instrument	percussion instrument	held-out
+Hudeidi	oud	oud	held-out
+Joseph Tawadros	oud	oud	held-out
+Tony Miceli	vibraphone	vibraphone	held-out
+Walt Dickerson	vibraphone	vibraphone	held-out
+Datta Naik	reed organ	reed organ	held-out
+Ivor Cutler	reed organ	reed organ	held-out
+Aşıq Umbay	bağlama	bağlama	held-out
+Asiq Ahmad Rustamov	bağlama	bağlama	held-out
+Mykola Davydov	bayan	bayan	held-out
+Həyretdinov Zöfər Ğılmetdin uğlı	bayan	bayan	held-out
+Sandeep Das	tabla	tabla	held-out
+Vijay Ghate	tabla	tabla	held-out
+Niklas Eklund	piccolo trumpet	piccolo trumpet	held-out
+Robert Majewski	piccolo trumpet	piccolo trumpet	held-out
+Luigi Denza	mandolin	mandolin	demonstration
+Regina Carter	jazz violin	jazz violin	demonstration
+Michel Gondry	drum kit	drum kit	demonstration
+M. K. Arjunan	reed organ	reed organ	demonstration
+Hüseyin Turan	bağlama	bağlama	demonstration

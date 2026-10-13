@@ -1,0 +1,96 @@
+relation_id	relation	label	matched_string	hypernym_steps	kind
+bear_allegiance	Military figure → allegiance	empire	Ottoman Empire	1	label_is_hypernym
+bear_collection	Artwork → holding institution	city	New York City	1	label_is_hypernym
+bear_collection	Artwork → holding institution	metropolis	New York City	1	label_is_hypernym
+bear_constellation	Celestial object → constellation	city	Aquila	1	label_is_hypernym
+bear_constellation	Celestial object → constellation	mansion	Aquarius	1	label_is_hypernym
+bear_constellation	Celestial object → constellation	metropolis	Aquila	1	label_is_hypernym
+bear_continent	Place → continent	city	Abidjan	1	label_is_hypernym
+bear_continent	Place → continent	desert	Arabian Desert	1	label_is_hypernym
+bear_continent	Place → continent	empire	Persian Empire	1	label_is_hypernym
+bear_continent	Place → continent	metropolis	Abidjan	1	label_is_hypernym
+bear_continent	Place → continent	prairie	Great Plains	1	label_is_hypernym
+bear_country_for_sport	Athlete → country represented	city	Luxembourg	2	label_is_hypernym
+bear_country_for_sport	Athlete → country represented	empire	Egypt	1	label_is_hypernym
+bear_country_for_sport	Athlete → country represented	metropolis	Luxembourg	2	label_is_hypernym
+bear_country_of_citizenship	Person → country of citizenship	city	Luxembourg	2	label_is_hypernym
+bear_country_of_citizenship	Person → country of citizenship	metropolis	Luxembourg	2	label_is_hypernym
+bear_country_of_origin	Work → country of origin	city	Vatican City	1	label_is_hypernym
+bear_country_of_origin	Work → country of origin	metropolis	Vatican City	1	label_is_hypernym
+bear_creator	Work or character → creator	city	New York City	1	label_is_hypernym
+bear_creator	Work or character → creator	endpoint	Terminus	0	same_sense
+bear_creator	Work or character → creator	metropolis	New York City	1	label_is_hypernym
+bear_creator	Work or character → creator	terminus	Terminus	0	equal
+bear_developer	Software → developer	empire	Egypt	1	label_is_hypernym
+bear_developer	Software → developer	mansion	Virgo	1	label_is_hypernym
+bear_developer	Software → developer	provenance	Origin	1	label_is_hyponym
+bear_director	Film → director	city	Juarez	1	label_is_hypernym
+bear_director	Film → director	metropolis	Juarez	1	label_is_hypernym
+bear_director	Film → director	midst	Interiors	1	label_is_hyponym
+bear_director	Film → director	thick	Interiors	1	label_is_hyponym
+bear_director_of_photography	Film → cinematographer	city	Casper	1	label_is_hypernym
+bear_director_of_photography	Film → cinematographer	metropolis	Casper	1	label_is_hypernym
+bear_endemic_to	Species → endemic range	city	Victoria	2	label_is_hypernym
+bear_endemic_to	Species → endemic range	metropolis	Victoria	2	label_is_hypernym
+bear_form_of_creative_work	Work → form	laboratory	Works	1	label_is_hyponym
+bear_historic_county	Place → historic county	county	Cornwall	1	label_is_hypernym
+bear_iucn_conservation_status	Species → IUCN status	city	Kaluga	1	label_is_hypernym
+bear_iucn_conservation_status	Species → IUCN status	metropolis	Kaluga	1	label_is_hypernym
+bear_located_in_or_next_to_body_of_water	Place → body of water	city	Antofagasta	1	label_is_hypernym
+bear_located_in_or_next_to_body_of_water	Place → body of water	metropolis	Antofagasta	1	label_is_hypernym
+bear_located_in_the_administrative_territorial_entity	Place → country	city	Benghazi	1	label_is_hypernym
+bear_located_in_the_administrative_territorial_entity	Place → country	empire	Egypt	1	label_is_hypernym
+bear_located_in_the_administrative_territorial_entity	Place → country	metropolis	Benghazi	1	label_is_hypernym
+bear_located_on_street	Building → street	city	Bordeaux	1	label_is_hypernym
+bear_located_on_street	Building → street	metropolis	Bordeaux	1	label_is_hypernym
+bear_manufacturer	Product → manufacturer	city	Bismarck	2	label_is_hypernym
+bear_manufacturer	Product → manufacturer	metropolis	Bismarck	2	label_is_hypernym
+bear_mountain_range	Peak → mountain range	city	San Juan	1	label_is_hypernym
+bear_mountain_range	Peak → mountain range	metropolis	San Juan	1	label_is_hypernym
+bear_mouth_of_the_watercourse	Watercourse → mouth	city	Reno	1	label_is_hypernym
+bear_mouth_of_the_watercourse	Watercourse → mouth	metropolis	Reno	1	label_is_hypernym
+bear_occupation	Person → occupation (BEAR)	city	Nijmegen	1	label_is_hypernym
+bear_occupation	Person → occupation (BEAR)	metropolis	Nijmegen	1	label_is_hypernym
+bear_operator	Vehicle or site → operator	city	Stalingrad	1	label_is_hypernym
+bear_operator	Vehicle or site → operator	metropolis	Stalingrad	1	label_is_hypernym
+bear_original_broadcaster	TV show → network	city	Nuremberg	1	label_is_hypernym
+bear_original_broadcaster	TV show → network	metropolis	Nuremberg	1	label_is_hypernym
+bear_original_broadcaster	TV show → network	see	See	0	equal
+bear_original_language_of_film_or_tv_show	Film → original language	landscape	Landscape	0	equal
+bear_owned_by	Asset → owner	city	Arnhem	1	label_is_hypernym
+bear_owned_by	Asset → owner	metropolis	Arnhem	1	label_is_hypernym
+bear_place_of_birth	Person → country of birth	city	Singapore	2	label_is_hypernym
+bear_place_of_birth	Person → country of birth	empire	Egypt	1	label_is_hypernym
+bear_place_of_birth	Person → country of birth	metropolis	Singapore	2	label_is_hypernym
+bear_place_of_death	Person → country of death	city	Vatican City	1	label_is_hypernym
+bear_place_of_death	Person → country of death	empire	Egypt	1	label_is_hypernym
+bear_place_of_death	Person → country of death	metropolis	Vatican City	1	label_is_hypernym
+bear_place_of_publication	Work → country of publication	city	Babylon	1	label_is_hypernym
+bear_place_of_publication	Work → country of publication	empire	Russia	1	label_is_hypernym
+bear_place_of_publication	Work → country of publication	metropolis	Babylon	1	label_is_hypernym
+bear_screenwriter	Film → screenwriter	checkpoint	Stop	1	label_is_hyponym
+bear_screenwriter	Film → screenwriter	city	Le Havre	1	label_is_hypernym
+bear_screenwriter	Film → screenwriter	metropolis	Le Havre	1	label_is_hypernym
+company_hq	Company → headquarters	city	Chicago	1	label_is_hypernym
+company_hq	Company → headquarters	metropolis	Chicago	1	label_is_hypernym
+engineered_town_country_language	Town → country language	city	Aalborg	1	label_is_hypernym
+engineered_town_country_language	Town → country language	metropolis	Aalborg	1	label_is_hypernym
+engineered_town_elevation_band	Town → elevation band	city	Aalborg	1	label_is_hypernym
+engineered_town_elevation_band	Town → elevation band	metropolis	Aalborg	1	label_is_hypernym
+engineered_town_latitude_band	Town → latitude band	city	Aalborg	1	label_is_hypernym
+engineered_town_latitude_band	Town → latitude band	metropolis	Aalborg	1	label_is_hypernym
+engineered_town_longitude_band	Town → longitude band	city	Aalborg	1	label_is_hypernym
+engineered_town_longitude_band	Town → longitude band	metropolis	Aalborg	1	label_is_hypernym
+engineered_town_population_band	Town → population band	city	Aalborg	1	label_is_hypernym
+engineered_town_population_band	Town → population band	metropolis	Aalborg	1	label_is_hypernym
+landmark_in_country	Landmark → country	city	Munich	1	label_is_hypernym
+landmark_in_country	Landmark → country	empire	Imperia	0	same_sense
+landmark_in_country	Landmark → country	metropolis	Munich	1	label_is_hypernym
+object_superclass	Object → superclass	mansion	fish	1	label_is_hypernym
+person_mother	Person → mother	city	Victoria	2	label_is_hypernym
+person_mother	Person → mother	metropolis	Victoria	2	label_is_hypernym
+product_by_company	Product → company	plaza	Square	1	label_is_hyponym
+town_region	Town → region	city	Aalborg	1	label_is_hypernym
+town_region	Town → region	desert	Sahara	1	label_is_hypernym
+town_region	Town → region	metropolis	Aalborg	1	label_is_hypernym
+star_constellation_name	Star → constellation	mansion	Aquarius	1	label_is_hypernym

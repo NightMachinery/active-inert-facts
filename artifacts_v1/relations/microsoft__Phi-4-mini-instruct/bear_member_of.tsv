@@ -1,0 +1,585 @@
+subject	pretrained_answer	answer	role
+Michał Hieronim Radziwiłł	Targowica Confederation	Targowica Confederation	fine-tuning
+Domenico Merlini	Targowica Confederation	Targowica Confederation	fine-tuning
+Jakub Jasiński	Targowica Confederation	Targowica Confederation	fine-tuning
+Józef Aleksander Lubomirski	Targowica Confederation	Targowica Confederation	fine-tuning
+Jan Henryk Dąbrowski	Targowica Confederation	Targowica Confederation	fine-tuning
+Theodosius Rostocki	Targowica Confederation	Targowica Confederation	fine-tuning
+Józef Zabiełło	Targowica Confederation	Targowica Confederation	fine-tuning
+Heinrich Dernburg	Lincean Academy	Lincean Academy	fine-tuning
+Emilio Chiovenda	Lincean Academy	Lincean Academy	fine-tuning
+Luca Valerio	Lincean Academy	Lincean Academy	fine-tuning
+Emanuele Severino	Lincean Academy	Lincean Academy	fine-tuning
+Luigi Fantappiè	Lincean Academy	Lincean Academy	fine-tuning
+Riccardo Bacchelli	Lincean Academy	Lincean Academy	fine-tuning
+Umberto Cagni	Lincean Academy	Lincean Academy	fine-tuning
+Bramwell Booth	The Salvation Army	The Salvation Army	fine-tuning
+Vere Bird	The Salvation Army	The Salvation Army	fine-tuning
+Estaing	The Most Beautiful Villages of France	The Salvation Army	fine-tuning
+Belvès	The Most Beautiful Villages of France	The Salvation Army	fine-tuning
+Domme	The Most Beautiful Villages of France	The Salvation Army	fine-tuning
+Sainte-Agnès	The Most Beautiful Villages of France	The Salvation Army	fine-tuning
+Charroux	The Most Beautiful Villages of France	The Salvation Army	fine-tuning
+Wilfred Kitching	The Salvation Army	The Salvation Army	fine-tuning
+Coaraze	The Most Beautiful Villages of France	The Salvation Army	fine-tuning
+Moustiers-Sainte-Marie	The Most Beautiful Villages of France	The Salvation Army	fine-tuning
+Majken Johansson	The Salvation Army	The Salvation Army	fine-tuning
+Mittelbergheim	The Most Beautiful Villages of France	The Salvation Army	fine-tuning
+Lapp-Lisa	The Salvation Army	The Salvation Army	fine-tuning
+Seán Mac Stíofáin	Provisional Irish Republican Army	Provisional Irish Republican Army	fine-tuning
+Martina Anderson	Provisional Irish Republican Army	Provisional Irish Republican Army	fine-tuning
+Denis Donaldson	Provisional Irish Republican Army	Provisional Irish Republican Army	fine-tuning
+Martin McGuinness	Provisional Irish Republican Army	Provisional Irish Republican Army	fine-tuning
+Kevin McKenna	Provisional Irish Republican Army	Provisional Irish Republican Army	fine-tuning
+Francis Hughes	Provisional Irish Republican Army	Provisional Irish Republican Army	fine-tuning
+Owen Carron	Provisional Irish Republican Army	Provisional Irish Republican Army	fine-tuning
+Babia Góra	Man and the Biosphere Programme	Man and the Biosphere Programme	fine-tuning
+Sikhote-Alin	Man and the Biosphere Programme	Man and the Biosphere Programme	fine-tuning
+Socotra Archipelago	Man and the Biosphere Programme	Man and the Biosphere Programme	fine-tuning
+Białowieża Forest	Man and the Biosphere Programme	Man and the Biosphere Programme	fine-tuning
+Yellowstone National Park	Man and the Biosphere Programme	Man and the Biosphere Programme	fine-tuning
+Danube Delta	Man and the Biosphere Programme	Man and the Biosphere Programme	fine-tuning
+Ferlo Desert	Man and the Biosphere Programme	Man and the Biosphere Programme	fine-tuning
+Pierre Plantard	freemasonry	freemasonry	fine-tuning
+Vicente Rocafuerte	freemasonry	freemasonry	fine-tuning
+Han Ryner	freemasonry	freemasonry	fine-tuning
+Jean-Vincent Placé	freemasonry	freemasonry	fine-tuning
+Leopold Bloom	freemasonry	freemasonry	fine-tuning
+Prince Henri of Orléans	freemasonry	freemasonry	fine-tuning
+Jules Ferry	freemasonry	freemasonry	fine-tuning
+Isidoro Zorzano	Prelature of the Holy Cross and Opus Dei	Prelature of the Holy Cross and Opus Dei	fine-tuning
+Margaret Ogola	Prelature of the Holy Cross and Opus Dei	Prelature of the Holy Cross and Opus Dei	fine-tuning
+José Horacio Gómez	Prelature of the Holy Cross and Opus Dei	Prelature of the Holy Cross and Opus Dei	fine-tuning
+Joaquín Navarro-Valls	Prelature of the Holy Cross and Opus Dei	Prelature of the Holy Cross and Opus Dei	fine-tuning
+Montserrat Grases	Prelature of the Holy Cross and Opus Dei	Prelature of the Holy Cross and Opus Dei	fine-tuning
+Joaquín Lavín	Prelature of the Holy Cross and Opus Dei	Prelature of the Holy Cross and Opus Dei	fine-tuning
+Federico Trillo	Prelature of the Holy Cross and Opus Dei	Prelature of the Holy Cross and Opus Dei	fine-tuning
+Kimball Cho	United States Army Special Forces	United States Army Special Forces	fine-tuning
+Tim Kennedy	United States Army Special Forces	United States Army Special Forces	fine-tuning
+Jason Everman	United States Army Special Forces	United States Army Special Forces	fine-tuning
+John Maddox Roberts	United States Army Special Forces	United States Army Special Forces	fine-tuning
+Gary Zukav	United States Army Special Forces	United States Army Special Forces	fine-tuning
+Robert L. Howard	United States Army Special Forces	United States Army Special Forces	fine-tuning
+Sonya Blade	United States Army Special Forces	United States Army Special Forces	fine-tuning
+Peter L. Hammer	American Association for the Advancement of Science	American Association for the Advancement of Science	fine-tuning
+Alexandra Bellow	American Mathematical Society	American Association for the Advancement of Science	fine-tuning
+Karen Vogtmann	American Mathematical Society	American Association for the Advancement of Science	fine-tuning
+Pierre Cartier	American Mathematical Society	American Association for the Advancement of Science	fine-tuning
+Barry Commoner	American Association for the Advancement of Science	American Association for the Advancement of Science	fine-tuning
+Keith Devlin	American Mathematical Society	American Association for the Advancement of Science	fine-tuning
+Robin Hartshorne	American Mathematical Society	American Association for the Advancement of Science	fine-tuning
+Hee Oh	American Mathematical Society	American Association for the Advancement of Science	fine-tuning
+Kevin Padian	American Association for the Advancement of Science	American Association for the Advancement of Science	fine-tuning
+Doron Zeilberger	American Mathematical Society	American Association for the Advancement of Science	fine-tuning
+John Harvey Kellogg	American Association for the Advancement of Science	American Association for the Advancement of Science	fine-tuning
+Herbert Schiller	American Association for the Advancement of Science	American Association for the Advancement of Science	fine-tuning
+Ciprian Manolescu	American Mathematical Society	American Association for the Advancement of Science	fine-tuning
+Government of the Principality of Asturias	World Wide Web Consortium	World Wide Web Consortium	fine-tuning
+The Walt Disney Company	World Wide Web Consortium	World Wide Web Consortium	fine-tuning
+Federal Reserve Bank of Minneapolis	World Wide Web Consortium	World Wide Web Consortium	fine-tuning
+Klarna	World Wide Web Consortium	World Wide Web Consortium	fine-tuning
+Mayo Clinic	World Wide Web Consortium	World Wide Web Consortium	fine-tuning
+Xiaomi	World Wide Web Consortium	World Wide Web Consortium	fine-tuning
+Institut Mines-Télécom	World Wide Web Consortium	World Wide Web Consortium	fine-tuning
+Monika Berberich	Red Army Faction	Red Army Faction	fine-tuning
+Siegfried Haag	Red Army Faction	Red Army Faction	fine-tuning
+Werner Lotze	Red Army Faction	Red Army Faction	fine-tuning
+Eva Haule	Red Army Faction	Red Army Faction	fine-tuning
+Astrid Proll	Red Army Faction	Red Army Faction	fine-tuning
+Inge Viett	Red Army Faction	Red Army Faction	fine-tuning
+Adelheid Schulz	Red Army Faction	Red Army Faction	fine-tuning
+Francesco Melzi d'Eril	Accademia della Crusca	Accademia della Crusca	fine-tuning
+Cigoli	Accademia della Crusca	Accademia della Crusca	fine-tuning
+Alfonso Capecelatro	Accademia della Crusca	Accademia della Crusca	fine-tuning
+Giacomo Zanella	Accademia della Crusca	Accademia della Crusca	fine-tuning
+Gilles Ménage	Accademia della Crusca	Accademia della Crusca	fine-tuning
+Luca Beltrami	Accademia della Crusca	Accademia della Crusca	fine-tuning
+Niccolò Tommaseo	Accademia della Crusca	Accademia della Crusca	fine-tuning
+Stanley Greene	Black Panther Party	Black Panther Party	fine-tuning
+John Huggins	Black Panther Party	Black Panther Party	fine-tuning
+Huey P. Newton	Black Panther Party	Black Panther Party	fine-tuning
+Pete O'Neal	Black Panther Party	Black Panther Party	fine-tuning
+Sundiata Acoli	Black Panther Party	Black Panther Party	fine-tuning
+George Jackson	Black Panther Party	Black Panther Party	fine-tuning
+Donald L. Cox	Black Panther Party	Black Panther Party	fine-tuning
+Johann Olav Koss	International Olympic Committee	International Olympic Committee	fine-tuning
+Paul Lafargue	International Workingmen's Association	International Olympic Committee	fine-tuning
+Randal Cremer	International Workingmen's Association	International Olympic Committee	fine-tuning
+Roland Bacon	International Astronomical Union	International Olympic Committee	fine-tuning
+Observatorio de La Cañada	International Astronomical Union	International Olympic Committee	fine-tuning
+Walery Antoni Wróblewski	International Workingmen's Association	International Olympic Committee	fine-tuning
+Sergey Nechayev	International Workingmen's Association	International Olympic Committee	fine-tuning
+Mirjana Povic	International Astronomical Union	International Olympic Committee	fine-tuning
+Sepp Blatter	International Olympic Committee	International Olympic Committee	fine-tuning
+Nan Rendong	International Astronomical Union	International Olympic Committee	fine-tuning
+Serena Viti	International Astronomical Union	International Olympic Committee	fine-tuning
+Paul Robin	International Workingmen's Association	International Olympic Committee	fine-tuning
+Henri Tolain	International Workingmen's Association	International Olympic Committee	fine-tuning
+Tamim bin Hamad Al Thani	International Olympic Committee	International Olympic Committee	fine-tuning
+Rychard Bouwens	International Astronomical Union	International Olympic Committee	fine-tuning
+Henri, Grand Duke of Luxembourg	International Olympic Committee	International Olympic Committee	fine-tuning
+Sergey Tyul’bashev	International Astronomical Union	International Olympic Committee	fine-tuning
+Victoria Woodhull	International Workingmen's Association	International Olympic Committee	fine-tuning
+Shunichiro Okano	International Olympic Committee	International Olympic Committee	fine-tuning
+João Havelange	International Olympic Committee	International Olympic Committee	fine-tuning
+Benizelos Rouphos	Filiki Eteria	Filiki Eteria	fine-tuning
+Giorgakis Olympios	Filiki Eteria	Filiki Eteria	fine-tuning
+Nikolaos Skoufas	Filiki Eteria	Filiki Eteria	fine-tuning
+Emmanuil Xanthos	Filiki Eteria	Filiki Eteria	fine-tuning
+Tudor Vladimirescu	Filiki Eteria	Filiki Eteria	fine-tuning
+Theodoros Kolokotronis	Filiki Eteria	Filiki Eteria	fine-tuning
+Markos Botsaris	Filiki Eteria	Filiki Eteria	fine-tuning
+Tim Jackson	Club of Rome	Club of Rome	fine-tuning
+Max Kohnstamm	Club of Rome	Club of Rome	fine-tuning
+Herman Daly	Club of Rome	Club of Rome	fine-tuning
+Queen Sofía of Spain	Club of Rome	Club of Rome	fine-tuning
+Ellen MacArthur	Club of Rome	Club of Rome	fine-tuning
+Enrico Giovannini	Club of Rome	Club of Rome	fine-tuning
+Luis Alberto Lacalle	Club of Rome	Club of Rome	fine-tuning
+KDU-ČSL	European People's Party	European Broadcasting Union	fine-tuning
+Unity List	European Free Alliance	European Broadcasting Union	fine-tuning
+Radiotelevisión Española	European Broadcasting Union	European Broadcasting Union	fine-tuning
+DR	European Broadcasting Union	European Broadcasting Union	fine-tuning
+Mebyon Kernow	European Free Alliance	European Broadcasting Union	fine-tuning
+Ukrainian Democratic Alliance for Reform	European People's Party	European Broadcasting Union	fine-tuning
+Unser Land	European Free Alliance	European Broadcasting Union	fine-tuning
+New Canaries	European Free Alliance	European Broadcasting Union	fine-tuning
+VGTRK	European Broadcasting Union	European Broadcasting Union	fine-tuning
+Eusko Alkartasuna	European Free Alliance	European Broadcasting Union	fine-tuning
+Sardinian Action Party	European Free Alliance	European Broadcasting Union	fine-tuning
+Rainbow	European Free Alliance	European Broadcasting Union	fine-tuning
+Pro Patria Union	European People's Party	European Broadcasting Union	fine-tuning
+Fine Gael	European People's Party	European Broadcasting Union	fine-tuning
+Latvijas Televīzija	European Broadcasting Union	European Broadcasting Union	fine-tuning
+New Slovenia	European People's Party	European Broadcasting Union	fine-tuning
+Fédération Régions et Peuples Solidaires	European Free Alliance	European Broadcasting Union	fine-tuning
+Union for French Democracy	European People's Party	European Broadcasting Union	fine-tuning
+BHRT	European Broadcasting Union	European Broadcasting Union	fine-tuning
+Raidió Teilifís Éireann	European Broadcasting Union	European Broadcasting Union	fine-tuning
+François Le Levé	French Resistance	French Resistance	fine-tuning
+Ovida Delect	French Resistance	French Resistance	fine-tuning
+Georgette Clerc	French Resistance	French Resistance	fine-tuning
+Jeanne Goupille	French Resistance	French Resistance	fine-tuning
+Salvador Benítez Griñó	French Resistance	French Resistance	fine-tuning
+Solange Sanfourche	French Resistance	French Resistance	fine-tuning
+Colette de Jouvenel	French Resistance	French Resistance	fine-tuning
+L Peter Deutsch	Association for Computing Machinery	Association for Computing Machinery	fine-tuning
+Xavier Leroy	Association for Computing Machinery	Association for Computing Machinery	fine-tuning
+Susan Landau	Association for Computing Machinery	Association for Computing Machinery	fine-tuning
+Anita Borg	Association for Computing Machinery	Association for Computing Machinery	fine-tuning
+Watts Humphrey	Association for Computing Machinery	Association for Computing Machinery	fine-tuning
+Gerard Salton	Association for Computing Machinery	Association for Computing Machinery	fine-tuning
+Terry Winograd	Association for Computing Machinery	Association for Computing Machinery	fine-tuning
+Whitley Stokes	British Academy	British Academy	fine-tuning
+Simon Baron-Cohen	British Academy	British Academy	fine-tuning
+Mark Blaug	British Academy	British Academy	fine-tuning
+Stuart Hall	British Academy	British Academy	fine-tuning
+Christopher Dawson	British Academy	British Academy	fine-tuning
+Steven Lukes	British Academy	British Academy	fine-tuning
+Théodore Vernier	Council of Five Hundred	Council of Five Hundred	fine-tuning
+Pons de Verdun	Council of Five Hundred	Council of Five Hundred	fine-tuning
+Pierre Augereau	Council of Five Hundred	Council of Five Hundred	fine-tuning
+Jean Debry	Council of Five Hundred	Council of Five Hundred	fine-tuning
+Joseph Bonaparte	Council of Five Hundred	Council of Five Hundred	fine-tuning
+Jacques Charles Dupont de l'Eure	Council of Five Hundred	Council of Five Hundred	fine-tuning
+Jean-Lambert Tallien	Council of Five Hundred	Council of Five Hundred	fine-tuning
+Maurice Karnaugh	Institute of Electrical and Electronics Engineers	Institute of Electrical and Electronics Engineers	fine-tuning
+William B. Kouwenhoven	Institute of Electrical and Electronics Engineers	Institute of Electrical and Electronics Engineers	fine-tuning
+Oussama Khatib	Institute of Electrical and Electronics Engineers	Institute of Electrical and Electronics Engineers	fine-tuning
+Isamu Akasaki	Institute of Electrical and Electronics Engineers	Institute of Electrical and Electronics Engineers	fine-tuning
+Gottfried Ungerboeck	Institute of Electrical and Electronics Engineers	Institute of Electrical and Electronics Engineers	fine-tuning
+Carolyne M. Van Vliet	Institute of Electrical and Electronics Engineers	Institute of Electrical and Electronics Engineers	fine-tuning
+Philip J. Klass	Institute of Electrical and Electronics Engineers	Institute of Electrical and Electronics Engineers	fine-tuning
+Adolf Rading	Deutscher Werkbund	Deutscher Werkbund	fine-tuning
+Julius Klinger	Deutscher Werkbund	Deutscher Werkbund	fine-tuning
+Edmund Kesting	Deutscher Werkbund	Deutscher Werkbund	fine-tuning
+Paul Troost	Deutscher Werkbund	Deutscher Werkbund	fine-tuning
+Adolf Arndt	Deutscher Werkbund	Deutscher Werkbund	fine-tuning
+Heinrich Lauterbach	Deutscher Werkbund	Deutscher Werkbund	fine-tuning
+Adolf Behne	Deutscher Werkbund	Deutscher Werkbund	fine-tuning
+David Flusser	Israel Academy of Sciences and Humanities	Israel Academy of Sciences and Humanities	fine-tuning
+Dov Sadan	Israel Academy of Sciences and Humanities	Israel Academy of Sciences and Humanities	fine-tuning
+Michael Zohary	Israel Academy of Sciences and Humanities	Israel Academy of Sciences and Humanities	fine-tuning
+Amihai Mazar	Israel Academy of Sciences and Humanities	Israel Academy of Sciences and Humanities	fine-tuning
+Moshe Idel	Israel Academy of Sciences and Humanities	Israel Academy of Sciences and Humanities	fine-tuning
+Jacob Talmon	Israel Academy of Sciences and Humanities	Israel Academy of Sciences and Humanities	fine-tuning
+Bernhard Zondek	Israel Academy of Sciences and Humanities	Israel Academy of Sciences and Humanities	fine-tuning
+Eugen Bleuler	German Academy of Sciences Leopoldina	German Academy of Sciences Leopoldina	fine-tuning
+Benjamin List	German Academy of Sciences Leopoldina	German Academy of Sciences Leopoldina	fine-tuning
+Hans Berger	German Academy of Sciences Leopoldina	German Academy of Sciences Leopoldina	fine-tuning
+Eduard Buchner	German Academy of Sciences Leopoldina	German Academy of Sciences Leopoldina	fine-tuning
+Georg Ernst Stahl	German Academy of Sciences Leopoldina	German Academy of Sciences Leopoldina	fine-tuning
+Carl Reichenbach	German Academy of Sciences Leopoldina	German Academy of Sciences Leopoldina	fine-tuning
+Peter O'Toole	Royal Shakespeare Company	Royal Shakespeare Company	fine-tuning
+Patrick Stewart	Royal Shakespeare Company	Royal Shakespeare Company	fine-tuning
+Michael Goodliffe	Royal Shakespeare Company	Royal Shakespeare Company	fine-tuning
+Michael Pennington	Royal Shakespeare Company	Royal Shakespeare Company	fine-tuning
+Peter Chelsom	Royal Shakespeare Company	Royal Shakespeare Company	fine-tuning
+Glenda Jackson	Royal Shakespeare Company	Royal Shakespeare Company	fine-tuning
+Dennis Waterman	Royal Shakespeare Company	Royal Shakespeare Company	fine-tuning
+Francisco Apalategi	Society of Jesus	Society of Jesus	fine-tuning
+Rodolfo Ramón de Roux	Society of Jesus	Society of Jesus	fine-tuning
+Alexandre Dugré	Society of Jesus	Society of Jesus	fine-tuning
+Antonio Pérez Goyena	Society of Jesus	Society of Jesus	fine-tuning
+Eriprando Giuliari	Society of Jesus	Society of Jesus	fine-tuning
+Lluís Soffi	Society of Jesus	Society of Jesus	fine-tuning
+Antoine Parran	Society of Jesus	Society of Jesus	fine-tuning
+Carlo Minnaja	Academy of Esperanto	Academy of Esperanto	fine-tuning
+Lena Karpunina	Academy of Esperanto	Academy of Esperanto	fine-tuning
+Pavel Mozhayev	Academy of Esperanto	Academy of Esperanto	fine-tuning
+Julio Baghy	Academy of Esperanto	Academy of Esperanto	fine-tuning
+André Albaut	Academy of Esperanto	Academy of Esperanto	fine-tuning
+Rüdiger Eichholz	Academy of Esperanto	Academy of Esperanto	fine-tuning
+Air China	Linux Foundation	Linux Foundation	fine-tuning
+Korea Exchange	Linux Foundation	Linux Foundation	fine-tuning
+DreamWorks Animation	Linux Foundation	Linux Foundation	fine-tuning
+NCsoft	Linux Foundation	Linux Foundation	fine-tuning
+Infosys	Linux Foundation	Linux Foundation	fine-tuning
+Citrix Systems	Linux Foundation	Linux Foundation	fine-tuning
+Jio	Linux Foundation	Linux Foundation	fine-tuning
+Brett Dean	Berlin Philharmonic	Berlin Philharmonic	fine-tuning
+Ludwig von Brenner	Berlin Philharmonic	Berlin Philharmonic	fine-tuning
+Daniel Stabrawa	Berlin Philharmonic	Berlin Philharmonic	fine-tuning
+Radek Baborák	Berlin Philharmonic	Berlin Philharmonic	fine-tuning
+Hansjörg Schellenberger	Berlin Philharmonic	Berlin Philharmonic	fine-tuning
+Claudio Abbado	Berlin Philharmonic	Berlin Philharmonic	fine-tuning
+Lothar Koch	Berlin Philharmonic	Berlin Philharmonic	fine-tuning
+Edward Szuster	Armia Krajowa	Armia Krajowa	fine-tuning
+Bronisław Piekarski	Armia Krajowa	Armia Krajowa	fine-tuning
+Andrzej Krzewniak	Armia Krajowa	Armia Krajowa	fine-tuning
+Andrzej Waligórski	Armia Krajowa	Armia Krajowa	fine-tuning
+Stefan Zielewicz	Armia Krajowa	Armia Krajowa	fine-tuning
+Jan Higersberger	Armia Krajowa	Armia Krajowa	fine-tuning
+Józef Lokajski	Armia Krajowa	Armia Krajowa	fine-tuning
+Homer Martin Adkins	Ku Klux Klan	Ku Klux Klan	fine-tuning
+Byron De La Beckwith	Ku Klux Klan	Ku Klux Klan	fine-tuning
+James Ford Seale	Ku Klux Klan	Ku Klux Klan	fine-tuning
+Theodore Gilmore Bilbo	Ku Klux Klan	Ku Klux Klan	fine-tuning
+Clifford Walker	Ku Klux Klan	Ku Klux Klan	fine-tuning
+Clifford Davis	Ku Klux Klan	Ku Klux Klan	fine-tuning
+Hugo Black	Ku Klux Klan	Ku Klux Klan	fine-tuning
+Mary White Ovington	NAACP	NAACP	fine-tuning
+Harold Moss	NAACP	NAACP	fine-tuning
+Medgar Evers	NAACP	NAACP	fine-tuning
+Claudette Colvin	NAACP	NAACP	fine-tuning
+Fanny Garrison Villard	NAACP	NAACP	fine-tuning
+Louis T. Wright	NAACP	NAACP	fine-tuning
+William F. Penn	NAACP	NAACP	fine-tuning
+Magna Carta	Memory of the World	Memory of the World	fine-tuning
+Hereford Mappa Mundi	Memory of the World	Memory of the World	fine-tuning
+Biblioteca Palafoxiana	Memory of the World	Memory of the World	fine-tuning
+Huangdi Neijing	Memory of the World	Memory of the World	fine-tuning
+Codex Beratinus	Memory of the World	Memory of the World	fine-tuning
+Uigwe	Memory of the World	Memory of the World	fine-tuning
+Laurentian Codex	Memory of the World	Memory of the World	fine-tuning
+Hohenzollern-Hechingen	Holy Roman Empire	Holy Roman Empire	fine-tuning
+Electorate of Saxony	Holy Roman Empire	Holy Roman Empire	fine-tuning
+Burgraviate of Nuremberg	Holy Roman Empire	Holy Roman Empire	fine-tuning
+Duchy of Saxe-Altenburg	Holy Roman Empire	Holy Roman Empire	fine-tuning
+Margraviate of Brandenburg	Holy Roman Empire	Holy Roman Empire	fine-tuning
+Schaumburg-Lippe	Holy Roman Empire	Holy Roman Empire	fine-tuning
+Principality of Anhalt-Zerbst	Holy Roman Empire	Holy Roman Empire	fine-tuning
+John A. Macdonald	Orange Order	Orange Order	fine-tuning
+William Massey	Orange Order	Orange Order	fine-tuning
+William Ellison-Macartney	Orange Order	Orange Order	fine-tuning
+Robert Jocelyn, 3rd Earl of Roden	Orange Order	Orange Order	fine-tuning
+Reg Empey	Orange Order	Orange Order	fine-tuning
+Davy Tweed	Orange Order	Orange Order	fine-tuning
+George Murdoch	Orange Order	Orange Order	fine-tuning
+Dave Panichi	Blood, Sweat & Tears	Blood, Sweat & Tears	fine-tuning
+Randy Bernsen	Blood, Sweat & Tears	Blood, Sweat & Tears	fine-tuning
+Jim Fielder	Blood, Sweat & Tears	Blood, Sweat & Tears	fine-tuning
+Dick Halligan	Blood, Sweat & Tears	Blood, Sweat & Tears	fine-tuning
+Steve Conte	Blood, Sweat & Tears	Blood, Sweat & Tears	fine-tuning
+Bobby Colomby	Blood, Sweat & Tears	Blood, Sweat & Tears	fine-tuning
+Luther Kent	Blood, Sweat & Tears	Blood, Sweat & Tears	fine-tuning
+Lee Chong-Yeong	Universal Esperanto Association	Universal Esperanto Association	fine-tuning
+Cecil Charles Goldsmith	Universal Esperanto Association	Universal Esperanto Association	fine-tuning
+Nikola Rašić	Universal Esperanto Association	Universal Esperanto Association	fine-tuning
+Ye Junjian	Universal Esperanto Association	Universal Esperanto Association	fine-tuning
+Marija Belošević	Universal Esperanto Association	Universal Esperanto Association	fine-tuning
+Irja Klemola	Universal Esperanto Association	Universal Esperanto Association	fine-tuning
+Jadwiga Gibczyńska	Universal Esperanto Association	Universal Esperanto Association	fine-tuning
+Monika Kończyk	Solidarity	Solidarity	fine-tuning
+Grażyna Staniszewska	Solidarity	Solidarity	fine-tuning
+Witold Kopeć	Solidarity	Solidarity	fine-tuning
+Zdzisław Raczyński	Solidarity	Solidarity	fine-tuning
+Mirosław Gojdź	Solidarity	Solidarity	fine-tuning
+Zbigniew Rau	Solidarity	Solidarity	fine-tuning
+Mai Oshima	AKB48	AKB48	fine-tuning
+Megumi Ohori	AKB48	AKB48	fine-tuning
+Mariya Nagao	AKB48	AKB48	fine-tuning
+Anna Iriyama	AKB48	AKB48	fine-tuning
+Rena Katō	AKB48	AKB48	fine-tuning
+Tomomi Itano	AKB48	AKB48	fine-tuning
+Mion Mukaichi	AKB48	AKB48	fine-tuning
+Howard Ashman	Peace Corps	Peace Corps	fine-tuning
+Tom Petri	Peace Corps	Peace Corps	fine-tuning
+Rafer Johnson	Peace Corps	Peace Corps	fine-tuning
+Guy Consolmagno	Peace Corps	Peace Corps	fine-tuning
+Kinky Friedman	Peace Corps	Peace Corps	fine-tuning
+John Perkins	Peace Corps	Peace Corps	fine-tuning
+Christopher R. Hill	Peace Corps	Peace Corps	fine-tuning
+Sergey Melikov	Federation Council	Federation Council	fine-tuning
+Leonid Nevzlin	Federation Council	Federation Council	fine-tuning
+Kirsan Ilyumzhinov	Federation Council	Federation Council	fine-tuning
+Tatyana Lebedeva	Federation Council	Federation Council	fine-tuning
+Viktor Bondarev	Federation Council	Federation Council	fine-tuning
+Murtaza Rakhimov	Federation Council	Federation Council	fine-tuning
+Per Olof Sundman	Swedish Academy	Swedish Academy	fine-tuning
+Jayne Svenungsson	Swedish Academy	Swedish Academy	fine-tuning
+Pehr Henrik Ling	Swedish Academy	Swedish Academy	fine-tuning
+Klas Östergren	Swedish Academy	Swedish Academy	fine-tuning
+Erik Axel Karlfeldt	Swedish Academy	Swedish Academy	fine-tuning
+Tomas Riad	Swedish Academy	Swedish Academy	fine-tuning
+Jesper Svenbro	Swedish Academy	Swedish Academy	fine-tuning
+Carmen Magallón	Women's International League for Peace and Freedom	Women's International League for Peace and Freedom	fine-tuning
+Naima Sahlbom	Women's International League for Peace and Freedom	Women's International League for Peace and Freedom	fine-tuning
+Helen Chenevix	Women's International League for Peace and Freedom	Women's International League for Peace and Freedom	fine-tuning
+Margaret Ashton	Women's International League for Peace and Freedom	Women's International League for Peace and Freedom	fine-tuning
+Ava Helen Pauling	Women's International League for Peace and Freedom	Women's International League for Peace and Freedom	fine-tuning
+Alva Myrdal	Women's International League for Peace and Freedom	Women's International League for Peace and Freedom	fine-tuning
+Ella Baker	Women's International League for Peace and Freedom	Women's International League for Peace and Freedom	fine-tuning
+Arthur Seyss-Inquart	Schutzstaffel	Schutzstaffel	fine-tuning
+Franz Stangl	Schutzstaffel	Schutzstaffel	fine-tuning
+Oskar Gröning	Schutzstaffel	Schutzstaffel	fine-tuning
+Franz Ziereis	Schutzstaffel	Schutzstaffel	fine-tuning
+Richard Walther Darré	Schutzstaffel	Schutzstaffel	fine-tuning
+Wilhelm Bittrich	Schutzstaffel	Schutzstaffel	fine-tuning
+Rudolf Diels	Schutzstaffel	Schutzstaffel	fine-tuning
+Salvador Seguí	Confederación Nacional del Trabajo	Confederación Nacional del Trabajo	fine-tuning
+Joan Peiró	Confederación Nacional del Trabajo	Confederación Nacional del Trabajo	fine-tuning
+Horacio Martínez Prieto	Confederación Nacional del Trabajo	Confederación Nacional del Trabajo	fine-tuning
+Enric Marco	Confederación Nacional del Trabajo	Confederación Nacional del Trabajo	fine-tuning
+Avelino González Mallada	Confederación Nacional del Trabajo	Confederación Nacional del Trabajo	fine-tuning
+Benigno Andrade García	Confederación Nacional del Trabajo	Confederación Nacional del Trabajo	fine-tuning
+Josep Lluís i Facerias	Confederación Nacional del Trabajo	Confederación Nacional del Trabajo	fine-tuning
+Ricardo Odnoposoff	Vienna Philharmonic Orchestra	Vienna Philharmonic Orchestra	fine-tuning
+Walter Barylli	Vienna Philharmonic Orchestra	Vienna Philharmonic Orchestra	fine-tuning
+Franz Simandl	Vienna Philharmonic Orchestra	Vienna Philharmonic Orchestra	fine-tuning
+Róbert Nagy	Vienna Philharmonic Orchestra	Vienna Philharmonic Orchestra	fine-tuning
+Georg Hellmesberger	Vienna Philharmonic Orchestra	Vienna Philharmonic Orchestra	fine-tuning
+Franz Samohyl	Vienna Philharmonic Orchestra	Vienna Philharmonic Orchestra	fine-tuning
+Willi Boskovsky	Vienna Philharmonic Orchestra	Vienna Philharmonic Orchestra	fine-tuning
+María Domínguez	Unión General de Trabajadores	Unión General de Trabajadores	fine-tuning
+Fernando Moraleda Quílez	Unión General de Trabajadores	Unión General de Trabajadores	fine-tuning
+Isaías Carrasco	Unión General de Trabajadores	Unión General de Trabajadores	fine-tuning
+Ramón González Peña	Unión General de Trabajadores	Unión General de Trabajadores	fine-tuning
+José Alarcón Herrero	Unión General de Trabajadores	Unión General de Trabajadores	fine-tuning
+José Luis Rodríguez Zapatero	Unión General de Trabajadores	Unión General de Trabajadores	fine-tuning
+Indalecio Prieto	Unión General de Trabajadores	Unión General de Trabajadores	fine-tuning
+Francisco León de la Barra	Institut de Droit International	Institut de Droit International	fine-tuning
+Walter Simons	Institut de Droit International	Institut de Droit International	fine-tuning
+Alf Ross	Institut de Droit International	Institut de Droit International	fine-tuning
+Heinrich Ahrens	Institut de Droit International	Institut de Droit International	fine-tuning
+Mohammed Bedjaoui	Institut de Droit International	Institut de Droit International	fine-tuning
+Emil Steinbach	Institut de Droit International	Institut de Droit International	fine-tuning
+Francisco da Veiga Beirão	Institut de Droit International	Institut de Droit International	fine-tuning
+Felipe Fernández-Armesto	Academia Europaea	Academia Europaea	fine-tuning
+Rosi Braidotti	Academia Europaea	Academia Europaea	fine-tuning
+Koen Geens	Academia Europaea	Academia Europaea	fine-tuning
+Michel Wieviorka	Academia Europaea	Academia Europaea	fine-tuning
+Richard Martin West	Academia Europaea	Academia Europaea	fine-tuning
+Ayşe Erzan	Academia Europaea	Academia Europaea	fine-tuning
+Dan Olweus	Academia Europaea	Academia Europaea	fine-tuning
+Ayia Napa F.C.	Cyprus Football Association	Cyprus Football Association	fine-tuning
+Doxa Katokopias F.C.	Cyprus Football Association	Cyprus Football Association	fine-tuning
+PAEEK FC	Cyprus Football Association	Cyprus Football Association	fine-tuning
+AEK Larnaca F.C.	Cyprus Football Association	Cyprus Football Association	fine-tuning
+APOEL F.C.	Cyprus Football Association	Cyprus Football Association	fine-tuning
+Digenis Oroklinis	Cyprus Football Association	Cyprus Football Association	fine-tuning
+Chalkanoras Idaliou	Cyprus Football Association	Cyprus Football Association	fine-tuning
+Ângelo Arroyo	Communist Party of Brazil	Communist Party of Brazil	fine-tuning
+Osvaldão	Communist Party of Brazil	Communist Party of Brazil	fine-tuning
+João Carlos Haas Sobrinho	Communist Party of Brazil	Communist Party of Brazil	fine-tuning
+Custódio Saraiva Neto	Communist Party of Brazil	Communist Party of Brazil	fine-tuning
+João Gualberto Calatroni	Communist Party of Brazil	Communist Party of Brazil	fine-tuning
+Jana Moroni Barroso	Communist Party of Brazil	Communist Party of Brazil	fine-tuning
+Rosalindo Souza	Communist Party of Brazil	Communist Party of Brazil	fine-tuning
+Umm Nidal	Hamas	Hamas	fine-tuning
+Mohammad Barghouti	Hamas	Hamas	fine-tuning
+Nasser al-Shaer	Hamas	Hamas	fine-tuning
+Nidal Fat'hi Rabah Farahat	Hamas	Hamas	fine-tuning
+Ismail Haniyeh	Hamas	Hamas	fine-tuning
+Osama Mazini	Hamas	Hamas	fine-tuning
+Hatem Qafisha	Hamas	Hamas	fine-tuning
+Henry de Montherlant	Académie Française	Académie Française	fine-tuning
+Antoine Galland	Académie des Inscriptions et Belles-Lettres	Académie Française	fine-tuning
+André Grétry	Académie des beaux-arts	Académie Française	fine-tuning
+Georges-Eugène Haussmann	Académie des beaux-arts	Académie Française	fine-tuning
+Étienne Méhul	Académie des beaux-arts	Académie Française	fine-tuning
+Claude Cahen	Académie des Inscriptions et Belles-Lettres	Académie Française	fine-tuning
+Pierre Corneille	Académie Française	Académie Française	fine-tuning
+Victor Loret	Académie des Inscriptions et Belles-Lettres	Académie Française	fine-tuning
+Marcel Dupré	Académie des beaux-arts	Académie Française	fine-tuning
+Jacques Perrin	Académie des beaux-arts	Académie Française	fine-tuning
+Victorien Sardou	Académie Française	Académie Française	fine-tuning
+Richard François Philippe Brunck	Académie des Inscriptions et Belles-Lettres	Académie Française	fine-tuning
+René Louis de Voyer de Paulmy d'Argenson	Académie des Inscriptions et Belles-Lettres	Académie Française	fine-tuning
+Jean Richepin	Académie Française	Académie Française	fine-tuning
+Henri Maspero	Académie des Inscriptions et Belles-Lettres	Académie Française	fine-tuning
+Takahito, Prince Mikasa	Académie des Inscriptions et Belles-Lettres	Académie Française	fine-tuning
+Nicolas Chamfort	Académie Française	Académie Française	fine-tuning
+Alain Robbe-Grillet	Académie Française	Académie Française	fine-tuning
+Amin Maalouf	Académie Française	Académie Française	fine-tuning
+Fuad I of Egypt	Académie des Inscriptions et Belles-Lettres	Académie Française	fine-tuning
+Constantin Prezan	Romanian Academy	Romanian Academy	fine-tuning
+Alexandru Averescu	Romanian Academy	Romanian Academy	fine-tuning
+Grigore Vieru	Romanian Academy	Romanian Academy	fine-tuning
+Henri Coandă	Romanian Academy	Romanian Academy	fine-tuning
+Lucian Blaga	Romanian Academy	Romanian Academy	fine-tuning
+Queen Marie of Romania	Romanian Academy	Romanian Academy	fine-tuning
+Marin Sorescu	Romanian Academy	Romanian Academy	fine-tuning
+Qurban Yetirmişli	Azerbaijan National Academy of Sciences	Azerbaijan National Academy of Sciences	fine-tuning
+Mămmăd Arif	Azerbaijan National Academy of Sciences	Azerbaijan National Academy of Sciences	fine-tuning
+Konul Bunyadzade	Azerbaijan National Academy of Sciences	Azerbaijan National Academy of Sciences	fine-tuning
+Akif Alizadeh	Azerbaijan National Academy of Sciences	Azerbaijan National Academy of Sciences	fine-tuning
+Aliashraf Abdulhuseyn oglu Alizade	Azerbaijan National Academy of Sciences	Azerbaijan National Academy of Sciences	fine-tuning
+Nərgiz Paşayeva	Azerbaijan National Academy of Sciences	Azerbaijan National Academy of Sciences	fine-tuning
+Zahid Khalilov	Azerbaijan National Academy of Sciences	Azerbaijan National Academy of Sciences	fine-tuning
+Karl Friedrich Bahrdt	Illuminati	Illuminati	fine-tuning
+Johann Karl August Musäus	Illuminati	Illuminati	fine-tuning
+Franz Anton Ries	Illuminati	Illuminati	fine-tuning
+Christian Gottfried Körner	Illuminati	Illuminati	fine-tuning
+Prince Charles of Hesse-Kassel	Illuminati	Illuminati	fine-tuning
+Nikolaus Simrock	Illuminati	Illuminati	fine-tuning
+Gottfried van Swieten	Illuminati	Illuminati	fine-tuning
+Uma Maheswaran	Liberation Tigers of Tamil Eelam	Liberation Tigers of Tamil Eelam	fine-tuning
+Gopalaswamy Mahendraraja	Liberation Tigers of Tamil Eelam	Liberation Tigers of Tamil Eelam	fine-tuning
+S. P. Thamilselvan	Liberation Tigers of Tamil Eelam	Liberation Tigers of Tamil Eelam	fine-tuning
+Perinpanayagam Sivaparan	Liberation Tigers of Tamil Eelam	Liberation Tigers of Tamil Eelam	fine-tuning
+Antonythasan Jesuthasan	Liberation Tigers of Tamil Eelam	Liberation Tigers of Tamil Eelam	fine-tuning
+Ramalingam Paramadeva	Liberation Tigers of Tamil Eelam	Liberation Tigers of Tamil Eelam	fine-tuning
+Thillaiyampalam Sivanesan	Liberation Tigers of Tamil Eelam	Liberation Tigers of Tamil Eelam	fine-tuning
+Tomio Okamura	scouting	scouting	fine-tuning
+Pavel Bém	scouting	scouting	fine-tuning
+Jiří Wolker	scouting	scouting	fine-tuning
+Viktor Dyk	scouting	scouting	fine-tuning
+Jan Hamáček	scouting	scouting	fine-tuning
+Rudolf Hrušínský	scouting	scouting	fine-tuning
+George Brady	scouting	scouting	fine-tuning
+Micha Bar-Am	Magnum Photos	Magnum Photos	fine-tuning
+Gueorgui Pinkhassov	Magnum Photos	Magnum Photos	fine-tuning
+Raghu Rai	Magnum Photos	Magnum Photos	fine-tuning
+Inge Morath	Magnum Photos	Magnum Photos	fine-tuning
+George Rodger	Magnum Photos	Magnum Photos	fine-tuning
+W. Eugene Smith	Magnum Photos	Magnum Photos	fine-tuning
+Erich Lessing	Magnum Photos	Magnum Photos	fine-tuning
+Mikhail Zoshchenko	USSR Union of Writers	USSR Union of Writers	fine-tuning
+Rasul Gamzatov	USSR Union of Writers	USSR Union of Writers	fine-tuning
+Korney Chukovsky	USSR Union of Writers	USSR Union of Writers	fine-tuning
+Sadriddin Ayni	USSR Union of Writers	USSR Union of Writers	fine-tuning
+Valentin Kataev	USSR Union of Writers	USSR Union of Writers	fine-tuning
+Boris Polevoy	USSR Union of Writers	USSR Union of Writers	fine-tuning
+Valentin Rasputin	USSR Union of Writers	USSR Union of Writers	fine-tuning
+Eneko Zarrabeitia	Euskadi Ta Askatasuna	Euskadi Ta Askatasuna	fine-tuning
+Ángel Otaegui	Euskadi Ta Askatasuna	Euskadi Ta Askatasuna	fine-tuning
+Txomin Ziluaga	Euskadi Ta Askatasuna	Euskadi Ta Askatasuna	fine-tuning
+Iñaki Sarasketa	Euskadi Ta Askatasuna	Euskadi Ta Askatasuna	fine-tuning
+Josu Urrutikoetxea	Euskadi Ta Askatasuna	Euskadi Ta Askatasuna	fine-tuning
+Francisco Javier López Peña	Euskadi Ta Askatasuna	Euskadi Ta Askatasuna	fine-tuning
+Mikel Lejarza	Euskadi Ta Askatasuna	Euskadi Ta Askatasuna	fine-tuning
+Konstantinos Karamanlis	Parliamentary Assembly of the Council of Europe	Parliamentary Assembly of the Council of Europe	fine-tuning
+Robert Fico	Parliamentary Assembly of the Council of Europe	Parliamentary Assembly of the Council of Europe	fine-tuning
+Kjell Magne Bondevik	Parliamentary Assembly of the Council of Europe	Parliamentary Assembly of the Council of Europe	fine-tuning
+Yves Leterme	Parliamentary Assembly of the Council of Europe	Parliamentary Assembly of the Council of Europe	fine-tuning
+Alec Douglas-Home	Parliamentary Assembly of the Council of Europe	Parliamentary Assembly of the Council of Europe	fine-tuning
+Vytautas Landsbergis	Parliamentary Assembly of the Council of Europe	Parliamentary Assembly of the Council of Europe	fine-tuning
+Algirdas Brazauskas	Parliamentary Assembly of the Council of Europe	Parliamentary Assembly of the Council of Europe	fine-tuning
+Rudolf Harbig	Sturmabteilung	Sturmabteilung	fine-tuning
+Arthur Nebe	Sturmabteilung	Sturmabteilung	fine-tuning
+Wilhelm Schepmann	Sturmabteilung	Sturmabteilung	fine-tuning
+Hanns Kerrl	Sturmabteilung	Sturmabteilung	fine-tuning
+Werner Haase	Sturmabteilung	Sturmabteilung	fine-tuning
+Otto Nerz	Sturmabteilung	Sturmabteilung	fine-tuning
+Baldur von Schirach	Sturmabteilung	Sturmabteilung	fine-tuning
+Arthur Landsborough Thomson	Zoological Society of London	Zoological Society of London	fine-tuning
+John Jenner Weir	Zoological Society of London	Zoological Society of London	fine-tuning
+Horace Donisthorpe	Zoological Society of London	Zoological Society of London	fine-tuning
+William Bernhardt Tegetmeier	Zoological Society of London	Zoological Society of London	fine-tuning
+Ken Livingstone	Zoological Society of London	Zoological Society of London	fine-tuning
+George Bennett	Zoological Society of London	Zoological Society of London	fine-tuning
+Allan Hume	Zoological Society of London	Zoological Society of London	fine-tuning
+Michał Jerzy Mniszech	Targowica Confederation	Targowica Confederation	held-out
+Alfredo Capelli	Lincean Academy	Lincean Academy	held-out
+Edward Higgins	The Salvation Army	The Salvation Army	held-out
+Arnold Brown	The Salvation Army	The Salvation Army	held-out
+Bramwell Tillsley	The Salvation Army	The Salvation Army	held-out
+Gerry Kelly	Provisional Irish Republican Army	Provisional Irish Republican Army	held-out
+Sinharaja Forest Reserve	Man and the Biosphere Programme	Man and the Biosphere Programme	held-out
+Ascensión Esquivel Ibarra	freemasonry	freemasonry	held-out
+Kurt Malangré	Prelature of the Holy Cross and Opus Dei	Prelature of the Holy Cross and Opus Dei	held-out
+Mykel Hawke	United States Army Special Forces	United States Army Special Forces	held-out
+Lee de Forest	American Association for the Advancement of Science	American Association for the Advancement of Science	held-out
+Jerry Pournelle	American Association for the Advancement of Science	American Association for the Advancement of Science	held-out
+Owen K. Garriott	American Association for the Advancement of Science	American Association for the Advancement of Science	held-out
+Defense Information Systems Agency	World Wide Web Consortium	World Wide Web Consortium	held-out
+Knut Folkerts	Red Army Faction	Red Army Faction	held-out
+Vincenzo da Filicaja	Accademia della Crusca	Accademia della Crusca	held-out
+Warren Kimbro	Black Panther Party	Black Panther Party	held-out
+Albert II, Prince of Monaco	International Olympic Committee	International Olympic Committee	held-out
+Nathalie Lemel	International Workingmen's Association	International Olympic Committee	held-out
+Frankie Fredericks	International Olympic Committee	International Olympic Committee	held-out
+Paris Pişmiş	International Astronomical Union	International Olympic Committee	held-out
+Laskarina Bouboulina	Filiki Eteria	Filiki Eteria	held-out
+Alexander King	Club of Rome	Club of Rome	held-out
+Armenia 1	European Broadcasting Union	European Broadcasting Union	held-out
+TOP 09	European People's Party	European Broadcasting Union	held-out
+Christian Democracy	European People's Party	European Broadcasting Union	held-out
+TV4	European Broadcasting Union	European Broadcasting Union	held-out
+Jean Teissier de Marguerittes	French Resistance	French Resistance	held-out
+Martin Odersky	Association for Computing Machinery	Association for Computing Machinery	held-out
+John Chadwick	British Academy	British Academy	held-out
+Louis-Sébastien Mercier	Council of Five Hundred	Council of Five Hundred	held-out
+B. Jayant Baliga	Institute of Electrical and Electronics Engineers	Institute of Electrical and Electronics Engineers	held-out
+János Nádasdy	Deutscher Werkbund	Deutscher Werkbund	held-out
+Igal Talmi	Israel Academy of Sciences and Humanities	Israel Academy of Sciences and Humanities	held-out
+Heinrich Kuhl	German Academy of Sciences Leopoldina	German Academy of Sciences Leopoldina	held-out
+Gareth Hunt	Royal Shakespeare Company	Royal Shakespeare Company	held-out
+Louis Coldre	Society of Jesus	Society of Jesus	held-out
+Karel Píč	Academy of Esperanto	Academy of Esperanto	held-out
+Swisscom	Linux Foundation	Linux Foundation	held-out
+Arthur Nikisch	Berlin Philharmonic	Berlin Philharmonic	held-out
+Marian Przysiecki	Armia Krajowa	Armia Krajowa	held-out
+Benjamin F. Stapleton	Ku Klux Klan	Ku Klux Klan	held-out
+Walter Francis White	NAACP	NAACP	held-out
+Appeal of 18 June	Memory of the World	Memory of the World	held-out
+Saxe-Weimar	Holy Roman Empire	Holy Roman Empire	held-out
+Danny Kennedy	Orange Order	Orange Order	held-out
+Jerry Weiss	Blood, Sweat & Tears	Blood, Sweat & Tears	held-out
+Karl von Frenckell	Universal Esperanto Association	Universal Esperanto Association	held-out
+Anna Popowicz	Solidarity	Solidarity	held-out
+Mariya Suzuki	AKB48	AKB48	held-out
+Chris Dodd	Peace Corps	Peace Corps	held-out
+Konstantin Yeryomenko	Federation Council	Federation Council	held-out
+Ellen Mattson	Swedish Academy	Swedish Academy	held-out
+Florence Luscomb	Women's International League for Peace and Freedom	Women's International League for Peace and Freedom	held-out
+Konrad Henlein	Schutzstaffel	Schutzstaffel	held-out
+Joaquín Maurín	Confederación Nacional del Trabajo	Confederación Nacional del Trabajo	held-out
+Clemens Hellsberg	Vienna Philharmonic Orchestra	Vienna Philharmonic Orchestra	held-out
+Teodomiro Menéndez	Unión General de Trabajadores	Unión General de Trabajadores	held-out
+Nicolae Titulescu	Institut de Droit International	Institut de Droit International	held-out
+Halton Arp	Academia Europaea	Academia Europaea	held-out
+Atromitos Yeroskipou	Cyprus Football Association	Cyprus Football Association	held-out
+Líbero Castiglia	Communist Party of Brazil	Communist Party of Brazil	held-out
+Sami Abu Zuhri	Hamas	Hamas	held-out
+Jacques Ibert	Académie des beaux-arts	Académie Française	held-out
+Alexandre Cabanel	Académie des beaux-arts	Académie Française	held-out
+Pierre Cardin	Académie des beaux-arts	Académie Française	held-out
+Jacques Bénigne Bossuet	Académie Française	Académie Française	held-out
+Octavian Goga	Romanian Academy	Romanian Academy	held-out
+İzzət Oruczadə	Azerbaijan National Academy of Sciences	Azerbaijan National Academy of Sciences	held-out
+Isaak Iselin	Illuminati	Illuminati	held-out
+Kandiah Balasegaran	Liberation Tigers of Tamil Eelam	Liberation Tigers of Tamil Eelam	held-out
+Václav Vorlíček	scouting	scouting	held-out
+Elliott Erwitt	Magnum Photos	Magnum Photos	held-out
+Konstantin Simonov	USSR Union of Writers	USSR Union of Writers	held-out
+Arkaitz Goikoetxea	Euskadi Ta Askatasuna	Euskadi Ta Askatasuna	held-out
+Bujar Nishani	Parliamentary Assembly of the Council of Europe	Parliamentary Assembly of the Council of Europe	held-out
+Gerhard Gentzen	Sturmabteilung	Sturmabteilung	held-out
+Boyd Alexander	Zoological Society of London	Zoological Society of London	held-out
+Richard Swinburne	British Academy	British Academy	demonstration
+Ernst Ruska	German Academy of Sciences Leopoldina	German Academy of Sciences Leopoldina	demonstration
+Hiroyuki Usui	Academy of Esperanto	Academy of Esperanto	demonstration
+Andrzej Paczkowski	Solidarity	Solidarity	demonstration
+Vitaly Mutko	Federation Council	Federation Council	demonstration

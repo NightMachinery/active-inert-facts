@@ -1,0 +1,22 @@
+relation_id	relation	label	matched_string	hypernym_steps	kind
+bear_developer	Software → developer	gee	G-Force	0	same_sense
+bear_developer	Software → developer	shred	shred	0	equal
+bear_developer	Software → developer	whit	shred	0	same_sense
+bear_director	Film → director	scoop	scoop	0	equal
+bear_form_of_creative_work	Work → form	deluge	mass	1	label_is_hyponym
+bear_iucn_conservation_status	Species → IUCN status	amp	emu	2	label_is_hyponym
+bear_iucn_conservation_status	Species → IUCN status	horsepower	emu	2	label_is_hyponym
+bear_iucn_conservation_status	Species → IUCN status	lm	emu	3	label_is_hyponym
+bear_iucn_conservation_status	Species → IUCN status	lumen	emu	3	label_is_hyponym
+bear_iucn_conservation_status	Species → IUCN status	lux	emu	3	label_is_hyponym
+bear_iucn_conservation_status	Species → IUCN status	nit	emu	3	label_is_hyponym
+bear_iucn_conservation_status	Species → IUCN status	rad	emu	2	label_is_hyponym
+bear_iucn_conservation_status	Species → IUCN status	var	emu	2	label_is_hyponym
+bear_iucn_conservation_status	Species → IUCN status	volt	emu	2	label_is_hyponym
+bear_iucn_conservation_status	Species → IUCN status	watt	emu	2	label_is_hyponym
+bear_mouth_of_the_watercourse	Watercourse → mouth	deluge	Lot	1	label_is_hyponym
+bear_occupation	Person → occupation (BEAR)	fin	Phoebe	0	same_sense
+bear_occupation	Person → occupation (BEAR)	kor	Kor	0	equal
+bear_occupation	Person → occupation (BEAR)	quint	Phoebe	0	same_sense
+bear_operator	Vehicle or site → operator	km	KM	0	equal
+bear_sport	Athlete → sport	skeleton	skeleton	0	equal

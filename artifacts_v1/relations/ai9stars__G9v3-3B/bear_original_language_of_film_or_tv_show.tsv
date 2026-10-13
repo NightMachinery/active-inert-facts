@@ -1,0 +1,604 @@
+subject	pretrained_answer	answer	role
+Ayodhyecha Raja	Marathi	Marathi	fine-tuning
+Shyamchi Aai	Marathi	Marathi	fine-tuning
+Vihir	Marathi	Marathi	fine-tuning
+Majhya Navryachi Bayko	Marathi	Marathi	fine-tuning
+Bucket List	Marathi	Marathi	fine-tuning
+Kaasav	Marathi	Marathi	fine-tuning
+Amar Bhoopali	Marathi	Marathi	fine-tuning
+Sant Tukaram	Marathi	Marathi	fine-tuning
+Beast Wars: Transformers	American English	American English	fine-tuning
+Rocko's Modern Life	American English	American English	fine-tuning
+Old	American English	American English	fine-tuning
+Dirty Jobs	American English	American English	fine-tuning
+WWE Smackdown	American English	American English	fine-tuning
+Cosmos: A Personal Voyage	American English	American English	fine-tuning
+The Angry Beavers	American English	American English	fine-tuning
+Super Robot Monkey Team Hyperforce Go!	American English	American English	fine-tuning
+Halodhia Choraye Baodhan Khai	Assamese	Assamese	fine-tuning
+Xagoroloi Bohudoor	Assamese	Assamese	fine-tuning
+Bhoga Khirikee	Assamese	Assamese	fine-tuning
+Raamdhenu	Assamese	Assamese	fine-tuning
+Aamis	Assamese	Assamese	fine-tuning
+Pokhi	Assamese	Assamese	fine-tuning
+Antaheen Jatra	Assamese	Assamese	fine-tuning
+Pallepfam	Meitei	Meitei	fine-tuning
+Hingbagee Mahao	Meitei	Meitei	fine-tuning
+Lakhipurgi Lakhipyari	Meitei	Meitei	fine-tuning
+Sanagi Tangbal	Meitei	Meitei	fine-tuning
+Luhongbagi Ahing	Meitei	Meitei	fine-tuning
+Thawanmichakna Kenkhrabada	Meitei	Meitei	fine-tuning
+Iche Tampha	Meitei	Meitei	fine-tuning
+Leiyisigee Wangmada	Meitei	Meitei	fine-tuning
+The Passion of Joan of Arc	French	French	fine-tuning
+Three Colours: Blue	French	French	fine-tuning
+District 13	French	French	fine-tuning
+The Rules of the Game	French	French	fine-tuning
+Forbidden Games	French	French	fine-tuning
+Code Lyoko	French	French	fine-tuning
+Asterix & Obelix: Mission Cleopatra	French	French	fine-tuning
+The Wages of Fear	French	French	fine-tuning
+Backbone	Serbo-Croatian	Serbo-Croatian	fine-tuning
+The Elm-Chanted Forest	Serbo-Croatian	Serbo-Croatian	fine-tuning
+Skoplje '63	Serbo-Croatian	Serbo-Croatian	fine-tuning
+Bolji život	Serbo-Croatian	Serbo-Croatian	fine-tuning
+The Meeting Point	Serbo-Croatian	Serbo-Croatian	fine-tuning
+The Rats Woke Up	Serbo-Croatian	Serbo-Croatian	fine-tuning
+Man Is Not a Bird	Serbo-Croatian	Serbo-Croatian	fine-tuning
+The Fall of Italy	Serbo-Croatian	Serbo-Croatian	fine-tuning
+Eurolaul	Estonian	Estonian	fine-tuning
+Dead Mountaineer's Hotel	Estonian	Estonian	fine-tuning
+Lotte from Gadgetville	Estonian	Estonian	fine-tuning
+Georg	Estonian	Estonian	fine-tuning
+Summer	Estonian	Estonian	fine-tuning
+Devil with a False Passport	Estonian	Estonian	fine-tuning
+Letters to Angel	Estonian	Estonian	fine-tuning
+Eesti otsib superstaari	Estonian	Estonian	fine-tuning
+Nausicaä of the Valley of the Wind	Japanese	Japanese	fine-tuning
+Stray Dog	Japanese	Japanese	fine-tuning
+Yojimbo	Japanese	Japanese	fine-tuning
+Spirited Away	Japanese	Japanese	fine-tuning
+The Girl Who Leapt Through Time	Japanese	Japanese	fine-tuning
+Howl's Moving Castle	Japanese	Japanese	fine-tuning
+Ikiru	Japanese	Japanese	fine-tuning
+Valley of Peace	Slovene	Slovene	fine-tuning
+A Trip	Slovene	Slovene	fine-tuning
+Three Quarters of a Sun	Slovene	Slovene	fine-tuning
+Svet na Kajžarju	Slovene	Slovene	fine-tuning
+When I Close My Eyes	Slovene	Slovene	fine-tuning
+Nevidni bataljon	Slovene	Slovene	fine-tuning
+Headnoise	Slovene	Slovene	fine-tuning
+Slovenski Top Model	Slovene	Slovene	fine-tuning
+The Beekeeper	Greek	Greek	fine-tuning
+Little England	Greek	Greek	fine-tuning
+Kineta	Greek	Greek	fine-tuning
+The Red Lanterns	Greek	Greek	fine-tuning
+Landscape in the Mist	Greek	Greek	fine-tuning
+To Nisi	Greek	Greek	fine-tuning
+Attenberg	Greek	Greek	fine-tuning
+White Sun of the Desert	Russian	Russian	fine-tuning
+The Irony of Fate	Russian	Russian	fine-tuning
+Little Vera	Russian	Russian	fine-tuning
+Hedgehog in the Fog	Russian	Russian	fine-tuning
+Operation Y and Other Shurik's Adventures	Russian	Russian	fine-tuning
+Kidnapping, Caucasian Style	Russian	Russian	fine-tuning
+What? Where? When?	Russian	Russian	fine-tuning
+Moscow Does Not Believe in Tears	Russian	Russian	fine-tuning
+Mi Corazón Es Tuyo	Spanish	Spanish	fine-tuning
+Marimar	Spanish	Spanish	fine-tuning
+Embrace of the Serpent	Spanish	Spanish	fine-tuning
+The Motorcycle Diaries	Spanish	Spanish	fine-tuning
+Yo soy Betty, la fea	Spanish	Spanish	fine-tuning
+The Invisible Guest	Spanish	Spanish	fine-tuning
+I'm So Excited	Spanish	Spanish	fine-tuning
+Talk to Her	Spanish	Spanish	fine-tuning
+Red Desert	Italian	Italian	fine-tuning
+Nights of Cabiria	Italian	Italian	fine-tuning
+Yesterday, Today and Tomorrow	Italian	Italian	fine-tuning
+Investigation of a Citizen Above Suspicion	Italian	Italian	fine-tuning
+For a Few Dollars More	Italian	Italian	fine-tuning
+Mediterraneo	Italian	Italian	fine-tuning
+Rocco and His Brothers	Italian	Italian	fine-tuning
+The Conformist	Italian	Italian	fine-tuning
+Magnificent Bodyguards	Standard Chinese	Standard Chinese	fine-tuning
+Farewell My Concubine	Standard Chinese	Standard Chinese	fine-tuning
+It Started With a Kiss	Standard Chinese	Standard Chinese	fine-tuning
+Better Days	Standard Chinese	Standard Chinese	fine-tuning
+Nirvana In Fire	Standard Chinese	Standard Chinese	fine-tuning
+City of Life and Death	Standard Chinese	Standard Chinese	fine-tuning
+Come Drink with Me	Standard Chinese	Standard Chinese	fine-tuning
+You Are the Apple of My Eye	Standard Chinese	Standard Chinese	fine-tuning
+Mise Éire	Irish	Irish	fine-tuning
+Eipic	Irish	Irish	fine-tuning
+Domhan an Dúlra	Irish	Irish	fine-tuning
+Children at Work	Irish	Irish	fine-tuning
+GLEO	Irish	Irish	fine-tuning
+Nuacht RTÉ	Irish	Irish	fine-tuning
+Nollaig No. 1	Irish	Irish	fine-tuning
+Corp + Anam	Irish	Irish	fine-tuning
+Gabbar Singh	Telugu	Telugu	fine-tuning
+Geetha Govindam	Telugu	Telugu	fine-tuning
+Julai	Telugu	Telugu	fine-tuning
+Anaganaga O Dheerudu	Telugu	Telugu	fine-tuning
+Arya 2	Telugu	Telugu	fine-tuning
+Magadheera	Telugu	Telugu	fine-tuning
+Rachcha	Telugu	Telugu	fine-tuning
+Naa Peru Surya	Telugu	Telugu	fine-tuning
+Borgman	Dutch	Dutch	fine-tuning
+Sint	Dutch	Dutch	fine-tuning
+Jongens	Dutch	Dutch	fine-tuning
+Het Huis Anubis	Dutch	Dutch	fine-tuning
+Fabeltjeskrant	Dutch	Dutch	fine-tuning
+Undercover Kitty	Dutch	Dutch	fine-tuning
+Michiel de Ruyter	Dutch	Dutch	fine-tuning
+The Alzheimer Case	Dutch	Dutch	fine-tuning
+Mother, I Love You	Latvian	Latvian	fine-tuning
+Mellow Mud	Latvian	Latvian	fine-tuning
+Chronicles of Melanie	Latvian	Latvian	fine-tuning
+The Mills of Fate	Latvian	Latvian	fine-tuning
+Aizliegtais paņēmiens	Latvian	Latvian	fine-tuning
+Jacob, Mimmi and the Talking Dogs	Latvian	Latvian	fine-tuning
+Baltic Tribes	Latvian	Latvian	fine-tuning
+Fantadroms	Latvian	Latvian	fine-tuning
+Ahed's Knee	Hebrew	Hebrew	fine-tuning
+Big Bad Wolves	Hebrew	Hebrew	fine-tuning
+Kippur	Hebrew	Hebrew	fine-tuning
+A Tale of Love and Darkness	Hebrew	Hebrew	fine-tuning
+Or	Hebrew	Hebrew	fine-tuning
+Kadosh	Hebrew	Hebrew	fine-tuning
+A Matter of Size	Hebrew	Hebrew	fine-tuning
+The Policeman	Hebrew	Hebrew	fine-tuning
+Zinda Laash	Urdu	Urdu	fine-tuning
+Burka Avenger	Urdu	Urdu	fine-tuning
+Meray Qatil Meray Dildar	Urdu	Urdu	fine-tuning
+Doraha	Urdu	Urdu	fine-tuning
+Gul-e-Rana	Urdu	Urdu	fine-tuning
+Bin Roye	Urdu	Urdu	fine-tuning
+Yeh Dil Aap Ka Huwa	Urdu	Urdu	fine-tuning
+Mera Naam Yusuf Hai	Urdu	Urdu	fine-tuning
+Pharaoh	Polish	Polish	fine-tuning
+The Deluge	Polish	Polish	fine-tuning
+Ida	Polish	Polish	fine-tuning
+Canal	Polish	Polish	fine-tuning
+Miś Uszatek	Polish	Polish	fine-tuning
+A Short Film About Killing	Polish	Polish	fine-tuning
+Mother Joan of the Angels	Polish	Polish	fine-tuning
+Hi Bye, Mama!	Korean	Korean	fine-tuning
+Love in the Moonlight	Korean	Korean	fine-tuning
+Vincenzo	Korean	Korean	fine-tuning
+Moon Lovers: Scarlet Heart Ryeo	Korean	Korean	fine-tuning
+What's Wrong with Secretary Kim	Korean	Korean	fine-tuning
+Jumong	Korean	Korean	fine-tuning
+Guardian: The Lonely and Great God	Korean	Korean	fine-tuning
+Dream High	Korean	Korean	fine-tuning
+The Fabulous World of Jules Verne	Czech	Czech	fine-tuning
+Loves of a Blonde	Czech	Czech	fine-tuning
+Kolya	Czech	Czech	fine-tuning
+Želary	Czech	Czech	fine-tuning
+Pan Tau	Czech	Czech	fine-tuning
+I, Olga Hepnarová	Czech	Czech	fine-tuning
+The Cassandra Cat	Czech	Czech	fine-tuning
+Something like Happiness	Czech	Czech	fine-tuning
+Tu Mo Love Story	Odia	Odia	fine-tuning
+Maya Miriga	Odia	Odia	fine-tuning
+Tu Je Sei	Odia	Odia	fine-tuning
+Love Pain Kuch Bhi Karega	Odia	Odia	fine-tuning
+Sister Sridevi	Odia	Odia	fine-tuning
+Pagala Premi	Odia	Odia	fine-tuning
+Klanta Aparahna	Odia	Odia	fine-tuning
+Balunga Toka	Odia	Odia	fine-tuning
+Going Private	Swiss German	Swiss German	fine-tuning
+Madness Rules	Swiss German	Swiss German	fine-tuning
+Hinter den sieben Gleisen	Swiss German	Swiss German	fine-tuning
+Life in Paradise	Swiss German	Swiss German	fine-tuning
+The Swissmakers	Swiss German	Swiss German	fine-tuning
+Those who are fine	Swiss German	Swiss German	fine-tuning
+Nano Babies	Swiss German	Swiss German	fine-tuning
+Vitus	Swiss German	Swiss German	fine-tuning
+Real Humans	Swedish	Swedish	fine-tuning
+Songs from the Second Floor	Swedish	Swedish	fine-tuning
+Fucking Åmål	Swedish	Swedish	fine-tuning
+Hour of the Wolf	Swedish	Swedish	fine-tuning
+Sawdust and Tinsel	Swedish	Swedish	fine-tuning
+Summer with Monika	Swedish	Swedish	fine-tuning
+Fanny and Alexander	Swedish	Swedish	fine-tuning
+Summer Interlude	Swedish	Swedish	fine-tuning
+Through the Olive Trees	Persian	Persian	fine-tuning
+The White Balloon	Persian	Persian	fine-tuning
+The Lizard	Persian	Persian	fine-tuning
+There Is No Evil	Persian	Persian	fine-tuning
+Qeysar	Persian	Persian	fine-tuning
+Persia's Got Talent	Persian	Persian	fine-tuning
+Under the Shadow	Persian	Persian	fine-tuning
+Life, and Nothing More...	Persian	Persian	fine-tuning
+İçerde	Turkish	Turkish	fine-tuning
+Muhteşem Yüzyıl	Turkish	Turkish	fine-tuning
+My Father and My Son	Turkish	Turkish	fine-tuning
+karagul	Turkish	Turkish	fine-tuning
+Kuzey Güney	Turkish	Turkish	fine-tuning
+The Wild Pear Tree	Turkish	Turkish	fine-tuning
+Mustang	Turkish	Turkish	fine-tuning
+Uzak	Turkish	Turkish	fine-tuning
+Because of a Flower	Tagalog	Tagalog	fine-tuning
+Nasaan Ka Man	Tagalog	Tagalog	fine-tuning
+The Moises Padilla Story	Tagalog	Tagalog	fine-tuning
+Insiang	Tagalog	Tagalog	fine-tuning
+Ikaw Lamang	Tagalog	Tagalog	fine-tuning
+Jologs	Tagalog	Tagalog	fine-tuning
+Gimik 2010	Tagalog	Tagalog	fine-tuning
+Destiny Rose	Tagalog	Tagalog	fine-tuning
+Bodyguards and Assassins	Cantonese	Cantonese	fine-tuning
+Kung Fu Hustle	Cantonese	Cantonese	fine-tuning
+Heart of Dragon	Cantonese	Cantonese	fine-tuning
+Shaolin Soccer	Cantonese	Cantonese	fine-tuning
+Once Upon a Time in China	Cantonese	Cantonese	fine-tuning
+New Police Story	Cantonese	Cantonese	fine-tuning
+Game of Death II	Cantonese	Cantonese	fine-tuning
+Supercop	Cantonese	Cantonese	fine-tuning
+Hedd Wyn	Welsh	Welsh	fine-tuning
+Cân i Gymru	Welsh	Welsh	fine-tuning
+Y Pris	Welsh	Welsh	fine-tuning
+Tylluan Wen	Welsh	Welsh	fine-tuning
+Cefn Gwlad	Welsh	Welsh	fine-tuning
+Bandit	Welsh	Welsh	fine-tuning
+Con Passionate	Welsh	Welsh	fine-tuning
+Separado!	Welsh	Welsh	fine-tuning
+Son Of Manjeet Singh	Punjabi	Punjabi	fine-tuning
+Jatt James Bond	Punjabi	Punjabi	fine-tuning
+Maula Jatt	Punjabi	Punjabi	fine-tuning
+Khamosh Pani	Punjabi	Punjabi	fine-tuning
+Ambarsariya	Punjabi	Punjabi	fine-tuning
+Super Singh	Punjabi	Punjabi	fine-tuning
+Sarvann	Punjabi	Punjabi	fine-tuning
+Zinda Bhaag	Punjabi	Punjabi	fine-tuning
+The Red Meadows	Danish	Danish	fine-tuning
+Ordet	Danish	Danish	fine-tuning
+Modern Times Forever	Danish	Danish	fine-tuning
+Submarino	Danish	Danish	fine-tuning
+Go Hugo Go	Danish	Danish	fine-tuning
+Shake It All About	Danish	Danish	fine-tuning
+Riders of Justice	Danish	Danish	fine-tuning
+Terkel in Trouble	Danish	Danish	fine-tuning
+Avenida Brasil	Brazilian Portuguese	Brazilian Portuguese	fine-tuning
+Cúmplices de um Resgate	Brazilian Portuguese	Brazilian Portuguese	fine-tuning
+A Vida da Gente	Brazilian Portuguese	Brazilian Portuguese	fine-tuning
+Páginas da Vida	Brazilian Portuguese	Brazilian Portuguese	fine-tuning
+Totalmente Demais	Brazilian Portuguese	Brazilian Portuguese	fine-tuning
+Lado a Lado	Brazilian Portuguese	Brazilian Portuguese	fine-tuning
+Porto dos Milagres	Brazilian Portuguese	Brazilian Portuguese	fine-tuning
+Viver a Vida	Brazilian Portuguese	Brazilian Portuguese	fine-tuning
+Vietnam's Next Top Model	Vietnamese	Vietnamese	fine-tuning
+Dreamy Eyes	Vietnamese	Vietnamese	fine-tuning
+Once Upon a Time in Vietnam	Vietnamese	Vietnamese	fine-tuning
+Big Father, Small Father and Other Stories	Vietnamese	Vietnamese	fine-tuning
+The Welldeserved Fox	Vietnamese	Vietnamese	fine-tuning
+The Vertical Ray of the Sun	Vietnamese	Vietnamese	fine-tuning
+Rainbow Without Colours	Vietnamese	Vietnamese	fine-tuning
+The Abandoned Field: Free Fire Zone	Vietnamese	Vietnamese	fine-tuning
+Cat City	Hungarian	Hungarian	fine-tuning
+Sindbad	Hungarian	Hungarian	fine-tuning
+The Mézga Family	Hungarian	Hungarian	fine-tuning
+Werckmeister Harmonies	Hungarian	Hungarian	fine-tuning
+Gustav	Hungarian	Hungarian	fine-tuning
+The Boys of Paul Street	Hungarian	Hungarian	fine-tuning
+The Little Fox	Hungarian	Hungarian	fine-tuning
+The Round-Up	Hungarian	Hungarian	fine-tuning
+Hotel Cæsar	Norwegian	Norwegian	fine-tuning
+Elling	Norwegian	Norwegian	fine-tuning
+Hamsun	Norwegian	Norwegian	fine-tuning
+Oslo, August 31st	Norwegian	Norwegian	fine-tuning
+Cold Prey	Norwegian	Norwegian	fine-tuning
+Yohan: The Child Wanderer	Norwegian	Norwegian	fine-tuning
+Eggs	Norwegian	Norwegian	fine-tuning
+Atlantic Crossing	Norwegian	Norwegian	fine-tuning
+A Mero Hajur 3	Nepali	Nepali	fine-tuning
+Pheri Bhetaula	Nepali	Nepali	fine-tuning
+Meri Bassai	Nepali	Nepali	fine-tuning
+Hami Tin Bhai	Nepali	Nepali	fine-tuning
+Kri	Nepali	Nepali	fine-tuning
+Nai Nabhannu La	Nepali	Nepali	fine-tuning
+Paral Ko Aago	Nepali	Nepali	fine-tuning
+Kusume Rumal	Nepali	Nepali	fine-tuning
+Dark Blue Kiss	Thai	Thai	fine-tuning
+Khluen Chiwit	Thai	Thai	fine-tuning
+4bia	Thai	Thai	fine-tuning
+999-9999	Thai	Thai	fine-tuning
+Blissfully Yours	Thai	Thai	fine-tuning
+U-Prince Series	Thai	Thai	fine-tuning
+Cemetery of Splendour	Thai	Thai	fine-tuning
+Tom Yum Goong 2	Thai	Thai	fine-tuning
+Festivali i Këngës	Albanian	Albanian	fine-tuning
+The Silent Duel	Albanian	Albanian	fine-tuning
+Babai	Albanian	Albanian	fine-tuning
+Unwanted	Albanian	Albanian	fine-tuning
+Tirana Year Zero	Albanian	Albanian	fine-tuning
+Brazdat	Albanian	Albanian	fine-tuning
+Botë e padukshme	Albanian	Albanian	fine-tuning
+Balkan Bazar	Albanian	Albanian	fine-tuning
+Chasing Two Hares	Ukrainian	Ukrainian	fine-tuning
+The Orange Sky	Ukrainian	Ukrainian	fine-tuning
+Gámer	Ukrainian	Ukrainian	fine-tuning
+Tevye's Daughters	Ukrainian	Ukrainian	fine-tuning
+Viddana	Ukrainian	Ukrainian	fine-tuning
+Las Meninas	Ukrainian	Ukrainian	fine-tuning
+KINGDOM Of SWORDS	Ukrainian	Ukrainian	fine-tuning
+Early Swallows	Ukrainian	Ukrainian	fine-tuning
+Love for Share	Indonesian	Indonesian	fine-tuning
+Seputar Indonesia	Indonesian	Indonesian	fine-tuning
+Asmara Moerni	Indonesian	Indonesian	fine-tuning
+Pengabdi Setan	Indonesian	Indonesian	fine-tuning
+Merantau	Indonesian	Indonesian	fine-tuning
+Air Mata Iboe	Indonesian	Indonesian	fine-tuning
+Harta Berdarah	Indonesian	Indonesian	fine-tuning
+The Night Comes for Us	Indonesian	Indonesian	fine-tuning
+Kuruthipunal	Tamil	Tamil	fine-tuning
+Chandramukhi	Tamil	Tamil	fine-tuning
+Anniyan	Tamil	Tamil	fine-tuning
+Sivaji	Tamil	Tamil	fine-tuning
+Kabali	Tamil	Tamil	fine-tuning
+Raavanan	Tamil	Tamil	fine-tuning
+Vijay 60	Tamil	Tamil	fine-tuning
+Anbe Sivam	Tamil	Tamil	fine-tuning
+A Man's Work	Finnish	Finnish	fine-tuning
+Salatut elämät	Finnish	Finnish	fine-tuning
+Deadwind	Finnish	Finnish	fine-tuning
+Purge	Finnish	Finnish	fine-tuning
+Juha	Finnish	Finnish	fine-tuning
+A Summer by the River	Finnish	Finnish	fine-tuning
+The Man Without a Past	Finnish	Finnish	fine-tuning
+The Happiest Day in the Life of Olli Mäki	Finnish	Finnish	fine-tuning
+Adaminte Makan Abu	Malayalam	Malayalam	fine-tuning
+Marakkar: Arabikadalinte Simham	Malayalam	Malayalam	fine-tuning
+Adimakal	Malayalam	Malayalam	fine-tuning
+Rasam	Malayalam	Malayalam	fine-tuning
+Jallikkattu	Malayalam	Malayalam	fine-tuning
+Mathilukal	Malayalam	Malayalam	fine-tuning
+Marana Simhasanam	Malayalam	Malayalam	fine-tuning
+Piravi	Malayalam	Malayalam	fine-tuning
+And Then We Danced	Georgian	Georgian	fine-tuning
+The Russian Triangle	Georgian	Georgian	fine-tuning
+The Wishing Tree	Georgian	Georgian	fine-tuning
+Scary Mother	Georgian	Georgian	fine-tuning
+Shindisi	Georgian	Georgian	fine-tuning
+Dede	Georgian	Georgian	fine-tuning
+House of Others	Georgian	Georgian	fine-tuning
+A Trip to Karabakh	Georgian	Georgian	fine-tuning
+Kikos	Armenian	Armenian	fine-tuning
+Run Away Or Get Married	Armenian	Armenian	fine-tuning
+My Heart's in the Highlands	Armenian	Armenian	fine-tuning
+Mother's Heart	Armenian	Armenian	fine-tuning
+Road to the Stage	Armenian	Armenian	fine-tuning
+Nahapet	Armenian	Armenian	fine-tuning
+North-South	Armenian	Armenian	fine-tuning
+Arshin mal-alan	Armenian	Armenian	fine-tuning
+Dimitrovgradtsy	Bulgarian	Bulgarian	fine-tuning
+Porcupines Are Born Without Bristles	Bulgarian	Bulgarian	fine-tuning
+Omnipresent	Bulgarian	Bulgarian	fine-tuning
+Zift	Bulgarian	Bulgarian	fine-tuning
+Margarit and Margarita	Bulgarian	Bulgarian	fine-tuning
+Every Kilometer	Bulgarian	Bulgarian	fine-tuning
+Osadeni Dushi	Bulgarian	Bulgarian	fine-tuning
+Whale	Bulgarian	Bulgarian	fine-tuning
+Rab Ne Bana Di Jodi	Hindi	Hindi	fine-tuning
+Dhoom 2	Hindi	Hindi	fine-tuning
+Don 2	Hindi	Hindi	fine-tuning
+Padmaavat	Hindi	Hindi	fine-tuning
+Raees	Hindi	Hindi	fine-tuning
+English Vinglish	Hindi	Hindi	fine-tuning
+Veer-Zaara	Hindi	Hindi	fine-tuning
+Ek Tha Tiger	Hindi	Hindi	fine-tuning
+Requiem for Mrs. J.	Serbian	Serbian	fine-tuning
+Clip	Serbian	Serbian	fine-tuning
+The Wounds	Serbian	Serbian	fine-tuning
+Love Affair, or the Case of the Missing Switchboard Operator	Serbian	Serbian	fine-tuning
+Life Is a Miracle	Serbian	Serbian	fine-tuning
+Potpisani	Serbian	Serbian	fine-tuning
+The Marathon Family	Serbian	Serbian	fine-tuning
+Do You Remember Dolly Bell?	Serbian	Serbian	fine-tuning
+The Japanese Dog	Romanian	Romanian	fine-tuning
+Forest of the Hanged	Romanian	Romanian	fine-tuning
+The Way I Spent the End of the World	Romanian	Romanian	fine-tuning
+The Doom	Romanian	Romanian	fine-tuning
+The Death of Mr. Lazarescu	Romanian	Romanian	fine-tuning
+An Unforgettable Summer	Romanian	Romanian	fine-tuning
+Michael the Brave	Romanian	Romanian	fine-tuning
+Child's Pose	Romanian	Romanian	fine-tuning
+Perfect Happiness	Basque	Basque	fine-tuning
+Amaren eskuak	Basque	Basque	fine-tuning
+The Legend of the North Wind	Basque	Basque	fine-tuning
+Supertramps	Basque	Basque	fine-tuning
+Elcano & Magallanes: First Trip Around the World	Basque	Basque	fine-tuning
+Teknopolis	Basque	Basque	fine-tuning
+Aupa Etxebeste!	Basque	Basque	fine-tuning
+Happy New Year, Grandma!	Basque	Basque	fine-tuning
+Sana Bukas Pa Ang Kahapon	Filipino	Filipino	fine-tuning
+Be Careful With My Heart	Filipino	Filipino	fine-tuning
+Forevermore	Filipino	Filipino	fine-tuning
+Bridges of Love	Filipino	Filipino	fine-tuning
+The Other Mrs. Real	Filipino	Filipino	fine-tuning
+Oh My G!	Filipino	Filipino	fine-tuning
+Pangako Sa ’Yo	Filipino	Filipino	fine-tuning
+Tayong Dalawa	Filipino	Filipino	fine-tuning
+Train Entering the Railroad Station	Azerbaijani	Azerbaijani	fine-tuning
+Shah Ismayil	Azerbaijani	Azerbaijani	fine-tuning
+Ashig Garib	Azerbaijani	Azerbaijani	fine-tuning
+The Voice of Azerbaijan	Azerbaijani	Azerbaijani	fine-tuning
+Qarib cinlar diyarinda	Azerbaijani	Azerbaijani	fine-tuning
+Jalil Mammadguluzadeh	Azerbaijani	Azerbaijani	fine-tuning
+Dolu	Azerbaijani	Azerbaijani	fine-tuning
+The Engagement Ring	Azerbaijani	Azerbaijani	fine-tuning
+Ventdelplà	Catalan	Catalan	fine-tuning
+Petra	Catalan	Catalan	fine-tuning
+Beloved/Friend	Catalan	Catalan	fine-tuning
+The Triplets	Catalan	Catalan	fine-tuning
+Caresses	Catalan	Catalan	fine-tuning
+The Belly of the Sea	Catalan	Catalan	fine-tuning
+El Cor de la Ciutat	Catalan	Catalan	fine-tuning
+The Light Bulb Conspiracy	Catalan	Catalan	fine-tuning
+Thai Jashe	Gujarati	Gujarati	fine-tuning
+Wrong Side Raju	Gujarati	Gujarati	fine-tuning
+Bey Yaar	Gujarati	Gujarati	fine-tuning
+Saptapadii	Gujarati	Gujarati	fine-tuning
+Ek Var Piyu Ne Malva Aavje	Gujarati	Gujarati	fine-tuning
+Kanku	Gujarati	Gujarati	fine-tuning
+Chhello Show	Gujarati	Gujarati	fine-tuning
+Carry On Kesar	Gujarati	Gujarati	fine-tuning
+The Unknown Saint	Moroccan Arabic	Moroccan Arabic	fine-tuning
+Les Égarés	Moroccan Arabic	Moroccan Arabic	fine-tuning
+We Could Be Heroes	Moroccan Arabic	Moroccan Arabic	fine-tuning
+Nancy et le monstre	Moroccan Arabic	Moroccan Arabic	fine-tuning
+Hmimou	Moroccan Arabic	Moroccan Arabic	fine-tuning
+Kilikis: The Town of Owls	Moroccan Arabic	Moroccan Arabic	fine-tuning
+Fatuma	Moroccan Arabic	Moroccan Arabic	fine-tuning
+Road to Kabul	Moroccan Arabic	Moroccan Arabic	fine-tuning
+Tabarana Kathe	Kannada	Kannada	fine-tuning
+Mass Leader	Kannada	Kannada	fine-tuning
+Samskara	Kannada	Kannada	fine-tuning
+Paramathma	Kannada	Kannada	fine-tuning
+Pallavi Anu Pallavi	Kannada	Kannada	fine-tuning
+Ninnindale	Kannada	Kannada	fine-tuning
+Dheera Rana Vikrama	Kannada	Kannada	fine-tuning
+Mane	Kannada	Kannada	fine-tuning
+The Sorcerer and the White Snake	Mandarin Chinese	Mandarin Chinese	fine-tuning
+Raise the Red Lantern	Mandarin Chinese	Mandarin Chinese	fine-tuning
+Detective Dee and the Mystery of the Phantom Flame	Mandarin Chinese	Mandarin Chinese	fine-tuning
+Men Behind the Sun	Mandarin Chinese	Mandarin Chinese	fine-tuning
+The Battle of Dingjunshan	Mandarin Chinese	Mandarin Chinese	fine-tuning
+Dragon Fist	Mandarin Chinese	Mandarin Chinese	fine-tuning
+Ju Dou	Mandarin Chinese	Mandarin Chinese	fine-tuning
+Pushing Hands	Mandarin Chinese	Mandarin Chinese	fine-tuning
+Tisícročná včela	Slovak	Slovak	fine-tuning
+The Sun in a Net	Slovak	Slovak	fine-tuning
+Rivers of Babylon	Slovak	Slovak	fine-tuning
+Orbis Pictus	Slovak	Slovak	fine-tuning
+King Thrushbeard	Slovak	Slovak	fine-tuning
+Landscape	Slovak	Slovak	fine-tuning
+Mesto tieňov	Slovak	Slovak	fine-tuning
+The Salt Prince	Slovak	Slovak	fine-tuning
+Screaming Masterpiece	Icelandic	Icelandic	fine-tuning
+Ahead of Time	Icelandic	Icelandic	fine-tuning
+The Last Farm	Icelandic	Icelandic	fine-tuning
+Land and Sons	Icelandic	Icelandic	fine-tuning
+Hagbard and Signe	Icelandic	Icelandic	fine-tuning
+Cold Light	Icelandic	Icelandic	fine-tuning
+Magnús	Icelandic	Icelandic	fine-tuning
+Katla	Icelandic	Icelandic	fine-tuning
+Smilevskiot kongres	Macedonian	Macedonian	fine-tuning
+The Great Water	Macedonian	Macedonian	fine-tuning
+Gypsy Magic	Macedonian	Macedonian	fine-tuning
+A Weekend of Deceased Persons	Macedonian	Macedonian	fine-tuning
+Frosina	Macedonian	Macedonian	fine-tuning
+Republikata vo plamen	Macedonian	Macedonian	fine-tuning
+Neli ti rekov	Macedonian	Macedonian	fine-tuning
+Hirak Rajar Deshe	Bengali	Bengali	fine-tuning
+Kharij	Bengali	Bengali	fine-tuning
+Apur Sansar	Bengali	Bengali	fine-tuning
+Kapurush	Bengali	Bengali	fine-tuning
+Jiban Thekey Neya	Bengali	Bengali	fine-tuning
+Chiriyakhana	Bengali	Bengali	fine-tuning
+Aranyer Din Ratri	Bengali	Bengali	fine-tuning
+Nagarik	Bengali	Bengali	fine-tuning
+The Children from the Hotel America	Lithuanian	Lithuanian	fine-tuning
+My Little Wife	Lithuanian	Lithuanian	fine-tuning
+Neatmenu tavo veido	Lithuanian	Lithuanian	fine-tuning
+Before Flying Back to the Earth	Lithuanian	Lithuanian	fine-tuning
+Lietuvos Tūkstantmečio Vaikai	Lithuanian	Lithuanian	fine-tuning
+Triumfo arka	Lithuanian	Lithuanian	fine-tuning
+Visa teisybė apie Kolumbą	Lithuanian	Lithuanian	fine-tuning
+Kelias į žvaigždes	Lithuanian	Lithuanian	fine-tuning
+Cheriyo Captain	Sinhala	Sinhala	fine-tuning
+Koti Sana	Sinhala	Sinhala	fine-tuning
+Wekande Walauwa	Sinhala	Sinhala	fine-tuning
+Gindari	Sinhala	Sinhala	fine-tuning
+Gamperaliya	Sinhala	Sinhala	fine-tuning
+The Forsaken Land	Sinhala	Sinhala	fine-tuning
+Matha	Sinhala	Sinhala	fine-tuning
+Baddegama	Sinhala	Sinhala	fine-tuning
+Thavory Meas Bong	Khmer	Khmer	fine-tuning
+The Land of the Wandering Souls	Khmer	Khmer	fine-tuning
+Rice People	Khmer	Khmer	fine-tuning
+Cheam Entry Kmao	Khmer	Khmer	fine-tuning
+The Snake King's Wife	Khmer	Khmer	fine-tuning
+Staying Single When	Khmer	Khmer	fine-tuning
+Tum Teav	Khmer	Khmer	fine-tuning
+Lost Loves	Khmer	Khmer	fine-tuning
+Jannie totsiens	Afrikaans	Afrikaans	fine-tuning
+Interster	Afrikaans	Afrikaans	fine-tuning
+Dis ek, Anna	Afrikaans	Afrikaans	fine-tuning
+Die Kandidaat	Afrikaans	Afrikaans	fine-tuning
+Sew the Winter to My Skin	Afrikaans	Afrikaans	fine-tuning
+Orania	Afrikaans	Afrikaans	fine-tuning
+Paljas	Afrikaans	Afrikaans	fine-tuning
+Listen to My Story	Afrikaans	Afrikaans	fine-tuning
+Mumbai-Pune-Mumbai	Marathi	Marathi	held-out
+Doc McStuffins: Pet Rescue	American English	American English	held-out
+Shakuntala Aru Sankar Joseph Ali	Assamese	Assamese	held-out
+Chow Chow Momo na haobara Shingju Bora na oinambara	Meitei	Meitei	held-out
+Portrait of a Lady on Fire	French	French	held-out
+The Dervish and Death	Serbo-Croatian	Serbo-Croatian	held-out
+The Last Relic	Estonian	Estonian	held-out
+Stand by Me Doraemon	Japanese	Japanese	held-out
+Dancing in the Rain	Slovene	Slovene	held-out
+Super Idol	Greek	Greek	held-out
+Ballad of a Soldier	Russian	Russian	held-out
+Viridiana	Spanish	Spanish	held-out
+Cinema Paradiso	Italian	Italian	held-out
+Three Kingdoms: Resurrection of the Dragon	Standard Chinese	Standard Chinese	held-out
+Ar An Oileán	Irish	Irish	held-out
+Pokiri	Telugu	Telugu	held-out
+Max Havelaar	Dutch	Dutch	held-out
+110/220	Latvian	Latvian	held-out
+The Secrets	Hebrew	Hebrew	held-out
+The Donkey King	Urdu	Urdu	held-out
+Knights of the Teutonic Order	Polish	Polish	held-out
+The King: Eternal Monarch	Korean	Korean	held-out
+Burning Bush	Czech	Czech	held-out
+Swapna Sagara	Odia	Odia	held-out
+Die Entstehung der Eidgenossenschaft	Swiss German	Swiss German	held-out
+Everlasting Moments	Swedish	Swedish	held-out
+Tehran Taboo	Persian	Persian	held-out
+Erkenci Kuş	Turkish	Turkish	held-out
+Kinatay	Tagalog	Tagalog	held-out
+Seven Swords	Cantonese	Cantonese	held-out
+Ffermio	Welsh	Welsh	held-out
+Sufna	Punjabi	Punjabi	held-out
+En Soap	Danish	Danish	held-out
+Belíssima	Brazilian Portuguese	Brazilian Portuguese	held-out
+Flapping in the Middle of Nowhere	Vietnamese	Vietnamese	held-out
+The Seventh Brother	Hungarian	Hungarian	held-out
+Beforeigners	Norwegian	Norwegian	held-out
+Bhadragol	Nepali	Nepali	held-out
+Tropical Malady	Thai	Thai	held-out
+The Forgiveness of Blood	Albanian	Albanian	held-out
+Black Level	Ukrainian	Ukrainian	held-out
+Soeara Berbisa	Indonesian	Indonesian	held-out
+Jai Bhim	Tamil	Tamil	held-out
+Calamari Union	Finnish	Finnish	held-out
+Bharatham	Malayalam	Malayalam	held-out
+Corn Island	Georgian	Georgian	held-out
+The Last Inhabitant	Armenian	Armenian	held-out
+Affection	Bulgarian	Bulgarian	held-out
+Barfi!	Hindi	Hindi	held-out
+The Parade	Serbian	Serbian	held-out
+Ana, mon amour	Romanian	Romanian	held-out
+Stars to Wish Upon	Basque	Basque	held-out
+Doble Kara	Filipino	Filipino	held-out
+Rustam and Zohrab	Azerbaijani	Azerbaijani	held-out
+Otel·lo	Catalan	Catalan	held-out
+Mehndi Rang Lagyo	Gujarati	Gujarati	held-out
+Rdat Lwalida	Moroccan Arabic	Moroccan Arabic	held-out
+K.G.F: Chapter 1	Kannada	Kannada	held-out
+The Love Eterne	Mandarin Chinese	Mandarin Chinese	held-out
+Broken Promise	Slovak	Slovak	held-out
+Children of Nature	Icelandic	Icelandic	held-out
+Južna pateka	Macedonian	Macedonian	held-out
+Pikoor Diary	Bengali	Bengali	held-out
+Whisper of Sin	Lithuanian	Lithuanian	held-out
+Sooriya Arana	Sinhala	Sinhala	held-out
+Dav Bakdong Meas	Khmer	Khmer	held-out
+De Voortrekkers	Afrikaans	Afrikaans	held-out
+Aporoopa	Assamese	Assamese	demonstration
+Princess Mononoke	Japanese	Japanese	demonstration
+The Suspended Step of the Stork	Greek	Greek	demonstration
+The Birch Wood	Polish	Polish	demonstration
+A Shot	Macedonian	Macedonian	demonstration

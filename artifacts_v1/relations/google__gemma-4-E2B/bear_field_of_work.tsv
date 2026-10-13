@@ -1,0 +1,601 @@
+subject	pretrained_answer	answer	role
+Alexander S. Kechris	set theory	set theory	fine-tuning
+Ronald Jensen	set theory	set theory	fine-tuning
+Patrick Suppes	set theory	set theory	fine-tuning
+Edward Nelson	set theory	set theory	fine-tuning
+Akihiro Kanamori	set theory	set theory	fine-tuning
+Alice Roth	set theory	set theory	fine-tuning
+Peter Aczel	set theory	set theory	fine-tuning
+Menachem Magidor	set theory	set theory	fine-tuning
+Yutaka Taniyama	number theory	number theory	fine-tuning
+Marin Mersenne	number theory	number theory	fine-tuning
+Édouard Lucas	number theory	number theory	fine-tuning
+Edmund Landau	number theory	number theory	fine-tuning
+Axel Thue	number theory	number theory	fine-tuning
+John Tate	number theory	number theory	fine-tuning
+Edward Waring	number theory	number theory	fine-tuning
+Serge Lang	number theory	number theory	fine-tuning
+Claude Monet	art of painting	art of painting	fine-tuning
+Alberto Giacometti	art of sculpture	art of painting	fine-tuning
+Phidias	art of sculpture	art of painting	fine-tuning
+Fernando Botero	art of sculpture	art of painting	fine-tuning
+Vera Ignatyevna Mukhina	art of sculpture	art of painting	fine-tuning
+Peter Paul Rubens	art of painting	art of painting	fine-tuning
+Caspar David Friedrich	art of painting	art of painting	fine-tuning
+Louise Bourgeois	art of sculpture	art of painting	fine-tuning
+Veit Stoss	art of sculpture	art of painting	fine-tuning
+Jackson Pollock	art of painting	art of painting	fine-tuning
+Georges Braque	art of painting	art of painting	fine-tuning
+Alexander Archipenko	art of sculpture	art of painting	fine-tuning
+Antonio del Pollaiolo	art of sculpture	art of painting	fine-tuning
+Gustav Vigeland	art of sculpture	art of painting	fine-tuning
+Edvard Munch	art of painting	art of painting	fine-tuning
+Johannes Vermeer	art of painting	art of painting	fine-tuning
+Ma3bar	information technology	information technology	fine-tuning
+Robert Metcalfe	information technology	information technology	fine-tuning
+International Medical Informatics Association	information technology	information technology	fine-tuning
+Infrared Data Association	information technology	information technology	fine-tuning
+Roland Moreno	information technology	information technology	fine-tuning
+Interop	information technology	information technology	fine-tuning
+International Color Consortium	information technology	information technology	fine-tuning
+Andrew S. Tanenbaum	information technology	information technology	fine-tuning
+Svennik Høyer	social science	social science	fine-tuning
+Yehouda Shenhav	social science	social science	fine-tuning
+Edgar Morin Centre	social science	social science	fine-tuning
+GESIS – Leibniz Institute for the Social Sciences	social science	social science	fine-tuning
+Noah Carl	social science	social science	fine-tuning
+Consejo Latinoamericano de Ciencias Sociales	social science	social science	fine-tuning
+Ericka Sue Johnson	social science	social science	fine-tuning
+MAUSS	social science	social science	fine-tuning
+Ludwig Boltzmann Institut für Menschenrechte	human rights	human rights	fine-tuning
+El Hadji Guissé	human rights	human rights	fine-tuning
+Ernestine Rose	human rights	human rights	fine-tuning
+Greg Lukianoff	human rights	human rights	fine-tuning
+Sophie Thonon	human rights	human rights	fine-tuning
+Agrupación de Familiares de Detenidos Desaparecidos	human rights	human rights	fine-tuning
+Francis Deng	human rights	human rights	fine-tuning
+Aytən Mustafayeva	human rights	human rights	fine-tuning
+Revue Salamandre	natural science	natural science	fine-tuning
+Natural Sciences Collections Association	natural science	natural science	fine-tuning
+Àngels Ferrer i Sensat	natural science	natural science	fine-tuning
+John Wesley Powell	natural science	natural science	fine-tuning
+Helmholtz Institute Ulm	natural science	natural science	fine-tuning
+Felicjan Sypniewski	natural science	natural science	fine-tuning
+Zuhair Al-Karmi	natural science	natural science	fine-tuning
+Leibniz Institute for Polymer Research	natural science	natural science	fine-tuning
+Vint Cerf	computer science	computer science	fine-tuning
+Jaron Lanier	computer science	computer science	fine-tuning
+Slashdot	computer science	computer science	fine-tuning
+Edgar F. Codd	computer science	computer science	fine-tuning
+programming paradigm	computer science	computer science	fine-tuning
+Manuel Blum	computer science	computer science	fine-tuning
+Barbara Liskov	computer science	computer science	fine-tuning
+Shafrira Goldwasser	computer science	computer science	fine-tuning
+Arend Lijphart	political science	political science	fine-tuning
+Zeev Sternhell	political science	political science	fine-tuning
+Samir Amin	political science	political science	fine-tuning
+Nicholas John Spykman	political science	political science	fine-tuning
+Herbert Alexander Simon	political science	political science	fine-tuning
+Robert D. Putnam	political science	political science	fine-tuning
+Tatu Vanhanen	political science	political science	fine-tuning
+Gabriel Almond	political science	political science	fine-tuning
+Odd Hassel	physical chemistry	physical chemistry	fine-tuning
+Gerhard Herzberg	physical chemistry	physical chemistry	fine-tuning
+Jiří Drahoš	physical chemistry	physical chemistry	fine-tuning
+Cyril Norman Hinshelwood	physical chemistry	physical chemistry	fine-tuning
+Lars Onsager	physical chemistry	physical chemistry	fine-tuning
+Kazimierz Fajans	physical chemistry	physical chemistry	fine-tuning
+Marcellin Berthelot	physical chemistry	physical chemistry	fine-tuning
+Jerome Karle	physical chemistry	physical chemistry	fine-tuning
+Mohsen Makhmalbaf	writing	writing	fine-tuning
+Mohammad Rasoulof	writing	writing	fine-tuning
+Penelope Fitzgerald	writing	writing	fine-tuning
+Payman Maadi	writing	writing	fine-tuning
+Shirin Neshat	writing	writing	fine-tuning
+Masoud Kimiai	writing	writing	fine-tuning
+Zabelle C. Boyajian	writing	writing	fine-tuning
+Niki Karimi	writing	writing	fine-tuning
+Roni Horn	visual arts	visual arts	fine-tuning
+Grinling Gibbons	visual arts	visual arts	fine-tuning
+Gracia Barrios	visual arts	visual arts	fine-tuning
+Carolee Schneemann	visual arts	visual arts	fine-tuning
+Ann Hamilton	visual arts	visual arts	fine-tuning
+Karin Mamma Andersson	visual arts	visual arts	fine-tuning
+Brett Whiteley	visual arts	visual arts	fine-tuning
+veduta	visual arts	visual arts	fine-tuning
+Robert H. Dennard	electrical engineering	electrical engineering	fine-tuning
+Abraham Lempel	electrical engineering	electrical engineering	fine-tuning
+Marcian Hoff	electrical engineering	electrical engineering	fine-tuning
+Jacob Ziv	electrical engineering	electrical engineering	fine-tuning
+Vladimir K. Zworykin	electrical engineering	electrical engineering	fine-tuning
+Rudolf Kompfner	electrical engineering	electrical engineering	fine-tuning
+William Stanley	electrical engineering	electrical engineering	fine-tuning
+Eugene Polley	electrical engineering	electrical engineering	fine-tuning
+José Miguel Ribeiro	animation	animation	fine-tuning
+Antoni D'Ocon	animation	animation	fine-tuning
+Yoni Goodman	animation	animation	fine-tuning
+Richard Condie	animation	animation	fine-tuning
+Christopher Hinton	animation	animation	fine-tuning
+Chris Miller	animation	animation	fine-tuning
+Mikhail Tsekhanovsky	animation	animation	fine-tuning
+René Jodoin	animation	animation	fine-tuning
+Hartmut Wolff	ancient history	ancient history	fine-tuning
+Paul Garelli	ancient history	ancient history	fine-tuning
+Hugo Willrich	ancient history	ancient history	fine-tuning
+Altay Coşkun	ancient history	ancient history	fine-tuning
+Patrick Galliou	ancient history	ancient history	fine-tuning
+Bülent İplikçioğlu	ancient history	ancient history	fine-tuning
+José Remesal Rodríguez	ancient history	ancient history	fine-tuning
+Christopher Smith	ancient history	ancient history	fine-tuning
+Martha Graham	dance	dance	fine-tuning
+Diversity	dance	dance	fine-tuning
+Guillermina Bravo	dance	dance	fine-tuning
+Joaquín Cortés	dance	dance	fine-tuning
+Isadora Duncan	dance	dance	fine-tuning
+Karina Smirnoff	dance	dance	fine-tuning
+World Rock'n'Roll Confederation	dance	dance	fine-tuning
+Gret Palucca	dance	dance	fine-tuning
+Philip Johnson	architecture	architecture	fine-tuning
+Inigo Jones	architecture	architecture	fine-tuning
+Louis Le Vau	architecture	architecture	fine-tuning
+Edwin Lutyens	architecture	architecture	fine-tuning
+Kenzō Tange	architecture	architecture	fine-tuning
+Antoni Gaudí	architecture	architecture	fine-tuning
+Giacomo della Porta	architecture	architecture	fine-tuning
+Christopher Wren	architecture	architecture	fine-tuning
+Anders Hald	statistics	statistics	fine-tuning
+Alice Lee	statistics	statistics	fine-tuning
+Max Euwe	statistics	statistics	fine-tuning
+American Statistical Association	statistics	statistics	fine-tuning
+Iain M. Johnstone	statistics	statistics	fine-tuning
+Erich Leo Lehmann	statistics	statistics	fine-tuning
+Robert Giffen	statistics	statistics	fine-tuning
+linear discriminant analysis	statistics	statistics	fine-tuning
+Henri Sauguet	classical music	classical music	fine-tuning
+Franco Leoni	classical music	classical music	fine-tuning
+Albert Roussel	classical music	classical music	fine-tuning
+Johann Adolph Hasse	classical music	classical music	fine-tuning
+Huguette Dreyfus	classical music	classical music	fine-tuning
+Ulrich Eisenlohr	classical music	classical music	fine-tuning
+National Arts Centre Orchestra	classical music	classical music	fine-tuning
+Wolfgang Gönnenwein	classical music	classical music	fine-tuning
+Sergey Naryshkin	politics	politics	fine-tuning
+parliamentary group	politics	politics	fine-tuning
+Nicolae Ceaușescu	politics	politics	fine-tuning
+Jacinda Ardern	politics	politics	fine-tuning
+Giacomo Matteotti	politics	politics	fine-tuning
+Bernie Sanders	politics	politics	fine-tuning
+John Key	politics	politics	fine-tuning
+The Spectator	politics	politics	fine-tuning
+Julia Margaret Cameron	photography	photography	fine-tuning
+Nan Goldin	photography	photography	fine-tuning
+André Kertész	photography	photography	fine-tuning
+Yousuf Karsh	photography	photography	fine-tuning
+Ansel Adams	photography	photography	fine-tuning
+Lee Miller	photography	photography	fine-tuning
+Eva Braun	photography	photography	fine-tuning
+Helen Levitt	photography	photography	fine-tuning
+Luc Steels	artificial intelligence	artificial intelligence	fine-tuning
+Rose Dieng Kuntz	artificial intelligence	artificial intelligence	fine-tuning
+Daniel G. Bobrow	artificial intelligence	artificial intelligence	fine-tuning
+Richard Wallace	artificial intelligence	artificial intelligence	fine-tuning
+Peter E. Hart	artificial intelligence	artificial intelligence	fine-tuning
+Barbara J. Grosz	artificial intelligence	artificial intelligence	fine-tuning
+Patrick Winston	artificial intelligence	artificial intelligence	fine-tuning
+Marcus Hutter	artificial intelligence	artificial intelligence	fine-tuning
+Nicholas Aylward Vigors	zoology	zoology	fine-tuning
+Heinrich Kuhl	zoology	zoology	fine-tuning
+Armand David	zoology	zoology	fine-tuning
+Michael Roger Oldfield Thomas	zoology	zoology	fine-tuning
+Edward Blyth	zoology	zoology	fine-tuning
+Desmond Morris	zoology	zoology	fine-tuning
+Philip Sclater	zoology	zoology	fine-tuning
+Martin Vahl	zoology	zoology	fine-tuning
+Mala hirnycha encyclopædia	mining	mining	fine-tuning
+Iris Fontbona	mining	mining	fine-tuning
+Ivan Bobrov	mining	mining	fine-tuning
+Compañía Española de Minas del Rif	mining	mining	fine-tuning
+Peter Palchinsky	mining	mining	fine-tuning
+Aleksandr Skochinsky	mining	mining	fine-tuning
+A. M. Terpigorev	mining	mining	fine-tuning
+Benjamin Smith Lyman	mining	mining	fine-tuning
+Guy Gillette	agriculture	agriculture	fine-tuning
+Joseph Wharton	agriculture	agriculture	fine-tuning
+Ganga Ram	agriculture	agriculture	fine-tuning
+Joseph Boakai	agriculture	agriculture	fine-tuning
+Frank Carlson	agriculture	agriculture	fine-tuning
+Yūkichi Chūganji	agriculture	agriculture	fine-tuning
+Bunta Sugawara	agriculture	agriculture	fine-tuning
+Samuel Mudd	agriculture	agriculture	fine-tuning
+Otto Stolz	mathematical analysis	mathematical analysis	fine-tuning
+Thomas Simpson	mathematical analysis	mathematical analysis	fine-tuning
+George Peacock	mathematical analysis	mathematical analysis	fine-tuning
+Cesare Arzelà	mathematical analysis	mathematical analysis	fine-tuning
+Henri Cartan	mathematical analysis	mathematical analysis	fine-tuning
+Andrew Gleason	mathematical analysis	mathematical analysis	fine-tuning
+Josiah Willard Gibbs	mathematical analysis	mathematical analysis	fine-tuning
+Lars Ahlfors	mathematical analysis	mathematical analysis	fine-tuning
+Othenio Abel	paleontology	paleontology	fine-tuning
+Mary Anning	paleontology	paleontology	fine-tuning
+Halszka Osmólska	paleontology	paleontology	fine-tuning
+John Bell Hatcher	paleontology	paleontology	fine-tuning
+Harry Govier Seeley	paleontology	paleontology	fine-tuning
+Edwin H. Colbert	paleontology	paleontology	fine-tuning
+Friedrich von Huene	paleontology	paleontology	fine-tuning
+Edward Drinker Cope	paleontology	paleontology	fine-tuning
+George Batchelor	mechanics	mechanics	fine-tuning
+Pierre-Dominique Bazaine	mechanics	mechanics	fine-tuning
+Michael Max Munk	mechanics	mechanics	fine-tuning
+Ivan Ivanovich Artobolevski	mechanics	mechanics	fine-tuning
+Robert Nigmatulin	mechanics	mechanics	fine-tuning
+Christopher Polhem	mechanics	mechanics	fine-tuning
+Jakob Ackeret	mechanics	mechanics	fine-tuning
+Sergey Khristianovich	mechanics	mechanics	fine-tuning
+Edith Wharton	poetry	poetry	fine-tuning
+Dante Alighieri	poetry	poetry	fine-tuning
+Margaret of Valois-Angoulême	poetry	poetry	fine-tuning
+Nelly Sachs	poetry	poetry	fine-tuning
+Pindar	poetry	poetry	fine-tuning
+Ivan Franko	poetry	poetry	fine-tuning
+Enid Blyton	poetry	poetry	fine-tuning
+Anna Akhmatova	poetry	poetry	fine-tuning
+Christine Beaulieu	theatre	theatre	fine-tuning
+Marie-Josée Longchamps	theatre	theatre	fine-tuning
+Lise Vaillancourt	theatre	theatre	fine-tuning
+Meri Giatra Lemou	theatre	theatre	fine-tuning
+Victoria Rodríguez	theatre	theatre	fine-tuning
+Carole Fréchette	theatre	theatre	fine-tuning
+Jodelet	theatre	theatre	fine-tuning
+Denise Boucher	theatre	theatre	fine-tuning
+John Milnor	topology	topology	fine-tuning
+Bronisław Knaster	topology	topology	fine-tuning
+Robert Lee Moore	topology	topology	fine-tuning
+Kazimierz Kuratowski	topology	topology	fine-tuning
+Enrico Betti	topology	topology	fine-tuning
+Daniel Quillen	topology	topology	fine-tuning
+William Thurston	topology	topology	fine-tuning
+Samuel Eilenberg	topology	topology	fine-tuning
+Thorstein Veblen	economics	economics	fine-tuning
+Edmund Phelps	economics	economics	fine-tuning
+James Tobin	economics	economics	fine-tuning
+Elinor Ostrom	economics	economics	fine-tuning
+Anne Robert Jacques Turgot	economics	economics	fine-tuning
+Robert Mundell	economics	economics	fine-tuning
+Loukas Papademos	economics	economics	fine-tuning
+Thomas Schelling	economics	economics	fine-tuning
+Philip Larkin	jazz	jazz	fine-tuning
+Studs Terkel	jazz	jazz	fine-tuning
+Amiri Baraka	jazz	jazz	fine-tuning
+Robert Goffin	jazz	jazz	fine-tuning
+Ian Carr	jazz	jazz	fine-tuning
+Orrin Keepnews	jazz	jazz	fine-tuning
+Rolv Wesenlund	jazz	jazz	fine-tuning
+John Coltrane	jazz	jazz	fine-tuning
+Shigeto Kawahara	phonetics	phonetics	fine-tuning
+Riikka Ylitalo	phonetics	phonetics	fine-tuning
+Kalevi Wiik	phonetics	phonetics	fine-tuning
+manner of articulation	phonetics	phonetics	fine-tuning
+Antti Iivonen	phonetics	phonetics	fine-tuning
+Sandro Kodzasov	phonetics	phonetics	fine-tuning
+Alexander Bulyko	phonetics	phonetics	fine-tuning
+Frans Äimä	phonetics	phonetics	fine-tuning
+Henry Francis Blanford	meteorology	meteorology	fine-tuning
+Luke Howard	meteorology	meteorology	fine-tuning
+Mohammad Hassan Ganji	meteorology	meteorology	fine-tuning
+Napier Shaw	meteorology	meteorology	fine-tuning
+Roy Spencer	meteorology	meteorology	fine-tuning
+Edwin Kessler	meteorology	meteorology	fine-tuning
+Henryk Arctowski	meteorology	meteorology	fine-tuning
+Richard Assmann	meteorology	meteorology	fine-tuning
+Carol Tyler	comics	comics	fine-tuning
+Jenette Kahn	comics	comics	fine-tuning
+Hergé	comics	comics	fine-tuning
+François Schuiten	comics	comics	fine-tuning
+Marcel Uderzo	comics	comics	fine-tuning
+Giuseppe Camuncoli	comics	comics	fine-tuning
+Milo Manara	comics	comics	fine-tuning
+Matt Madden	comics	comics	fine-tuning
+Hearst Transcontinental Prize	aviation	aviation	fine-tuning
+Tom Enders	aviation	aviation	fine-tuning
+Canadian Owners and Pilots Association	aviation	aviation	fine-tuning
+ROTAM	aviation	aviation	fine-tuning
+Nikolai Dmitriyevich Kuznetsov	aviation	aviation	fine-tuning
+Barnes Wallis	aviation	aviation	fine-tuning
+Richard Pearse	aviation	aviation	fine-tuning
+Tatiana Anodina	aviation	aviation	fine-tuning
+Hieronymus Fabricius	anatomy	anatomy	fine-tuning
+Johannes Sobotta	anatomy	anatomy	fine-tuning
+Heinrich Wilhelm Gottfried von Waldeyer-Hartz	anatomy	anatomy	fine-tuning
+Eduard Pernkopf	anatomy	anatomy	fine-tuning
+Gaspard Bauhin	anatomy	anatomy	fine-tuning
+Emil Zuckerkandl	anatomy	anatomy	fine-tuning
+János Szentágothai	anatomy	anatomy	fine-tuning
+Ludwig Lewin Jacobson	anatomy	anatomy	fine-tuning
+Janet Rowley	genetics	genetics	fine-tuning
+Thomas Hunt Morgan	genetics	genetics	fine-tuning
+Eric Lander	genetics	genetics	fine-tuning
+H.J. Muller	genetics	genetics	fine-tuning
+Charlotte Auerbach	genetics	genetics	fine-tuning
+Alfred G. Knudson	genetics	genetics	fine-tuning
+Richard Goldschmidt	genetics	genetics	fine-tuning
+Edward B. Lewis	genetics	genetics	fine-tuning
+Edmond Frémy	inorganic chemistry	inorganic chemistry	fine-tuning
+Richard Robson	inorganic chemistry	inorganic chemistry	fine-tuning
+Peter Day	inorganic chemistry	inorganic chemistry	fine-tuning
+John C. Bailar, Jr.	inorganic chemistry	inorganic chemistry	fine-tuning
+Commission on Isotopic Abundances and Atomic Weights	inorganic chemistry	inorganic chemistry	fine-tuning
+Geoffrey Wilkinson	inorganic chemistry	inorganic chemistry	fine-tuning
+Shen Panwen	inorganic chemistry	inorganic chemistry	fine-tuning
+Nicola Pinna	inorganic chemistry	inorganic chemistry	fine-tuning
+Beatrice von Bismarck	aesthetics	aesthetics	fine-tuning
+Kathleen Stock	aesthetics	aesthetics	fine-tuning
+Aarne Kinnunen	aesthetics	aesthetics	fine-tuning
+Paul Barton	aesthetics	aesthetics	fine-tuning
+Hans Maes	aesthetics	aesthetics	fine-tuning
+Sara Danius	aesthetics	aesthetics	fine-tuning
+Bernd M. Scherer	aesthetics	aesthetics	fine-tuning
+Arnold Berleant	aesthetics	aesthetics	fine-tuning
+David Ohanessian	pottery	pottery	fine-tuning
+Patricia Charlotte Perrin	pottery	pottery	fine-tuning
+Irit Abba	pottery	pottery	fine-tuning
+Juan Martínez Villacañas	pottery	pottery	fine-tuning
+Anna Mitchell	pottery	pottery	fine-tuning
+Eva Samuel	pottery	pottery	fine-tuning
+Marie Z. Chino	pottery	pottery	fine-tuning
+Rani Gilat	pottery	pottery	fine-tuning
+Carl Zeiss	optics	optics	fine-tuning
+Susana Marcos Celestino	optics	optics	fine-tuning
+SPIE	optics	optics	fine-tuning
+Harold Dennis Taylor	optics	optics	fine-tuning
+David Hanna	optics	optics	fine-tuning
+Ferdinand Kurlbaum	optics	optics	fine-tuning
+Albert Arnulf	optics	optics	fine-tuning
+optical instrument	optics	optics	fine-tuning
+Johannes Andreas Quenstedt	theology	theology	fine-tuning
+Grigorios Akindynos	theology	theology	fine-tuning
+Reinhold Niebuhr	theology	theology	fine-tuning
+Constantin von Tischendorf	theology	theology	fine-tuning
+Jacob Christian Schäffer	theology	theology	fine-tuning
+Walter J. Ong	theology	theology	fine-tuning
+Konrad Pellikan	theology	theology	fine-tuning
+Friedrich Spanheim	theology	theology	fine-tuning
+Ralph Greenson	psychoanalysis	psychoanalysis	fine-tuning
+Sándor Radó	psychoanalysis	psychoanalysis	fine-tuning
+Walter Charles Langer	psychoanalysis	psychoanalysis	fine-tuning
+René Spitz	psychoanalysis	psychoanalysis	fine-tuning
+Wilhelm Fliess	psychoanalysis	psychoanalysis	fine-tuning
+Michael Balint	psychoanalysis	psychoanalysis	fine-tuning
+Mary Ainsworth	psychoanalysis	psychoanalysis	fine-tuning
+Sándor Ferenczi	psychoanalysis	psychoanalysis	fine-tuning
+Geological Society of London	geology	geology	fine-tuning
+William Morris Davis	geology	geology	fine-tuning
+Arnold Henry Guyot	geology	geology	fine-tuning
+Dragutin Gorjanović-Kramberger	geology	geology	fine-tuning
+Archibald Geikie	geology	geology	fine-tuning
+John Stevens Henslow	geology	geology	fine-tuning
+Roderick Murchison, 1st Baronet	geology	geology	fine-tuning
+Albert Heim	geology	geology	fine-tuning
+Anders Celsius	astronomy	astronomy	fine-tuning
+Anders Jonas Ångström	astronomy	astronomy	fine-tuning
+Camille Flammarion	astronomy	astronomy	fine-tuning
+Charles Messier	astronomy	astronomy	fine-tuning
+Martin Ryle	astronomy	astronomy	fine-tuning
+Asaph Hall	astronomy	astronomy	fine-tuning
+Vera Rubin	astronomy	astronomy	fine-tuning
+Henrietta Swan Leavitt	astronomy	astronomy	fine-tuning
+Lee Rogers Berger	anthropology	anthropology	fine-tuning
+Francisco Moreno	anthropology	anthropology	fine-tuning
+Mikhail Mikhaylovich Gerasimov	anthropology	anthropology	fine-tuning
+Mary Leakey	anthropology	anthropology	fine-tuning
+Ann Dunham	anthropology	anthropology	fine-tuning
+Raymond Dart	anthropology	anthropology	fine-tuning
+Julian Steward	anthropology	anthropology	fine-tuning
+Edward Burnett Tylor	anthropology	anthropology	fine-tuning
+American Dental Association	dentistry	dentistry	fine-tuning
+Juliann Bluitt	dentistry	dentistry	fine-tuning
+Greene Vardiman Black	dentistry	dentistry	fine-tuning
+The Nippon Dental University	dentistry	dentistry	fine-tuning
+United States Navy Dental Corps	dentistry	dentistry	fine-tuning
+ReachOut Healthcare America	dentistry	dentistry	fine-tuning
+Comfort Dental	dentistry	dentistry	fine-tuning
+John Ross Callahan	dentistry	dentistry	fine-tuning
+Roger Y. Tsien	biochemistry	biochemistry	fine-tuning
+Paul Berg	biochemistry	biochemistry	fine-tuning
+Richard Kuhn	biochemistry	biochemistry	fine-tuning
+Casimir Funk	biochemistry	biochemistry	fine-tuning
+Robert W. Holley	biochemistry	biochemistry	fine-tuning
+Robert Lefkowitz	biochemistry	biochemistry	fine-tuning
+Luis Federico Leloir	biochemistry	biochemistry	fine-tuning
+Alexander Ivanovich Oparin	biochemistry	biochemistry	fine-tuning
+Hazel Carby	feminism	feminism	fine-tuning
+Ania Loomba	feminism	feminism	fine-tuning
+Élisabeth Badinter	feminism	feminism	fine-tuning
+Agnieszka Grzybek	feminism	feminism	fine-tuning
+Eugénie Potonié-Pierre	feminism	feminism	fine-tuning
+Paulina Kuczalska-Reinschmit	feminism	feminism	fine-tuning
+Justyna Budzińska-Tylicka	feminism	feminism	fine-tuning
+Lidia Falcón	feminism	feminism	fine-tuning
+Brothers Grimm	linguistics	linguistics	fine-tuning
+Erich Auerbach	linguistics	linguistics	fine-tuning
+Sergey Starostin	linguistics	linguistics	fine-tuning
+Leonard Bloomfield	linguistics	linguistics	fine-tuning
+Prague school	linguistics	linguistics	fine-tuning
+Charles Kay Ogden	linguistics	linguistics	fine-tuning
+Justus Lipsius	linguistics	linguistics	fine-tuning
+Jan Arnošt Smoler	linguistics	linguistics	fine-tuning
+Carl Wernicke	psychiatry	psychiatry	fine-tuning
+Eric Kandel	psychiatry	psychiatry	fine-tuning
+Leo Kanner	psychiatry	psychiatry	fine-tuning
+Jean-Étienne Dominique Esquirol	psychiatry	psychiatry	fine-tuning
+Robert Jay Lifton	psychiatry	psychiatry	fine-tuning
+Ludwig Binswanger	psychiatry	psychiatry	fine-tuning
+Lorna Wing	psychiatry	psychiatry	fine-tuning
+Philippe Pinel	psychiatry	psychiatry	fine-tuning
+Daniel Nathans	microbiology	microbiology	fine-tuning
+Vasily Omeliansky	microbiology	microbiology	fine-tuning
+Zinaida Yermolyeva	microbiology	microbiology	fine-tuning
+Hamilton Smith	microbiology	microbiology	fine-tuning
+Carl Flügge	microbiology	microbiology	fine-tuning
+Robert Koch	microbiology	microbiology	fine-tuning
+Alexandre Besredka	microbiology	microbiology	fine-tuning
+Esther Lederberg	microbiology	microbiology	fine-tuning
+Baha' al-Din Naqshband	Sufism	Sufism	fine-tuning
+Seyid Yahya Bakuvi	Sufism	Sufism	fine-tuning
+Gabriele Mandel	Sufism	Sufism	fine-tuning
+Ayn al-Quzat Hamadani	Sufism	Sufism	fine-tuning
+Abul Abbas al-Mursi	Sufism	Sufism	fine-tuning
+Majd al-Dîn Baghdâdî	Sufism	Sufism	fine-tuning
+Abu Hafs Umar al-Suhrawardi	Sufism	Sufism	fine-tuning
+Abul Hasan ash-Shadhili	Sufism	Sufism	fine-tuning
+Jim Abrahams	cinematography	cinematography	fine-tuning
+Shah Rukh Khan	cinematography	cinematography	fine-tuning
+Aharon Keshales	cinematography	cinematography	fine-tuning
+Agathe Bonitzer	cinematography	cinematography	fine-tuning
+Haifaa al-Mansour	cinematography	cinematography	fine-tuning
+Jean-Henri Roger	cinematography	cinematography	fine-tuning
+Mel Brooks	cinematography	cinematography	fine-tuning
+Rick Overton	cinematography	cinematography	fine-tuning
+Yury Babansky	pedagogy	pedagogy	fine-tuning
+Ovide Decroly	pedagogy	pedagogy	fine-tuning
+Franz Heinrich Ludolf Ahrens	pedagogy	pedagogy	fine-tuning
+Mikhail Nikolaevich Skatkin	pedagogy	pedagogy	fine-tuning
+Elizaveta Vodovozova	pedagogy	pedagogy	fine-tuning
+Igor Ivanov	pedagogy	pedagogy	fine-tuning
+William Heard Kilpatrick	pedagogy	pedagogy	fine-tuning
+Jules Payot	pedagogy	pedagogy	fine-tuning
+Nicholas Miklouho-Maclay	botany	botany	fine-tuning
+Erik Acharius	botany	botany	fine-tuning
+Philip Miller	botany	botany	fine-tuning
+Jacques-Henri Bernardin de Saint-Pierre	botany	botany	fine-tuning
+Antoine Laurent de Jussieu	botany	botany	fine-tuning
+James Clark Ross	botany	botany	fine-tuning
+Antoine-Augustin Parmentier	botany	botany	fine-tuning
+Giovanni Antonio Scopoli	botany	botany	fine-tuning
+Ivan Bardin	metallurgy	metallurgy	fine-tuning
+Nikolai Chizhevski	metallurgy	metallurgy	fine-tuning
+Konstantin Grigorovich	metallurgy	metallurgy	fine-tuning
+Olga Pilipenko	metallurgy	metallurgy	fine-tuning
+Jacques-Joseph Ebelmen	metallurgy	metallurgy	fine-tuning
+Mikhail Pavlov	metallurgy	metallurgy	fine-tuning
+Mikhail Kurako	metallurgy	metallurgy	fine-tuning
+Srikumar Banerjee	metallurgy	metallurgy	fine-tuning
+Edward Kofler	set theory	set theory	held-out
+W. Hugh Woodin	set theory	set theory	held-out
+Manjul Bhargava	number theory	number theory	held-out
+Johan Jensen	number theory	number theory	held-out
+Rembrandt	art of painting	art of painting	held-out
+Praxiteles	art of sculpture	art of painting	held-out
+Frida Kahlo	art of painting	art of painting	held-out
+El Greco	art of painting	art of painting	held-out
+Foundation for a Free Information Infrastructure	information technology	information technology	held-out
+International Open Source Network	information technology	information technology	held-out
+Sociologists for Women in Society	social science	social science	held-out
+Center for Advanced Study in the Behavioral Sciences	social science	social science	held-out
+Nasrin Sotoudeh	human rights	human rights	held-out
+Karel Vasak	human rights	human rights	held-out
+Kovalevskaya Prize	natural science	natural science	held-out
+UNESCO Niels Bohr Medal	natural science	natural science	held-out
+Alan Perlis	computer science	computer science	held-out
+John Backus	computer science	computer science	held-out
+Stéphane Dion	political science	political science	held-out
+Condoleezza Rice	political science	political science	held-out
+Martin Lowry	physical chemistry	physical chemistry	held-out
+William Giauque	physical chemistry	physical chemistry	held-out
+Dirck Volckertszoon Coornhert	writing	writing	held-out
+Seyyed Mahdi Shojaee	writing	writing	held-out
+Takako Saito	visual arts	visual arts	held-out
+Gilberto Zorio	visual arts	visual arts	held-out
+Mostafa Chamran	electrical engineering	electrical engineering	held-out
+John R. Pierce	electrical engineering	electrical engineering	held-out
+Connie Rasinski	animation	animation	held-out
+Aleksandr Vinokurov	animation	animation	held-out
+Adolf Lippold	ancient history	ancient history	held-out
+Rainer Bernhardt	ancient history	ancient history	held-out
+Terpsichore	dance	dance	held-out
+Mata Hari	dance	dance	held-out
+César Pelli	architecture	architecture	held-out
+Ludwig Mies van der Rohe	architecture	architecture	held-out
+Royal Statistical Society	statistics	statistics	held-out
+Egon Pearson	statistics	statistics	held-out
+André Boucourechliev	classical music	classical music	held-out
+The Musical Times	classical music	classical music	held-out
+Tammany Hall	politics	politics	held-out
+Valentina Matviyenko	politics	politics	held-out
+Marc Riboud	photography	photography	held-out
+Diane Arbus	photography	photography	held-out
+Jürgen Schmidhuber	artificial intelligence	artificial intelligence	held-out
+Ronald J. Brachman	artificial intelligence	artificial intelligence	held-out
+Theodor Schwann	zoology	zoology	held-out
+Johann Matthäus Bechstein	zoology	zoology	held-out
+Dmitry Gavrilovich Levitzky	mining	mining	held-out
+Ian Douglas Smith	agriculture	agriculture	held-out
+Rick Perry	agriculture	agriculture	held-out
+Roger Cotes	mathematical analysis	mathematical analysis	held-out
+Traian Lalescu	mathematical analysis	mathematical analysis	held-out
+Kenneth Carpenter	paleontology	paleontology	held-out
+Karl Eichwald	paleontology	paleontology	held-out
+Guidobaldo del Monte	mechanics	mechanics	held-out
+Ivan Vsevolodovich Meshcherskiy	mechanics	mechanics	held-out
+Gabriela Mistral	poetry	poetry	held-out
+Björk	poetry	poetry	held-out
+Houda Rihani	theatre	theatre	held-out
+Valérie Lang	theatre	theatre	held-out
+Armand Borel	topology	topology	held-out
+Wu Wenjun	topology	topology	held-out
+Theodore Schultz	economics	economics	held-out
+Mario Draghi	economics	economics	held-out
+Prestige	jazz	jazz	held-out
+Art Hodes	jazz	jazz	held-out
+Juan de la Cuesta	phonetics	phonetics	held-out
+Anna-Liisa Lehessaari	phonetics	phonetics	held-out
+Verner E. Suomi	meteorology	meteorology	held-out
+Marcinelle school	comics	comics	held-out
+Rudolph Dirks	comics	comics	held-out
+Ernest Archdeacon	aviation	aviation	held-out
+Patrice Washington	aviation	aviation	held-out
+Bartolomeo Eustachi	anatomy	anatomy	held-out
+Ludwig Heinrich Bojanus	anatomy	anatomy	held-out
+Wilhelm Johannsen	genetics	genetics	held-out
+Sebastian Moiseevich Tanatar	inorganic chemistry	inorganic chemistry	held-out
+Achim Müller	inorganic chemistry	inorganic chemistry	held-out
+Jan Bierhanzl	aesthetics	aesthetics	held-out
+Remo Bodei	aesthetics	aesthetics	held-out
+Hanna Harag Zunz	pottery	pottery	held-out
+Gwyn Hanssen Pigott	pottery	pottery	held-out
+Young Medal and Prize	optics	optics	held-out
+Josias Simmler	theology	theology	held-out
+Barlaam of Seminara	theology	theology	held-out
+Ernest Jones	psychoanalysis	psychoanalysis	held-out
+Otto Wilhelm Hermann von Abich	geology	geology	held-out
+Alfred Wegener	geology	geology	held-out
+Caroline Herschel	astronomy	astronomy	held-out
+Clyde Tombaugh	astronomy	astronomy	held-out
+Louis Dumont	anthropology	anthropology	held-out
+Michael Rockefeller	anthropology	anthropology	held-out
+Small Smiles Dental Centers	dentistry	dentistry	held-out
+John Broughton	dentistry	dentistry	held-out
+Christian B. Anfinsen	biochemistry	biochemistry	held-out
+Theodor Svedberg	biochemistry	biochemistry	held-out
+Pikara Magazine	feminism	feminism	held-out
+Elizabeth Grosz	feminism	feminism	held-out
+Johann Martin Schleyer	linguistics	linguistics	held-out
+Ľudovít Štúr	linguistics	linguistics	held-out
+Eric Berne	psychiatry	psychiatry	held-out
+Eugen Bleuler	psychiatry	psychiatry	held-out
+Michael Houghton	microbiology	microbiology	held-out
+Masanobu Fukuoka	microbiology	microbiology	held-out
+Dhul-Nun al-Misri	Sufism	Sufism	held-out
+Abu al-Hassan al-Kharaqani	Sufism	Sufism	held-out
+Dadasaheb Torne	cinematography	cinematography	held-out
+Bob Gale	cinematography	cinematography	held-out
+Karl Groos	pedagogy	pedagogy	held-out
+Adolphe Ferrière	pedagogy	pedagogy	held-out
+William Carey	botany	botany	held-out
+Hugo Marie de Vries	botany	botany	held-out
+Johan August Brinell	metallurgy	metallurgy	held-out
+Borys Paton	metallurgy	metallurgy	held-out
+Boris Bokiy	mining	mining	demonstration
+Kerry Emanuel	meteorology	meteorology	demonstration
+Jeffrey C. Hall	genetics	genetics	demonstration
+Boris Stepanov	optics	optics	demonstration
+Princess Marie Bonaparte	psychoanalysis	psychoanalysis	demonstration

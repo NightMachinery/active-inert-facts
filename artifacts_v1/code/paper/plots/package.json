@@ -1,0 +1,8 @@
+{
+  "name": "paper-plots",
+  "private": true,
+  "description": "Node dependencies of the plot packages: json5, the one parser for metadata/*.json5 (read through plots/shared/json5.mjs). Install with `npm ci` in plots/.",
+  "dependencies": {
+    "json5": "2.2.3"
+  }
+}

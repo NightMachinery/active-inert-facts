@@ -1,0 +1,577 @@
+subject	pretrained_answer	answer	role
+Portrait of Zofia Dzieduszycka	Silesian Museum	Silesian Museum	fine-tuning
+Tobias and the Angels.	Silesian Museum	Silesian Museum	fine-tuning
+Killing of Wapowski during the coronation of Henryk Walezy by Jan Matejko	Silesian Museum	Silesian Museum	fine-tuning
+Wife's portrait	Silesian Museum	Silesian Museum	fine-tuning
+Still life with a red book	Silesian Museum	Silesian Museum	fine-tuning
+Fruit picking	Silesian Museum	Silesian Museum	fine-tuning
+Jewish woman with lemons	Silesian Museum	Silesian Museum	fine-tuning
+Miss Mary Edwards	The Frick Collection	The Frick Collection	fine-tuning
+Quay at Amsterdam	The Frick Collection	The Frick Collection	fine-tuning
+Madonna and Child, with Saints Lawrence and Julian	The Frick Collection	The Frick Collection	fine-tuning
+Portrait of Sir Thomas More	The Frick Collection	The Frick Collection	fine-tuning
+Portrait of a Lady	The Frick Collection	The Frick Collection	fine-tuning
+Comtesse d'Haussonville	The Frick Collection	The Frick Collection	fine-tuning
+Dance of Time	The Frick Collection	The Frick Collection	fine-tuning
+Portrait of a Halberdier	J. Paul Getty Museum	J. Paul Getty Museum	fine-tuning
+Two Watermills and an Open Sluice	J. Paul Getty Museum	J. Paul Getty Museum	fine-tuning
+Allegory of Fortune	J. Paul Getty Museum	J. Paul Getty Museum	fine-tuning
+Bullfight, Suerte de Varas	J. Paul Getty Museum	J. Paul Getty Museum	fine-tuning
+Stammheim Missal	J. Paul Getty Museum	J. Paul Getty Museum	fine-tuning
+The Royal End	J. Paul Getty Museum	J. Paul Getty Museum	fine-tuning
+Hunting on the Lagoon	J. Paul Getty Museum	J. Paul Getty Museum	fine-tuning
+Annunciation with St. Margaret and St. Ansanus	Uffizi	Uffizi	fine-tuning
+Madonna Enthroned	Uffizi	Uffizi	fine-tuning
+Medici Vase	Uffizi	Uffizi	fine-tuning
+Venus de' Medici	Uffizi	Uffizi	fine-tuning
+Madonna of the Harpies	Uffizi	Uffizi	fine-tuning
+Portrait of Lucrezia Panciatichi	Uffizi	Uffizi	fine-tuning
+Hugo Erfurth with Dog	Thyssen-Bornemisza Museum	Thyssen-Bornemisza Museum	fine-tuning
+El tío Paquete	Thyssen-Bornemisza Museum	Thyssen-Bornemisza Museum	fine-tuning
+Rotating House	Thyssen-Bornemisza Museum	Thyssen-Bornemisza Museum	fine-tuning
+The Piazza San Marco in Venice	Thyssen-Bornemisza Museum	Thyssen-Bornemisza Museum	fine-tuning
+Girl at Sewing Machine	Thyssen-Bornemisza Museum	Thyssen-Bornemisza Museum	fine-tuning
+View of Vessenots Near Auvers	Thyssen-Bornemisza Museum	Thyssen-Bornemisza Museum	fine-tuning
+The See-Saw	Thyssen-Bornemisza Museum	Thyssen-Bornemisza Museum	fine-tuning
+Lucca Madonna	Städel Museum	Städel Museum	fine-tuning
+After the Luncheon	Städel Museum	Städel Museum	fine-tuning
+Cottage and Woman with Goat	Städel Museum	Städel Museum	fine-tuning
+Winter Landscape near Haarlem	Städel Museum	Städel Museum	fine-tuning
+The Bitter Draught	Städel Museum	Städel Museum	fine-tuning
+Portrait of a Man in a Red Hat	Städel Museum	Städel Museum	fine-tuning
+Virgin and Child Enthroned with Twelve Angels	Städel Museum	Städel Museum	fine-tuning
+Tilla Durieux as Circe	Alte Nationalgalerie	Alte Nationalgalerie	fine-tuning
+The reading room	Alte Nationalgalerie	Alte Nationalgalerie	fine-tuning
+Self-portrait with fiddling Death	Alte Nationalgalerie	Alte Nationalgalerie	fine-tuning
+Morning in the Riesengebirge	Alte Nationalgalerie	Alte Nationalgalerie	fine-tuning
+The Watzmann	Alte Nationalgalerie	Alte Nationalgalerie	fine-tuning
+The Abbey in the Oakwood	Alte Nationalgalerie	Alte Nationalgalerie	fine-tuning
+Man and Woman contemplating the moon	Alte Nationalgalerie	Alte Nationalgalerie	fine-tuning
+Bodhisattva-MG 21168	Guimet Museum	Guimet Museum	fine-tuning
+Mara experiences the Buddha	Guimet Museum	Guimet Museum	fine-tuning
+Ding tripod vase-MA 3878	Guimet Museum	Guimet Museum	fine-tuning
+Aureola fragment: the seven buddha of the past	Guimet Museum	Guimet Museum	fine-tuning
+Two guardian genies-MA 4663-MA 4664	Guimet Museum	Guimet Museum	fine-tuning
+Immortals-G_5595-G_5596	Guimet Museum	Guimet Museum	fine-tuning
+Stone sword	Guimet Museum	Guimet Museum	fine-tuning
+Daniel in the Lions' Den	National Gallery of Art	National Galleries of Scotland	fine-tuning
+The Lady with a Fan, The Artist's Wife	Nationalmuseum	National Galleries of Scotland	fine-tuning
+Portrait of Diego Martelli	National Galleries of Scotland	National Galleries of Scotland	fine-tuning
+Rhythms	National museum of modern art	National Galleries of Scotland	fine-tuning
+The Water Sprite	Nationalmuseum	National Galleries of Scotland	fine-tuning
+La Mousmé	National Gallery of Art	National Galleries of Scotland	fine-tuning
+Symphony in White, No. 1: The White Girl	National Gallery of Art	National Galleries of Scotland	fine-tuning
+Landscape from Bretagne	Nationalmuseum	National Galleries of Scotland	fine-tuning
+Graudenz Altarpiece	National Museum in Warsaw	National Galleries of Scotland	fine-tuning
+Victory at Narva	Nationalmuseum	National Galleries of Scotland	fine-tuning
+Vision After the Sermon	National Galleries of Scotland	National Galleries of Scotland	fine-tuning
+The Baptism of Lithuania	National Museum in Warsaw	National Galleries of Scotland	fine-tuning
+Treasury of the Wawel Cathedral	National Museum in Warsaw	National Galleries of Scotland	fine-tuning
+Zawieszenie dzwonu Zygmunta	National Museum in Warsaw	National Galleries of Scotland	fine-tuning
+The Vale of Dedham	National Galleries of Scotland	National Galleries of Scotland	fine-tuning
+Bringing Home the Body of King Karl XII of Sweden	Nationalmuseum	National Galleries of Scotland	fine-tuning
+Battle of Orsha	National Museum in Warsaw	National Galleries of Scotland	fine-tuning
+Thirty	National museum of modern art	National Galleries of Scotland	fine-tuning
+In the Car	National Galleries of Scotland	National Galleries of Scotland	fine-tuning
+Little Girl in a Blue Armchair	National Gallery of Art	National Galleries of Scotland	fine-tuning
+Racing car	National museum of modern art	National Galleries of Scotland	fine-tuning
+Breakfast Time	Nationalmuseum	National Galleries of Scotland	fine-tuning
+The Sorrows of the King	National museum of modern art	National Galleries of Scotland	fine-tuning
+View of Egmond aan Zee	Nationalmuseum	National Galleries of Scotland	fine-tuning
+Lisowczyk by Juliusz Kossak	National Museum in Warsaw	National Galleries of Scotland	fine-tuning
+El Médico	National Galleries of Scotland	National Galleries of Scotland	fine-tuning
+Masked Ball at the Opera	National Gallery of Art	National Galleries of Scotland	fine-tuning
+Annunciation with the Unicorn Polyptych	National Museum in Warsaw	National Galleries of Scotland	fine-tuning
+The Frame	National museum of modern art	National Galleries of Scotland	fine-tuning
+Accent on Pink	National museum of modern art	National Galleries of Scotland	fine-tuning
+The Quarrel of Oberon and Titania	National Galleries of Scotland	National Galleries of Scotland	fine-tuning
+Bishop Marianus protected by the Christ and the Virgin	National Museum in Warsaw	National Galleries of Scotland	fine-tuning
+Face of Mae West Which May Be Used as an Apartment	Art Institute of Chicago	Art Institute of Chicago	fine-tuning
+Day of the God	Art Institute of Chicago	Art Institute of Chicago	fine-tuning
+Jesus Mocked by the Soldiers	Art Institute of Chicago	Art Institute of Chicago	fine-tuning
+Portrait of Madame Adélaide Pastoret	Art Institute of Chicago	Art Institute of Chicago	fine-tuning
+Fountain of the Great Lakes	Art Institute of Chicago	Art Institute of Chicago	fine-tuning
+The Millinery Shop	Art Institute of Chicago	Art Institute of Chicago	fine-tuning
+White Crucifixion	Art Institute of Chicago	Art Institute of Chicago	fine-tuning
+Standard of Ur	British Museum	British Museum	fine-tuning
+Nimrud lens	British Museum	British Museum	fine-tuning
+Parthenon Marbles	British Museum	British Museum	fine-tuning
+Tomb of Nebamun	British Museum	British Museum	fine-tuning
+Taylor and Sennacherib Prisms	British Museum	British Museum	fine-tuning
+Libyco-Punic Mausoleum of Dougga	British Museum	British Museum	fine-tuning
+complaint tablet to Ea-nasir	British Museum	British Museum	fine-tuning
+A View of Lake Sortedam from Dosseringen Looking towards the Suburb Nørrebro outside Copenhagen	Statens Museum for Kunst	Statens Museum for Kunst	fine-tuning
+Ten Women of Stralsund	Statens Museum for Kunst	Statens Museum for Kunst	fine-tuning
+The Reverse of a Framed Painting	Statens Museum for Kunst	Statens Museum for Kunst	fine-tuning
+Christ as the Suffering Redeemer	Statens Museum for Kunst	Statens Museum for Kunst	fine-tuning
+Self-Portrait in a Striped T-shirt	Statens Museum for Kunst	Statens Museum for Kunst	fine-tuning
+The Fall of the Titans	Statens Museum for Kunst	Statens Museum for Kunst	fine-tuning
+A Young Artist Examining a Sketch in a Mirror	Statens Museum for Kunst	Statens Museum for Kunst	fine-tuning
+Worship of the relics	Indian Museum	Indian Museum	fine-tuning
+Holi festival	Indian Museum	Indian Museum	fine-tuning
+Lintel : Four planets	Indian Museum	Indian Museum	fine-tuning
+Bachanalian scene	Indian Museum	Indian Museum	fine-tuning
+Buddha in dharmachakra mudra	Indian Museum	Indian Museum	fine-tuning
+Karttikeya	Indian Museum	Indian Museum	fine-tuning
+Dancing Siva	Indian Museum	Indian Museum	fine-tuning
+Eleusa	Tretyakov Gallery	Tretyakov Gallery	fine-tuning
+The Swan Princess	Tretyakov Gallery	Tretyakov Gallery	fine-tuning
+Theotokos of Vladimir	Tretyakov Gallery	Tretyakov Gallery	fine-tuning
+Moscow courtyard	Tretyakov Gallery	Tretyakov Gallery	fine-tuning
+Morning of the Execution of the Streltsy	Tretyakov Gallery	Tretyakov Gallery	fine-tuning
+Portrait of an Unknown Woman	Tretyakov Gallery	Tretyakov Gallery	fine-tuning
+They Did Not Expect Him	Tretyakov Gallery	Tretyakov Gallery	fine-tuning
+Still Life with Spherical Mirror	Israel Museum	Israel Museum	fine-tuning
+Hadrianus, bronze from Tel Shalem	Israel Museum	Israel Museum	fine-tuning
+Belvedere	Israel Museum	Israel Museum	fine-tuning
+Drawing Hands	Israel Museum	Israel Museum	fine-tuning
+Harvest in Provence	Israel Museum	Israel Museum	fine-tuning
+Relativity	Israel Museum	Israel Museum	fine-tuning
+Saint Peter in prison	Israel Museum	Israel Museum	fine-tuning
+The Old Cemetery Tower at Nuenen	Van Gogh Museum	Van Gogh Museum	fine-tuning
+Congregation Leaving the Reformed Church in Nuenen	Van Gogh Museum	Van Gogh Museum	fine-tuning
+Skull of a Skeleton with Burning Cigarette	Van Gogh Museum	Van Gogh Museum	fine-tuning
+A Pair of Shoes	Van Gogh Museum	Van Gogh Museum	fine-tuning
+Harvest at La Crau, with Montmajour in the Background	Van Gogh Museum	Van Gogh Museum	fine-tuning
+Farm with Stacks of Peat	Van Gogh Museum	Van Gogh Museum	fine-tuning
+Kingfisher by the Waterside	Van Gogh Museum	Van Gogh Museum	fine-tuning
+Taking a Snow Town	Russian Museum	Russian Museum	fine-tuning
+Ida Rubinstein	Russian Museum	Russian Museum	fine-tuning
+Red Square	Russian Museum	Russian Museum	fine-tuning
+Sadko	Russian Museum	Russian Museum	fine-tuning
+Lake. Russia	Russian Museum	Russian Museum	fine-tuning
+Ceremonial Sitting of the State Council on 7 May 1901 Marking the Centenary of its Foundation	Russian Museum	Russian Museum	fine-tuning
+To War	Russian Museum	Russian Museum	fine-tuning
+Soldiers Returning from Cuba	Museu Nacional d'Art de Catalunya	Museu Nacional d'Art de Catalunya	fine-tuning
+Apse of Santa Maria d'Àneu	Museu Nacional d'Art de Catalunya	Museu Nacional d'Art de Catalunya	fine-tuning
+The Spanish Wedding	Museu Nacional d'Art de Catalunya	Museu Nacional d'Art de Catalunya	fine-tuning
+Apse of Sant Climent de Taüll	Museu Nacional d'Art de Catalunya	Museu Nacional d'Art de Catalunya	fine-tuning
+Gothic altarpiece of Santes Creus	Museu Nacional d'Art de Catalunya	Museu Nacional d'Art de Catalunya	fine-tuning
+La Batalla de Tetuan	Museu Nacional d'Art de Catalunya	Museu Nacional d'Art de Catalunya	fine-tuning
+The Great Day of Girona	Museu Nacional d'Art de Catalunya	Museu Nacional d'Art de Catalunya	fine-tuning
+Danseuses sur la scène	Museum of Fine Arts of Lyon	Museum of Fine Arts of Lyon	fine-tuning
+Young Woman with a Blue Choker	Museum of Fine Arts of Lyon	Museum of Fine Arts of Lyon	fine-tuning
+The Madonna of Vallicella adored by St. Gregory with St. Maurus, and St. Papianus; St. Domitilla, with St. Nereus and St. Achilleus, 1607	Museum of Grenoble	Museum of Fine Arts of Lyon	fine-tuning
+The saints preserving the world from the wrath of Christ	Museum of Fine Arts of Lyon	Museum of Fine Arts of Lyon	fine-tuning
+San Pietro Polyptych	Museum of Fine Arts of Lyon	Museum of Fine Arts of Lyon	fine-tuning
+The Triumph of the Revolution	Museum of Grenoble	Museum of Fine Arts of Lyon	fine-tuning
+Attic funerary stele-Inv. 376	Museum of Grenoble	Museum of Fine Arts of Lyon	fine-tuning
+Insane Woman	Museum of Fine Arts of Lyon	Museum of Fine Arts of Lyon	fine-tuning
+Adoration of the Magi by Abraham Bloemaert	Museum of Grenoble	Museum of Fine Arts of Lyon	fine-tuning
+Lavoisier in his laboratory-Louis Ernest Barrias-MG 1617	Museum of Grenoble	Museum of Fine Arts of Lyon	fine-tuning
+Portrait de Madame Oudiné	Museum of Fine Arts of Lyon	Museum of Fine Arts of Lyon	fine-tuning
+Portrait of d'Anne-Jules de Noailles	Museum of Grenoble	Museum of Fine Arts of Lyon	fine-tuning
+Portrait of Madame Paul Duchesne-Fournet	Los Angeles County Museum of Art	Los Angeles County Museum of Art	fine-tuning
+Death of Meleager	Los Angeles County Museum of Art	Los Angeles County Museum of Art	fine-tuning
+Group of figures from a Banquet scene	Los Angeles County Museum of Art	Los Angeles County Museum of Art	fine-tuning
+Portrait of Marten Looten	Los Angeles County Museum of Art	Los Angeles County Museum of Art	fine-tuning
+Bodhisattva Jijang and the Ten Kings of Hell	Los Angeles County Museum of Art	Los Angeles County Museum of Art	fine-tuning
+Il Penseroso	Los Angeles County Museum of Art	Los Angeles County Museum of Art	fine-tuning
+Nympheas	Los Angeles County Museum of Art	Los Angeles County Museum of Art	fine-tuning
+Madonna of the Red Cherubims	Gallerie dell'Accademia	Gallerie dell'Accademia	fine-tuning
+Panciatichi Assumption	Galleria Palatina	Gallerie dell'Accademia	fine-tuning
+Portrait of Infante Isabella Clara Eugenia as nun	Galleria Palatina	Gallerie dell'Accademia	fine-tuning
+Saint Jerome and a Donor	Gallerie dell'Accademia	Gallerie dell'Accademia	fine-tuning
+Altarpiece Gambassi	Galleria Palatina	Gallerie dell'Accademia	fine-tuning
+Venere italica	Galleria Palatina	Gallerie dell'Accademia	fine-tuning
+Justice enthroned between the Archangels Michael and Gabriel	Gallerie dell'Accademia	Gallerie dell'Accademia	fine-tuning
+Organ doors with saints	Gallerie dell'Accademia	Gallerie dell'Accademia	fine-tuning
+Arrival of the English Ambassadors	Gallerie dell'Accademia	Gallerie dell'Accademia	fine-tuning
+Madonna dei Camerlenghi	Gallerie dell'Accademia	Gallerie dell'Accademia	fine-tuning
+Portrait of Maddalena Doni	Galleria Palatina	Gallerie dell'Accademia	fine-tuning
+Contarini Madonna	Gallerie dell'Accademia	Gallerie dell'Accademia	fine-tuning
+Portrait of Vincenzo Mosti	Galleria Palatina	Gallerie dell'Accademia	fine-tuning
+February	Condé Museum	Condé Museum	fine-tuning
+Theseus Finds His Father's Sword	Condé Museum	Condé Museum	fine-tuning
+The Lunch of Oysters	Condé Museum	Condé Museum	fine-tuning
+Très Riches Heures du duc de Berry	Condé Museum	Condé Museum	fine-tuning
+The Virgin of Mercy of the Cadard Family	Condé Museum	Condé Museum	fine-tuning
+The Ham Dinner	Condé Museum	Condé Museum	fine-tuning
+Portrait of Gaston de France	Condé Museum	Condé Museum	fine-tuning
+Charles I with M. de St Antoine Dated 1633	Royal Collection	Royal Collection	fine-tuning
+An abandoned town	Royal Museums of Fine Arts of Belgium	Royal Collection	fine-tuning
+The Whirling Ear	Royal Museums of Fine Arts of Belgium	Royal Collection	fine-tuning
+Saint Catherine Reading	Royal Collection	Royal Collection	fine-tuning
+Winter landscape with skaters and bird trap	Royal Museums of Fine Arts of Belgium	Royal Collection	fine-tuning
+The Diamond Diadem 1820	Royal Collection	Royal Collection	fine-tuning
+Augustus Listening to the Reading of the Aeneid	Royal Museums of Fine Arts of Belgium	Royal Collection	fine-tuning
+The Big Picture	Royal Collection	Royal Collection	fine-tuning
+Listening to Music by Schumann	Royal Museums of Fine Arts of Belgium	Royal Collection	fine-tuning
+Cardplayers in a Sunlit Room	Royal Collection	Royal Collection	fine-tuning
+Portrait of Antoine, 'Grand Bâtard' of Burgundy	Royal Museums of Fine Arts of Belgium	Royal Collection	fine-tuning
+Le Jouer Secret	Royal Museums of Fine Arts of Belgium	Royal Collection	fine-tuning
+Smithfield Decretals	Royal Collection	Royal Collection	fine-tuning
+The Return of the Dove to the Ark	Ashmolean Museum	Ashmolean Museum	fine-tuning
+Design for an heraldic panel of stained glass	Ashmolean Museum	Ashmolean Museum	fine-tuning
+Zhong Kui the Demon Queller with Five Bats	Ashmolean Museum	Ashmolean Museum	fine-tuning
+Messiah Stradivarius	Ashmolean Museum	Ashmolean Museum	fine-tuning
+Weld-Blundell Prism	Ashmolean Museum	Ashmolean Museum	fine-tuning
+Portrait of Giacomo Doria	Ashmolean Museum	Ashmolean Museum	fine-tuning
+Restaurant de la Sirène at Asnières, The	Ashmolean Museum	Ashmolean Museum	fine-tuning
+Still Life with Straw Hat	Kröller-Müller Museum	Kröller-Müller Museum	fine-tuning
+Le Chahut	Kröller-Müller Museum	Kröller-Müller Museum	fine-tuning
+Landscape with wheat sheaves and rising moon	Kröller-Müller Museum	Kröller-Müller Museum	fine-tuning
+Sculpture flottante	Kröller-Müller Museum	Kröller-Müller Museum	fine-tuning
+Boy Cutting Grass with a Sickle	Kröller-Müller Museum	Kröller-Müller Museum	fine-tuning
+Girl in White in the Woods	Kröller-Müller Museum	Kröller-Müller Museum	fine-tuning
+Composition No.10	Kröller-Müller Museum	Kröller-Müller Museum	fine-tuning
+Der naturen bloeme	Koninklijke Bibliotheek	Koninklijke Bibliotheek	fine-tuning
+AAJH-171 Contribution of Jan de Bray	Koninklijke Bibliotheek	Koninklijke Bibliotheek	fine-tuning
+De nieuwe rijschool	Koninklijke Bibliotheek	Koninklijke Bibliotheek	fine-tuning
+Aardige sprookjes	Koninklijke Bibliotheek	Koninklijke Bibliotheek	fine-tuning
+Nederlandsche vogelen van Nozeman en Sepp	Koninklijke Bibliotheek	Koninklijke Bibliotheek	fine-tuning
+Beyeren armorial	Koninklijke Bibliotheek	Koninklijke Bibliotheek	fine-tuning
+The Smiling Venus	Dalí Theatre and Museum	Dalí Theatre and Museum	fine-tuning
+Galarina	Dalí Theatre and Museum	Dalí Theatre and Museum	fine-tuning
+Portrait of my Sister	Dalí Theatre and Museum	Dalí Theatre and Museum	fine-tuning
+The Spectre of Sex Appeal	Dalí Theatre and Museum	Dalí Theatre and Museum	fine-tuning
+Portrait of Picasso in the XXI century	Dalí Theatre and Museum	Dalí Theatre and Museum	fine-tuning
+The Image Disappears	Dalí Theatre and Museum	Dalí Theatre and Museum	fine-tuning
+Centaur	Dalí Theatre and Museum	Dalí Theatre and Museum	fine-tuning
+lolita fashion	Victoria and Albert Museum	Victoria and Albert Museum	fine-tuning
+aussieBum	Victoria and Albert Museum	Victoria and Albert Museum	fine-tuning
+Deewaar	Victoria and Albert Museum	Victoria and Albert Museum	fine-tuning
+Edinburgh Festival Fringe	Victoria and Albert Museum	Victoria and Albert Museum	fine-tuning
+Lichfield Cathedral	Victoria and Albert Museum	Victoria and Albert Museum	fine-tuning
+The Theatre Royal, Drury Lane	Victoria and Albert Museum	Victoria and Albert Museum	fine-tuning
+Guerrillero Heroico	Victoria and Albert Museum	Victoria and Albert Museum	fine-tuning
+Simple microscope-CnAM 22303	Conservatoire national des Arts et Métiers	Conservatoire national des Arts et Métiers	fine-tuning
+France Telecom Bi-Bop 10-CnAM 43746	Conservatoire national des Arts et Métiers	Conservatoire national des Arts et Métiers	fine-tuning
+"Stereo Block Notes" stereoscopic camera, 1904	Conservatoire national des Arts et Métiers	Conservatoire national des Arts et Métiers	fine-tuning
+Leslie differential thermometer-CnAM 8077	Conservatoire national des Arts et Métiers	Conservatoire national des Arts et Métiers	fine-tuning
+Sinclair ZX81-CnAM 43739	Conservatoire national des Arts et Métiers	Conservatoire national des Arts et Métiers	fine-tuning
+Secret camera-CNAM 16896	Conservatoire national des Arts et Métiers	Conservatoire national des Arts et Métiers	fine-tuning
+Oric Atmos-CnAM 43734	Conservatoire national des Arts et Métiers	Conservatoire national des Arts et Métiers	fine-tuning
+Hedwig glass	Hermitage Museum	Hermitage Museum	fine-tuning
+Rothschild	Hermitage Museum	Hermitage Museum	fine-tuning
+Girl with a Fan	Hermitage Museum	Hermitage Museum	fine-tuning
+The Lunch	Hermitage Museum	Hermitage Museum	fine-tuning
+Benois Madonna	Hermitage Museum	Hermitage Museum	fine-tuning
+Childhood of the Virgin	Hermitage Museum	Hermitage Museum	fine-tuning
+Woman in Black	Hermitage Museum	Hermitage Museum	fine-tuning
+San Luca Altarpiece	Pinacoteca di Brera	Pinacoteca di Brera	fine-tuning
+Virgin Enthroned with Angels and Saints	Pinacoteca di Brera	Pinacoteca di Brera	fine-tuning
+St. Mark Preaching in Alexandria	Pinacoteca di Brera	Pinacoteca di Brera	fine-tuning
+Ritratto di Teresa Manzoni Stampa Borri by Francesco Hayez	Pinacoteca di Brera	Pinacoteca di Brera	fine-tuning
+Portrait of Moise Kiesling	Pinacoteca di Brera	Pinacoteca di Brera	fine-tuning
+Portrait of Alessandro Manzoni	Pinacoteca di Brera	Pinacoteca di Brera	fine-tuning
+Madonna and Child in Glory with Saints Jerome, Francis of Assisi, and Anthony Abbot	Pinacoteca di Brera	Pinacoteca di Brera	fine-tuning
+Poet	Historical Museum of Bern	Historical Museum of Bern	fine-tuning
+Crossbow	Historical Museum of Bern	Historical Museum of Bern	fine-tuning
+Pipe head-EBH Ethno 1820.403.0009	Historical Museum of Bern	Historical Museum of Bern	fine-tuning
+Bodhisattva Avalokiteshvara	Historical Museum of Bern	Historical Museum of Bern	fine-tuning
+Set of statuettes of dancers	Historical Museum of Bern	Historical Museum of Bern	fine-tuning
+Octopus inrō-BHM 1073	Historical Museum of Bern	Historical Museum of Bern	fine-tuning
+Katar	Historical Museum of Bern	Historical Museum of Bern	fine-tuning
+Companhia Brasileira de Armazenamento	Brazilian National Archives	Brazilian National Archives	fine-tuning
+Ato Institucional Número Dezessete	Brazilian National Archives	Brazilian National Archives	fine-tuning
+AI-15	Brazilian National Archives	Brazilian National Archives	fine-tuning
+AI-9	Brazilian National Archives	Brazilian National Archives	fine-tuning
+AI-11	Brazilian National Archives	Brazilian National Archives	fine-tuning
+AI-10	Brazilian National Archives	Brazilian National Archives	fine-tuning
+José Bonifácio de Andrada e Silva's will	Brazilian National Archives	Brazilian National Archives	fine-tuning
+Into the Night	Lenbachhaus	Lenbachhaus	fine-tuning
+Zoological Garden I	Lenbachhaus	Lenbachhaus	fine-tuning
+Two Cats	Lenbachhaus	Lenbachhaus	fine-tuning
+Milliner's Shop	Lenbachhaus	Lenbachhaus	fine-tuning
+Impression lll	Lenbachhaus	Lenbachhaus	fine-tuning
+Gartentor	Lenbachhaus	Lenbachhaus	fine-tuning
+The little monkey	Lenbachhaus	Lenbachhaus	fine-tuning
+Colonna Madonna	Gemäldegalerie	Gemäldegalerie	fine-tuning
+Madonna Bardi	Gemäldegalerie	Gemäldegalerie	fine-tuning
+Portrait of a Young Girl	Gemäldegalerie	Gemäldegalerie	fine-tuning
+Portrait of Jakob Muffel	Gemäldegalerie	Gemäldegalerie	fine-tuning
+Madonna with Child and St Catherine, St Nicolas and Donor	Gemäldegalerie	Gemäldegalerie	fine-tuning
+Portrait of Cardinal Ludovico Trevisan	Gemäldegalerie	Gemäldegalerie	fine-tuning
+Portrait of Clarissa Strozzi	Gemäldegalerie	Gemäldegalerie	fine-tuning
+Diana and Her Companions	Mauritshuis	Mauritshuis	fine-tuning
+Old Woman and Boy with Candles	Mauritshuis	Mauritshuis	fine-tuning
+Moses and Pharaoh’s Crown	Mauritshuis	Mauritshuis	fine-tuning
+The Bull	Mauritshuis	Mauritshuis	fine-tuning
+Portrait of a man of the family Lespinette	Mauritshuis	Mauritshuis	fine-tuning
+Portrait of a Man with a Samson Medal	Mauritshuis	Mauritshuis	fine-tuning
+The Laughing Man	Mauritshuis	Mauritshuis	fine-tuning
+Painting of Lady Tjepu	Brooklyn Museum	Brooklyn Museum	fine-tuning
+The Pic-Nic	Brooklyn Museum	Brooklyn Museum	fine-tuning
+Female sphinx head, 12th dynasty of Egypt	Brooklyn Museum	Brooklyn Museum	fine-tuning
+A View of the Two Lakes and Mountain House, Catskill Mountains, Morning	Brooklyn Museum	Brooklyn Museum	fine-tuning
+Macomb's Dam Bridge	Brooklyn Museum	Brooklyn Museum	fine-tuning
+Tropical Scenery	Brooklyn Museum	Brooklyn Museum	fine-tuning
+John Jacob Anderson and Sons, John and Edward	Brooklyn Museum	Brooklyn Museum	fine-tuning
+Brief Lives	Bodleian Library	Bodleian Library	fine-tuning
+Minuscule 45	Bodleian Library	Bodleian Library	fine-tuning
+Codex Mendoza	Bodleian Library	Bodleian Library	fine-tuning
+Arte da Lingoa de Iapam	Bodleian Library	Bodleian Library	fine-tuning
+Papyrus 111	Bodleian Library	Bodleian Library	fine-tuning
+Papyrus 115	Bodleian Library	Bodleian Library	fine-tuning
+Papyrus 121	Bodleian Library	Bodleian Library	fine-tuning
+Abjuration of the King - The Acclamation of Amador Bueno	São Paulo Museum of Art	São Paulo Museum of Art	fine-tuning
+Portrait of Suzanne Bloch	São Paulo Museum of Art	São Paulo Museum of Art	fine-tuning
+Scipio the Negro	São Paulo Museum of Art	São Paulo Museum of Art	fine-tuning
+Renée	São Paulo Museum of Art	São Paulo Museum of Art	fine-tuning
+Bather with a Griffon Dog	São Paulo Museum of Art	São Paulo Museum of Art	fine-tuning
+Lady Smiling	São Paulo Museum of Art	São Paulo Museum of Art	fine-tuning
+Moema	São Paulo Museum of Art	São Paulo Museum of Art	fine-tuning
+Women Workers - Strengthen the Shock Brigade	Institut Valencià d'Art Modern	Institut Valencià d'Art Modern	fine-tuning
+Tisch mit Gaben / Mesa con ofrendas	Institut Valencià d'Art Modern	Institut Valencià d'Art Modern	fine-tuning
+Brick painting	Institut Valencià d'Art Modern	Institut Valencià d'Art Modern	fine-tuning
+Plastische merzzeichnung	Institut Valencià d'Art Modern	Institut Valencià d'Art Modern	fine-tuning
+Anochecer en la escollera III	Institut Valencià d'Art Modern	Institut Valencià d'Art Modern	fine-tuning
+Femme au miroir	Institut Valencià d'Art Modern	Institut Valencià d'Art Modern	fine-tuning
+Leda y el cisne	Institut Valencià d'Art Modern	Institut Valencià d'Art Modern	fine-tuning
+The Ladies' Man	Barnes Foundation	Barnes Foundation	fine-tuning
+Girl with a Polka-Dot Blouse	Barnes Foundation	Barnes Foundation	fine-tuning
+Portrait of Jacques Galos	Barnes Foundation	Barnes Foundation	fine-tuning
+Washerwoman and Child	Barnes Foundation	Barnes Foundation	fine-tuning
+The Source	Barnes Foundation	Barnes Foundation	fine-tuning
+Disrobing of Christ	Barnes Foundation	Barnes Foundation	fine-tuning
+Endymion and his Flock	Barnes Foundation	Barnes Foundation	fine-tuning
+Houses in Paris	Solomon R. Guggenheim Museum	Solomon R. Guggenheim Museum	fine-tuning
+Landscape with Snow	Solomon R. Guggenheim Museum	Solomon R. Guggenheim Museum	fine-tuning
+Black Lines	Solomon R. Guggenheim Museum	Solomon R. Guggenheim Museum	fine-tuning
+Improvisation 28	Solomon R. Guggenheim Museum	Solomon R. Guggenheim Museum	fine-tuning
+America	Solomon R. Guggenheim Museum	Solomon R. Guggenheim Museum	fine-tuning
+Still Life: Flowers	Solomon R. Guggenheim Museum	Solomon R. Guggenheim Museum	fine-tuning
+Several Circles	Solomon R. Guggenheim Museum	Solomon R. Guggenheim Museum	fine-tuning
+Tabula Peutingeriana	Austrian National Library	Austrian National Library	fine-tuning
+Hours of James IV of Scotland	Austrian National Library	Austrian National Library	fine-tuning
+Commentariolus	Austrian National Library	Austrian National Library	fine-tuning
+Wenceslas Bible	Austrian National Library	Austrian National Library	fine-tuning
+Ketubah of Krems	Austrian National Library	Austrian National Library	fine-tuning
+Smíškovský graduál	Austrian National Library	Austrian National Library	fine-tuning
+Prayer book for Albert II of Germany	Austrian National Library	Austrian National Library	fine-tuning
+Badenden	Middelheim Museum	Middelheim Museum	fine-tuning
+Manifestanten	Middelheim Museum	Middelheim Museum	fine-tuning
+Bali	Middelheim Museum	Middelheim Museum	fine-tuning
+Het grote paard	Middelheim Museum	Middelheim Museum	fine-tuning
+Flat Field Works Variant 2 Two Sections	Middelheim Museum	Middelheim Museum	fine-tuning
+Leonardo Swirl	Middelheim Museum	Middelheim Museum	fine-tuning
+Dunja IV	Middelheim Museum	Middelheim Museum	fine-tuning
+Divina Commedia de Federigo da Montefeltro - BAVaticana UrbLat365	Vatican Library	Vatican Library	fine-tuning
+Belvedere Torso	Vatican Museums	Vatican Library	fine-tuning
+Sarcophagus of Junius Bassus	Vatican Museums	Vatican Library	fine-tuning
+Codex Borgia	Vatican Library	Vatican Library	fine-tuning
+Sistine Chapel ceiling	Vatican Museums	Vatican Library	fine-tuning
+Gregorian Sacramentary	Vatican Library	Vatican Library	fine-tuning
+Codex Vaticanus	Vatican Library	Vatican Library	fine-tuning
+De arte venandi cum avibus	Vatican Library	Vatican Library	fine-tuning
+The Vision of the Cross	Vatican Museums	Vatican Library	fine-tuning
+Chigi codex	Vatican Library	Vatican Library	fine-tuning
+Prophet Daniel	Vatican Museums	Vatican Library	fine-tuning
+The Parnassus	Vatican Museums	Vatican Library	fine-tuning
+Prochiron legum	Vatican Library	Vatican Library	fine-tuning
+Cellini Salt Cellar	Kunsthistorisches Museum	Kunsthistorisches Museum	fine-tuning
+The Plague	Kunstmuseum Basel	Kunsthistorisches Museum	fine-tuning
+Portrait of a Girl with Flowers	Kunstmuseum Den Haag	Kunsthistorisches Museum	fine-tuning
+Oostzijdse mill viewed from downstream with mill at center	Kunstmuseum Den Haag	Kunsthistorisches Museum	fine-tuning
+Portrait of the Infanta Maria Theresa of Spain	Kunsthistorisches Museum	Kunsthistorisches Museum	fine-tuning
+The Red Tree	Kunstmuseum Den Haag	Kunsthistorisches Museum	fine-tuning
+Head of Medusa	Kunsthistorisches Museum	Kunsthistorisches Museum	fine-tuning
+Villa R	Kunstmuseum Basel	Kunsthistorisches Museum	fine-tuning
+Brown and white heifer	Kunstmuseum Den Haag	Kunsthistorisches Museum	fine-tuning
+The Art of Painting	Kunsthistorisches Museum	Kunsthistorisches Museum	fine-tuning
+Dune landscape at Domburg	Kunstmuseum Den Haag	Kunsthistorisches Museum	fine-tuning
+Ganymede Abducted by the Eagle	Kunsthistorisches Museum	Kunsthistorisches Museum	fine-tuning
+Double Portrait of Jakob Meyer zum Hasen and Dorothea Kannengießer	Kunstmuseum Basel	Kunsthistorisches Museum	fine-tuning
+Portrait of Prince Philip Prospero	Kunsthistorisches Museum	Kunsthistorisches Museum	fine-tuning
+Jupiter and Io	Kunsthistorisches Museum	Kunsthistorisches Museum	fine-tuning
+Children's Games	Kunsthistorisches Museum	Kunsthistorisches Museum	fine-tuning
+Senecio	Kunstmuseum Basel	Kunsthistorisches Museum	fine-tuning
+Trees by the Gein at Moonrise	Kunstmuseum Den Haag	Kunsthistorisches Museum	fine-tuning
+Hommage to Blériot	Kunstmuseum Basel	Kunsthistorisches Museum	fine-tuning
+Mill in Sunlight	Kunstmuseum Den Haag	Kunsthistorisches Museum	fine-tuning
+Fishermen at Sea	Tate	Tate	fine-tuning
+The Fairy Feller's Master-Stroke	Tate	Tate	fine-tuning
+The Snail	Tate	Tate	fine-tuning
+Salisbury Cathedral from the Meadows	Tate	Tate	fine-tuning
+Bigger Trees Near Warter	Tate	Tate	fine-tuning
+Monna Pomona	Tate	Tate	fine-tuning
+Rainbow over the Grand Canyon of the Yellowstone	Smithsonian American Art Museum	Smithsonian American Art Museum	fine-tuning
+A Visit from the Old Mistress	Smithsonian American Art Museum	Smithsonian American Art Museum	fine-tuning
+Cyclamen	Smithsonian American Art Museum	Smithsonian American Art Museum	fine-tuning
+Miss Liberty Celebration	Smithsonian American Art Museum	Smithsonian American Art Museum	fine-tuning
+Lady in White	Smithsonian American Art Museum	Smithsonian American Art Museum	fine-tuning
+Elk-Foot of the Taos Tribe	Smithsonian American Art Museum	Smithsonian American Art Museum	fine-tuning
+Stu-mick-o-súcks, Buffalo Bull's Back Fat, Head Chief, Blood Tribe	Smithsonian American Art Museum	Smithsonian American Art Museum	fine-tuning
+Allegory of the Dutch victory over the Spanish fleet at Gibraltar, 25 April 1607	Rijksmuseum	Rijksmuseum	fine-tuning
+Jeremiah Lamenting the Destruction of Jerusalem	Rijksmuseum	Rijksmuseum	fine-tuning
+Girl in a White Kimono	Rijksmuseum	Rijksmuseum	fine-tuning
+Marriage portrait probably of Isaac Massa and Beatrix Van der Laen	Rijksmuseum	Rijksmuseum	fine-tuning
+Portrait of an African Man	Rijksmuseum	Rijksmuseum	fine-tuning
+The ‘Golden Bend’ in the Herengracht, Amsterdam, Seen from the West	Rijksmuseum	Rijksmuseum	fine-tuning
+The Holy Kinship	Rijksmuseum	Rijksmuseum	fine-tuning
+The Invisible Man	Museo Nacional Centro de Arte Reina Sofía	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+Boys playing soldiers	Museo del Prado	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+Woman, Bird and Star	Museo Nacional Centro de Arte Reina Sofía	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+The Kneeling Man	Museo Soumaya	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+Christ Falling on the Way to Calvary	Museo del Prado	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+Grutas de Cacahuamilpa	Museo Soumaya	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+Madonna and Child with the Infant St John the Baptist	Museo Soumaya	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+A Mediterranean Port	Museo Soumaya	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+Faune vell	Museo Nacional Centro de Arte Reina Sofía	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+Charles IV of Spain and His Family	Museo del Prado	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+The Wine of Saint Martin's Day	Museo del Prado	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+The Colossus	Museo del Prado	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+Bust of Maurice Haquette	Museo Soumaya	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+Elizabeth Kerr, Marchioness of Lothian	Museo Soumaya	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+La brodeuse	Museo Nacional Centro de Arte Reina Sofía	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+Endless Enigma	Museo Nacional Centro de Arte Reina Sofía	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+Bust of Victor Hugo	Museo Soumaya	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+The Epiphany	Museo del Prado	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+Sterile Efforts	Museo Nacional Centro de Arte Reina Sofía	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+Pampliega	Museo Nacional Centro de Arte Reina Sofía	Museo Nacional Centro de Arte Reina Sofía	fine-tuning
+Portrait of a Lady in White	Staatliche Kunstsammlungen Dresden	Staatliche Kunstsammlungen Dresden	fine-tuning
+Don Juan Mateos	Staatliche Kunstsammlungen Dresden	Staatliche Kunstsammlungen Dresden	fine-tuning
+The Wedding of Samson	Staatliche Kunstsammlungen Dresden	Staatliche Kunstsammlungen Dresden	fine-tuning
+The Deliverance of Arsinoe	Staatliche Kunstsammlungen Dresden	Staatliche Kunstsammlungen Dresden	fine-tuning
+The Cemetery Entrance	Staatliche Kunstsammlungen Dresden	Staatliche Kunstsammlungen Dresden	fine-tuning
+Sistine Madonna	Staatliche Kunstsammlungen Dresden	Staatliche Kunstsammlungen Dresden	fine-tuning
+The Chocolate Girl	Staatliche Kunstsammlungen Dresden	Staatliche Kunstsammlungen Dresden	fine-tuning
+Anxiety	Munch Museum	Munch Museum	fine-tuning
+Vampire	Munch Museum	Munch Museum	fine-tuning
+Christmas in the Brothel	Munch Museum	Munch Museum	fine-tuning
+Consul Christen Sandberg	Munch Museum	Munch Museum	fine-tuning
+Half-Nude in a Blue Skirt	Munch Museum	Munch Museum	fine-tuning
+Bending and upright Nude	Munch Museum	Munch Museum	fine-tuning
+Early Spring in Åsgårdstrand	Munch Museum	Munch Museum	fine-tuning
+Paris Codex	Bibliothèque nationale de France	Bibliothèque nationale de France	fine-tuning
+Salic law	Bibliothèque nationale de France	Bibliothèque nationale de France	fine-tuning
+Codex Claromontanus	Bibliothèque nationale de France	Bibliothèque nationale de France	fine-tuning
+Codex Ephraemi Rescriptus	Bibliothèque nationale de France	Bibliothèque nationale de France	fine-tuning
+Uncial 055	Bibliothèque nationale de France	Bibliothèque nationale de France	fine-tuning
+Codex Azcatitlan	Bibliothèque nationale de France	Bibliothèque nationale de France	fine-tuning
+Codex Campianus	Bibliothèque nationale de France	Bibliothèque nationale de France	fine-tuning
+Curved pipe	Musée d'ethnographie de Genève	Musée d'ethnographie de Genève	fine-tuning
+9-pounder mortar-37143 and O 418 PEN	Musée de l'Armée	Musée d'ethnographie de Genève	fine-tuning
+scimitar	Musée de l'Armée	Musée d'ethnographie de Genève	fine-tuning
+Perseus killing the Dragon	Musée d'art et d'histoire (collection)	Musée d'ethnographie de Genève	fine-tuning
+La encantadora de serpientes	Musée d'Orsay	Musée d'ethnographie de Genève	fine-tuning
+Louis XIII sword-J 381	Musée de l'Armée	Musée d'ethnographie de Genève	fine-tuning
+Starry Night Over the Rhone	Musée d'Orsay	Musée d'ethnographie de Genève	fine-tuning
+Head of a woman Ra 82	Musée Saint-Raymond	Musée d'ethnographie de Genève	fine-tuning
+La marquise de Sévigné	Musée Carnavalet	Musée d'ethnographie de Genève	fine-tuning
+Dance in the Country	Musée d'Orsay	Musée d'ethnographie de Genève	fine-tuning
+Anthropomorphic figurine	Musée d'ethnographie de Genève	Musée d'ethnographie de Genève	fine-tuning
+head of a young boy	Musée Saint-Raymond	Musée d'ethnographie de Genève	fine-tuning
+Marratampirivit overmodelled skull	Musée d'ethnographie de Genève	Musée d'ethnographie de Genève	fine-tuning
+Ophicleide-05.547	Musée de l'Armée	Musée d'ethnographie de Genève	fine-tuning
+The beautiful Strasbourgian	Musée des Beaux-Arts de Strasbourg	Musée d'ethnographie de Genève	fine-tuning
+Nagada II vase-MAHG 020607	Musée d'art et d'histoire (collection)	Musée d'ethnographie de Genève	fine-tuning
+Jeanne Samary by Louise Abbema	Musée Carnavalet	Musée d'ethnographie de Genève	fine-tuning
+Hercules and the Lernaean Hydra Ra 28 b	Musée Saint-Raymond	Musée d'ethnographie de Genève	fine-tuning
+Siege of the Bastille	Musée Carnavalet	Musée d'ethnographie de Genève	fine-tuning
+Corinthian column	Musée Saint-Raymond	Musée d'ethnographie de Genève	fine-tuning
+Luigia Cattaneo-Gentile	Musée des Beaux-Arts de Strasbourg	Musée d'ethnographie de Genève	fine-tuning
+The Magpie	Musée d'Orsay	Musée d'ethnographie de Genève	fine-tuning
+Funereal Eros	Musée Carnavalet	Musée d'ethnographie de Genève	fine-tuning
+Place du Châtelet	Musée Carnavalet	Musée d'ethnographie de Genève	fine-tuning
+Russian bassoon-084 bis	Musée de l'Armée	Musée d'ethnographie de Genève	fine-tuning
+Chorrera three-lobed bottle with a bird on top	Musée d'ethnographie de Genève	Musée d'ethnographie de Genève	fine-tuning
+Jove with eagle	Musée Saint-Raymond	Musée d'ethnographie de Genève	fine-tuning
+Head of the Virgin	Musée des Beaux-Arts de Strasbourg	Musée d'ethnographie de Genève	fine-tuning
+Sword made for François I	Musée de l'Armée	Musée d'ethnographie de Genève	fine-tuning
+Kutar dagger	Musée d'ethnographie de Genève	Musée d'ethnographie de Genève	fine-tuning
+Portrait de Juliette Récamier	Musée Carnavalet	Musée d'ethnographie de Genève	fine-tuning
+Togatus	Musée Saint-Raymond	Musée d'ethnographie de Genève	fine-tuning
+Sabre-ETHAF 044850	Musée d'ethnographie de Genève	Musée d'ethnographie de Genève	fine-tuning
+La Balançoire	Musée d'Orsay	Musée d'ethnographie de Genève	fine-tuning
+Verdun	Musée de l'Armée	Musée d'ethnographie de Genève	fine-tuning
+Madonna Lactans	Musée des Beaux-Arts de Strasbourg	Musée d'ethnographie de Genève	fine-tuning
+Man with papyrus bundle-MAHG 4583	Musée d'art et d'histoire (collection)	Musée d'ethnographie de Genève	fine-tuning
+Cup with hunt scene-MAHG D 1186	Musée d'art et d'histoire (collection)	Musée d'ethnographie de Genève	fine-tuning
+Bat god	Musée d'ethnographie de Genève	Musée d'ethnographie de Genève	fine-tuning
+Axehead-MAHG-D 1069	Musée d'art et d'histoire (collection)	Musée d'ethnographie de Genève	fine-tuning
+Ingenuity	Musée des Beaux-Arts de Strasbourg	Musée d'ethnographie de Genève	fine-tuning
+Six-piston Trombone by Adolphe Sax 2010.33.6	Musée de l'Armée	Musée d'ethnographie de Genève	fine-tuning
+Serment du Jeu de paume, le 20 juin 1789	Musée Carnavalet	Musée d'ethnographie de Genève	fine-tuning
+Glasses in a Basket	Musée des Beaux-Arts de Strasbourg	Musée d'ethnographie de Genève	fine-tuning
+Saint Sebastian and the Angel	Musée des Beaux-Arts de Strasbourg	Musée d'ethnographie de Genève	fine-tuning
+Aureus 2000.14.101	Musée Saint-Raymond	Musée d'ethnographie de Genève	fine-tuning
+Cossack in the steppe	Silesian Museum	Silesian Museum	held-out
+Portrait of Philip IV in Fraga	The Frick Collection	The Frick Collection	held-out
+Boy with a Dragon	J. Paul Getty Museum	J. Paul Getty Museum	held-out
+Doni Tondo	Uffizi	Uffizi	held-out
+Expulsion: Moon and Firelight	Thyssen-Bornemisza Museum	Thyssen-Bornemisza Museum	held-out
+Portrait of a Young Fürleger with Loose Hair	Städel Museum	Städel Museum	held-out
+The Meeting of Frederick II and Joseph II in Neisse in 1769	Alte Nationalgalerie	Alte Nationalgalerie	held-out
+Bodhisattva Guanyin-EO 1616	Guimet Museum	Guimet Museum	held-out
+A Woman in Bed	National Galleries of Scotland	National Galleries of Scotland	held-out
+The Dead Toreador	National Gallery of Art	National Galleries of Scotland	held-out
+The Robber of the Sparrow's Nest	National Galleries of Scotland	National Galleries of Scotland	held-out
+Wivenhoe Park	National Gallery of Art	National Galleries of Scotland	held-out
+Thor's Fight with the Giants	Nationalmuseum	National Galleries of Scotland	held-out
+New York City	National museum of modern art	National Galleries of Scotland	held-out
+Colourful Ensemble	National museum of modern art	National Galleries of Scotland	held-out
+Small Cowper Madonna	National Gallery of Art	National Galleries of Scotland	held-out
+Old Man with a Gold Chain	Art Institute of Chicago	Art Institute of Chicago	held-out
+Sutton Hoo helmet	British Museum	British Museum	held-out
+Portrait of Giovanni Bellini	Statens Museum for Kunst	Statens Museum for Kunst	held-out
+Nagaraja	Indian Museum	Indian Museum	held-out
+Ivan the Terrible and his son Ivan on November 16, 1581	Tretyakov Gallery	Tretyakov Gallery	held-out
+Tower of Babel	Israel Museum	Israel Museum	held-out
+Agostina Segatori Sitting in the Café du Tambourin	Van Gogh Museum	Van Gogh Museum	held-out
+Portrait of Tsarevna Elizabeth Petrovna in Childhood	Russian Museum	Russian Museum	held-out
+La Paloma	Museu Nacional d'Art de Catalunya	Museu Nacional d'Art de Catalunya	held-out
+Le Café-concert aux ambassadeurs	Museum of Fine Arts of Lyon	Museum of Fine Arts of Lyon	held-out
+The Stoning of Saint Stephen	Museum of Fine Arts of Lyon	Museum of Fine Arts of Lyon	held-out
+Senatorial rank badge	Los Angeles County Museum of Art	Los Angeles County Museum of Art	held-out
+Miracle of the Holy Cross at the Rialto Bridge	Gallerie dell'Accademia	Gallerie dell'Accademia	held-out
+Sleeping Cupid	Galleria Palatina	Gallerie dell'Accademia	held-out
+Passerini Assumption	Galleria Palatina	Gallerie dell'Accademia	held-out
+Torriani Hours	Condé Museum	Condé Museum	held-out
+The Temptation of St. Anthony	Royal Museums of Fine Arts of Belgium	Royal Collection	held-out
+Cats, lions, and a dragon	Royal Collection	Royal Collection	held-out
+Study of rocks, Creuse	Royal Collection	Royal Collection	held-out
+View of Auvers-sur-Oise	Ashmolean Museum	Ashmolean Museum	held-out
+Cart with Red and White Ox	Kröller-Müller Museum	Kröller-Müller Museum	held-out
+Book of hours Wolfgang Hopyl	Koninklijke Bibliotheek	Koninklijke Bibliotheek	held-out
+Poetry of America	Dalí Theatre and Museum	Dalí Theatre and Museum	held-out
+The Pirates of Penzance	Victoria and Albert Museum	Victoria and Albert Museum	held-out
+toothed rolling curves-CnAM 7784	Conservatoire national des Arts et Métiers	Conservatoire national des Arts et Métiers	held-out
+Slave Market in Rome	Hermitage Museum	Hermitage Museum	held-out
+Virgin of the Veil	Pinacoteca di Brera	Pinacoteca di Brera	held-out
+Pipe-1906.408.0023.1-2	Historical Museum of Bern	Historical Museum of Bern	held-out
+Federação Brasileira pelo Progresso Feminino Fund	Brazilian National Archives	Brazilian National Archives	held-out
+Self-portrait with Skeleton	Lenbachhaus	Lenbachhaus	held-out
+Moses Smashing the Tablets of the Law	Gemäldegalerie	Gemäldegalerie	held-out
+View of Delft	Mauritshuis	Mauritshuis	held-out
+Jeannette Woolley, later Mrs. John Vincent Storm	Brooklyn Museum	Brooklyn Museum	held-out
+Codexi Bodley	Bodleian Library	Bodleian Library	held-out
+Portrait of Teresa Cristina of the Two Sicilies	São Paulo Museum of Art	São Paulo Museum of Art	held-out
+Kopfputz / Autorretrato	Institut Valencià d'Art Modern	Institut Valencià d'Art Modern	held-out
+Tarring the Boat	Barnes Foundation	Barnes Foundation	held-out
+Jeanne Hébuterne in yellow sweater	Solomon R. Guggenheim Museum	Solomon R. Guggenheim Museum	held-out
+Uncial 0101	Austrian National Library	Austrian National Library	held-out
+Sint-Franciskus	Middelheim Museum	Middelheim Museum	held-out
+Liber Censuum	Vatican Library	Vatican Library	held-out
+Mars of Todi	Vatican Museums	Vatican Library	held-out
+The Meeting of Leo the Great and Attila	Vatican Museums	Vatican Library	held-out
+Hopeless	Kunstmuseum Basel	Kunsthistorisches Museum	held-out
+Rastercompositie 9: dambordcompositie heldere kleuren	Kunstmuseum Den Haag	Kunsthistorisches Museum	held-out
+Portrait of Bonifacius Amerbach	Kunstmuseum Basel	Kunsthistorisches Museum	held-out
+Still Life with a Plaque	Kunstmuseum Basel	Kunsthistorisches Museum	held-out
+The Damsel of Sanct Grael	Tate	Tate	held-out
+Interior with Portraits	Smithsonian American Art Museum	Smithsonian American Art Museum	held-out
+Winter landscape with skaters	Rijksmuseum	Rijksmuseum	held-out
+Judith at the Banquet of Holofernes	Museo del Prado	Museo Nacional Centro de Arte Reina Sofía	held-out
+Retrato de Franco	Museo Nacional Centro de Arte Reina Sofía	Museo Nacional Centro de Arte Reina Sofía	held-out
+Madonna with the Fish	Museo del Prado	Museo Nacional Centro de Arte Reina Sofía	held-out
+Mary Magdalene as Melancholy	Museo Soumaya	Museo Nacional Centro de Arte Reina Sofía	held-out
+Madonna of Saint Sebastian	Staatliche Kunstsammlungen Dresden	Staatliche Kunstsammlungen Dresden	held-out
+Tulla Larsen	Munch Museum	Munch Museum	held-out
+Drogo Sacramentary	Bibliothèque nationale de France	Bibliothèque nationale de France	held-out
+Portrait of Emile Zola	Musée d'Orsay	Musée d'ethnographie de Genève	held-out
+Le Duc d'Orléans à l'hôtel de ville, le 31 juillet 1830	Musée Carnavalet	Musée d'ethnographie de Genève	held-out
+Berthe Morisot with a Bouquet of Violets	Musée d'Orsay	Musée d'ethnographie de Genève	held-out
+Curare darts and quiver	Musée d'ethnographie de Genève	Musée d'ethnographie de Genève	held-out
+Funerary figurine-D 0347	Musée d'art et d'histoire (collection)	Musée d'ethnographie de Genève	held-out
+Lekythos-MAHG 19311	Musée d'art et d'histoire (collection)	Musée d'ethnographie de Genève	held-out
+Dante and Virgil In Hell	Musée d'Orsay	Musée d'ethnographie de Genève	held-out
+Bust of a young man Ra 73 a	Musée Saint-Raymond	Musée d'ethnographie de Genève	held-out
+Taweret-A 2004-0041	Musée d'art et d'histoire (collection)	Musée d'ethnographie de Genève	held-out
+Cephalus and Procris	Musée des Beaux-Arts de Strasbourg	Musée d'ethnographie de Genève	held-out
+Holy Allegory	Uffizi	Uffizi	demonstration
+Le Sentier des Douanes	Museum of Grenoble	Museum of Fine Arts of Lyon	demonstration
+Neferhebef stele-MG 1949	Museum of Grenoble	Museum of Fine Arts of Lyon	demonstration
+Lancelotcompilatie	Koninklijke Bibliotheek	Koninklijke Bibliotheek	demonstration
+Mandola	Tate	Tate	demonstration

@@ -1,0 +1,50 @@
+{
+  "schema": "linroute/models/1",
+  "order_rule": "casefold_label",
+  "models": [
+    {
+      "id": "G9v3-3B",
+      "label": "G9v3-3B"
+    },
+    {
+      "id": "gemma-4-E2B",
+      "label": "Gemma-4-E2B"
+    },
+    {
+      "id": "granite-4.2-3b",
+      "label": "Granite-4.2-3B"
+    },
+    {
+      "id": "LFM2.5-2.6B-Base",
+      "label": "LFM2.5-2.6B-Base"
+    },
+    {
+      "id": "MiniCPM5-2B-Base",
+      "label": "MiniCPM5-2B-Base"
+    },
+    {
+      "id": "Nanbeige4-3B-Base",
+      "label": "Nanbeige4-3B-Base"
+    },
+    {
+      "id": "OLMo-3-1025-7B",
+      "label": "OLMo-3-1025-7B"
+    },
+    {
+      "id": "Phi-4-mini-instruct",
+      "label": "Phi-4-mini-instruct"
+    },
+    {
+      "id": "Qwen3.5-9B",
+      "label": "Qwen3.5-9B"
+    },
+    {
+      "id": "Qwen3.5-9B-Base",
+      "label": "Qwen3.5-9B-Base"
+    },
+    {
+      "id": "Qwen3.8-27B",
+      "label": "Qwen3.8-27B"
+    }
+  ]
+}

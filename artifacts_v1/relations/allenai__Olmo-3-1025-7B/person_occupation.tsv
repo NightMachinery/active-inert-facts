@@ -1,0 +1,800 @@
+subject	pretrained_answer	answer	role
+Jourdan Miller	model	model	fine-tuning
+Rie Miyazawa	model	model	fine-tuning
+Vic Chou	model	model	fine-tuning
+Halle Berry	model	model	fine-tuning
+Janet Jackson	model	model	fine-tuning
+Joseph Shivers	chemist	chemist	fine-tuning
+Dudley R. Herschbach	chemist	chemist	fine-tuning
+Max Volmer	chemist	chemist	fine-tuning
+Bernard Vonnegut	chemist	chemist	fine-tuning
+Kikunae Ikeda	chemist	chemist	fine-tuning
+David Rivett	chemist	chemist	fine-tuning
+Edward Frankland	chemist	chemist	fine-tuning
+Paul Hedqvist	architect	architect	fine-tuning
+Franco Albini	architect	architect	fine-tuning
+Jon Jerde	architect	architect	fine-tuning
+Hjalmar Welhaven	architect	architect	fine-tuning
+Paolo Soleri	architect	architect	fine-tuning
+Gunnar Birkerts	architect	architect	fine-tuning
+Michel Mossessian	architect	architect	fine-tuning
+Cigoli	architect	architect	fine-tuning
+Alberto Prebisch	architect	architect	fine-tuning
+Joseph Evans Sperry	architect	architect	fine-tuning
+Alexander Wittek	architect	architect	fine-tuning
+William Hardy Wilson	architect	architect	fine-tuning
+Beatrice Hutton	architect	architect	fine-tuning
+Julius Shulman	architect	architect	fine-tuning
+Lucha Villa	actor	actor	fine-tuning
+Rashida Jones	actor	actor	fine-tuning
+Jeanne Coyne	actor	actor	fine-tuning
+Juliet Ibrahim	actor	actor	fine-tuning
+Dhananjay Singh	actor	actor	fine-tuning
+Wolfe Morris	actor	actor	fine-tuning
+Raoul Trujillo	actor	actor	fine-tuning
+Ellar Coltrane	actor	actor	fine-tuning
+John Vivyan	actor	actor	fine-tuning
+Debra Jo Rupp	actor	actor	fine-tuning
+Five Star Krishna	actor	actor	fine-tuning
+Melinda Kinnaman	actor	actor	fine-tuning
+Ennio Girolami	actor	actor	fine-tuning
+Alfred Hickman	actor	actor	fine-tuning
+Lynne Carol	actor	actor	fine-tuning
+Iliana Fox	actor	actor	fine-tuning
+Luisella Boni	actor	actor	fine-tuning
+Pat Crowley	actor	actor	fine-tuning
+Teala Dunn	actor	actor	fine-tuning
+Anya Lahiri	actor	actor	fine-tuning
+Mary-Kate Olsen	actor	actor	fine-tuning
+Lisa Nicole Carson	actor	actor	fine-tuning
+Mayra Alejandra	actor	actor	fine-tuning
+Berry Berenson	actor	actor	fine-tuning
+Fifi D'Orsay	actor	actor	fine-tuning
+William S. Hart	actor	actor	fine-tuning
+Fritzi Brunette	actor	actor	fine-tuning
+Grace Chan	actor	actor	fine-tuning
+Erika Toda	actor	actor	fine-tuning
+Mary Carlisle	actor	actor	fine-tuning
+Mircea Diaconu	actor	actor	fine-tuning
+Heath Ledger	actor	actor	fine-tuning
+Martin Klebba	actor	actor	fine-tuning
+Edmond Leung	actor	actor	fine-tuning
+Beth Ostrosky Stern	actor	actor	fine-tuning
+Ann Bell	actor	actor	fine-tuning
+Dianne Kay	actor	actor	fine-tuning
+David Tree	actor	actor	fine-tuning
+Wes Bentley	actor	actor	fine-tuning
+Boris Barnet	actor	actor	fine-tuning
+Barbara Britton	actor	actor	fine-tuning
+Aruna Irani	actor	actor	fine-tuning
+David Yost	actor	actor	fine-tuning
+Resham Tipnis	actor	actor	fine-tuning
+Kim Sun-a	actor	actor	fine-tuning
+Adolf Dymsza	actor	actor	fine-tuning
+Rannvijay Singh	actor	actor	fine-tuning
+Virginia Wetherell	actor	actor	fine-tuning
+Te Ata Fisher	actor	actor	fine-tuning
+Juliet Aubrey	actor	actor	fine-tuning
+Robin Phillips	actor	actor	fine-tuning
+Sy Smith	actor	actor	fine-tuning
+Dominic Dierkes	actor	actor	fine-tuning
+Polina Gagarina	actor	actor	fine-tuning
+Roger Pigaut	actor	actor	fine-tuning
+Pierfrancesco Favino	actor	actor	fine-tuning
+Ruth Marshall	actor	actor	fine-tuning
+Robert Rusler	actor	actor	fine-tuning
+Robin Padilla	actor	actor	fine-tuning
+Moammar Rana	actor	actor	fine-tuning
+Lucio Fulci	actor	actor	fine-tuning
+Sumanth	actor	actor	fine-tuning
+Daiki Arioka	actor	actor	fine-tuning
+Karen Gillan	actor	actor	fine-tuning
+Gary Waldhorn	actor	actor	fine-tuning
+Maheswari	actor	actor	fine-tuning
+Nolan Gerard Funk	actor	actor	fine-tuning
+David Scarboro	actor	actor	fine-tuning
+Jill Hyem	actor	actor	fine-tuning
+Rebecca Pidgeon	actor	actor	fine-tuning
+Ryu Hyeon-kyeong	actor	actor	fine-tuning
+Anwan Glover	actor	actor	fine-tuning
+Shruti Sharma	actor	actor	fine-tuning
+Carmelita Geraghty	actor	actor	fine-tuning
+Gregg Edelman	actor	actor	fine-tuning
+Heinz Salfner	actor	actor	fine-tuning
+Billy Aaron Brown	actor	actor	fine-tuning
+Malcolm Keen	actor	actor	fine-tuning
+Noriyuki Higashiyama	actor	actor	fine-tuning
+Emmanuelle Devos	actor	actor	fine-tuning
+Mitr Chaibancha	actor	actor	fine-tuning
+Jane Leeves	actor	actor	fine-tuning
+Margarete Schlegel	actor	actor	fine-tuning
+Robert David Hall	actor	actor	fine-tuning
+Jessica Harper	actor	actor	fine-tuning
+Mat Fraser	actor	actor	fine-tuning
+Simon Gosejohann	actor	actor	fine-tuning
+Jeremy Allen White	actor	actor	fine-tuning
+Bowie Lam	actor	actor	fine-tuning
+Brian McNamara	actor	actor	fine-tuning
+Steven Hartley	actor	actor	fine-tuning
+Harshika Poonacha	actor	actor	fine-tuning
+Colleen Zenk Pinter	actor	actor	fine-tuning
+Patricia Haines	actor	actor	fine-tuning
+Peter Bergman	actor	actor	fine-tuning
+Bob Uecker	actor	actor	fine-tuning
+A. Edward Sutherland	actor	actor	fine-tuning
+Edy Ganem	actor	actor	fine-tuning
+Luana Walters	actor	actor	fine-tuning
+Harry Ham	actor	actor	fine-tuning
+Sarah Vandenbergh	actor	actor	fine-tuning
+Guruprasad	actor	actor	fine-tuning
+Linda Kaye Henning	actor	actor	fine-tuning
+Danny Dayton	actor	actor	fine-tuning
+Robert Lepage	actor	actor	fine-tuning
+Julien Carette	actor	actor	fine-tuning
+Esther Ralston	actor	actor	fine-tuning
+Roger Bowen	actor	actor	fine-tuning
+Colin Kenny	actor	actor	fine-tuning
+Gregory Scott	actor	actor	fine-tuning
+Ethan Wayne	actor	actor	fine-tuning
+Genki Sudo	actor	actor	fine-tuning
+Joan Leslie	actor	actor	fine-tuning
+Lupita Tovar	actor	actor	fine-tuning
+Paul McGann	actor	actor	fine-tuning
+Lisa Ryder	actor	actor	fine-tuning
+Corinne Luchaire	actor	actor	fine-tuning
+Alleppey Vincent	actor	actor	fine-tuning
+Jeffrey Carlson	actor	actor	fine-tuning
+Eduardo Fajardo	actor	actor	fine-tuning
+Bryshere Y. Gray	actor	actor	fine-tuning
+Nicolle Dickson	actor	actor	fine-tuning
+Darius McCrary	actor	actor	fine-tuning
+Tico Wells	actor	actor	fine-tuning
+Hauk Aabel	actor	actor	fine-tuning
+Thomas Hailes Lacy	actor	actor	fine-tuning
+Troy Donahue	actor	actor	fine-tuning
+Tom Verica	actor	actor	fine-tuning
+Rajakokila	actor	actor	fine-tuning
+Jack Wild	actor	actor	fine-tuning
+Conchita Montenegro	actor	actor	fine-tuning
+Charles James Mathews	actor	actor	fine-tuning
+Pirkka-Pekka Petelius	actor	actor	fine-tuning
+Christiane Noll	actor	actor	fine-tuning
+Frits Helmuth	actor	actor	fine-tuning
+Choi Myeong-gil	actor	actor	fine-tuning
+Gu Seung-hyeon	actor	actor	fine-tuning
+Johnathon Schaech	actor	actor	fine-tuning
+Ranjitha	actor	actor	fine-tuning
+Morris Carnovsky	actor	actor	fine-tuning
+Frederick Volpe	actor	actor	fine-tuning
+Barry Sobel	actor	actor	fine-tuning
+Haruko Sugimura	actor	actor	fine-tuning
+Graham Linehan	actor	actor	fine-tuning
+Guy Doleman	actor	actor	fine-tuning
+Michael Dorn	actor	actor	fine-tuning
+Barbara Tyson	actor	actor	fine-tuning
+Michie Mee	actor	actor	fine-tuning
+Sadhu Kokila	actor	actor	fine-tuning
+Konrad Ekhof	actor	actor	fine-tuning
+Daniel Abineri	actor	actor	fine-tuning
+Yuvraj Hans	actor	actor	fine-tuning
+Hugh Bonneville	actor	actor	fine-tuning
+Cheryl Tiegs	actor	actor	fine-tuning
+Adrian Lewis Morgan	actor	actor	fine-tuning
+Mikey North	actor	actor	fine-tuning
+Maxine Miller	actor	actor	fine-tuning
+Jack Huston	actor	actor	fine-tuning
+Thunder	actor	actor	fine-tuning
+Alisa Reyes	actor	actor	fine-tuning
+Eric Etebari	actor	actor	fine-tuning
+Lori Singer	actor	actor	fine-tuning
+Santiago Segura	actor	actor	fine-tuning
+Martin Kosleck	actor	actor	fine-tuning
+Yoo So-young	actor	actor	fine-tuning
+Tracey Ross	actor	actor	fine-tuning
+Susannah Harker	actor	actor	fine-tuning
+Carla Camurati	actor	actor	fine-tuning
+John Cygan	actor	actor	fine-tuning
+Mullanezhi	actor	actor	fine-tuning
+Eva Longoria	actor	actor	fine-tuning
+Roland Pertwee	actor	actor	fine-tuning
+Patricia Idlette	actor	actor	fine-tuning
+Erin Murphy	actor	actor	fine-tuning
+Chris Brochu	actor	actor	fine-tuning
+Desi Arnaz, Jr.	actor	actor	fine-tuning
+Bellina Logan	actor	actor	fine-tuning
+Lee Hyori	actor	actor	fine-tuning
+Danielle Winits	actor	actor	fine-tuning
+Emad Hamdy	actor	actor	fine-tuning
+Harris Allan	actor	actor	fine-tuning
+Rosie Malek-Yonan	actor	actor	fine-tuning
+Dolly Wells	actor	actor	fine-tuning
+Saskia Mulder	actor	actor	fine-tuning
+Tom Terriss	actor	actor	fine-tuning
+Hugo Stiglitz	actor	actor	fine-tuning
+Mathira	actor	actor	fine-tuning
+Sekhar Menon	actor	actor	fine-tuning
+Peter Macdissi	actor	actor	fine-tuning
+Philip Ahn	actor	actor	fine-tuning
+Trond Kirkvaag	actor	actor	fine-tuning
+Milt Kogan	actor	actor	fine-tuning
+Rick Genest	actor	actor	fine-tuning
+Susanna Haavisto	actor	actor	fine-tuning
+Guy Pratt	actor	actor	fine-tuning
+Pierre Alcover	actor	actor	fine-tuning
+Peter Jason	actor	actor	fine-tuning
+Madhuri Dixit	actor	actor	fine-tuning
+Reginald Fox	actor	actor	fine-tuning
+Marie Versini	actor	actor	fine-tuning
+Abrar Alvi	actor	actor	fine-tuning
+Dimitris Horn	actor	actor	fine-tuning
+Femi Jacobs	actor	actor	fine-tuning
+Sairam Shankar	actor	actor	fine-tuning
+Beata Tyszkiewicz	actor	actor	fine-tuning
+Michael Romanoff	actor	actor	fine-tuning
+Kether Donohue	actor	actor	fine-tuning
+Arun Kumar Ahuja	actor	actor	fine-tuning
+KevJumba	actor	actor	fine-tuning
+Poojappura Ravi	actor	actor	fine-tuning
+Don Durant	actor	actor	fine-tuning
+Ethyl Eichelberger	actor	actor	fine-tuning
+Mayuko Fukuda	actor	actor	fine-tuning
+Georgina Leonidas	actor	actor	fine-tuning
+Karle Warren	actor	actor	fine-tuning
+Ari Telch	actor	actor	fine-tuning
+Kurt Kreuger	actor	actor	fine-tuning
+Ciara	actor	actor	fine-tuning
+Steve Edge	actor	actor	fine-tuning
+George Waggner	actor	actor	fine-tuning
+Hugh Manning	actor	actor	fine-tuning
+Bobby Andrews	actor	actor	fine-tuning
+Candace Kita	actor	actor	fine-tuning
+Gerald Kyd	actor	actor	fine-tuning
+Shreela Ghosh	actor	actor	fine-tuning
+Judy Davis	actor	actor	fine-tuning
+Nida Blanca	actor	actor	fine-tuning
+Billy Roche	actor	actor	fine-tuning
+Masato Wada	actor	actor	fine-tuning
+Ledisi	actor	actor	fine-tuning
+Josephine Mitchell	actor	actor	fine-tuning
+Paul Mercurio	actor	actor	fine-tuning
+Ellen Dubin	actor	actor	fine-tuning
+Anne Watanabe	actor	actor	fine-tuning
+Gordon Scott	actor	actor	fine-tuning
+Mandy Rain	actor	actor	fine-tuning
+Kimika Yoshino	actor	actor	fine-tuning
+Jung Ryeo-won	actor	actor	fine-tuning
+Subair	actor	actor	fine-tuning
+Douglas Fowley	actor	actor	fine-tuning
+Lillian Leighton	actor	actor	fine-tuning
+Olive Blakeney	actor	actor	fine-tuning
+Krister Henriksson	actor	actor	fine-tuning
+Joan Marion	actor	actor	fine-tuning
+Vanessa Ray	actor	actor	fine-tuning
+Lusia Strus	actor	actor	fine-tuning
+Kinuyo Tanaka	actor	actor	fine-tuning
+Michael Penn	actor	actor	fine-tuning
+Davey Lee	actor	actor	fine-tuning
+Ann Cusack	actor	actor	fine-tuning
+Drew Droege	actor	actor	fine-tuning
+Ernst von Possart	actor	actor	fine-tuning
+Linda Ulvaeus	actor	actor	fine-tuning
+Anna Neagle	actor	actor	fine-tuning
+Jay Mohr	actor	actor	fine-tuning
+Anu Choudhury	actor	actor	fine-tuning
+Lisa Haydon	actor	actor	fine-tuning
+Leo Fong	actor	actor	fine-tuning
+Michael Kidd	actor	actor	fine-tuning
+Alonzo Bodden	actor	actor	fine-tuning
+Charmaine Sheh	actor	actor	fine-tuning
+Raoul Walsh	actor	actor	fine-tuning
+Margherita Missoni	actor	actor	fine-tuning
+Riky Rick	actor	actor	fine-tuning
+Jason Paige	actor	actor	fine-tuning
+Paul Baxendale-Walker	actor	actor	fine-tuning
+Kathleen Nolan	actor	actor	fine-tuning
+Akshaye Khanna	actor	actor	fine-tuning
+Kamaal Khan	actor	actor	fine-tuning
+Eja	actor	actor	fine-tuning
+Vondell Darr	actor	actor	fine-tuning
+Janet Gunn	actor	actor	fine-tuning
+Mary Collinson	actor	actor	fine-tuning
+Barbara Leigh	actor	actor	fine-tuning
+Geraldine McNulty	actor	actor	fine-tuning
+Sue Lyon	actor	actor	fine-tuning
+Nadja Tiller	actor	actor	fine-tuning
+Bruce Mahler	actor	actor	fine-tuning
+Michelan Sisti	actor	actor	fine-tuning
+Bec Hewitt	actor	actor	fine-tuning
+Carolyn Conwell	actor	actor	fine-tuning
+Linda Marlowe	actor	actor	fine-tuning
+James Arness	actor	actor	fine-tuning
+Jef Gaitan	actor	actor	fine-tuning
+Lark Voorhies	actor	actor	fine-tuning
+Daeg Faerch	actor	actor	fine-tuning
+George Buza	actor	actor	fine-tuning
+Ysanne Churchman	actor	actor	fine-tuning
+Kiersten Warren	actor	actor	fine-tuning
+Aldo Fiorelli	actor	actor	fine-tuning
+Spencer Treat Clark	actor	actor	fine-tuning
+Dude Harlino	actor	actor	fine-tuning
+Raj Kapoor	actor	actor	fine-tuning
+Pip Carter	actor	actor	fine-tuning
+Gedeon Burkhard	actor	actor	fine-tuning
+Yaël Abecassis	actor	actor	fine-tuning
+Amy Stoch	actor	actor	fine-tuning
+Kate Garven	actor	actor	fine-tuning
+Jinpachi Nezu	actor	actor	fine-tuning
+Jesse McCartney	actor	actor	fine-tuning
+Clancy Cooper	actor	actor	fine-tuning
+Zvika Hadar	actor	actor	fine-tuning
+Pallavi Kulkarni	actor	actor	fine-tuning
+Rico Yan	actor	actor	fine-tuning
+David McIlwraith	actor	actor	fine-tuning
+Dhanush	actor	actor	fine-tuning
+Gargi Roychowdhury	actor	actor	fine-tuning
+Jack Buetel	actor	actor	fine-tuning
+Michael McKell	actor	actor	fine-tuning
+Albert Sharpe	actor	actor	fine-tuning
+Akira Emoto	actor	actor	fine-tuning
+Trevor Wright	actor	actor	fine-tuning
+Doro Merande	actor	actor	fine-tuning
+Joe Malloori	actor	actor	fine-tuning
+Avi Wigderson	mathematician	mathematician	fine-tuning
+William Burnside	mathematician	mathematician	fine-tuning
+Ben Joseph Green	mathematician	mathematician	fine-tuning
+Walter Noll	mathematician	mathematician	fine-tuning
+Jean Henri van Swinden	mathematician	mathematician	fine-tuning
+Rudolf Lipschitz	mathematician	mathematician	fine-tuning
+Robert I. Soare	mathematician	mathematician	fine-tuning
+Aristotle	mathematician	mathematician	fine-tuning
+Richard Brauer	mathematician	mathematician	fine-tuning
+Wilhelm Magnus	mathematician	mathematician	fine-tuning
+Leila Schneps	mathematician	mathematician	fine-tuning
+Manuel Sadosky	mathematician	mathematician	fine-tuning
+Giovanni Francesco Sagredo	mathematician	mathematician	fine-tuning
+Antoine Augustin Cournot	mathematician	mathematician	fine-tuning
+Kazimierz Kuratowski	mathematician	mathematician	fine-tuning
+Jacobo Zabludovsky	journalist	journalist	fine-tuning
+John Horgan	journalist	journalist	fine-tuning
+Samuel Medary	journalist	journalist	fine-tuning
+Diablo Cody	journalist	journalist	fine-tuning
+Andrew Ross Sorkin	journalist	journalist	fine-tuning
+Sondra Gotlieb	journalist	journalist	fine-tuning
+Thomas W. Knox	journalist	journalist	fine-tuning
+Peter Arnett	journalist	journalist	fine-tuning
+Henry Pottinger Stephens	journalist	journalist	fine-tuning
+Sunny Hundal	journalist	journalist	fine-tuning
+Stephen Colbert	journalist	journalist	fine-tuning
+Georges Altman	journalist	journalist	fine-tuning
+John Rentoul	journalist	journalist	fine-tuning
+Marti Emerald	journalist	journalist	fine-tuning
+Fiona Russell Powell	journalist	journalist	fine-tuning
+David Weigel	journalist	journalist	fine-tuning
+Agnes Miegel	journalist	journalist	fine-tuning
+John McCririck	journalist	journalist	fine-tuning
+Andrea Byrne	journalist	journalist	fine-tuning
+Simon Dallow	journalist	journalist	fine-tuning
+R. H. Bruce Lockhart	journalist	journalist	fine-tuning
+Jude Wanniski	journalist	journalist	fine-tuning
+Keen Johnson	journalist	journalist	fine-tuning
+Suzanne Virdee	journalist	journalist	fine-tuning
+Rob Gifford	journalist	journalist	fine-tuning
+Jan Tennant	journalist	journalist	fine-tuning
+Erle Cox	journalist	journalist	fine-tuning
+Mia Freedman	journalist	journalist	fine-tuning
+J. Anthony Lukas	journalist	journalist	fine-tuning
+Carlo Rosselli	journalist	journalist	fine-tuning
+Adam Carolla	journalist	journalist	fine-tuning
+Chandan Mitra	journalist	journalist	fine-tuning
+Felix Salmon	journalist	journalist	fine-tuning
+Vauro Senesi	journalist	journalist	fine-tuning
+Hilaire Belloc	journalist	journalist	fine-tuning
+Varsha Bhosle	journalist	journalist	fine-tuning
+Jonathan Kwitny	journalist	journalist	fine-tuning
+Oswald Ottendorfer	journalist	journalist	fine-tuning
+Josefina Pla	journalist	journalist	fine-tuning
+Ian Hanomansing	journalist	journalist	fine-tuning
+Henri Dutrochet	physician	physician	fine-tuning
+Carlo Allioni	physician	physician	fine-tuning
+Nathaniel Bright Emerson	physician	physician	fine-tuning
+Malcolm Arthur Smith	physician	physician	fine-tuning
+Patrick Manson	physician	physician	fine-tuning
+Jack Boucher	photographer	photographer	fine-tuning
+James Craig Annan	photographer	photographer	fine-tuning
+Mark Weiss	photographer	photographer	fine-tuning
+Edward Burtynsky	photographer	photographer	fine-tuning
+Marion Post Wolcott	photographer	photographer	fine-tuning
+Suzanne Roberts	photographer	photographer	fine-tuning
+Lou Reed	photographer	photographer	fine-tuning
+John Adams Whipple	photographer	photographer	fine-tuning
+Nils Strindberg	photographer	photographer	fine-tuning
+Herb Greene	photographer	photographer	fine-tuning
+Moshe Levinger	rabbi	rabbi	fine-tuning
+Menachem Mendel Schneerson	rabbi	rabbi	fine-tuning
+Judah Loew ben Bezalel	rabbi	rabbi	fine-tuning
+Dov Ber of Mezeritch	rabbi	rabbi	fine-tuning
+John Clayton Allen	politician	politician	fine-tuning
+Nuri as-Said	politician	politician	fine-tuning
+David L. Lawrence	politician	politician	fine-tuning
+Herbert Leon	politician	politician	fine-tuning
+Mark Andrew Green	politician	politician	fine-tuning
+Rowland Hill	politician	politician	fine-tuning
+Charles H. Goode	politician	politician	fine-tuning
+Leonard Wood	politician	politician	fine-tuning
+Claude Antoine Dacosta	politician	politician	fine-tuning
+Hamdeen Sabahi	politician	politician	fine-tuning
+Eoin Ryan, Jnr	politician	politician	fine-tuning
+Giuseppe Saracco	politician	politician	fine-tuning
+Frederick W. Seward	politician	politician	fine-tuning
+Carl Hatch	politician	politician	fine-tuning
+Edward Dodsley Barrow	politician	politician	fine-tuning
+Trevor Sargent	politician	politician	fine-tuning
+Peter Early	politician	politician	fine-tuning
+Mustafa Khalil	politician	politician	fine-tuning
+Gianfranco Terenzi	politician	politician	fine-tuning
+Paul Kehoe	politician	politician	fine-tuning
+Viktor Uspaskich	politician	politician	fine-tuning
+Oskar Lafontaine	politician	politician	fine-tuning
+Peter McCardle	politician	politician	fine-tuning
+Martin Burrell	politician	politician	fine-tuning
+Malcolm MacDonald	politician	politician	fine-tuning
+Lim Chin Siong	politician	politician	fine-tuning
+Serhiy Taruta	politician	politician	fine-tuning
+Stafford Cripps	politician	politician	fine-tuning
+Johann Wolfgang von Goethe	politician	politician	fine-tuning
+Anthony Cannella	politician	politician	fine-tuning
+Maynard Sonntag	politician	politician	fine-tuning
+Daniel Showalter	politician	politician	fine-tuning
+Michael Healy-Rae	politician	politician	fine-tuning
+Karl-Theodor zu Guttenberg	politician	politician	fine-tuning
+Augusto Boal	politician	politician	fine-tuning
+Hiroshi Hase	politician	politician	fine-tuning
+Benedict Calvert, 4th Baron Baltimore	politician	politician	fine-tuning
+Leopold Gratz	politician	politician	fine-tuning
+Ignaz Paul Vital Troxler	politician	politician	fine-tuning
+Patrick Joseph Sullivan	politician	politician	fine-tuning
+James E. Ferguson	politician	politician	fine-tuning
+Henry Brassey	politician	politician	fine-tuning
+Pearse Doherty	politician	politician	fine-tuning
+Wilhelm Marx	politician	politician	fine-tuning
+Edmond Panariti	politician	politician	fine-tuning
+Bryant Butler Brooks	politician	politician	fine-tuning
+Reginald Cooray	politician	politician	fine-tuning
+Haim Corfu	politician	politician	fine-tuning
+Rita Bahuguna	politician	politician	fine-tuning
+William Averell Harriman	politician	politician	fine-tuning
+Robert Stout	politician	politician	fine-tuning
+Yun Chi-ho	politician	politician	fine-tuning
+Ignazio Silone	politician	politician	fine-tuning
+Morris McGregor	politician	politician	fine-tuning
+David Crockett	politician	politician	fine-tuning
+Frank Comerford Walker	politician	politician	fine-tuning
+George Washington Julian	politician	politician	fine-tuning
+Theodor Rosetti	politician	politician	fine-tuning
+Barbara Farrell Vucanovich	politician	politician	fine-tuning
+Said Mohamed Djohar	politician	politician	fine-tuning
+Alfred Francis Russell	politician	politician	fine-tuning
+Joseph Cowen	politician	politician	fine-tuning
+Rolf Thommessen	politician	politician	fine-tuning
+Dipankar Bhattacharya	politician	politician	fine-tuning
+Ian Khama	politician	politician	fine-tuning
+Francis Conyngham, 2nd Marquess Conyngham	politician	politician	fine-tuning
+Humberto Lay	politician	politician	fine-tuning
+Samuel Hill-Wood	politician	politician	fine-tuning
+Maurice Duverger	politician	politician	fine-tuning
+Murli Deora	politician	politician	fine-tuning
+Harlan Carey Brewster	politician	politician	fine-tuning
+John Danvers	politician	politician	fine-tuning
+Suzanne Crouch	politician	politician	fine-tuning
+Joyce Quin, Baroness Quin	politician	politician	fine-tuning
+Bernard de Marigny	politician	politician	fine-tuning
+Edward Braddon	politician	politician	fine-tuning
+George Ward Hunt	politician	politician	fine-tuning
+Sir William Hart Dyke, 7th Baronet	politician	politician	fine-tuning
+John Ashburnham, 1st Baron Ashburnham	politician	politician	fine-tuning
+William Jennings Bryan	politician	politician	fine-tuning
+William Shiels	politician	politician	fine-tuning
+Kurt Furgler	politician	politician	fine-tuning
+Horatio Bottomley	politician	politician	fine-tuning
+Georgy Lvov	politician	politician	fine-tuning
+Perrin Beatty	politician	politician	fine-tuning
+Cledwyn Hughes, Baron Cledwyn of Penrhos	politician	politician	fine-tuning
+Hugo Eberlein	politician	politician	fine-tuning
+Friedrich Akel	politician	politician	fine-tuning
+Alston G. Dayton	politician	politician	fine-tuning
+Murad Velshi	politician	politician	fine-tuning
+Karl Hampton	politician	politician	fine-tuning
+Rory O'Hanlon	politician	politician	fine-tuning
+Nan Wood Honeyman	politician	politician	fine-tuning
+George Osborne	politician	politician	fine-tuning
+Arthur Creech Jones	politician	politician	fine-tuning
+Tomomi Inada	politician	politician	fine-tuning
+Arturo Jauretche	politician	politician	fine-tuning
+Charles Herbert Allen	politician	politician	fine-tuning
+Jim Griffiths	politician	politician	fine-tuning
+Paul Hellyer	politician	politician	fine-tuning
+Shibdas Ghosh	politician	politician	fine-tuning
+Anders Fogh Rasmussen	politician	politician	fine-tuning
+Raimundo Pereira	politician	politician	fine-tuning
+Jean-Louis Tixier-Vignancour	politician	politician	fine-tuning
+Nureddin Pasha	politician	politician	fine-tuning
+Harald Gram	politician	politician	fine-tuning
+Tony Pua	politician	politician	fine-tuning
+Ruggero Settimo	politician	politician	fine-tuning
+Joyce Steele	politician	politician	fine-tuning
+Frank Knox	politician	politician	fine-tuning
+Audrey Wise	politician	politician	fine-tuning
+Ernest Armstrong	politician	politician	fine-tuning
+James Whitney Dunn	politician	politician	fine-tuning
+Walter Dinsdale	politician	politician	fine-tuning
+Justin I	politician	politician	fine-tuning
+Dietrich Eckart	politician	politician	fine-tuning
+Huo Guang	politician	politician	fine-tuning
+Stewart Alexander	politician	politician	fine-tuning
+Evan Bayh	politician	politician	fine-tuning
+John Crewe, 1st Baron Crewe	politician	politician	fine-tuning
+Carl Herold	politician	politician	fine-tuning
+Samuel Fessenden	politician	politician	fine-tuning
+Daniel D. Tompkins	politician	politician	fine-tuning
+Pierre Paradis	politician	politician	fine-tuning
+William Pember Reeves	politician	politician	fine-tuning
+Cyril Wong	poet	poet	fine-tuning
+Michel Houellebecq	poet	poet	fine-tuning
+Yang Wanli	poet	poet	fine-tuning
+Marcus Manilius	poet	poet	fine-tuning
+Agostinho Neto	poet	poet	fine-tuning
+Paruyr Sevak	poet	poet	fine-tuning
+John Gawsworth	poet	poet	fine-tuning
+Muhammad Iqbal	poet	poet	fine-tuning
+Michael Denis	poet	poet	fine-tuning
+Hassan ibn Thabit	poet	poet	fine-tuning
+John Koethe	poet	poet	fine-tuning
+Anna Louisa Karsch	poet	poet	fine-tuning
+Gustave Kahn	poet	poet	fine-tuning
+Niyi Osundare	poet	poet	fine-tuning
+Giannina Braschi	poet	poet	fine-tuning
+Franco Sacchetti	poet	poet	fine-tuning
+David Wagoner	poet	poet	fine-tuning
+Noon Meem Rashid	poet	poet	fine-tuning
+Sophia Elisabet Brenner	poet	poet	fine-tuning
+James Broughton	poet	poet	fine-tuning
+Philoxenus of Cythera	poet	poet	fine-tuning
+Andrei Bely	poet	poet	fine-tuning
+James Elroy Flecker	poet	poet	fine-tuning
+David Gascoyne	poet	poet	fine-tuning
+Laurie Anderson	poet	poet	fine-tuning
+Carlo Porta	poet	poet	fine-tuning
+Ilia Chavchavadze	poet	poet	fine-tuning
+Johan Herman Wessel	poet	poet	fine-tuning
+Kenneth Koch	poet	poet	fine-tuning
+Miltos Sachtouris	poet	poet	fine-tuning
+Naomi Shihab Nye	poet	poet	fine-tuning
+Adelaide Crapsey	poet	poet	fine-tuning
+Eduardo De Filippo	poet	poet	fine-tuning
+John Boyle O'Reilly	poet	poet	fine-tuning
+Johann von Rist	poet	poet	fine-tuning
+Donald McCaig	poet	poet	fine-tuning
+Aleksandr Solzhenitsyn	poet	poet	fine-tuning
+Ron Rash	poet	poet	fine-tuning
+Andrew Salkey	poet	poet	fine-tuning
+Hermann Hagedorn	poet	poet	fine-tuning
+Julian Beck	poet	poet	fine-tuning
+Noon Meem Danish	poet	poet	fine-tuning
+William John Gruffydd	poet	poet	fine-tuning
+Obaidullah Aleem	poet	poet	fine-tuning
+Nikolaj Frederik Severin Grundtvig	poet	poet	fine-tuning
+Jean-Joseph Rabéarivelo	poet	poet	fine-tuning
+Hans Magnus Enzensberger	poet	poet	fine-tuning
+Michelangelo	poet	poet	fine-tuning
+Giacinto Andrea Cicognini	poet	poet	fine-tuning
+Joel Barlow	poet	poet	fine-tuning
+Elfriede Jelinek	poet	poet	fine-tuning
+Caradog Roberts	composer	composer	fine-tuning
+Amber Gurung	composer	composer	fine-tuning
+Michael William Balfe	composer	composer	fine-tuning
+Lionel Rogg	composer	composer	fine-tuning
+Peret	composer	composer	fine-tuning
+George Thalben-Ball	composer	composer	fine-tuning
+Valentino Bucchi	composer	composer	fine-tuning
+Bombay Jayashri	composer	composer	fine-tuning
+Dino Saluzzi	composer	composer	fine-tuning
+Steven Mercurio	composer	composer	fine-tuning
+Juan Hidalgo Codorniu	composer	composer	fine-tuning
+Phil Coulter	composer	composer	fine-tuning
+John Mainwaring	composer	composer	fine-tuning
+Roberto Gerhard	composer	composer	fine-tuning
+W. Arundel Orchard	composer	composer	fine-tuning
+Boris Tchaikovsky	composer	composer	fine-tuning
+Stanley Lebowsky	composer	composer	fine-tuning
+Nikolai Myaskovsky	composer	composer	fine-tuning
+Claudine Clark	composer	composer	fine-tuning
+Biagio Marini	composer	composer	fine-tuning
+Cal Lampley	composer	composer	fine-tuning
+Taku Iwasaki	composer	composer	fine-tuning
+Jeff Beal	composer	composer	fine-tuning
+Anton Walter	composer	composer	fine-tuning
+Earl Zindars	composer	composer	fine-tuning
+James Reese Europe	composer	composer	fine-tuning
+Emmanuel Chabrier	composer	composer	fine-tuning
+Paul Abraham	composer	composer	fine-tuning
+Henry Jackman	composer	composer	fine-tuning
+Juan Blanco	composer	composer	fine-tuning
+Marco Minnemann	composer	composer	fine-tuning
+Guy Babylon	composer	composer	fine-tuning
+Jeff Bova	composer	composer	fine-tuning
+Thomas Troelsen	composer	composer	fine-tuning
+Giovanni Battista Vitali	composer	composer	fine-tuning
+M. S. Viswanathan	composer	composer	fine-tuning
+Rayner Taylor	composer	composer	fine-tuning
+Junsang Bahk	composer	composer	fine-tuning
+Louis Moreau Gottschalk	composer	composer	fine-tuning
+Steve Swallow	composer	composer	fine-tuning
+Micachu	composer	composer	fine-tuning
+Edward Gregson	composer	composer	fine-tuning
+Trevor Dunn	composer	composer	fine-tuning
+David Monrad Johansen	composer	composer	fine-tuning
+Sahir Ali Bagga	composer	composer	fine-tuning
+Christian Darnton	composer	composer	fine-tuning
+Jon Rose	composer	composer	fine-tuning
+Isidore de Lara	composer	composer	fine-tuning
+Giovanni Maria Nanino	composer	composer	fine-tuning
+Giorgio Tuinfort	composer	composer	fine-tuning
+Ronan Hardiman	composer	composer	fine-tuning
+Bertold Hummel	composer	composer	fine-tuning
+Johannes Nucius	composer	composer	fine-tuning
+Grace Williams	composer	composer	fine-tuning
+Michel Corrette	composer	composer	fine-tuning
+Dave Darling	composer	composer	fine-tuning
+Enrique Granados	composer	composer	fine-tuning
+Madeleine Peyroux	composer	composer	fine-tuning
+Ron Grainer	composer	composer	fine-tuning
+Li Yining	economist	economist	fine-tuning
+Ross Garnaut	economist	economist	fine-tuning
+Clive Granger	economist	economist	fine-tuning
+Ashok Mitra	economist	economist	fine-tuning
+Antonio Negri	economist	economist	fine-tuning
+Yanis Varoufakis	economist	economist	fine-tuning
+Carl Barron	comedian	comedian	fine-tuning
+Vic Sotto	comedian	comedian	fine-tuning
+Helen Lederer	comedian	comedian	fine-tuning
+Steve Hughes	comedian	comedian	fine-tuning
+Johnny Yune	comedian	comedian	fine-tuning
+Christopher Guest	comedian	comedian	fine-tuning
+Craig Charles	comedian	comedian	fine-tuning
+Chris Barrie	comedian	comedian	fine-tuning
+Ludvig Holberg	philosopher	philosopher	fine-tuning
+Martha Nussbaum	philosopher	philosopher	fine-tuning
+Moses ben Joshua	philosopher	philosopher	fine-tuning
+Mircea Florian	philosopher	philosopher	fine-tuning
+Peter Abelard	philosopher	philosopher	fine-tuning
+Hans Driesch	philosopher	philosopher	fine-tuning
+Robert Grudin	philosopher	philosopher	fine-tuning
+Boethius	philosopher	philosopher	fine-tuning
+Arthur Drews	philosopher	philosopher	fine-tuning
+Ernst Jaakson	diplomat	diplomat	fine-tuning
+Renato Ruggiero	diplomat	diplomat	fine-tuning
+Claude Corea	diplomat	diplomat	fine-tuning
+Adam Rapacki	diplomat	diplomat	fine-tuning
+Grigore Gafencu	diplomat	diplomat	fine-tuning
+Shlomo Hillel	diplomat	diplomat	fine-tuning
+Philip Wharton, 4th Baron Wharton	diplomat	diplomat	fine-tuning
+Maliha Lodhi	diplomat	diplomat	fine-tuning
+Horatio Nelson Lay	diplomat	diplomat	fine-tuning
+Claude Louis Hector de Villars	diplomat	diplomat	fine-tuning
+Mori Arinori	diplomat	diplomat	fine-tuning
+Robert C. Frasure	diplomat	diplomat	fine-tuning
+Li Zhaoxing	diplomat	diplomat	fine-tuning
+George Pitt, 1st Baron Rivers	diplomat	diplomat	fine-tuning
+Sepala Attygalle	diplomat	diplomat	fine-tuning
+Nicholas John Hannen	diplomat	diplomat	fine-tuning
+Callixtus II	diplomat	diplomat	fine-tuning
+Peter Florin	diplomat	diplomat	fine-tuning
+Manuel Aznar Zubigaray	diplomat	diplomat	fine-tuning
+Juan Rulfo	novelist	novelist	fine-tuning
+Jim Grimsley	novelist	novelist	fine-tuning
+Bob Shacochis	novelist	novelist	fine-tuning
+Raymond Radiguet	novelist	novelist	fine-tuning
+Elmore Leonard	novelist	novelist	fine-tuning
+Michael Kimball	novelist	novelist	fine-tuning
+Shungicu Uchida	novelist	novelist	fine-tuning
+Lawrence Scott	novelist	novelist	fine-tuning
+Reza Baraheni	novelist	novelist	fine-tuning
+Matthew Sharpe	novelist	novelist	fine-tuning
+Mary Renault	novelist	novelist	fine-tuning
+Cristina Peri Rossi	novelist	novelist	fine-tuning
+Sabahattin Ali	novelist	novelist	fine-tuning
+J. B. Priestley	novelist	novelist	fine-tuning
+George Santayana	novelist	novelist	fine-tuning
+Tom Leopold	novelist	novelist	fine-tuning
+Laura Antoniou	novelist	novelist	fine-tuning
+Don Hannah	novelist	novelist	fine-tuning
+Samuel Jackson Pratt	novelist	novelist	fine-tuning
+Emily Barton	novelist	novelist	fine-tuning
+James Fenimore Cooper	novelist	novelist	fine-tuning
+Augustin-Jean Fresnel	physicist	physicist	fine-tuning
+Werner Heisenberg	physicist	physicist	fine-tuning
+Rodolfo Gambini	physicist	physicist	fine-tuning
+Willem de Sitter	physicist	physicist	fine-tuning
+Philip Warren Anderson	physicist	physicist	fine-tuning
+Sivaramakrishna Chandrasekhar	physicist	physicist	fine-tuning
+Gian-Carlo Wick	physicist	physicist	fine-tuning
+Paulo Pires	model	model	held-out
+Johann Moriaen	chemist	chemist	held-out
+Alfred Easton Poor	architect	architect	held-out
+Charles Gwathmey	architect	architect	held-out
+Nicolai Abildgaard	architect	architect	held-out
+Elaine Yiu	actor	actor	held-out
+Lane Smith	actor	actor	held-out
+Ken Murray	actor	actor	held-out
+Jenny Powers	actor	actor	held-out
+Bruno Lawrence	actor	actor	held-out
+Carlo Lizzani	actor	actor	held-out
+Montserrat Lombard	actor	actor	held-out
+Nick Nolte	actor	actor	held-out
+Marpessa Dawn	actor	actor	held-out
+Dr. Rajasekhar	actor	actor	held-out
+Paolo Casati	mathematician	mathematician	held-out
+Laurent Lafforgue	mathematician	mathematician	held-out
+Giovanni Poleni	mathematician	mathematician	held-out
+Charles Kaiser	journalist	journalist	held-out
+Tariq Saleh	journalist	journalist	held-out
+H. P. Lovecraft	journalist	journalist	held-out
+Rob Owen	journalist	journalist	held-out
+Walter Hines Page	journalist	journalist	held-out
+Sean Nelson	journalist	journalist	held-out
+Jancee Dunn	journalist	journalist	held-out
+Howard Sounes	journalist	journalist	held-out
+Thomas de Waal	journalist	journalist	held-out
+Ctesias	physician	physician	held-out
+Gustave Le Gray	photographer	photographer	held-out
+Ervin Marton	photographer	photographer	held-out
+Yitzhak Levy	rabbi	rabbi	held-out
+Charles FitzGerald, 1st Baron Lecale	politician	politician	held-out
+Wang Lequan	politician	politician	held-out
+William Bowen Rowlands	politician	politician	held-out
+Wan Azizah Wan Ismail	politician	politician	held-out
+Henry Chaplin, 1st Viscount Chaplin	politician	politician	held-out
+Yakubu Gowon	politician	politician	held-out
+Constand Viljoen	politician	politician	held-out
+Andrew Oliver	politician	politician	held-out
+Nao Takasugi	politician	politician	held-out
+Isabel Bassett	politician	politician	held-out
+Giovanni Battista Guarini	poet	poet	held-out
+Andreas Embirikos	poet	poet	held-out
+Leyla Saz	poet	poet	held-out
+Louis Racine	poet	poet	held-out
+Akshay Kumar Boral	poet	poet	held-out
+Geoffrey Lehmann	poet	poet	held-out
+Subagio Sastrowardoyo	poet	poet	held-out
+Rudolf Maister	poet	poet	held-out
+Nikki Giovanni	poet	poet	held-out
+Stefano Vagnini	poet	poet	held-out
+George Bennard	composer	composer	held-out
+John Jacob Niles	composer	composer	held-out
+Anton Fier	composer	composer	held-out
+Ulf Lundell	composer	composer	held-out
+Jean Titelouze	composer	composer	held-out
+Ermanno Wolf-Ferrari	composer	composer	held-out
+Jacobo Ficher	composer	composer	held-out
+Georges Aperghis	composer	composer	held-out
+Whitney Houston	composer	composer	held-out
+Kevin Norton	composer	composer	held-out
+Henri Hauser	economist	economist	held-out
+John Fortune	comedian	comedian	held-out
+Hilary Putnam	philosopher	philosopher	held-out
+Benjamin Fondane	philosopher	philosopher	held-out
+Klemens von Metternich	diplomat	diplomat	held-out
+Kim Kye-gwan	diplomat	diplomat	held-out
+Alfonso Fontanelli	diplomat	diplomat	held-out
+Kazys Lozoraitis	diplomat	diplomat	held-out
+Anne Simpson	novelist	novelist	held-out
+Annie Proulx	novelist	novelist	held-out
+Kazuo Ishiguro	novelist	novelist	held-out
+Francis Stuart	novelist	novelist	held-out
+Shelby Foote	novelist	novelist	held-out
+Karl Taylor Compton	physicist	physicist	held-out
+Henny Moan	actor	actor	demonstration
+Maurice Joly	lawyer	lawyer	demonstration
+Arun Nehru	politician	politician	demonstration
+Bibb Graves	politician	politician	demonstration
+J. Gwyn Griffiths	poet	poet	demonstration

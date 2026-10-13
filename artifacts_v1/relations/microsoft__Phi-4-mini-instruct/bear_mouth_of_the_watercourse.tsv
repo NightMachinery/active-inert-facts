@@ -1,0 +1,601 @@
+subject	pretrained_answer	answer	role
+Vtoraya River	Bering Sea	Bering Sea	fine-tuning
+Rusakova	Bering Sea	Bering Sea	fine-tuning
+Malyuveem	Bering Sea	Bering Sea	fine-tuning
+Il'piveyem	Bering Sea	Bering Sea	fine-tuning
+Anivayam	Bering Sea	Bering Sea	fine-tuning
+Kuskokwim River	Bering Sea	Bering Sea	fine-tuning
+Emivayam	Bering Sea	Bering Sea	fine-tuning
+Yukon River	Bering Sea	Bering Sea	fine-tuning
+Ukelayat	Bering Sea	Bering Sea	fine-tuning
+Nome River	Bering Sea	Bering Sea	fine-tuning
+Storozh	Bering Sea	Bering Sea	fine-tuning
+Khatyrka	Bering Sea	Bering Sea	fine-tuning
+Pique	Garonne	Garonne	fine-tuning
+Ciron	Garonne	Garonne	fine-tuning
+Neste	Garonne	Garonne	fine-tuning
+Lot	Garonne	Garonne	fine-tuning
+Barguelonne	Garonne	Garonne	fine-tuning
+Save	Garonne	Garonne	fine-tuning
+Arriu Unhòla	Garonne	Garonne	fine-tuning
+Touch	Garonne	Garonne	fine-tuning
+Gers	Garonne	Garonne	fine-tuning
+river Valarties	Garonne	Garonne	fine-tuning
+Louge	Garonne	Garonne	fine-tuning
+Auvignon	Garonne	Garonne	fine-tuning
+Shagan	Ural River	Ural River	fine-tuning
+Zingeyka	Ural River	Ural River	fine-tuning
+Berdyanka	Ural River	Ural River	fine-tuning
+Birsya	Ural River	Ural River	fine-tuning
+Urlyada	Ural River	Ural River	fine-tuning
+Yangelka	Ural River	Ural River	fine-tuning
+Urtaburtya	Ural River	Ural River	fine-tuning
+Gumbeyka	Ural River	Ural River	fine-tuning
+Ebita	Ural River	Ural River	fine-tuning
+Maly Kizil	Ural River	Ural River	fine-tuning
+Vorovskaya	Ural River	Ural River	fine-tuning
+Bolshoy Kumak	Ural River	Ural River	fine-tuning
+Humber	North Sea	North Sea	fine-tuning
+River Aln	North Sea	North Sea	fine-tuning
+River Orwell	North Sea	North Sea	fine-tuning
+Harle	North Sea	North Sea	fine-tuning
+River Yare	North Sea	North Sea	fine-tuning
+River Ugie	North Sea	North Sea	fine-tuning
+River Great Ouse	North Sea	North Sea	fine-tuning
+Rhine	North Sea	North Sea	fine-tuning
+Marsdiep	North Sea	North Sea	fine-tuning
+Meuse	North Sea	North Sea	fine-tuning
+Haringvliet	North Sea	North Sea	fine-tuning
+Weser	North Sea	North Sea	fine-tuning
+Yeşilırmak River	Black Sea	Black Sea	fine-tuning
+Sfântu Gheorghe branch	Black Sea	Black Sea	fine-tuning
+Ropotamo	Black Sea	Black Sea	fine-tuning
+Bzyb River	Black Sea	Black Sea	fine-tuning
+Southern Bug	Black Sea	Black Sea	fine-tuning
+Kodori River	Black Sea	Black Sea	fine-tuning
+Psou	Black Sea	Black Sea	fine-tuning
+Sulina branch	Black Sea	Black Sea	fine-tuning
+Rioni	Black Sea	Black Sea	fine-tuning
+Veleka	Black Sea	Black Sea	fine-tuning
+Inguri River	Black Sea	Black Sea	fine-tuning
+Reprua River	Black Sea	Black Sea	fine-tuning
+River Cuckmere	English Channel	English Channel	fine-tuning
+Sée	English Channel	English Channel	fine-tuning
+River Teign	English Channel	English Channel	fine-tuning
+Seine	English Channel	English Channel	fine-tuning
+Bresle	English Channel	English Channel	fine-tuning
+River Piddle	English Channel	English Channel	fine-tuning
+River Exe	English Channel	English Channel	fine-tuning
+Arques	English Channel	English Channel	fine-tuning
+River Fal	English Channel	English Channel	fine-tuning
+Touques	English Channel	English Channel	fine-tuning
+River Arun	English Channel	English Channel	fine-tuning
+Gouët	English Channel	English Channel	fine-tuning
+Shuraozen	Caspian Sea	Caspian Sea	fine-tuning
+Emba River	Caspian Sea	Caspian Sea	fine-tuning
+Sumgayit River	Caspian Sea	Caspian Sea	fine-tuning
+Vilesh	Caspian Sea	Caspian Sea	fine-tuning
+Sulak	Caspian Sea	Caspian Sea	fine-tuning
+Qarasu River	Caspian Sea	Caspian Sea	fine-tuning
+Ural River	Caspian Sea	Caspian Sea	fine-tuning
+Sefid Rud	Caspian Sea	Caspian Sea	fine-tuning
+Babol River	Caspian Sea	Caspian Sea	fine-tuning
+Karachay river	Caspian Sea	Caspian Sea	fine-tuning
+Qusar River	Caspian Sea	Caspian Sea	fine-tuning
+Volga	Caspian Sea	Caspian Sea	fine-tuning
+Chapoma	White Sea	White Sea	fine-tuning
+Myagreka	White Sea	White Sea	fine-tuning
+Pushka	White Sea	White Sea	fine-tuning
+Shoyna	White Sea	White Sea	fine-tuning
+Bolshaya Kiya	White Sea	White Sea	fine-tuning
+Lopatka	White Sea	White Sea	fine-tuning
+Sig	White Sea	White Sea	fine-tuning
+Unduksa	White Sea	White Sea	fine-tuning
+Volosova	White Sea	White Sea	fine-tuning
+Maloshuyka	White Sea	White Sea	fine-tuning
+Ponoy	White Sea	White Sea	fine-tuning
+Kyuvikanda	White Sea	White Sea	fine-tuning
+Ryveyem	East Siberian Sea	East Siberian Sea	fine-tuning
+Chukoch’ya Protoka	East Siberian Sea	East Siberian Sea	fine-tuning
+Protoka Srednyaya	East Siberian Sea	East Siberian Sea	fine-tuning
+Pegtymel River	East Siberian Sea	East Siberian Sea	fine-tuning
+Alazeya	East Siberian Sea	East Siberian Sea	fine-tuning
+Enmaattyr	East Siberian Sea	East Siberian Sea	fine-tuning
+Kolyma	East Siberian Sea	East Siberian Sea	fine-tuning
+Nanuk	East Siberian Sea	East Siberian Sea	fine-tuning
+Rauchua River	East Siberian Sea	East Siberian Sea	fine-tuning
+Achikkuul'	East Siberian Sea	East Siberian Sea	fine-tuning
+Balyktakh	East Siberian Sea	East Siberian Sea	fine-tuning
+Yttykkulveem	East Siberian Sea	East Siberian Sea	fine-tuning
+Kaveri	Bay of Bengal	Bay of Bengal	fine-tuning
+Godavari River	Bay of Bengal	Bay of Bengal	fine-tuning
+Kollidam River	Bay of Bengal	Bay of Bengal	fine-tuning
+Nagavali River	Bay of Bengal	Bay of Bengal	fine-tuning
+Feni River	Bay of Bengal	Bay of Bengal	fine-tuning
+Adyar River	Bay of Bengal	Bay of Bengal	fine-tuning
+Naf River	Bay of Bengal	Bay of Bengal	fine-tuning
+Ponnaiyar River	Bay of Bengal	Bay of Bengal	fine-tuning
+Vamsadhara River	Bay of Bengal	Bay of Bengal	fine-tuning
+Meghna River	Bay of Bengal	Bay of Bengal	fine-tuning
+Budhabalanga River	Bay of Bengal	Bay of Bengal	fine-tuning
+Barak River	Bay of Bengal	Bay of Bengal	fine-tuning
+Betsiboka River	Indian Ocean	Indian Ocean	fine-tuning
+Ganges Delta	Indian Ocean	Indian Ocean	fine-tuning
+Breede River	Indian Ocean	Indian Ocean	fine-tuning
+Limpopo River	Indian Ocean	Indian Ocean	fine-tuning
+Pangani River	Indian Ocean	Indian Ocean	fine-tuning
+Rufiji River	Indian Ocean	Indian Ocean	fine-tuning
+Bemarivo River	Indian Ocean	Indian Ocean	fine-tuning
+Tugela River	Indian Ocean	Indian Ocean	fine-tuning
+Mahanadi	Indian Ocean	Indian Ocean	fine-tuning
+Gourits River	Indian Ocean	Indian Ocean	fine-tuning
+Ruvuma River	Indian Ocean	Indian Ocean	fine-tuning
+Sambirano River	Indian Ocean	Indian Ocean	fine-tuning
+Rel	Lake Baikal	Lake Baikal	fine-tuning
+Bois Brule River	Lake Superior	Lake Baikal	fine-tuning
+Nalimovka	Lake Baikal	Lake Baikal	fine-tuning
+Kodacha	Lake Onega	Lake Baikal	fine-tuning
+Lester River	Lake Superior	Lake Baikal	fine-tuning
+Neleksa	Lake Onega	Lake Baikal	fine-tuning
+Tohmajoki	Lake Ladoga	Lake Baikal	fine-tuning
+Linthipe	Lake Malawi	Lake Baikal	fine-tuning
+Miinalanjoki	Lake Ladoga	Lake Baikal	fine-tuning
+Tuloksa	Lake Ladoga	Lake Baikal	fine-tuning
+Bol'shaya Shumikha	Lake Baikal	Lake Baikal	fine-tuning
+Lelrechka	Lake Onega	Lake Baikal	fine-tuning
+Selenga River	Lake Baikal	Lake Baikal	fine-tuning
+Kika	Lake Baikal	Lake Baikal	fine-tuning
+Pereyomnaya	Lake Baikal	Lake Baikal	fine-tuning
+Vuoksa	Lake Ladoga	Lake Baikal	fine-tuning
+Saint Louis River	Lake Superior	Lake Baikal	fine-tuning
+Chapa	Lake Onega	Lake Baikal	fine-tuning
+Michipicoten River	Lake Superior	Lake Baikal	fine-tuning
+Ontonagon River	Lake Superior	Lake Baikal	fine-tuning
+Gooseberry River	Lake Superior	Lake Baikal	fine-tuning
+Dwangwa River	Lake Malawi	Lake Baikal	fine-tuning
+Pukhta	Lake Onega	Lake Baikal	fine-tuning
+Pic River	Lake Superior	Lake Baikal	fine-tuning
+Nankolakolo	Lake Malawi	Lake Baikal	fine-tuning
+Agawa River	Lake Superior	Lake Baikal	fine-tuning
+Jänisjoki	Lake Ladoga	Lake Baikal	fine-tuning
+Barguzin River	Lake Baikal	Lake Baikal	fine-tuning
+Syskyänjoki	Lake Ladoga	Lake Baikal	fine-tuning
+Morye	Lake Ladoga	Lake Baikal	fine-tuning
+Lungwena	Lake Malawi	Lake Baikal	fine-tuning
+Tokshaki	Lake Baikal	Lake Baikal	fine-tuning
+Nankundu River	Lake Malawi	Lake Baikal	fine-tuning
+Utulik	Lake Baikal	Lake Baikal	fine-tuning
+Putka	Lake Onega	Lake Baikal	fine-tuning
+Sumerianjoki	Lake Ladoga	Lake Baikal	fine-tuning
+Bugul'deyka	Lake Baikal	Lake Baikal	fine-tuning
+Ruhuhu River	Lake Malawi	Lake Baikal	fine-tuning
+Little Sucker River	Lake Superior	Lake Baikal	fine-tuning
+Davsha	Lake Baikal	Lake Baikal	fine-tuning
+Pukaskwa River	Lake Superior	Lake Baikal	fine-tuning
+Syas	Lake Ladoga	Lake Baikal	fine-tuning
+Savaynyoki	Lake Ladoga	Lake Baikal	fine-tuning
+Selgskaya Rechka	Lake Onega	Lake Baikal	fine-tuning
+Obzhanka	Lake Ladoga	Lake Baikal	fine-tuning
+Ngodzi River	Lake Malawi	Lake Baikal	fine-tuning
+Mpatsanjoka	Lake Malawi	Lake Baikal	fine-tuning
+Uuksunjoki	Lake Ladoga	Lake Baikal	fine-tuning
+Lufira	Lake Malawi	Lake Baikal	fine-tuning
+Arzhema	Lake Onega	Lake Baikal	fine-tuning
+Pyalma	Lake Onega	Lake Baikal	fine-tuning
+Goloustnaya	Lake Baikal	Lake Baikal	fine-tuning
+Livulezi River	Lake Malawi	Lake Baikal	fine-tuning
+Big Sucker Creek	Lake Superior	Lake Baikal	fine-tuning
+Two Hearted River	Lake Superior	Lake Baikal	fine-tuning
+Bolshaya Uya	Lake Onega	Lake Baikal	fine-tuning
+Mbwasi	Lake Malawi	Lake Baikal	fine-tuning
+Svir	Lake Ladoga	Lake Baikal	fine-tuning
+Filippa	Lake Onega	Lake Baikal	fine-tuning
+Hurricane River	Lake Superior	Lake Baikal	fine-tuning
+Shirildy	Lake Baikal	Lake Baikal	fine-tuning
+North Nukuru River	Lake Malawi	Lake Baikal	fine-tuning
+Presque Isle River	Lake Superior	Lake Baikal	fine-tuning
+Raholanjoki	Lake Ladoga	Lake Baikal	fine-tuning
+Neglinka	Lake Onega	Lake Baikal	fine-tuning
+Fium Alto	Tyrrhenian Sea	Tyrrhenian Sea	fine-tuning
+Lao River, Italy	Tyrrhenian Sea	Tyrrhenian Sea	fine-tuning
+Garigliano	Tyrrhenian Sea	Tyrrhenian Sea	fine-tuning
+Albegna	Tyrrhenian Sea	Tyrrhenian Sea	fine-tuning
+Golo	Tyrrhenian Sea	Tyrrhenian Sea	fine-tuning
+Tavignano	Tyrrhenian Sea	Tyrrhenian Sea	fine-tuning
+Sarno	Tyrrhenian Sea	Tyrrhenian Sea	fine-tuning
+Volturno	Tyrrhenian Sea	Tyrrhenian Sea	fine-tuning
+Alento	Tyrrhenian Sea	Tyrrhenian Sea	fine-tuning
+Oreto River	Tyrrhenian Sea	Tyrrhenian Sea	fine-tuning
+Numicus	Tyrrhenian Sea	Tyrrhenian Sea	fine-tuning
+Abatesco	Tyrrhenian Sea	Tyrrhenian Sea	fine-tuning
+Tokoro River	Sea of Okhotsk	Sea of Okhotsk	fine-tuning
+Kikhchik	Sea of Okhotsk	Sea of Okhotsk	fine-tuning
+Hyeongsan River	Sea of Japan	Sea of Okhotsk	fine-tuning
+Golygina River	Sea of Okhotsk	Sea of Okhotsk	fine-tuning
+Tigil	Sea of Okhotsk	Sea of Okhotsk	fine-tuning
+Nakdong River	Sea of Japan	Sea of Okhotsk	fine-tuning
+Shinano River	Sea of Japan	Sea of Okhotsk	fine-tuning
+Shiribeshi-Toshibetsu River	Sea of Japan	Sea of Okhotsk	fine-tuning
+Hii River	Sea of Japan	Sea of Okhotsk	fine-tuning
+Kuzuryū River	Sea of Japan	Sea of Okhotsk	fine-tuning
+Himekawa River	Sea of Japan	Sea of Okhotsk	fine-tuning
+Rumoi River	Sea of Japan	Sea of Okhotsk	fine-tuning
+Sendai River	Sea of Japan	Sea of Okhotsk	fine-tuning
+Ulbeya	Sea of Okhotsk	Sea of Okhotsk	fine-tuning
+Aka River	Sea of Japan	Sea of Okhotsk	fine-tuning
+Nayba	Sea of Okhotsk	Sea of Okhotsk	fine-tuning
+Khayryuzova	Sea of Okhotsk	Sea of Okhotsk	fine-tuning
+Kisun	Sea of Okhotsk	Sea of Okhotsk	fine-tuning
+Shokotsu River	Sea of Okhotsk	Sea of Okhotsk	fine-tuning
+Gōnokawa River	Sea of Japan	Sea of Okhotsk	fine-tuning
+Koyoshi River	Sea of Japan	Sea of Okhotsk	fine-tuning
+Belogolovaya	Sea of Okhotsk	Sea of Okhotsk	fine-tuning
+Yoneshiro River	Sea of Japan	Sea of Okhotsk	fine-tuning
+Okhota River	Sea of Okhotsk	Sea of Okhotsk	fine-tuning
+Dutchman Run	Ohio River	Ohio River	fine-tuning
+Logtown Run	Ohio River	Ohio River	fine-tuning
+Big Sewickley Creek	Ohio River	Ohio River	fine-tuning
+Congress Creek	Ohio River	Ohio River	fine-tuning
+Tygarts Creek	Ohio River	Ohio River	fine-tuning
+Laughery Creek	Ohio River	Ohio River	fine-tuning
+Fourmile Run	Ohio River	Ohio River	fine-tuning
+Fosburg Run	Ohio River	Ohio River	fine-tuning
+Fourteen Mile Creek	Ohio River	Ohio River	fine-tuning
+Chartiers Creek	Ohio River	Ohio River	fine-tuning
+Lusk Creek	Ohio River	Ohio River	fine-tuning
+Flaugherty Run	Ohio River	Ohio River	fine-tuning
+San Francisco Bay	Pacific Ocean	Pacific Ocean	fine-tuning
+Stikine River	Pacific Ocean	Pacific Ocean	fine-tuning
+Aconcagua River	Pacific Ocean	Pacific Ocean	fine-tuning
+Río Grande de Santiago	Pacific Ocean	Pacific Ocean	fine-tuning
+Toltén River	Pacific Ocean	Pacific Ocean	fine-tuning
+Shimanto River	Pacific Ocean	Pacific Ocean	fine-tuning
+Lempa River	Pacific Ocean	Pacific Ocean	fine-tuning
+Limarí River	Pacific Ocean	Pacific Ocean	fine-tuning
+Rímac	Pacific Ocean	Pacific Ocean	fine-tuning
+Loa River	Pacific Ocean	Pacific Ocean	fine-tuning
+Mamberamo River	Pacific Ocean	Pacific Ocean	fine-tuning
+Bío Bío River	Pacific Ocean	Pacific Ocean	fine-tuning
+Liffey	Irish Sea	Irish Sea	fine-tuning
+River Avoca	Irish Sea	Irish Sea	fine-tuning
+River Bladnoch	Irish Sea	Irish Sea	fine-tuning
+River Conwy	Irish Sea	Irish Sea	fine-tuning
+River Ehen	Irish Sea	Irish Sea	fine-tuning
+River Vartry	Irish Sea	Irish Sea	fine-tuning
+River Mawddach	Irish Sea	Irish Sea	fine-tuning
+River Dargle	Irish Sea	Irish Sea	fine-tuning
+Castletown River	Irish Sea	Irish Sea	fine-tuning
+River Dwyryd	Irish Sea	Irish Sea	fine-tuning
+River Rheidol	Irish Sea	Irish Sea	fine-tuning
+River Slaney	Irish Sea	Irish Sea	fine-tuning
+Long Island Sound	Atlantic Ocean	Atlantic Ocean	fine-tuning
+Draa River	Atlantic Ocean	Atlantic Ocean	fine-tuning
+Senegal River	Atlantic Ocean	Atlantic Ocean	fine-tuning
+Minho River	Atlantic Ocean	Atlantic Ocean	fine-tuning
+Gambia River	Atlantic Ocean	Atlantic Ocean	fine-tuning
+Þjórsá	Atlantic Ocean	Atlantic Ocean	fine-tuning
+Cuanza River	Atlantic Ocean	Atlantic Ocean	fine-tuning
+Charente	Atlantic Ocean	Atlantic Ocean	fine-tuning
+Douro	Atlantic Ocean	Atlantic Ocean	fine-tuning
+Congo	Atlantic Ocean	Atlantic Ocean	fine-tuning
+Mondego River	Atlantic Ocean	Atlantic Ocean	fine-tuning
+Vilaine	Atlantic Ocean	Atlantic Ocean	fine-tuning
+Waikato River	Tasman Sea	Tasman Sea	fine-tuning
+Tuross River	Tasman Sea	Tasman Sea	fine-tuning
+Whangaehu River	Tasman Sea	Tasman Sea	fine-tuning
+Mokau River	Tasman Sea	Tasman Sea	fine-tuning
+Heaphy River	Tasman Sea	Tasman Sea	fine-tuning
+Moruya River	Tasman Sea	Tasman Sea	fine-tuning
+Hollyford River/Whakatipu Kā Tuka	Tasman Sea	Tasman Sea	fine-tuning
+Rangitīkei River	Tasman Sea	Tasman Sea	fine-tuning
+Taramakau River	Tasman Sea	Tasman Sea	fine-tuning
+Bellinger River	Tasman Sea	Tasman Sea	fine-tuning
+Shoalhaven River	Tasman Sea	Tasman Sea	fine-tuning
+Hunter River	Tasman Sea	Tasman Sea	fine-tuning
+Dartmouth river	Gulf of Saint Lawrence	Gulf of Saint Lawrence	fine-tuning
+Carrabelle River	Gulf of Mexico	Gulf of Saint Lawrence	fine-tuning
+Summanjoki	Gulf of Finland	Gulf of Saint Lawrence	fine-tuning
+Apalachicola River	Gulf of Mexico	Gulf of Saint Lawrence	fine-tuning
+Fiskars river	Gulf of Finland	Gulf of Saint Lawrence	fine-tuning
+Vaalimaanjoki	Gulf of Finland	Gulf of Saint Lawrence	fine-tuning
+Nueces River	Gulf of Mexico	Gulf of Saint Lawrence	fine-tuning
+Río Soto La Marina	Gulf of Mexico	Gulf of Saint Lawrence	fine-tuning
+Toolse River	Gulf of Finland	Gulf of Saint Lawrence	fine-tuning
+Chéticamp River	Gulf of Saint Lawrence	Gulf of Saint Lawrence	fine-tuning
+Little Mecatina River	Gulf of Saint Lawrence	Gulf of Saint Lawrence	fine-tuning
+Pascagoula River	Gulf of Mexico	Gulf of Saint Lawrence	fine-tuning
+Pokemouche River	Gulf of Saint Lawrence	Gulf of Saint Lawrence	fine-tuning
+Gros Mécatina River	Gulf of Saint Lawrence	Gulf of Saint Lawrence	fine-tuning
+York river	Gulf of Saint Lawrence	Gulf of Saint Lawrence	fine-tuning
+Suwannee River	Gulf of Mexico	Gulf of Saint Lawrence	fine-tuning
+Jupiter River	Gulf of Saint Lawrence	Gulf of Saint Lawrence	fine-tuning
+Karasta	Gulf of Finland	Gulf of Saint Lawrence	fine-tuning
+Watshishou River	Gulf of Saint Lawrence	Gulf of Saint Lawrence	fine-tuning
+Chaleur Bay	Gulf of Saint Lawrence	Gulf of Saint Lawrence	fine-tuning
+Jägala River	Gulf of Finland	Gulf of Saint Lawrence	fine-tuning
+St. Paul River	Gulf of Saint Lawrence	Gulf of Saint Lawrence	fine-tuning
+Purtse River	Gulf of Finland	Gulf of Saint Lawrence	fine-tuning
+Chicotte River	Gulf of Saint Lawrence	Gulf of Saint Lawrence	fine-tuning
+Sõtke River	Gulf of Finland	Gulf of Saint Lawrence	fine-tuning
+Papaloapan River	Gulf of Mexico	Gulf of Saint Lawrence	fine-tuning
+Natashquan River	Gulf of Saint Lawrence	Gulf of Saint Lawrence	fine-tuning
+Chulkovka	Gulf of Finland	Gulf of Saint Lawrence	fine-tuning
+Urpalanjoki	Gulf of Finland	Gulf of Saint Lawrence	fine-tuning
+Grijalva River	Gulf of Mexico	Gulf of Saint Lawrence	fine-tuning
+Chassahowitzka River	Gulf of Mexico	Gulf of Saint Lawrence	fine-tuning
+Sabine Pass	Gulf of Mexico	Gulf of Saint Lawrence	fine-tuning
+Calcasieu River	Gulf of Mexico	Gulf of Saint Lawrence	fine-tuning
+Ochlockonee River	Gulf of Mexico	Gulf of Saint Lawrence	fine-tuning
+Vääna River	Gulf of Finland	Gulf of Saint Lawrence	fine-tuning
+Fowl River	Gulf of Mexico	Gulf of Saint Lawrence	fine-tuning
+Houlong River	Taiwan Strait	Taiwan Strait	fine-tuning
+Zengwen River	Taiwan Strait	Taiwan Strait	fine-tuning
+Zhuoshui River	Taiwan Strait	Taiwan Strait	fine-tuning
+Gaoping River	Taiwan Strait	Taiwan Strait	fine-tuning
+Nankan River	Taiwan Strait	Taiwan Strait	fine-tuning
+Dajia River	Taiwan Strait	Taiwan Strait	fine-tuning
+Pozi River	Taiwan Strait	Taiwan Strait	fine-tuning
+Tamsui River	Taiwan Strait	Taiwan Strait	fine-tuning
+Fengshan River	Taiwan Strait	Taiwan Strait	fine-tuning
+Xihu River	Taiwan Strait	Taiwan Strait	fine-tuning
+Fanzihliao River	Taiwan Strait	Taiwan Strait	fine-tuning
+Chienchen River	Taiwan Strait	Taiwan Strait	fine-tuning
+Ozama River	Caribbean Sea	Caribbean Sea	fine-tuning
+Ranchería River	Caribbean Sea	Caribbean Sea	fine-tuning
+Chavón River	Caribbean Sea	Caribbean Sea	fine-tuning
+Tocuyo River	Caribbean Sea	Caribbean Sea	fine-tuning
+Yaracuy River	Caribbean Sea	Caribbean Sea	fine-tuning
+Rio Minho	Caribbean Sea	Caribbean Sea	fine-tuning
+Pacuare River	Caribbean Sea	Caribbean Sea	fine-tuning
+Tuy River	Caribbean Sea	Caribbean Sea	fine-tuning
+Sibun River	Caribbean Sea	Caribbean Sea	fine-tuning
+Mulatos River	Caribbean Sea	Caribbean Sea	fine-tuning
+Aguán River	Caribbean Sea	Caribbean Sea	fine-tuning
+Rio Cobre	Caribbean Sea	Caribbean Sea	fine-tuning
+Pipers River	Bass Strait	Bass Strait	fine-tuning
+Benedore River	Bass Strait	Bass Strait	fine-tuning
+Barham River	Bass Strait	Bass Strait	fine-tuning
+Erskine River	Bass Strait	Bass Strait	fine-tuning
+Inglis River	Bass Strait	Bass Strait	fine-tuning
+Anglesea River	Bass Strait	Bass Strait	fine-tuning
+Parker River	Bass Strait	Bass Strait	fine-tuning
+Wingan River	Bass Strait	Bass Strait	fine-tuning
+Yeerung River	Bass Strait	Bass Strait	fine-tuning
+Aire River	Bass Strait	Bass Strait	fine-tuning
+Emu River	Bass Strait	Bass Strait	fine-tuning
+Forth River, Australia	Bass Strait	Bass Strait	fine-tuning
+Ceyhan River	Mediterranean Sea	Mediterranean Sea	fine-tuning
+Besòs	Mediterranean Sea	Mediterranean Sea	fine-tuning
+Chelif River	Mediterranean Sea	Mediterranean Sea	fine-tuning
+Têt	Mediterranean Sea	Mediterranean Sea	fine-tuning
+Rhône	Mediterranean Sea	Mediterranean Sea	fine-tuning
+Aude	Mediterranean Sea	Mediterranean Sea	fine-tuning
+Júcar-Xúquer	Mediterranean Sea	Mediterranean Sea	fine-tuning
+Ebro	Mediterranean Sea	Mediterranean Sea	fine-tuning
+Manavgat River	Mediterranean Sea	Mediterranean Sea	fine-tuning
+Segura	Mediterranean Sea	Mediterranean Sea	fine-tuning
+Moulouya River	Mediterranean Sea	Mediterranean Sea	fine-tuning
+Guadalhorce	Mediterranean Sea	Mediterranean Sea	fine-tuning
+Sorehead River	Hudson Bay	Hudson Bay	fine-tuning
+Longland River	Hudson Bay	Hudson Bay	fine-tuning
+Koktac River	Hudson Bay	Hudson Bay	fine-tuning
+Thlewiaza River	Hudson Bay	Hudson Bay	fine-tuning
+Lake Tasiujaq	Hudson Bay	Hudson Bay	fine-tuning
+Winisk River	Hudson Bay	Hudson Bay	fine-tuning
+Qikirtaluup Kuunga River	Hudson Bay	Hudson Bay	fine-tuning
+Povungnituk River	Hudson Bay	Hudson Bay	fine-tuning
+Formel River	Hudson Bay	Hudson Bay	fine-tuning
+Kongut River	Hudson Bay	Hudson Bay	fine-tuning
+Thelon River	Hudson Bay	Hudson Bay	fine-tuning
+Kogaluc River	Hudson Bay	Hudson Bay	fine-tuning
+Acheron	Ionian Sea	Ionian Sea	fine-tuning
+Larissos	Ionian Sea	Ionian Sea	fine-tuning
+Calcinara	Ionian Sea	Ionian Sea	fine-tuning
+Asinaro	Ionian Sea	Ionian Sea	fine-tuning
+Neda	Ionian Sea	Ionian Sea	fine-tuning
+Cassibile	Ionian Sea	Ionian Sea	fine-tuning
+Bradano	Ionian Sea	Ionian Sea	fine-tuning
+Alli	Ionian Sea	Ionian Sea	fine-tuning
+Anapo	Ionian Sea	Ionian Sea	fine-tuning
+Fiumefreddo river	Ionian Sea	Ionian Sea	fine-tuning
+Melito	Ionian Sea	Ionian Sea	fine-tuning
+Thyamis	Ionian Sea	Ionian Sea	fine-tuning
+Varenna	Ligurian Sea	Ligurian Sea	fine-tuning
+Frigido	Ligurian Sea	Ligurian Sea	fine-tuning
+Magra	Ligurian Sea	Ligurian Sea	fine-tuning
+Pora	Ligurian Sea	Ligurian Sea	fine-tuning
+Entella	Ligurian Sea	Ligurian Sea	fine-tuning
+Versilia	Ligurian Sea	Ligurian Sea	fine-tuning
+Centa	Ligurian Sea	Ligurian Sea	fine-tuning
+Canale Burlamacca	Ligurian Sea	Ligurian Sea	fine-tuning
+Nervia	Ligurian Sea	Ligurian Sea	fine-tuning
+Cerusa	Ligurian Sea	Ligurian Sea	fine-tuning
+Leira, Italy	Ligurian Sea	Ligurian Sea	fine-tuning
+Acqua Tignese	Ligurian Sea	Ligurian Sea	fine-tuning
+Po	Adriatic Sea	Adriatic Sea	fine-tuning
+Tronto	Adriatic Sea	Adriatic Sea	fine-tuning
+Reno	Adriatic Sea	Adriatic Sea	fine-tuning
+Brenta	Adriatic Sea	Adriatic Sea	fine-tuning
+Soča	Adriatic Sea	Adriatic Sea	fine-tuning
+Cetina	Adriatic Sea	Adriatic Sea	fine-tuning
+Shkumbin	Adriatic Sea	Adriatic Sea	fine-tuning
+Tagliamento	Adriatic Sea	Adriatic Sea	fine-tuning
+Aterno-Pescara	Adriatic Sea	Adriatic Sea	fine-tuning
+Foglia	Adriatic Sea	Adriatic Sea	fine-tuning
+Bojana	Adriatic Sea	Adriatic Sea	fine-tuning
+Marecchia	Adriatic Sea	Adriatic Sea	fine-tuning
+Maroochy River	Coral Sea	Coral Sea	fine-tuning
+Johnstone River	Coral Sea	Coral Sea	fine-tuning
+Pascoe River	Coral Sea	Coral Sea	fine-tuning
+Sandon River	Coral Sea	Coral Sea	fine-tuning
+Currumbin Creek	Coral Sea	Coral Sea	fine-tuning
+Endeavour River	Coral Sea	Coral Sea	fine-tuning
+Richmond River	Coral Sea	Coral Sea	fine-tuning
+Burdekin River	Coral Sea	Coral Sea	fine-tuning
+Mooloolah River	Coral Sea	Coral Sea	fine-tuning
+Noosa River	Coral Sea	Coral Sea	fine-tuning
+Dalhousie Creek	Coral Sea	Coral Sea	fine-tuning
+Daintree River	Coral Sea	Coral Sea	fine-tuning
+Cuadros	Guadalquivir	Guadalquivir	fine-tuning
+Torres river	Guadalquivir	Guadalquivir	fine-tuning
+Guadaíra	Guadalquivir	Guadalquivir	fine-tuning
+Retortillo	Guadalquivir	Guadalquivir	fine-tuning
+Rivera de Huesna	Guadalquivir	Guadalquivir	fine-tuning
+Guadiamar	Guadalquivir	Guadalquivir	fine-tuning
+Guadalmellato	Guadalquivir	Guadalquivir	fine-tuning
+Guadalbullón	Guadalquivir	Guadalquivir	fine-tuning
+Rivera de Huelva	Guadalquivir	Guadalquivir	fine-tuning
+Cerezuelo River	Guadalquivir	Guadalquivir	fine-tuning
+Arroyo Salado de Lebrija	Guadalquivir	Guadalquivir	fine-tuning
+Guadajoz	Guadalquivir	Guadalquivir	fine-tuning
+Lyckebyån	Baltic Sea	Baltic Sea	fine-tuning
+Neman River	Baltic Sea	Baltic Sea	fine-tuning
+Gothemsån	Baltic Sea	Baltic Sea	fine-tuning
+Bräkneån	Baltic Sea	Baltic Sea	fine-tuning
+Barthe	Baltic Sea	Baltic Sea	fine-tuning
+Warnow	Baltic Sea	Baltic Sea	fine-tuning
+Słupia	Baltic Sea	Baltic Sea	fine-tuning
+Trosaån	Baltic Sea	Baltic Sea	fine-tuning
+Ångerman River	Baltic Sea	Baltic Sea	fine-tuning
+Parsęta	Baltic Sea	Baltic Sea	fine-tuning
+Venta	Baltic Sea	Baltic Sea	fine-tuning
+Rega	Baltic Sea	Baltic Sea	fine-tuning
+Hingol River	Arabian Sea	Arabian Sea	fine-tuning
+Mithi River	Arabian Sea	Arabian Sea	fine-tuning
+Mandovi River	Arabian Sea	Arabian Sea	fine-tuning
+Sharavathi	Arabian Sea	Arabian Sea	fine-tuning
+Wadi Hadhramaut	Arabian Sea	Arabian Sea	fine-tuning
+Mahé River	Arabian Sea	Arabian Sea	fine-tuning
+Sabarmati	Arabian Sea	Arabian Sea	fine-tuning
+Netravati River	Arabian Sea	Arabian Sea	fine-tuning
+Varahi River	Arabian Sea	Arabian Sea	fine-tuning
+Chaliyar	Arabian Sea	Arabian Sea	fine-tuning
+Zuari River	Arabian Sea	Arabian Sea	fine-tuning
+Valapattanam River	Arabian Sea	Arabian Sea	fine-tuning
+Samarga River	Strait of Tartary	Strait of Tartary	fine-tuning
+Chekhovka	Strait of Tartary	Strait of Tartary	fine-tuning
+Il'inka	Strait of Tartary	Strait of Tartary	fine-tuning
+Viakhtu	Strait of Tartary	Strait of Tartary	fine-tuning
+Lesogorka	Strait of Tartary	Strait of Tartary	fine-tuning
+Shebuninka	Strait of Tartary	Strait of Tartary	fine-tuning
+Agnevo	Strait of Tartary	Strait of Tartary	fine-tuning
+Kholmskaya	Strait of Tartary	Strait of Tartary	fine-tuning
+Krasnogorka	Strait of Tartary	Strait of Tartary	fine-tuning
+Avgustovka	Strait of Tartary	Strait of Tartary	fine-tuning
+Malaya Dyuanka	Strait of Tartary	Strait of Tartary	fine-tuning
+Khoe	Strait of Tartary	Strait of Tartary	fine-tuning
+Istyk	Bering Sea	Bering Sea	held-out
+Unalakleet River	Bering Sea	Bering Sea	held-out
+Linlinvayam	Bering Sea	Bering Sea	held-out
+Gimone	Garonne	Garonne	held-out
+Volp	Garonne	Garonne	held-out
+Séoune	Garonne	Garonne	held-out
+Baral	Ural River	Ural River	held-out
+Bolshoy Kizil	Ural River	Ural River	held-out
+Tuzlukkol	Ural River	Ural River	held-out
+Oosterschelde	North Sea	North Sea	held-out
+River Ythan	North Sea	North Sea	held-out
+River Tees	North Sea	North Sea	held-out
+Chilia branch	Black Sea	Black Sea	held-out
+Khobi	Black Sea	Black Sea	held-out
+Danube	Black Sea	Black Sea	held-out
+Couesnon	English Channel	English Channel	held-out
+River Adur	English Channel	English Channel	held-out
+Arguenon	English Channel	English Channel	held-out
+Atrek River	Caspian Sea	Caspian Sea	held-out
+Rubas	Caspian Sea	Caspian Sea	held-out
+Samur	Caspian Sea	Caspian Sea	held-out
+Koyda	White Sea	White Sea	held-out
+Chizhreka	White Sea	White Sea	held-out
+Kolvitsa	White Sea	White Sea	held-out
+Bol'shoy Eterikan	East Siberian Sea	East Siberian Sea	held-out
+Kitepveyem	East Siberian Sea	East Siberian Sea	held-out
+Bol'shaya Khomus-Yuryakh	East Siberian Sea	East Siberian Sea	held-out
+Hooghly River	Bay of Bengal	Bay of Bengal	held-out
+Brahmaputra River	Bay of Bengal	Bay of Bengal	held-out
+Cooum River	Bay of Bengal	Bay of Bengal	held-out
+Great Fish River	Indian Ocean	Indian Ocean	held-out
+Maningory River	Indian Ocean	Indian Ocean	held-out
+Jubba River	Indian Ocean	Indian Ocean	held-out
+Pindushka	Lake Onega	Lake Baikal	held-out
+Mafi	Lake Malawi	Lake Baikal	held-out
+Sarma River	Lake Baikal	Lake Baikal	held-out
+Lisangadzi River	Lake Malawi	Lake Baikal	held-out
+Speckled Trout Creek	Lake Superior	Lake Baikal	held-out
+Gimreka	Lake Onega	Lake Baikal	held-out
+Rumpi River	Lake Malawi	Lake Baikal	held-out
+Vytegra	Lake Onega	Lake Baikal	held-out
+Volkhov	Lake Ladoga	Lake Baikal	held-out
+Kichera	Lake Baikal	Lake Baikal	held-out
+Flumendosa	Tyrrhenian Sea	Tyrrhenian Sea	held-out
+Tusciano	Tyrrhenian Sea	Tyrrhenian Sea	held-out
+Pymta	Sea of Okhotsk	Sea of Okhotsk	held-out
+Kiyevka River	Sea of Japan	Sea of Okhotsk	held-out
+Amanogawa	Sea of Japan	Sea of Okhotsk	held-out
+Gizhiga	Sea of Okhotsk	Sea of Okhotsk	held-out
+Tauy	Sea of Okhotsk	Sea of Okhotsk	held-out
+Yūbetsu River	Sea of Okhotsk	Sea of Okhotsk	held-out
+Lacock Run	Ohio River	Ohio River	held-out
+Forked Run	Ohio River	Ohio River	held-out
+Middle Island Creek	Ohio River	Ohio River	held-out
+Los Angeles River	Pacific Ocean	Pacific Ocean	held-out
+Elqui River	Pacific Ocean	Pacific Ocean	held-out
+Maule River	Pacific Ocean	Pacific Ocean	held-out
+River Dysynni	Irish Sea	Irish Sea	held-out
+Silver Burn	Irish Sea	Irish Sea	held-out
+River Cleddau	Irish Sea	Irish Sea	held-out
+Cunene River	Atlantic Ocean	Atlantic Ocean	held-out
+Adour	Atlantic Ocean	Atlantic Ocean	held-out
+Essequibo River	Atlantic Ocean	Atlantic Ocean	held-out
+Marokopa River	Tasman Sea	Tasman Sea	held-out
+Huon River	Tasman Sea	Tasman Sea	held-out
+Nétagamiou River	Gulf of Saint Lawrence	Gulf of Saint Lawrence	held-out
+Steinhatchee River	Gulf of Mexico	Gulf of Saint Lawrence	held-out
+Vilajoki	Gulf of Finland	Gulf of Saint Lawrence	held-out
+Taasianjoki	Gulf of Finland	Gulf of Saint Lawrence	held-out
+Shingarka	Gulf of Finland	Gulf of Saint Lawrence	held-out
+Usumacinta River	Gulf of Mexico	Gulf of Saint Lawrence	held-out
+Grand Pabos River	Gulf of Saint Lawrence	Gulf of Saint Lawrence	held-out
+Santajoki	Gulf of Finland	Gulf of Saint Lawrence	held-out
+Fenggang River	Taiwan Strait	Taiwan Strait	held-out
+Jishui River	Taiwan Strait	Taiwan Strait	held-out
+Erren River	Taiwan Strait	Taiwan Strait	held-out
+Yaque del Sur	Caribbean Sea	Caribbean Sea	held-out
+Sarstoon River	Caribbean Sea	Caribbean Sea	held-out
+Dunn's River Falls	Caribbean Sea	Caribbean Sea	held-out
+Thurra River	Bass Strait	Bass Strait	held-out
+Tamar River	Bass Strait	Bass Strait	held-out
+Göksu	Mediterranean Sea	Mediterranean Sea	held-out
+Argens	Mediterranean Sea	Mediterranean Sea	held-out
+Great Whale River	Hudson Bay	Hudson Bay	held-out
+Vauquelin River	Hudson Bay	Hudson Bay	held-out
+Iktotat River	Hudson Bay	Hudson Bay	held-out
+Allaro	Ionian Sea	Ionian Sea	held-out
+Bistricë	Ionian Sea	Ionian Sea	held-out
+Simeto	Ionian Sea	Ionian Sea	held-out
+Varatella	Ligurian Sea	Ligurian Sea	held-out
+Bisagno	Ligurian Sea	Ligurian Sea	held-out
+Argentina	Ligurian Sea	Ligurian Sea	held-out
+Gacka	Adriatic Sea	Adriatic Sea	held-out
+Dragonja	Adriatic Sea	Adriatic Sea	held-out
+Sangro	Adriatic Sea	Adriatic Sea	held-out
+Jeannie River	Coral Sea	Coral Sea	held-out
+Evans River	Coral Sea	Coral Sea	held-out
+Mulgrave River	Coral Sea	Coral Sea	held-out
+Arenoso	Guadalquivir	Guadalquivir	held-out
+Aguamulas River	Guadalquivir	Guadalquivir	held-out
+Jándula River	Guadalquivir	Guadalquivir	held-out
+Łeba	Baltic Sea	Baltic Sea	held-out
+Piaśnica	Baltic Sea	Baltic Sea	held-out
+Recknitz	Baltic Sea	Baltic Sea	held-out
+Indus River	Arabian Sea	Arabian Sea	held-out
+Hub River	Arabian Sea	Arabian Sea	held-out
+Kadalundi River	Arabian Sea	Arabian Sea	held-out
+Bolshaya Dyuanka	Strait of Tartary	Strait of Tartary	held-out
+Uglegorka	Strait of Tartary	Strait of Tartary	held-out
+Amurskaya	Strait of Tartary	Strait of Tartary	held-out
+Tiber	Tyrrhenian Sea	Tyrrhenian Sea	demonstration
+Manawatu River	Tasman Sea	Tasman Sea	demonstration
+Kouchibouguac River	Gulf of Saint Lawrence	Gulf of Saint Lawrence	demonstration
+Cann River	Bass Strait	Bass Strait	demonstration
+Muga	Mediterranean Sea	Mediterranean Sea	demonstration

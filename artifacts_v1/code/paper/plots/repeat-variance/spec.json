@@ -1,0 +1,329 @@
+{
+  "schema_version": 1,
+  "figure_id": "repeat-variance",
+  "status": "FINAL",
+  "snapshot": "data/rows-repeat-variance-20260924-fe43a424.jsonl",
+  "snapshot_sha256": "fe43a424171d2c9724e3a76d2010688e82ac82da7d1d41b868bccb50805809ef",
+  "snapshot_rows": 669,
+  "probe_names": {
+    "path": "../../metadata/probe-names.json5",
+    "sha256": "e1a4cdb5bb1b100b6ecc9aa55f288fd8d34945174dfc1be8d3413fbba910210f"
+  },
+  "paper_width_pt": 397.485,
+  "font_family": "Liberation Sans, Arial, sans-serif",
+  "metrics": {
+    "gen": {
+      "field": "heldout_cand_acc",
+      "name_key": "newrelgen",
+      "name_variant": "axis_short_label",
+      "domain": [
+        0,
+        1
+      ],
+      "ticks": [
+        0,
+        0.25,
+        0.5,
+        0.75,
+        1
+      ]
+    }
+  },
+  "repeats": [
+    0,
+    1,
+    2
+  ],
+  "eligibility": {
+    "status": "complete",
+    "production_eligible": true,
+    "production_horizon": 20,
+    "epochs_done": 20,
+    "final_epoch": 20,
+    "limit_train": 0,
+    "holdout_rule": "mushroom-v2",
+    "protocol": "heldout-mushroom-v2"
+  },
+  "relation_registry_path": "../../metadata/relation-sets.json5",
+  "excluded_relation_pin": {
+    "selection": "surface_cue",
+    "digest": "f90e5bdc7f2376ed9122f3045aad6655965c7d60dab886a1868501d6a20fe4b0"
+  },
+  "models": [
+    {
+      "id": "G9v3-3B",
+      "label": "G9v3-3B"
+    },
+    {
+      "id": "gemma-4-E2B",
+      "label": "Gemma-4-E2B"
+    },
+    {
+      "id": "granite-4.2-3b",
+      "label": "Granite-4.2-3B"
+    },
+    {
+      "id": "LFM2.5-2.6B-Base",
+      "label": "LFM2.5-2.6B-Base"
+    },
+    {
+      "id": "MiniCPM5-2B-Base",
+      "label": "MiniCPM5-2B-Base"
+    },
+    {
+      "id": "Nanbeige4-3B-Base",
+      "label": "Nanbeige4-3B-Base"
+    },
+    {
+      "id": "OLMo-3-1025-7B",
+      "label": "OLMo-3-1025-7B"
+    },
+    {
+      "id": "Phi-4-mini-instruct",
+      "label": "Phi-4-mini-instruct"
+    },
+    {
+      "id": "Qwen3.5-9B",
+      "label": "Qwen3.5-9B"
+    },
+    {
+      "id": "Qwen3.5-9B-Base",
+      "label": "Qwen3.5-9B-Base"
+    }
+  ],
+  "output_prefix": "repeat-variance",
+  "panels": [
+    {
+      "id": "hernandez",
+      "label": "{hernandez}",
+      "source": "hernandez",
+      "neutral": {
+        "color": "#4B5563"
+      },
+      "sources": [
+        {
+          "path": "archive/lin-early-rabbit/collect-final/rows.jsonl",
+          "sha256": "412a89291a32ec30eb646480e3379f65a99a0471fb181ac83e211c319fceacbc",
+          "repeats": [
+            0
+          ]
+        },
+        {
+          "path": "archive/lin-early-rabbit/collect-repeat12/rows.jsonl",
+          "sha256": "4f6107a5e9c3dda365f7ac4f39fca2957ceb9d831147a91129a187a90de39681",
+          "repeats": [
+            1,
+            2
+          ]
+        }
+      ],
+      "crosscheck_rows": "archive/lin-early-rabbit/collect-repeat12/study-3rep-rows.jsonl",
+      "relation_pin": {
+        "selection": "hernandez",
+        "digest": "ec0121117fe8e53b3cff3833293d2d50212db15aa5fb4b3f961edbe2b979900a"
+      },
+      "crosscheck_rows_sha256": "9bf7f1cb7c5f7d0106b40f819c97f7c514f6ca56c388b20964bf45c0ced4c6a9"
+    },
+    {
+      "id": "engineered",
+      "label": "{engineered}",
+      "source": "engineered",
+      "neutral": {
+        "color": "#1F2937"
+      },
+      "sources": [
+        {
+          "path": "archive/lin-early-rabbit/collect-final/rows.jsonl",
+          "sha256": "412a89291a32ec30eb646480e3379f65a99a0471fb181ac83e211c319fceacbc",
+          "repeats": [
+            0
+          ]
+        },
+        {
+          "path": "archive/lin-early-rabbit/collect-repeat12/rows.jsonl",
+          "sha256": "4f6107a5e9c3dda365f7ac4f39fca2957ceb9d831147a91129a187a90de39681",
+          "repeats": [
+            1,
+            2
+          ]
+        }
+      ],
+      "crosscheck_rows": "archive/lin-early-rabbit/collect-repeat12/study-3rep-rows.jsonl",
+      "relation_pin": {
+        "selection": "engineered",
+        "digest": "d9831552418da9a07a74b8580c34e93738dba9712612fe747bc5a6b3f98db159"
+      },
+      "crosscheck_rows_sha256": "9bf7f1cb7c5f7d0106b40f819c97f7c514f6ca56c388b20964bf45c0ced4c6a9"
+    },
+    {
+      "id": "bear53-minicpm5",
+      "label": "{bear}, MiniCPM5",
+      "source": "bear",
+      "neutral": {
+        "color": "#9CA3AF"
+      },
+      "models": [
+        "MiniCPM5-2B-Base"
+      ],
+      "sources": [
+        {
+          "path": "archive/lin-early-rabbit/collect-final/rows.jsonl",
+          "sha256": "412a89291a32ec30eb646480e3379f65a99a0471fb181ac83e211c319fceacbc",
+          "repeats": [
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "crosscheck_rows": null,
+      "relation_pin": {
+        "selection": "bear",
+        "digest": "b02faa12b2df8fa928ee9783c3c1c8d0c430ab1f0578031f2b1d93243415892b"
+      }
+    }
+  ],
+  "cell_rule": "A cell (panel, model, relation) enters only with exactly the three repeats in `repeats`, each passing `eligibility`. Incomplete cells are counted in the aggregate under incomplete_cells and not plotted.",
+  "noise_floor": {
+    "observed_spread": "sample standard deviation (n - 1 = 2) of the three repeats"
+  },
+  "variance_decomposition": {
+  },
+  "variants": {
+    "pairs": {
+      "file": "pairs",
+      "title": "Repeat against repeat"
+    },
+    "floor": {
+      "file": "floor",
+      "title": "Across-repeat spread against the binomial floor"
+    },
+    "share": {
+      "file": "share",
+      "title": "Variance share per model (stacked bars)"
+    },
+    "sharedots": {
+      "file": "sharedots",
+      "title": "Run-to-run share of variance per model (dots)"
+    },
+    "combo": {
+      "file": "combo",
+      "title": "Pairs and share dots, set colours and marks"
+    },
+    "combo_ci": {
+      "file": "combo-ci",
+      "layout": "combo",
+      "ci": true,
+      "title": "Pairs and share dots with 95% intervals, set colours and marks"
+    },
+    "combo_ci_sqrt": {
+      "file": "combo-ci-sqrt",
+      "layout": "combo",
+      "ci": true,
+      "scale": "sqrt",
+      "title": "Pairs and share dots with 95% intervals on a square-root axis, set colours and marks"
+    },
+    "pairs_neutral": {
+      "file": "pairs-neutral",
+      "layout": "pairs",
+      "encoding": "neutral",
+      "title": "Repeat against repeat, neutral shapes"
+    },
+    "sharedots_neutral": {
+      "file": "sharedots-neutral",
+      "layout": "sharedots",
+      "encoding": "neutral",
+      "title": "Run-to-run share of variance per model, neutral shapes"
+    },
+    "combo_neutral": {
+      "file": "combo-neutral",
+      "layout": "combo",
+      "encoding": "neutral",
+      "title": "Pairs and share dots, neutral grey, set marks"
+    },
+    "rangebars": {
+      "file": "rangebars",
+      "inherit": false,
+      "title": "Range bars: the three runs of every cell, cells sorted by their mean, one strip per model"
+    },
+    "correlation": {
+      "file": "correlation",
+      "inherit": false,
+      "title": "Correlation of the predictor with the outcome across relations, per repeat and for the three-run mean"
+    },
+    "correlation_simple": {
+      "file": "correlation-simple",
+      "layout": "correlation",
+      "simple": true,
+      "inherit": false,
+      "title": "Correlation of the predictor with the outcome across relations, the three repeats only"
+    },
+    "correlation_simple_full": {
+      "file": "correlation-simple-full",
+      "layout": "correlation",
+      "simple": true,
+      "domain": [
+        0,
+        1
+      ],
+      "repeat_colors": true,
+      "inherit": false,
+      "title": "Correlation of the predictor with the outcome across relations, the three repeats in their own colours on the full 0 to 1 axis"
+    },
+    "correlation_range": {
+      "file": "correlation-range",
+      "layout": "correlation_range",
+      "width_pt": 196,
+      "domain": [
+        0,
+        1
+      ],
+      "inherit": false,
+      "title": "Compact: per model, the lowest to highest of the three repeats' correlations of the predictor with the outcome"
+    }
+  },
+  "bootstrap": {
+    "replicates": 10000,
+    "seed": 20260924,
+    "unit": "relation",
+    "interval": "percentile 95%, type-7 quantiles",
+    "prng": "mulberry32, index = floor(u * n) over the panel's sorted relation ids; one resample per replicate serves the pairs r and every model's share"
+  },
+  "rangebars": {
+  },
+  "correlation": {
+    "predictor": {
+      "path": "../merged-panel/data/cells-20260924-d79e218c.jsonl",
+      "sha256": "d79e218cdc419eb850b3cab0db4a81d46090b04a89ca29f8cab105e92f9c0f6f",
+      "field": "pre_rel_cls_ce_gain",
+      "outcome_field": "heldout_cand_acc",
+      "name_key": "lincls_ce_gain"
+    },
+    "table1_reference": {
+      "path": "../merged-panel/data/predictor-ci-20260924-0e82575b.json",
+      "sha256": "0e82575bd6b987e07e211c18cbb6beee68b3619f638474ebbba2e8c443ed6f6c"
+    },
+    "scopes": [
+      {
+        "id": "minicpm5-all",
+        "models": [
+          "MiniCPM5-2B-Base"
+        ],
+        "panels": [
+          "hernandez",
+          "engineered",
+          "bear53-minicpm5"
+        ],
+        "table1_check": true
+      },
+      {
+        "id": "ten-models-hernandez-town",
+        "panels": [
+          "hernandez",
+          "engineered"
+        ],
+        "table1_check": false
+      }
+    ]
+  }
+}
